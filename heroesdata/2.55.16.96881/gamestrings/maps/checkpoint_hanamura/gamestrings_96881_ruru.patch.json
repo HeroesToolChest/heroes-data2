@@ -1,0 +1,292 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Checkpoint: Hanamura"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/DragonsDinner|DragonsDinner|Q",
+    "value": "Время восстановления: 12 сек."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/MercDefenderHealingPulse|MercDefenderHealingPulse|Z",
+    "value": "Время восстановления: 10 сек."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/RingOfFire|RingOfFire|W",
+    "value": "Время восстановления: 5 сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneBrew|B",
+    "value": "Телепортирует вашего героя к алтарю, моментально восполняя весь запас здоровья и отвара."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneNoMana|B",
+    "value": "Телепортирует вашего героя к алтарю, моментально восполняя весь запас здоровья."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|Hearthstone|B",
+    "value": "Телепортирует героя к алтарю, моментально восполняя весь запас здоровья и маны."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/PayloadAttack|Attack|Hidden",
+    "value": "Совершает обычную атаку."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/DragonsDinner|DragonsDinner|Q",
+    "value": "Пир драконов"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercDefenderHealingPulse|MercDefenderHealingPulse|Z",
+    "value": "Заряд исцеления"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/move|Move|Trait",
+    "value": "Двигаться"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/OverwatchMechanicRepair|OverwatchMechanicRepair|Z",
+    "value": "Инженер - ремонт"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/PayloadAttack|Attack|Hidden",
+    "value": "Автоатака"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/RingOfFire|RingOfFire|W",
+    "value": "Энергетическое кольцо"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/PayloadAttack|Attack|Hidden",
+    "value": "Совершает обычные атаки по врагам."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/RingOfFire|RingOfFire|W",
+    "value": "Создает энергетическое кольцо, наносящее урон находящимся внутри него целям."
+  },
+  {
+    "op": "add",
+    "path": "/items/announcer/name/CommodoreFord",
+    "value": "Командор Форд"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostTimePushing",
+    "value": "~AwardValue~% времени матча рядом с грузом"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostTimePushing",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Толкатель,Толкательница</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostTimePushing",
+    "value": "~TooltipAmount~ сек. рядом с грузом"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/BioticEmitter",
+    "value": "Устанавливает биотический излучатель, восполняющий находящимся рядом союзным героям <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c> их максимального запаса здоровья и маны в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> сек."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/DummyTurret",
+    "value": "Устанавливает турель, существующую в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c> сек. и наносящую <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">36</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\"> </c>ед. урона. Максимум зарядов – <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Выносливый наемник с большим запасом здоровья. Атакует в ближнем бою. Принимает на себя атаки вражеских строений при штурме.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser2",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Выносливый наемник с большим запасом здоровья. Атакует в ближнем бою. Принимает на себя атаки вражеских строений при штурме.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser3",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Выносливый наемник с большим запасом здоровья. Атакует в ближнем бою. Принимает на себя атаки вражеских строений при штурме.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeIndividual",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Выносливый наемник с большим запасом здоровья. Атакует в ближнем бою. Принимает на себя атаки вражеских строений при штурме.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/PayloadSpawningWarningUnit",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/JungleGraveGolemDefender",
+    "value": "«Мегаликвидатор»"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/RavenLordTributeWarning",
+    "value": "Груз - появление"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/RegenGlobe",
+    "value": "Медкомплект"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AttackCoreMissile",
+    "value": "Атака цитадели - снаряд"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AttackCoreSourceInvisibleUnit",
+    "value": "Атака цитадели - источник- невидимый объект"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BioticEmitter",
+    "value": "Биотический излучатель"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DragonSpirit",
+    "value": "Призрачный дракон"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DragonSpiritsPickup",
+    "value": "Призрачные драконы (подбираемый объект)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DummyTurret",
+    "value": "Манекен турели"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HealingPulsePickup",
+    "value": "Заряд исцеления (подбираемый объект)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser",
+    "value": "Бандиты"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser2",
+    "value": "Бандиты"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser3",
+    "value": "Бандиты"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeIndividual",
+    "value": "Часовой"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperLaner",
+    "value": "Сапер"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchBossImprisonMissile",
+    "value": "Босс Overwatch - снаряд пленения"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchBossImprisonMissileDummy",
+    "value": "Босс Overwatch - снаряд пленения (манекен)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchMechanic",
+    "value": "Инженер"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchTurret",
+    "value": "Турель"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchTurretPlayer",
+    "value": "Турель (игрок)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Payload",
+    "value": "Груз"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PayloadChaosPath1",
+    "value": "Груз Хаоса - путь 1"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PayloadChaosPath2",
+    "value": "Груз Хаоса - путь 2"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PayloadCheckpointUnit",
+    "value": "Груз - контрольная точка"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PayloadDestinationMinimapIcon",
+    "value": "Пункт назначения"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PayloadDestinationPingTargetUnit",
+    "value": "Пункт назначения груза – проверка выбранной боевой единицы"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PayloadOrderPath1",
+    "value": "Груз Порядка - путь 1"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PayloadOrderPath2",
+    "value": "Груз Порядка - путь 2"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PayloadSpawningWarningUnit",
+    "value": "Груз - появление"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/RegenGlobePrecursor",
+    "value": "Сфера регенерации - предварительное появление"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TurretPickup",
+    "value": "Турель"
+  }
+]

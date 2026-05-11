@@ -1,0 +1,347 @@
+{
+  "meta": {
+    "heroesVersion": "2.55.16.96881",
+    "hdpVersion": "5.0.0",
+    "itemsType": "GameStrings",
+    "dataTypes": [
+      "MapData"
+    ],
+    "gameStringText": {
+      "locale": "PLPL",
+      "textType": "RawText",
+      "constantVars": {
+        "replaced": true,
+        "preserved": true
+      },
+      "styleVars": {
+        "replaced": true,
+        "preserved": true
+      }
+    }
+  },
+  "items": {
+    "map": {
+      "name": {
+        "Alterac Pass": "Przełęcz Alterak",
+        "Battlefield of Eternity": "Pole Bitewne Wieczności",
+        "Blackheart's Bay": "Zatoka Czarnosercego",
+        "Blackheart's Revenge": "Zemsta Czarnosercego",
+        "Braxis Holdout": "Placówka na Braxis",
+        "Braxis Outpost": "Posterunek na Braxis",
+        "Checkpoint: Hanamura": "Punkt Kontrolny: Hanamura",
+        "Cursed Hollow": "Przeklęta Kotlina",
+        "Deadman's Stand": "Bastion Umarlaka",
+        "Deadman's Stand (Heroic)": "Heroiczny Bastion Umarlaka",
+        "Dragon Shire": "Smocze Włości",
+        "Escape From Braxis": "Ucieczka z Braxis",
+        "Escape From Braxis (Heroic)": "Heroiczna Ucieczka z Braxis",
+        "Garden Arena": "Arena Ogrodowa",
+        "Garden of Terror": "Ogród Grozy",
+        "Garden of Terror Classic": "Garden of Terror Classic",
+        "Hanamura Temple": "Świątynia w Hanamurze",
+        "Haunted Mines": "Nawiedzone Kopalnie",
+        "Industrial District": "Dzielnica Przemysłowa",
+        "Infernal Shrines": "Piekielne Kapliczki",
+        "Lost Cavern": "Zaginiona Pieczara",
+        "Lunar Rocket Racing": "Księżycowe Wyścigi Rakietowe",
+        "Pull Party": "Impreza przy Basenie",
+        "Punisher Arena": "Arena Pogromców",
+        "Sandbox (Cursed Hollow)": "Sandbox (Przeklęta Kotlina)",
+        "Sandbox (Volskaya Foundry)": "Sandbox (Odlewnia Volskaya Industries)",
+        "Silver City": "Srebrne Miasto",
+        "Sky Temple": "Podniebna Świątynia",
+        "Snow Brawl": "Bójka na Śnieżki",
+        "Temple Arena": "Arena Świątynna",
+        "Tomb of the Spider Queen": "Grobowiec Pajęczej Królowej",
+        "Towers of Doom": "Wieże Zagłady",
+        "Trial Grounds": "Pola Próby",
+        "Volskaya Foundry": "Odlewnia Volskaya Industries",
+        "Warhead Junction": "Poligon Nuklearny"
+      },
+      "objectiveDescription": {
+        "Alterac Pass": [
+          "Zajmuj wrogie więzienia, aby wezwać sojuszniczą kawalerię. Bohaterowie i stronnicy mogą odbijać więzienia, zatem dobrze ich strzeż!",
+          "Wezwani kawalerzyści szarżują wzdłuż wszystkich alei i zapewniają pobliskim bohaterom sojuszniczym premię do zadawanych obrażeń oraz szybkości ruchu.",
+          "Bazy zostały zastąpione generałami walczącymi z nacierającymi wrogami. Niszczenie twierdz zmniejsza pancerz generała."
+        ],
+        "Battlefield of Eternity": [
+          "Anielski dowódca Ilarian oraz władca demonów Beleth toczą niekończącą się wojnę.",
+          "Wspomóż swojego Nieśmiertelnego w walce z jego odwiecznym przeciwnikiem, aby sięgnąć po zwycięstwo.",
+          "Zjednocz siły ze sprzymierzonym Nieśmiertelnym, gdy atakuje on budowle wroga!"
+        ],
+        "Blackheart's Bay": [
+          "Aby zebrać dublony, atakuj skrzynie ze skarbami i najemników.",
+          "Przekaż dublony Czarnosercemu,<n/>bo kiedy zginiesz,<n/>wszystkie upuścisz!",
+          "Po otrzymaniu wystarczającej liczby dublonów od twojej drużyny, Czarnosercy zaczną bombardować budowle wrogów!"
+        ],
+        "Blackheart's Revenge": [
+          "Uniemożliwiaj wrogim bohaterom zbieranie kul armatnich i strzelania z dział do okrętu Czarnosercego.",
+          "Aby zwyciężyć, broń okrętu, dopóki nie zniszczy bazy wroga w dokach."
+        ],
+        "Braxis Holdout": [
+          "Co jakiś czas aktywują się dwa nadajniki. Zajmijcie oba, aby zapełnić swoją celę zergami.",
+          "Kiedy jedna z cel zostanie zapełniona, obie otworzą się, a fale zergów zaatakują bazy obu drużyn.",
+          "Odpieraj ataki wrogich zergów i pomagaj swoim. Będą atakować bohaterów, więc dobrze się zastanów przed podjęciem walki."
+        ],
+        "Braxis Outpost": [
+          "Nie odzyskujesz zdrowia na obszarze startowym. Kamień Powrotu został dezaktywowany.",
+          "Na polu bitwy pojawiają się Kule Regeneracji. Zbieraj je, by leczyć swoje rany.",
+          "Nie ma dodatkowych celów. Zniszcz bazę wroga, aby odnieść zwycięstwo!"
+        ],
+        "Checkpoint: Hanamura": [
+          "W tej bójce nie ma baz. Mecz zakończy się, kiedy ładunek dotrze do celu lub gdy skończy się czas.",
+          "Ładunek pojawi się tylko dla twojej drużyny. Stań obok niego, aby go przemieścić do celu, zanim upłynie czas."
+        ],
+        "Cursed Hollow": [
+          "Władca Kruków co jakiś czas tworzy na mapie daniny. Zbieraj je dla swojej drużyny!",
+          "Kiedy przejmiecie trzy daniny, Władca Kruków rzuci klątwę<n/>na waszych wrogów!",
+          "Pod wpływem klątwy budowle nie będą atakować, a stronnicy będą mieli tylko 1 punkt zdrowia."
+        ],
+        "Dragon Shire": [
+          "Aby uaktywnić posąg Smoczego Rycerza, twoja drużyna musi przejąć kontrolę nad dwiema kapliczkami.",
+          "Gdy kapliczki staną się aktywne, jeden z bohaterów musi podejść do posągu, aby uwolnić z więzienia <n/>Smoczego Rycerza!",
+          "Użyj mocy Smoczego Rycerza, aby zrównać z ziemią budowle wroga!"
+        ],
+        "Garden Arena": [
+          "Zabijaj potwory ogrodowe, aby zbierać nasiona.",
+          "Aby wygrać, zbierz 100 nasion."
+        ],
+        "Garden of Terror": [
+          "Królowa Złota Jagoda będzie co jakiś czas przyzywać nasiono. Pokonaj strzegące go Truchła, aby je zebrać dla swojej drużyny!",
+          "Po zebraniu przez drużynę trzech nasion natychmiast pojawią się Ogrodowe Koszmary, które przemieszczą się do każdej z alej.",
+          "Ogrodowe Koszmary dezaktywują budowle, dlatego warto walczyć u ich boku!"
+        ],
+        "Garden of Terror Classic": [
+          "Nocą truchła będą powstawać w ogrodach.",
+          "Zabijaj truchła i zbieraj nasiona dla swojej drużyny!",
+          "Mając 100 nasion, kontroluj Ogrodowy Koszmar i zniszcz wroga!"
+        ],
+        "Hanamura Temple": [
+          "W regularnych odstępach czasowych w centrum mapy pojawia się ładunek, o który mogą walczyć obie drużyny.",
+          "Stań obok ładunku, aby przemieścić go w kierunku celu. Uniemożliwiaj wrogowi próby transportu ładunku.",
+          "Kiedy drużyna odeskortuje ładunek do celu, wrogie budowle zostaną ostrzelane!"
+        ],
+        "Haunted Mines": [
+          "Co pewien czas Nawiedzone Kopalnie otworzą swe podwoje. <n/>W ich czeluściach czyha armia nieumarłych!",
+          "Zniszcz nieumarłych i zbierz ich czaszki, aby wzmocnić golema swojej drużyny!",
+          "Kiedy drużyna zbierze 55 czaszek, po stronach obu drużyn powstaną golemy! Im więcej czaszek zbierze drużyna, tym silniejszy będzie jej golem!"
+        ],
+        "Industrial District": [
+          "Nie odzyskujesz zdrowia na obszarze startowym. Kamień Powrotu został dezaktywowany.",
+          "Na polu bitwy pojawiają się Kule Regeneracji. Zbieraj je, by leczyć swoje rany.",
+          "Nie ma dodatkowych celów. Zniszcz bazę wroga, aby odnieść zwycięstwo!"
+        ],
+        "Infernal Shrines": [
+          "Piekielne Kapliczki z biegiem czasu gromadzą moc. Aktywuj je i przygotuj się do walki.",
+          "Zgładź 40 strażników zanim zrobią to wrogowie, aby uwolnić potężnego Pogromcę.",
+          "Pogromcy dysponują jedną z trzech niezwykłych mocy. Uważaj,<n/>bo w pierwszej kolejności atakują bohaterów."
+        ],
+        "Lost Cavern": [
+          "Nie odzyskujesz zdrowia na obszarze startowym. Kamień Powrotu został dezaktywowany.",
+          "Na polu bitwy pojawiają się Kule Regeneracji. Zbieraj je, by leczyć swoje rany.",
+          "Nie ma dodatkowych celów. Zniszcz bazę wroga, aby odnieść zwycięstwo!"
+        ],
+        "Lunar Rocket Racing": [
+          "Bohaterowie automatycznie podążają za kursorem!",
+          "Zbieraj Koperty, aby uzyskać dostęp do nowych zdolności!",
+          "Ukończ siedem okrążeń, aby wygrać! Ostatni gracz przegrywa wyścig."
+        ],
+        "Punisher Arena": [
+          "Pogromcy na zmianę atakują siebie nawzajem oraz bohaterów. Z każdą rundą zmieniają się zdolności magiczne pogromców.",
+          "Za zabicie wrogich bohaterów drużyna otrzymuje 4 punkty, a za wrogich pogromców 10."
+        ],
+        "Sandbox (Cursed Hollow)": [
+          "Władca Kruków co jakiś czas tworzy na mapie daniny. Zbieraj je dla swojej drużyny!",
+          "Kiedy przejmiecie trzy daniny, Władca Kruków rzuci klątwę<n/>na waszych wrogów!",
+          "Pod wpływem klątwy budowle nie będą atakować, a stronnicy będą mieli tylko 1 punkt zdrowia."
+        ],
+        "Sandbox (Volskaya Foundry)": [
+          "Punkty kontrolne aktywują się okresowo. Stań na punkcie i przejmij go w pełni, aby uzyskać kontrolę nad ogromnym mechem.",
+          "Do sterowania mechem Protektor Trygław potrzeba dwóch graczy: pilota i strzelca. Musicie współpracować!",
+          "Protektor zadaje ogromne obrażenia budowlom i bohaterom. Wykorzystaj jego zdolności, aby siać spustoszenie wśród wrogów."
+        ],
+        "Silver City": [
+          "Nie odzyskujesz zdrowia na obszarze startowym. Kamień Powrotu został dezaktywowany.",
+          "Na polu bitwy pojawiają się Kule Regeneracji. Zbieraj je, by leczyć swoje rany.",
+          "Nie ma dodatkowych celów. Zniszcz bazę wroga, aby odnieść zwycięstwo!"
+        ],
+        "Sky Temple": [
+          "Świątynie będą się okresowo aktywować. Aby zdobyć ich moc, należy stać na obszarze ich działania.",
+          "Utrzymajcie pozycje, a świątynia nagrodzi was, atakując z druzgocącą skutecznością wrogie budowle!",
+          "Strażnicy będą próbowali odebrać wam kontrolę nad świątyniami. Musicie ich zatrzymać, jeśli chcecie zachować moc świątyń dla siebie!"
+        ],
+        "Snow Brawl": [
+          "Śnieżki pojawiają się wokół bohaterów, budowli, danin i Kul Regeneracji. Zbieraj śnieżki i rzucaj nimi!",
+          "Śnieżne daniny pojawiają się nagle na mapie. Zbieraj je, aby ciskać w budowle wroga olbrzymimi śnieżkami!",
+          "Co jakiś czas na całym polu bitwy pojawiają się niedokończone Bałwanki. Użyj śnieżek, aby je dokończyć, a dołączą do walki u twego boku!"
+        ],
+        "Temple Arena": [
+          "W każdej rundzie może się aktywować różna liczba świątyń.",
+          "Zajmuj świątynie, aby zniszczyć bazę wroga."
+        ],
+        "Tomb of the Spider Queen": [
+          "Wrogie pająki i bohaterowie upuszczają po śmierci magiczne klejnoty. Zbierz ich jak najwięcej.",
+          "Kiedy zginiesz, upuścisz wszystkie klejnoty, więc złóż je na jednym <n/>z ołtarzy Pajęczej Królowej!",
+          "Drużyna, która jako pierwsza odniesie wystarczająco dużo klejnotów, uwolni pająki,<n/>które zaatakują umocnienia wroga."
+        ],
+        "Towers of Doom": [
+          "Obie bazy są chronione barierą, której bohaterowie nie mogą atakować. Aby zwyciężyć,<n/>należy aktywować Ołtarze.",
+          "Na polu bitwy co jakiś czas pojawią się Ołtarze. Aktywuj je, aby twoje wieże ostrzelały bazę wroga.",
+          "Niszcz wieże wroga, aby przejąć nad nimi kontrolę. Im więcej zdobędziesz wież, tym więcej obrażeń będzie zadawał Ołtarz."
+        ],
+        "Trial Grounds": [
+          "Wyeliminuj drużynę przeciwną, aby wygrać rundę.",
+          "Niedługo po rozpoczęciu rundy w centrum pola bitwy pojawi się cel. Wykorzystaj jego moc, aby zniszczyć wrogów!",
+          "Apteczki rozmieszczone na całym polu bitwy przywracają przy podniesieniu znaczną ilość zdrowia i zasobów."
+        ],
+        "Volskaya Foundry": [
+          "Punkty kontrolne aktywują się okresowo. Stań na punkcie i przejmij go w pełni, aby uzyskać kontrolę nad ogromnym mechem.",
+          "Do sterowania mechem Protektor Trygław potrzeba dwóch graczy: pilota i strzelca. Musicie współpracować!",
+          "Protektor zadaje ogromne obrażenia budowlom i bohaterom. Wykorzystaj jego zdolności, aby siać spustoszenie wśród wrogów."
+        ]
+      },
+      "objectiveTitle": {
+        "Alterac Pass": [
+          "Zajmuj więzienia",
+          "Wzywaj kawalerię",
+          "Pokonaj generała"
+        ],
+        "Battlefield of Eternity": [
+          "Wojujący Nieśmiertelni",
+          "Pokonaj przeciwnika",
+          "Zburz forty"
+        ],
+        "Blackheart's Bay": [
+          "Zbierz dublony",
+          "Zwróć dublony",
+          "Bombarduj wrogów"
+        ],
+        "Blackheart's Revenge": [
+          "Zabij wrogich bohaterów",
+          "Ochraniaj okręt Czarnosercego"
+        ],
+        "Braxis Holdout": [
+          "Zajmij nadajniki",
+          "Zapełnij cele",
+          "Przetrwaj szturm zergów"
+        ],
+        "Braxis Outpost": [
+          "Walcz bez końca",
+          "Zbieraj Kule Regeneracji",
+          "Zniszcz bazę"
+        ],
+        "Checkpoint: Hanamura": [
+          "Brak baz",
+          "Eskortuj ładunek"
+        ],
+        "Cursed Hollow": [
+          "Zbierz daninę",
+          "Rzuć klątwę na wrogów",
+          "Niszcz forty i stronników"
+        ],
+        "Dragon Shire": [
+          "Zajmij kapliczki",
+          "Uwolnij Smoczego Rycerza",
+          "Zburz forty wroga"
+        ],
+        "Garden Arena": [
+          "Pokonaj Koszmary",
+          "Zbieraj nasiona"
+        ],
+        "Garden of Terror": [
+          "Pojawiają się nasiona",
+          "Zbieraj nasiona",
+          "Ogrodowe Koszmary"
+        ],
+        "Garden of Terror Classic": [
+          "Walcz z truchłami",
+          "Zbieraj nasiona",
+          "Kontroluj Ogrodowy Koszmar"
+        ],
+        "Hanamura Temple": [
+          "Walcz o ładunek",
+          "Eskortuj ładunek",
+          "Bombarduj wrogów"
+        ],
+        "Haunted Mines": [
+          "Wkrocz do podziemi",
+          "Zbierz czaszki",
+          "Uwalniaj golemy"
+        ],
+        "Industrial District": [
+          "Walcz bez końca",
+          "Zbieraj Kule Regeneracji",
+          "Zniszcz bazę"
+        ],
+        "Infernal Shrines": [
+          "Aktywuj kapliczki",
+          "Pokonaj strażników",
+          "Strzeż się Pogromcy"
+        ],
+        "Lost Cavern": [
+          "Walcz bez końca",
+          "Zbieraj Kule Regeneracji",
+          "Zniszcz bazę"
+        ],
+        "Lunar Rocket Racing": [
+          "Rakietowa Jazda",
+          "Koperty",
+          "Wyścigi"
+        ],
+        "Punisher Arena": [
+          "Strzeż się pogromców",
+          "Zabijaj, aby wygrać"
+        ],
+        "Sandbox (Cursed Hollow)": [
+          "Zbierz daninę",
+          "Rzuć klątwę na wrogów",
+          "Niszcz forty i stronników"
+        ],
+        "Sandbox (Volskaya Foundry)": [
+          "Przechwytuj punkty",
+          "Steruj Protektorem",
+          "Zniszcz wszystko"
+        ],
+        "Silver City": [
+          "Walcz bez końca",
+          "Zbieraj Kule Regeneracji",
+          "Zniszcz bazę"
+        ],
+        "Sky Temple": [
+          "Zdobądź świątynie",
+          "Utrzymaj kontrolę",
+          "Broń świątyń"
+        ],
+        "Snow Brawl": [
+          "Rzucaj śnieżkami",
+          "Zbierz daninę",
+          "Lep Bałwanki"
+        ],
+        "Temple Arena": [
+          "Zdobywaj świątynie",
+          "Wyzwól ich moc!"
+        ],
+        "Tomb of the Spider Queen": [
+          "Zbierz klejnoty",
+          "Odnieś klejnoty",
+          "Przyzwij pająki"
+        ],
+        "Towers of Doom": [
+          "Chronione bazy",
+          "Aktywuj Ołtarze",
+          "Zajmuj wieże"
+        ],
+        "Trial Grounds": [
+          "Próba ognia",
+          "Testy polowe",
+          "Apteczki"
+        ],
+        "Volskaya Foundry": [
+          "Przechwytuj punkty",
+          "Steruj Protektorem",
+          "Zniszcz wszystko"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "meta": {
+    "heroesVersion": "2.55.16.96881",
+    "hdpVersion": "5.0.0",
+    "itemsType": "GameStrings",
+    "dataTypes": [
+      "MapData"
+    ],
+    "gameStringText": {
+      "locale": "ITIT",
+      "textType": "RawText",
+      "constantVars": {
+        "replaced": true,
+        "preserved": true
+      },
+      "styleVars": {
+        "replaced": true,
+        "preserved": true
+      }
+    }
+  },
+  "items": {
+    "map": {
+      "name": {
+        "Alterac Pass": "Passo d'Alterac",
+        "Battlefield of Eternity": "Campi di Battaglia Eterni",
+        "Blackheart's Bay": "Baia di Cuornero",
+        "Blackheart's Revenge": "Vendetta di Cuornero",
+        "Braxis Holdout": "Distaccamento di Braxis",
+        "Braxis Outpost": "Avamposto di Braxis",
+        "Checkpoint: Hanamura": "Checkpoint: Hanamura",
+        "Cursed Hollow": "Valle Maledetta",
+        "Deadman's Stand": "Resistenza a Deadman's Port",
+        "Deadman's Stand (Heroic)": "Resistenza a Deadman's Port (Eroica)",
+        "Dragon Shire": "Contea del Drago",
+        "Escape From Braxis": "Fuga da Braxis",
+        "Escape From Braxis (Heroic)": "Fuga Da Braxis (Eroica)",
+        "Garden Arena": "Arena: Giardini",
+        "Garden of Terror": "Giardino del Terrore",
+        "Garden of Terror Classic": "Garden of Terror Classic",
+        "Hanamura Temple": "Tempio di Hanamura",
+        "Haunted Mines": "Miniere Infestate",
+        "Industrial District": "Distretto Industriale",
+        "Infernal Shrines": "Altari Infernali",
+        "Lost Cavern": "Caverna Perduta",
+        "Lunar Rocket Racing": "Corsa sui Razzi Lunari",
+        "Pull Party": "Agganci pericolosi",
+        "Punisher Arena": "Arena: Punitori",
+        "Sandbox (Cursed Hollow)": "Sandbox (Valle Maledetta)",
+        "Sandbox (Volskaya Foundry)": "Sandbox (Fonderia Volskaya)",
+        "Silver City": "Città d'Argento",
+        "Sky Temple": "Tempio Celeste",
+        "Snow Brawl": "Rissa nella Neve",
+        "Temple Arena": "Arena: Tempio",
+        "Tomb of the Spider Queen": "Tomba della Regina Ragno",
+        "Towers of Doom": "Torri della Rovina",
+        "Trial Grounds": "Campi d'Addestramento",
+        "Volskaya Foundry": "Fonderia Volskaya",
+        "Warhead Junction": "Stazione Atomica"
+      },
+      "objectiveDescription": {
+        "Alterac Pass": [
+          "Conquistate il campo di prigionia nemico per richiamare la cavalleria. I campi possono essere riconquistati da eroi e servitori, difendeteli!",
+          "I soldati della cavalleria caricano su tutte le corsie, fornendo un bonus a danni e velocità di movimento agli eroi alleati vicini.",
+          "Il nucleo è stato sostituito da un generale che combatte i nemici. Distruggere le fortezze riduce la resistenza del generale."
+        ],
+        "Battlefield of Eternity": [
+          "Il Luogotenente Angelico Ilarian e il Signore dei Demoni Beleth si affrontano in un conflitto eterno.",
+          "Aiutate l'Immortale alleato per ottenere la vittoria.",
+          "Proteggete l'Immortale mentre semina distruzione sulle strutture nemiche!"
+        ],
+        "Blackheart's Bay": [
+          "Attaccate forzieri e mercenari per ottenere dobloni.",
+          "Consegnate i dobloni a Cuornero... o li perderete tutti alla morte!",
+          "Dopo che la vostra squadra avrà consegnato abbastanza dobloni, Cuornero bombarderà le strutture nemiche!"
+        ],
+        "Blackheart's Revenge": [
+          "Impedite agli eroi nemici di raccogliere le palle di cannone e di spararle dalla nave di Cuornero.",
+          "Difendete la nave fino a che non distrugge il nucleo nemico."
+        ],
+        "Braxis Holdout": [
+          "Periodicamente due segnalatori si attivano. Conquistateli per riempire di zerg la vostra gabbia di contenimento.",
+          "Quando una delle gabbie è piena, entrambe si aprono, liberando ondate di zerg contro la base nemica.",
+          "Resistete alle ondate di zerg nemiche mentre aiutate le vostre. Gli zerg attaccano gli eroi, per cui ingaggiateli con cautela."
+        ],
+        "Braxis Outpost": [
+          "Gli eroi non rigenerano Salute nell'area iniziale. La Pietra del Ritorno è disabilitata.",
+          "Dei globi rigeneranti appaiono periodicamente sulla mappa. Raccoglieteli per curarvi.",
+          "Questo campo di battaglia non ha obiettivi aggiuntivi. Distruggete il nucleo dei nemici per vincere."
+        ],
+        "Checkpoint: Hanamura": [
+          "I nuclei non sono presenti in questa rissa. La partita termina quando il carico giunge a destinazione o allo scadere del tempo.",
+          "Solo la vostra squadra ha un carico. Rimanete al suo fianco per spingerlo a destinazione prima dello scadere del tempo."
+        ],
+        "Cursed Hollow": [
+          "Il Signore dei Corvi crea periodicamente dei tributi. Conquistateli per la squadra!",
+          "Dopo che avrete conquistato tre tributi, il Signore dei Corvi maledirà i vostri nemici.",
+          "Le strutture maledette non possono attaccare e la Salute dei servitori maledetti è ridotta a 1."
+        ],
+        "Dragon Shire": [
+          "La vostra squadra deve controllare due altari per attivare la statua del Drago Cavaliere.",
+          "Durante l'attivazione, portate un eroe alla statua per liberarlo dalla sua prigione.",
+          "Sfruttate l'immenso potere del Drago per abbattere le strutture nemiche!"
+        ],
+        "Garden Arena": [
+          "Uccidete le creature dei giardini per ottenere semi!",
+          "Raccogliete 100 semi per vincere."
+        ],
+        "Garden of Terror": [
+          "La Regina Ombranera evoca periodicamente dei semi. Sconfiggete i Mutanti e raccoglieteli per la vostra squadra!",
+          "Una volta raccolti tre semi, i Terrori Arborei compaiono all'istante in ogni corsia.",
+          "I Terrori Arborei possono disattivare le strutture nemiche, per cui combattete al loro fianco!"
+        ],
+        "Garden of Terror Classic": [
+          "Durante la notte, i Mutanti sorgono dai giardini.",
+          "Uccidi i Mutanti e raccogli semi per la tua squadra!",
+          "Con 100 semi, controlla un Terrore Arboreo e distruggi i nemici!"
+        ],
+        "Hanamura Temple": [
+          "A intervalli regolari, al centro della mappa compare un carico che può essere conteso dalle squadre.",
+          "Rimanete accanto al carico per portarlo a destinazione. Impedite al nemico di fare lo stesso.",
+          "Una volta che il carico raggiunge la destinazione, aprirà il fuoco sulle strutture nemiche!"
+        ],
+        "Haunted Mines": [
+          "Le Miniere Infestate saranno periodicamente accessibili e un'armata di non morti attende al loro interno.",
+          "Eliminate i non morti e raccogliete i loro teschi per potenziare il Golem della vostra squadra!",
+          "Quando una squadra raccoglie 55 teschi, sorgerà un Golem per squadra. La sua forza dipende dal numero di teschi raccolti dalla squadra: maggiore è il numero, maggiore sarà la forza del Golem!"
+        ],
+        "Industrial District": [
+          "Gli eroi non rigenerano Salute nell'area iniziale. La Pietra del Ritorno è disabilitata.",
+          "Dei globi rigeneranti appaiono periodicamente sulla mappa. Raccoglieteli per curarvi.",
+          "Questo campo di battaglia non ha obiettivi aggiuntivi. Distruggete il nucleo dei nemici per vincere."
+        ],
+        "Infernal Shrines": [
+          "Gli Altari Infernali accumulano periodicamente potere. Attivateli e preparatevi allo scontro.",
+          "Uccidete 40 guardiani prima dei nemici per evocare un possente Punitore.",
+          "I Punitori dispongono di uno tra tre poteri. Attenzione, attaccheranno per primi gli eroi."
+        ],
+        "Lost Cavern": [
+          "Gli eroi non rigenerano Salute nell'area iniziale. La Pietra del Ritorno è disabilitata.",
+          "Dei globi rigeneranti appaiono periodicamente sulla mappa. Raccoglieteli per curarvi.",
+          "Questo campo di battaglia non ha obiettivi aggiuntivi. Distruggete il nucleo dei nemici per vincere."
+        ],
+        "Lunar Rocket Racing": [
+          "Gli eroi seguono automaticamente il cursore del mouse.",
+          "Raccogli le buste per ottenere diverse abilità!",
+          "Completa 7 giri per vincere! L'ultimo giocatore perde la gara."
+        ],
+        "Punisher Arena": [
+          "I Punitori attaccano altri Punitori o gli eroi. A ogni round le loro abilità cambiano.",
+          "Gli eroi nemici valgono 4 punti. Il Punitore nemico vale 10 punti."
+        ],
+        "Sandbox (Cursed Hollow)": [
+          "Il Signore dei Corvi crea periodicamente dei tributi. Conquistateli per la squadra!",
+          "Dopo che avrete conquistato tre tributi, il Signore dei Corvi maledirà i vostri nemici.",
+          "Le strutture maledette non possono attaccare e la Salute dei servitori maledetti è ridotta a 1."
+        ],
+        "Sandbox (Volskaya Foundry)": [
+          "Alcuni punti si attivano periodicamente. Rimanete al loro interno per conquistarli e ottenere un mech gigante.",
+          "Il Protettore Triglav è comandato da due giocatori: un pilota e un mitragliere. Collaborate al meglio.",
+          "Le abilità dei Protettori infliggono terribili danni a strutture ed eroi. Sfruttateli per abbattere il nemico."
+        ],
+        "Silver City": [
+          "Gli eroi non rigenerano Salute nell'area iniziale. La Pietra del Ritorno è disabilitata.",
+          "Dei globi rigeneranti appaiono periodicamente sulla mappa. Raccoglieteli per curarvi.",
+          "Questo campo di battaglia non ha obiettivi aggiuntivi. Distruggete il nucleo dei nemici per vincere."
+        ],
+        "Sky Temple": [
+          "I templi si attivano periodicamente. Rimanete al loro interno per conquistarne il potere.",
+          "Mantenete la posizione e il tempio scatenerà un potente attacco contro le strutture nemiche!",
+          "I Guardiani tenteranno di strapparvi il controllo dei templi. Teneteli a bada per conservare il potere ottenuto!"
+        ],
+        "Snow Brawl": [
+          "Le Palle di Neve appaiono vicino a eroi, strutture, tributi e globi rigeneranti. Raccoglietele e lanciatele!",
+          "I Tributi di Neve sono generati rapidamente. Raccoglieteli per scagliare enormi palle di neve sulle strutture nemiche!",
+          "Sulla mappa iniziano periodicamente a formarsi dei Pupazzi di Neve. Colpiteli con le Palle di Neve per completarli, e si uniranno a voi!"
+        ],
+        "Temple Arena": [
+          "A ogni round, un diverso numero di templi si attiva durante lo scontro.",
+          "Conquistate i templi per distruggere il nucleo nemico."
+        ],
+        "Tomb of the Spider Queen": [
+          "I servitori ragni nemici e gli eroi rilasciano gioielli alla morte. Raccoglietene il più possibile.",
+          "Portate i gioielli presso uno degli altari della Regina Ragno o li perderete tutti alla morte!",
+          "La squadra che per prima consegnerà abbastanza gioielli scatenerà le Tessitrici contro le difese nemiche."
+        ],
+        "Towers of Doom": [
+          "I nuclei sono protetti da una barriera invulnerabile agli attacchi degli eroi. Per ottenere la vittoria, dovete attivare gli altari.",
+          "Periodicamente, degli altari emergeranno nel campo di battaglia. Attivateli per fare in modo che le vostre torri aprano il fuoco sul nucleo nemico. ",
+          "Distruggete le torri nemiche per conquistarle. Se possedete più torri, conquistare un altare consentirà di infliggere più danni."
+        ],
+        "Trial Grounds": [
+          "Eliminate la squadra avversaria per vincere il round.",
+          "Poco dopo l'inizio del round, un obiettivo appare al centro del campo di battaglia. Usate il suo potere per annientare i nemici!",
+          "I Medikit presenti sul campo di battaglia ripristinano la maggior parte di Salute e risorse quando vengono raccolti."
+        ],
+        "Volskaya Foundry": [
+          "Alcuni punti si attivano periodicamente. Rimanete al loro interno per conquistarli e ottenere un mech gigante.",
+          "Il Protettore Triglav è comandato da due giocatori: un pilota e un mitragliere. Collaborate al meglio.",
+          "Le abilità dei Protettori infliggono terribili danni a strutture ed eroi. Sfruttateli per abbattere il nemico."
+        ]
+      },
+      "objectiveTitle": {
+        "Alterac Pass": [
+          "Campi di prigionia",
+          "Cavalleria",
+          "Generali"
+        ],
+        "Battlefield of Eternity": [
+          "Scontro fra Immortali",
+          "Sconfiggete il nemico",
+          "Distruggete i forti"
+        ],
+        "Blackheart's Bay": [
+          "Raccogliete i dobloni",
+          "Consegnate i dobloni",
+          "Bombardate i nemici"
+        ],
+        "Blackheart's Revenge": [
+          "Uccidete gli eroi nemici",
+          "Proteggete la nave di Cuornero"
+        ],
+        "Braxis Holdout": [
+          "Conquistate i segnalatori",
+          "Riempite le gabbie di contenimento",
+          "Assalto zerg"
+        ],
+        "Braxis Outpost": [
+          "Azione costante",
+          "Globi rigeneranti",
+          "Distruggete il nucleo"
+        ],
+        "Checkpoint: Hanamura": [
+          "Nessun nucleo",
+          "Scortate il carico"
+        ],
+        "Cursed Hollow": [
+          "Conquistate i tributi",
+          "Maledite i nemici",
+          "Forti e servitori maledetti"
+        ],
+        "Dragon Shire": [
+          "Controllate gli altari",
+          "Liberate il Drago Cavaliere",
+          "Devastate i forti nemici"
+        ],
+        "Garden Arena": [
+          "Sconfiggete i Terrori Notturni",
+          "Raccogliete i semi"
+        ],
+        "Garden of Terror": [
+          "Generazione dei semi",
+          "Raccogliete i semi",
+          "Terrori Arborei"
+        ],
+        "Garden of Terror Classic": [
+          "Affronta i Mutanti",
+          "Raccogli i semi",
+          "Controlla un Terrore Arboreo"
+        ],
+        "Hanamura Temple": [
+          "Un solo carico",
+          "Scorta del carico",
+          "Bombardate il nemico"
+        ],
+        "Haunted Mines": [
+          "Avventuratevi sottoterra",
+          "Raccogliete i teschi",
+          "Scatenate i Golem"
+        ],
+        "Industrial District": [
+          "Azione costante",
+          "Globi rigeneranti",
+          "Distruggete il nucleo"
+        ],
+        "Infernal Shrines": [
+          "Attivate gli Altari",
+          "Sconfiggete i guardiani",
+          "Attenzione ai Punitori"
+        ],
+        "Lost Cavern": [
+          "Azione costante",
+          "Globi rigeneranti",
+          "Distruggete il nucleo"
+        ],
+        "Lunar Rocket Racing": [
+          "Corsa sui Razzi",
+          "Buste",
+          "Modalità di gara"
+        ],
+        "Punisher Arena": [
+          "Attenzione ai Punitori",
+          "Uccidete per vincere"
+        ],
+        "Sandbox (Cursed Hollow)": [
+          "Conquistate i tributi",
+          "Maledite i nemici",
+          "Forti e servitori maledetti"
+        ],
+        "Sandbox (Volskaya Foundry)": [
+          "Punti di conquista",
+          "Controllate il Protettore",
+          "Distruggete ogni cosa"
+        ],
+        "Silver City": [
+          "Azione costante",
+          "Globi rigeneranti",
+          "Distruggete il nucleo"
+        ],
+        "Sky Temple": [
+          "Conquistate i templi",
+          "Controllate i templi",
+          "Difendete i templi"
+        ],
+        "Snow Brawl": [
+          "Lanciate Palle di Neve",
+          "Conquistate i tributi",
+          "Pupazzi di Neve"
+        ],
+        "Temple Arena": [
+          "Templi in continuo cambiamento",
+          "Scatenate il loro potere"
+        ],
+        "Tomb of the Spider Queen": [
+          "Raccogliete i gioielli",
+          "Consegnate i gioielli",
+          "Evocate le Tessitrici"
+        ],
+        "Towers of Doom": [
+          "Nuclei protetti",
+          "Attivate gli altari",
+          "Conquistate le torri"
+        ],
+        "Trial Grounds": [
+          "Prova del Fuoco",
+          "Test Sperimentali",
+          "Medikit"
+        ],
+        "Volskaya Foundry": [
+          "Punti di conquista",
+          "Controllate il Protettore",
+          "Distruggete ogni cosa"
+        ]
+      }
+    }
+  }
+}

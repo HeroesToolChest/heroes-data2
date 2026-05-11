@@ -1,0 +1,82 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Silver City"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneBrew|B",
+    "value": "Después de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> segundos de canalización, se teletransporta de regreso a la Sala de las tormentas."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneNoMana|B",
+    "value": "Después de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> segundos de canalización, se teletransporta de regreso a la Sala de las tormentas."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|Hearthstone|B",
+    "value": "Después de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> segundos de canalización, se teletransporta de regreso a la Sala de las tormentas."
+  },
+  {
+    "op": "replace",
+    "path": "/items/hero/expandedRole/Varian",
+    "value": "Tanque"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/HeroChenEarth",
+    "value": "HeroChenEarth"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/HeroChenFire",
+    "value": "HeroChenFire"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/HeroChenStorm",
+    "value": "HeroChenStorm"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperDefender",
+    "value": "Empalador"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperLaner",
+    "value": "Empalador"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerDefender",
+    "value": "Chamán caído"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerDefenderMinion",
+    "value": "Sabueso caído"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerLaner",
+    "value": "Chamán caído"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerLanerMinion",
+    "value": "Sabueso caído"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WeaponRackSpecialHeaven",
+    "value": "Estante de armas - Especial (Cielo)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WeaponRackSpecialHell",
+    "value": "Estante de armas - Especial (Infierno)"
+  }
+]

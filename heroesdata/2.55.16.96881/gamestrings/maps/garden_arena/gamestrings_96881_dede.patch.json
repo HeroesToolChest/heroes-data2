@@ -1,0 +1,157 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Garden Arena"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/PlantHorrorOvergrowthPlant|PlantHorrorOvergrowth|W",
+    "value": "Abklingzeit: 15 Sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|DeathwingHearthstone|B",
+    "value": "Teleportiert den Helden nach <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4.5</c> Sek. Kanalisieren zum Altar der Stürme."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneBrew|B",
+    "value": "Teleportiert den Helden zurück zum Altar und stellt sofort sämtliche Lebenspunkte und sämtliches Gebräu wieder her."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneNoMana|B",
+    "value": "Teleportiert den Helden zurück zum Altar und stellt sofort sämtliche Lebenspunkte wieder her."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|Hearthstone|B",
+    "value": "Teleportiert den Helden zurück zum Altar und stellt sofort sämtliche Lebenspunkte und sämtliches Mana wieder her."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/PlantHorrorLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Verwandelt nach <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> Sek. alle gegnerischen Helden im Wirkungsbereich <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">3</s> Sek. lang in Unkrautler, wodurch sie weder angreifen noch Fähigkeiten einsetzen können. Ihre Bewegungsgeschwindigkeit wird außerdem um <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">30%</s> verringert."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/PlantHorrorOvergrowthPlant|PlantHorrorOvergrowth|W",
+    "value": "Erschafft eine Würgepflanze, die Gebäude in der Nähe außer Gefecht setzt. Das Gartenungeheuer fügt betroffenen Gebäuden <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200%</c> mehr Schaden zu. Die Lebenspunkte der Würgepflanze schwinden im Verlauf von <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> Sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/:PASSIVE:|TerroroftheGarden|Heroic",
+    "value": "<s val=\"cbe8ff-ffffff\" hlt-name=\"StandardTooltipHeader\">Schrecken des Gartens</s><n/><n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">Dauerhaft unaufhaltbar.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/WallCrush|GraveGolemWallCrush|Hidden",
+    "value": "Grabgolem - Wand zerquetschen"
+  },
+  {
+    "op": "add",
+    "path": "/items/announcer/name/CommodoreFord",
+    "value": "Kommodore Ford"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostDamageToPlants",
+    "value": "Höchster Unkrautlern zugefügter Schaden"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/ItemSeedPickup",
+    "value": "Begib dich in die Nähe, um diesen Samen einzusammeln."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/PlantHorrorThornSpitter",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Abklingzeit: 12 Sek.</s><n/><n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">Pflanzt einen Dornenspucker im Zielgebiet. Der Dornenspucker verursacht </s><s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">61</s><s val=\"8783e6\" hlt-name=\"StandardTooltip\"> Schaden. Hält </s><s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">10</s><s val=\"8783e6\" hlt-name=\"StandardTooltip\"> Sek. an.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/energyType/VehiclePlantHorror",
+    "value": "Mana"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/lifeType/JunglePlantHorror",
+    "value": "Lebenspunkte"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/lifeType/VehiclePlantHorror",
+    "value": "Lebenspunkte"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/VehiclePlantHorror",
+    "value": "Pflanzenungeheuer"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FertileSoil",
+    "value": "Fruchtbare Erde"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ItemSeedPickup",
+    "value": "Samenkorn"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ItemSeedPickupPrecursor",
+    "value": "Samenvorläufer"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/JunglePlantHorror",
+    "value": "Gartenungeheuer"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PlantHorrorOvergrowthPlant",
+    "value": "Würgepflanze"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PlantHorrorPoisonBulb",
+    "value": "Gartenungeheuer - Giftknolle"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PlantHorrorPoisonBulbMissile",
+    "value": "Gartenungeheuer - Giftknolle, Geschoss"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PlantHorrorZombie",
+    "value": "Gartenungeheuer - Zombie"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Shambler",
+    "value": "Unkrautler"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerMissile",
+    "value": "Unkrautlergeschoss"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerRanged",
+    "value": "Unkrautler"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerWalker",
+    "value": "Unkrautler"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WheresWeirdo",
+    "value": "Such den Spinner"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Temple Arena"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TempleChampionTornado|SkyTempleCoreSandstorm|Q",
+    "value": "Recupero: 10 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TempleCoreTornado|GraveGolemBindingRootsSkyTemple|Q",
+    "value": "Recupero: 23 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TempleGuardianMightySwing|TempleGuardianMightySwing|Q",
+    "value": "Recupero: 8 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/LuxoriaTempleFinalBlast|LuxoriaTempleFinalBlast|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 1</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|DeathwingHearthstone|B",
+    "value": "Dopo un incanalamento di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4.5</c> s, teletrasporta l'eroe nella Sala delle Tempeste."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneBrew|B",
+    "value": "Teletrasporta l'eroe all'Altare, rigenerando all'istante tutta la Salute e la Birra."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneNoMana|B",
+    "value": "Teletrasporta l'eroe all'Altare, rigenerando all'istante tutta la Salute."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|Hearthstone|B",
+    "value": "Teletrasporta l'eroe all'Altare, rigenerando all'istante tutta la Salute e il Mana."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/LuxoriaTempleFinalBlast|LuxoriaTempleFinalBlast|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Recupero: 0.1 s</s><n/><n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">Rilascia un'esplosione finale di energia, infliggendo </s><s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">2500</s><s val=\"8783e6\" hlt-name=\"StandardTooltip\"> danni al bersaglio.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/LuxoriaTempleTurretHold|LuxoriaTempleHoldTurret|W",
+    "value": "Rivolge la torretta verso l'unità o il punto selezionato e la mantiene in posizione."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/LuxoriaTempleTurretRelease|LuxoriaTempleReleaseTurret|E",
+    "value": "Rivolge la torretta verso l'unità o il punto selezionato e la rilascia."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TempleChampionTornado|SkyTempleCoreSandstorm|Q",
+    "value": "Danneggia e respinge gli eroi nemici."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TempleCoreTornado|GraveGolemBindingRootsSkyTemple|Q",
+    "value": "Danneggia e respinge i nemici in una piccola area."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TempleGuardianMightySwing|TempleGuardianMightySwing|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Recupero: 8 s</s><n/><n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">Sferra un colpo con l'arma, infliggendo </s><s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">280</s><s val=\"8783e6\" hlt-name=\"StandardTooltip\"> danni ai nemici vicini e respingendoli.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/LuxoriaTempleFinalBlast|LuxoriaTempleFinalBlast|Q",
+    "value": "Esplosione Finale"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/LuxoriaTempleTurretHold|LuxoriaTempleHoldTurret|W",
+    "value": "Mantieni Torretta"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/LuxoriaTempleTurretRelease|LuxoriaTempleReleaseTurret|E",
+    "value": "Rilascia Torretta"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/stop|Stop|Heroic",
+    "value": "Ferma"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TempleChampionTornado|SkyTempleCoreSandstorm|Q",
+    "value": "Tempesta di Sabbia"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TempleCoreTornado|GraveGolemBindingRootsSkyTemple|Q",
+    "value": "Sabbie Mobili"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TempleGuardianMightySwing|TempleGuardianMightySwing|Q",
+    "value": "Urto Possente"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TempleChampionTornado|SkyTempleCoreSandstorm|Q",
+    "value": "Danneggia e respinge gli eroi nemici."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TempleCoreTornado|GraveGolemBindingRootsSkyTemple|Q",
+    "value": "Danneggia e respinge i nemici in una piccola area."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TempleGuardianMightySwing|TempleGuardianMightySwing|Q",
+    "value": "Abbatte l'arma, danneggiando e respingendo i nemici vicini."
+  },
+  {
+    "op": "add",
+    "path": "/items/announcer/name/CommodoreFord",
+    "value": "Commodoro Ford"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostTimeInTemple",
+    "value": "Più tempo nel tempio"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/JungleGraveGolemLaner",
+    "value": "Golem delle Sabbie"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HarrisonJonesWell",
+    "value": "Pozzo di Harrison Jones"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LuxoriaCoreTornado",
+    "value": "Tornado"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LuxoriaTemple",
+    "value": "Tempio di Luxoria"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LuxoriaTempleCaptureBeacon",
+    "value": "Segnale di conquista - Tempio di Luxoria"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TempleChampionBoss",
+    "value": "Difensore del Tempio"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TempleDefenderMelee",
+    "value": "Difensore del Tempio"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TempleDefenderPathingBlocker",
+    "value": "Difensore - Ostruzione del percorso"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TempleDefenderRanged",
+    "value": "Difensore"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TempleGuardianBoss",
+    "value": "Difensore"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WheresWeirdo",
+    "value": "Unità strana"
+  }
+]

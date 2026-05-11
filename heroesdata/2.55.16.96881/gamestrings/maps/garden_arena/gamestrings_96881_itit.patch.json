@@ -1,0 +1,157 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Garden Arena"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/PlantHorrorOvergrowthPlant|PlantHorrorOvergrowth|W",
+    "value": "Recupero: 15 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|DeathwingHearthstone|B",
+    "value": "Dopo un incanalamento di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4.5</c> s, teletrasporta l'eroe nella Sala delle Tempeste."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneBrew|B",
+    "value": "Teletrasporta l'eroe all'Altare, rigenerando all'istante tutta la Salute e la Birra."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneNoMana|B",
+    "value": "Teletrasporta l'eroe all'Altare, rigenerando all'istante tutta la Salute."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|Hearthstone|B",
+    "value": "Teletrasporta l'eroe all'Altare, rigenerando all'istante tutta la Salute e il Mana."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/PlantHorrorLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Dopo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s, trasforma gli eroi nemici in un'area in Mutanti per <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">3</s> s, impedendo loro di attaccare o usare abilità e rallentandoli del <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">30%</s>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/PlantHorrorOvergrowthPlant|PlantHorrorOvergrowth|W",
+    "value": "Genera una Crescita Infestante che disabilita le strutture vicine. Consente di infliggere il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200%</c> di danni aggiuntivi alle strutture colpite da Crescita Infestante. Esaurisce la Salute in <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> s."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/:PASSIVE:|TerroroftheGarden|Heroic",
+    "value": "<s val=\"cbe8ff-ffffff\" hlt-name=\"StandardTooltipHeader\">Terrore dei Giardini (tratto)</s><n/><n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">Rende inarrestabili.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/WallCrush|GraveGolemWallCrush|Hidden",
+    "value": "Golem delle Fosse - Sfondamento del Muro"
+  },
+  {
+    "op": "add",
+    "path": "/items/announcer/name/CommodoreFord",
+    "value": "Commodoro Ford"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostDamageToPlants",
+    "value": "Più danni inflitti alle piante"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/ItemSeedPickup",
+    "value": "Avvicinati per raccogliere questo seme. "
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/PlantHorrorThornSpitter",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Recupero carica: 12 s</s><n/><n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">Pianta uno Sputaspine nella zona bersaglio. Lo Sputaspine infligge </s><s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">61</s><s val=\"8783e6\" hlt-name=\"StandardTooltip\"> danni. Dura per </s><s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">10</s><s val=\"8783e6\" hlt-name=\"StandardTooltip\"> s.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/energyType/VehiclePlantHorror",
+    "value": "Mana"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/lifeType/JunglePlantHorror",
+    "value": "Salute"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/lifeType/VehiclePlantHorror",
+    "value": "Salute"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/VehiclePlantHorror",
+    "value": "Terrore Vegetale"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FertileSoil",
+    "value": "Suolo Fertile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ItemSeedPickup",
+    "value": "Seme"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ItemSeedPickupPrecursor",
+    "value": "Precursore seme"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/JunglePlantHorror",
+    "value": "Terrore Arboreo"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PlantHorrorOvergrowthPlant",
+    "value": "Pianta della Crescita Infestante"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PlantHorrorPoisonBulb",
+    "value": "Terrore Arboreo - Bulbo Venefico"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PlantHorrorPoisonBulbMissile",
+    "value": "Terrore Arboreo - Bulbo Venefico - Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PlantHorrorZombie",
+    "value": "Terrore Arboreo - Zombi"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Shambler",
+    "value": "Mutante"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerMissile",
+    "value": "Mutante - Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerRanged",
+    "value": "Mutante"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerWalker",
+    "value": "Mutante camminatore"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WheresWeirdo",
+    "value": "Unità strana"
+  }
+]

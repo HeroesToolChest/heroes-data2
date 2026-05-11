@@ -1,0 +1,102 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Blackheart's Revenge"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|DeathwingHearthstone|B",
+    "value": "Después de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4.5</c> segundos de canalización, se teletransporta de regreso a la Sala de las tormentas."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneBrew|B",
+    "value": "Te teletransporta de regreso al Altar y recuperas toda tu salud y tu Brebaje de inmediato."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneNoMana|B",
+    "value": "Te teletransporta de regreso al Altar y recuperas toda tu salud de inmediato."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|Hearthstone|B",
+    "value": "Te teletransporta de regreso al Altar y recuperas toda tu salud y tu maná de inmediato."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/AttackCore|AttackCore|E",
+    "value": "Atacar núcleo"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/CannonAttack|CannonAttack|W",
+    "value": "Ataque de cañón"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/move|Move|W",
+    "value": "Mover"
+  },
+  {
+    "op": "add",
+    "path": "/items/announcer/name/CommodoreFord",
+    "value": "Capitán Ford"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/Boat",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Estructura resistente y poderosa. Inflige gran daño por proximidad y tiene un escudo que se regenera cuando no la atacan. La destrucción de esta estructura lleva a la victoria.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AmmoCache",
+    "value": "Reserva de municiones"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AttackCoreMissile",
+    "value": "Atacar núcleo - Misil"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Boat",
+    "value": "Barco"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Cannon",
+    "value": "Cañón"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/CannonAttackMissile",
+    "value": "Ataque de cañón - Misil"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/CannonballMinimapIconUnit",
+    "value": "Bala de cañón - Minimapa - Ícono - Unidad"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ClickableChestEasterEggUnit",
+    "value": "Cofre cliqueable - Unidad de broma"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TeleporterNeutral",
+    "value": "Teletransportador"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TeleporterTeam",
+    "value": "Portal"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WheresWeirdo",
+    "value": "Where's Weirdo"
+  }
+]

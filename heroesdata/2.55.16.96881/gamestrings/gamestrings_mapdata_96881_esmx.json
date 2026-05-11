@@ -1,0 +1,347 @@
+{
+  "meta": {
+    "heroesVersion": "2.55.16.96881",
+    "hdpVersion": "5.0.0",
+    "itemsType": "GameStrings",
+    "dataTypes": [
+      "MapData"
+    ],
+    "gameStringText": {
+      "locale": "ESMX",
+      "textType": "RawText",
+      "constantVars": {
+        "replaced": true,
+        "preserved": true
+      },
+      "styleVars": {
+        "replaced": true,
+        "preserved": true
+      }
+    }
+  },
+  "items": {
+    "map": {
+      "name": {
+        "Alterac Pass": "Paso de Alterac",
+        "Battlefield of Eternity": "Campo de batalla de la Eternidad",
+        "Blackheart's Bay": "Bahía de Almanegra",
+        "Blackheart's Revenge": "La venganza de Almanegra",
+        "Braxis Holdout": "Resistencia en Braxis",
+        "Braxis Outpost": "Puesto de avanzada de Braxis",
+        "Checkpoint: Hanamura": "Punto de control: Hanamura",
+        "Cursed Hollow": "Hondonada maldita",
+        "Deadman's Stand": "Fortín del muerto",
+        "Deadman's Stand (Heroic)": "Fortín del muerto (Heroico)",
+        "Dragon Shire": "Comarca del dragón",
+        "Escape From Braxis": "Escape de Braxis",
+        "Escape From Braxis (Heroic)": "Escape de Braxis (Heroico)",
+        "Garden Arena": "Arena del Jardín",
+        "Garden of Terror": "Jardín del terror",
+        "Garden of Terror Classic": "Garden of Terror Classic",
+        "Hanamura Temple": "Templo de Hanamura",
+        "Haunted Mines": "Minas embrujadas",
+        "Industrial District": "Distrito industrial",
+        "Infernal Shrines": "Sagrarios Infernales",
+        "Lost Cavern": "Caverna perdida",
+        "Lunar Rocket Racing": "Carrera de cohete lunar",
+        "Pull Party": "Fiesta de ganchos",
+        "Punisher Arena": "Arena del castigador",
+        "Sandbox (Cursed Hollow)": "Sandbox (Hondonada maldita)",
+        "Sandbox (Volskaya Foundry)": "Sandbox (Fundición de Volskaya)",
+        "Silver City": "Ciudad argenta",
+        "Sky Temple": "Templo celeste",
+        "Snow Brawl": "Contienda nevada",
+        "Temple Arena": "Arena del Templo",
+        "Tomb of the Spider Queen": "Tumba de la reina araña",
+        "Towers of Doom": "Torres de la perdición",
+        "Trial Grounds": "Terrenos de prueba",
+        "Volskaya Foundry": "Fundición de Volskaya",
+        "Warhead Junction": "Cruce nuclear"
+      },
+      "objectiveDescription": {
+        "Alterac Pass": [
+          "Captura el campamento de prisioneros enemigo para invocar a tu caballería. Los campamentos pueden ser recapturados por héroes y esbirros, ¡así que vigílalos bien!",
+          "Los soldados de la caballería cargan por cada vía cuando son invocados otorgando un incremento de daño y velocidad de movimiento a los héroes aliados cercanos.",
+          "El núcleo de cada equipo ha sido reemplazado por un general que lucha contra los enemigos atacantes. Destruir una fortaleza reduce la Armadura del general."
+        ],
+        "Battlefield of Eternity": [
+          "El lugarteniente angelical Ilarian y el señor demoníaco Beleth están trabados en una batalla sin fin.",
+          "Ayuda a tu inmortal aliado a luchar contra su enemigo y alzarse con la victoria.",
+          "¡Lucha codo a codo con tu inmortal mientras desata el caos contra las estructuras enemigas!"
+        ],
+        "Blackheart's Bay": [
+          "Ataca cofres del tesoro y mercenarios para recoger doblones.",
+          "¡Entrega tus doblones a Almanegra, o los dejarás caer cuando mueras!",
+          "Después de recibir suficientes doblones de tu equipo, Almanegra bombardeará las estructuras de tu enemigo."
+        ],
+        "Blackheart's Revenge": [
+          "Impide que los héroes enemigos recojan las balas de cañón y disparen los cañones sobre el barco de Almanegra.",
+          "Defiende el barco hasta que destruya el núcleo enemigo en el muelle para ganar."
+        ],
+        "Braxis Holdout": [
+          "Se activarán dos faros periódicamente. Captura los dos para llenar tu celda de contención con zerg.",
+          "Cuando alguna de las celdas de contención esté llena, las dos se abrirán y liberarán oleadas de zerg contra la base de los equipos.",
+          "Resiste contra los zerg enemigos y ayuda a los tuyos. Ellos atacarán a los héroes, así que enfréntalos con cuidado."
+        ],
+        "Braxis Outpost": [
+          "Los héroes no pueden sanarse en el área inicial. Las Piedras de hogar no funcionan.",
+          "Las esferas de regeneración aparecen por todo el campo de batalla. Recógelas para sanarte.",
+          "No hay objetivos adicionales en el campo de batalla. Destruye el Núcleo del enemigo y gana."
+        ],
+        "Checkpoint: Hanamura": [
+          "En esta contienda no hay Núcleos. La partida termina cuando la carga llega al final o cuando el tiempo se agota.",
+          "La carga solo aparecerá para tu equipo. Párate junto a ella para que se mueva hasta el final antes de que se agote el tiempo."
+        ],
+        "Cursed Hollow": [
+          "Lord Cuervo crea Tributos periódicamente. ¡Reúnelos para tu equipo!",
+          "¡Después de capturar tres Tributos, Lord Cuervo maldecirá a tus enemigos!",
+          "Las estructuras malditas no atacan, y la salud de los esbirros malditos se reduce a 1 de salud."
+        ],
+        "Dragon Shire": [
+          "¡Hay dos sagrarios que tu equipo debe controlar para activar la estatua del Caballero dragón!",
+          "Mientras está activada, ¡lleva a un héroe a la estatua para liberarlo de su prisión!",
+          "¡Utiliza el inmenso poder del Dragón para arrasar con las estructuras enemigas!"
+        ],
+        "Garden Arena": [
+          "¡Mata a los monstruos del jardín para conseguir semillas!",
+          "¡Recoge 100 semillas para ganar!"
+        ],
+        "Garden of Terror": [
+          "La Reina Sombranegra invocará una semilla periódicamente. ¡Derrota a sus defensores reptantes y consíguela para tu equipo!",
+          "Tras conseguir tres semillas, los Terrores agrestes inmediatamente avanzarán bajo tierra por cada vía.",
+          "¡Los Terrores agrestes neutralizan las estructuras enemigas, así que lucha junto a ellos!"
+        ],
+        "Garden of Terror Classic": [
+          "Por la noche, emergerán espantajos de los jardines.",
+          "¡Mata a los reptantes y recoge semillas para tu equipo!",
+          "Cuando tengas 100 semillas, ¡controla a tu Terror agreste y destruye a tu enemigo!"
+        ],
+        "Hanamura Temple": [
+          "A intervalos regulares, aparece una carga en el centro del campo de batalla que puede ser disputada por ambos equipos.",
+          "Quédate cerca de la carga para moverla a su destino. Evita que el enemigo intente hacer lo mismo.",
+          "Una vez que un equipo escolte la carga hasta su destino, ¡esta disparará a las estructuras del enemigo!"
+        ],
+        "Haunted Mines": [
+          "¡Las Minas embrujadas se abrirán periódicamente con un ejército de no-muertos al acecho!",
+          "¡Destruye a los no-muertos y recoge sus calaveras para fortalecer a tus gólems!",
+          "Una vez que un equipo recoja 55 calaveras, surgirán gólems para los dos equipos. ¡Cuantas más calaveras junte tu equipo, más fuerte será tu gólem!"
+        ],
+        "Industrial District": [
+          "Los héroes no pueden sanarse en el área inicial. Las Piedras de hogar no funcionan.",
+          "Las esferas de regeneración aparecen por todo el campo de batalla. Recógelas para sanarte.",
+          "No hay objetivos adicionales en el campo de batalla. Destruye el Núcleo del enemigo y gana."
+        ],
+        "Infernal Shrines": [
+          "Los Sagrarios Infernales reúnen poder periódicamente. Actívalos y prepárate para la pelea.",
+          "Asesina a 40 Guardianes antes que el enemigo para invocar un poderoso Castigador.",
+          "Cada Castigador tiene uno de tres poderes devastadores posibles. Pero ten cuidado, pues concentran sus ataques sobre los héroes."
+        ],
+        "Lost Cavern": [
+          "Los héroes no pueden sanarse en el área inicial. Las Piedras de hogar no funcionan.",
+          "Las esferas de regeneración aparecen por todo el campo de batalla. Recógelas para sanarte.",
+          "No hay objetivos adicionales en el campo de batalla. Destruye el Núcleo del enemigo y gana."
+        ],
+        "Lunar Rocket Racing": [
+          "¡Los héroes automáticamente se mueven hacia la ubicación del cursor del mouse!",
+          "¡Recoge Sobres para tener acceso a diferentes habilidades!",
+          "¡Completa 7 vueltas para ganar! Quien quede último pierde la carrera."
+        ],
+        "Punisher Arena": [
+          "Los Castigadores se atacarán entre sí y a los héroes. Las habilidades mágicas del Castigador cambiarán en todas las rondas.",
+          "Los héroes enemigos valen 4 puntos. El Castigador enemigo vale 10."
+        ],
+        "Sandbox (Cursed Hollow)": [
+          "Lord Cuervo crea Tributos periódicamente. ¡Reúnelos para tu equipo!",
+          "¡Después de capturar tres Tributos, Lord Cuervo maldecirá a tus enemigos!",
+          "Las estructuras malditas no atacan, y la salud de los esbirros malditos se reduce a 1 de salud."
+        ],
+        "Sandbox (Volskaya Foundry)": [
+          "Los puntos de control se activan ocasionalmente. Párate dentro de ellos para capturarlos. La captura te otorga el control de un meca gigante.",
+          "El meca Protector Triglav es controlado por dos jugadores: un piloto y un artillero. ¡Trabajen conjuntamente!",
+          "Las habilidades del Protector infligen gran cantidad de daño tanto a héroes como a estructuras. Úsalo para devastar a tus enemigos."
+        ],
+        "Silver City": [
+          "Los héroes no pueden sanarse en el área inicial. Las Piedras de hogar no funcionan.",
+          "Las esferas de regeneración aparecen por todo el campo de batalla. Recógelas para sanarte.",
+          "No hay objetivos adicionales en el campo de batalla. Destruye el Núcleo del enemigo y gana."
+        ],
+        "Sky Temple": [
+          "Los templos se activan regularmente. Quédate cerca de ellos para capturar su poder.",
+          "¡Mantén tu posición y el templo desatará una descarga abrasadora sobre las estructuras de tus enemigos!",
+          "Los guardianes se enfrentarán a tu equipo por el control de los templos. Mantenlos a raya para que el poder de los templos sea tuyo."
+        ],
+        "Snow Brawl": [
+          "Las bolas de nieve aparecen cerca de héroes, edificaciones, tributos y esferas de regeneración. ¡Recógelas y lánzalas!",
+          "Los tributos nevados aparecen rápidamente. ¡Recógelos para lanzar bolas de nieve enormes a las estructuras enemigas!",
+          "Los muñecos de nieve incompletos se forman periódicamente en el campo de batalla. ¡Usa bolas de nieve para completarlos, y estos se unirán a la lucha!"
+        ],
+        "Temple Arena": [
+          "La cantidad de templos activados puede cambiar en todas las rondas.",
+          "Captura los templos para destruir el núcleo de tu enemigo."
+        ],
+        "Tomb of the Spider Queen": [
+          "Las arañas y héroes enemigos sueltan gemas mágicas cuando mueren. Reúne la mayor cantidad posible.",
+          "¡Entrega tus gemas en uno de los altares de la Reina araña! Si mueres, las dejarás caer.",
+          "El primer equipo que entregue la cantidad requerida de gemas liberará a las tejerredes, que los ayudarán a destruir las defensas enemigas."
+        ],
+        "Towers of Doom": [
+          "Ambos núcleos están protegidos por una barrera impenetrable para los héroes. Para alzarte con la victoria, debes activar los altares.",
+          "Los altares se alzarán periódicamente por el campo de batalla. Actívalos para que tus campanarios disparen sobre el núcleo enemigo. ",
+          "Destruye los campanarios enemigos y captúralos para tu equipo. Cuantos más campanarios tengas, más daño infligirán los altares."
+        ],
+        "Trial Grounds": [
+          "Elimina al equipo enemigo para ganar la ronda.",
+          "Poco después del inicio de la ronda, un objetivo aparecerá en el centro del campo de batalla. ¡Usa su poder para destruir a tus enemigos!",
+          "Los suministros de salud que se encuentran en el campo de batalla restauran gran parte de la salud y de los recursos cuando se obtienen."
+        ],
+        "Volskaya Foundry": [
+          "Los puntos de control se activan ocasionalmente. Párate dentro de ellos para capturarlos. La captura te otorga el control de un meca gigante.",
+          "El meca Protector Triglav es controlado por dos jugadores: un piloto y un artillero. ¡Trabajen conjuntamente!",
+          "Las habilidades del Protector infligen gran cantidad de daño tanto a héroes como a estructuras. Úsalo para devastar a tus enemigos."
+        ]
+      },
+      "objectiveTitle": {
+        "Alterac Pass": [
+          "Campamentos de prisioneros",
+          "Caballería",
+          "Generales"
+        ],
+        "Battlefield of Eternity": [
+          "Lucha contra inmortales",
+          "Derrota a los enemigos",
+          "Devasta los fuertes"
+        ],
+        "Blackheart's Bay": [
+          "Junta doblones",
+          "Entrega los doblones",
+          "Bombardea a tus enemigos"
+        ],
+        "Blackheart's Revenge": [
+          "Mata a los héroes enemigos",
+          "Protege el barco de Almanegra"
+        ],
+        "Braxis Holdout": [
+          "Captura los faros",
+          "Llena las celdas de contención",
+          "Acometida zerg"
+        ],
+        "Braxis Outpost": [
+          "Acción constante",
+          "Esferas de regeneración",
+          "Destruye el Núcleo"
+        ],
+        "Checkpoint: Hanamura": [
+          "No hay Núcleos",
+          "Escolta la carga"
+        ],
+        "Cursed Hollow": [
+          "Recolecta Tributos",
+          "Maldice a tus enemigos",
+          "Fuertes y esbirros malditos"
+        ],
+        "Dragon Shire": [
+          "Controla los sagrarios",
+          "Libera al Caballero dragón",
+          "Devasta los fuertes enemigos"
+        ],
+        "Garden Arena": [
+          "Derrota a los Terrores nocturnos",
+          "Recoge semillas"
+        ],
+        "Garden of Terror": [
+          "Engendración de semillas",
+          "Recoge semillas",
+          "Terrores agrestes"
+        ],
+        "Garden of Terror Classic": [
+          "Lucha contra los reptantes",
+          "Recoge semillas",
+          "Controla el Terror agreste"
+        ],
+        "Hanamura Temple": [
+          "Una sola carga",
+          "Escolta la carga",
+          "Bombardea al enemigo"
+        ],
+        "Haunted Mines": [
+          "Aventúrate bajo tierra",
+          "Recoge las calaveras",
+          "Libera a los gólems"
+        ],
+        "Industrial District": [
+          "Acción constante",
+          "Esferas de regeneración",
+          "Destruye el núcleo"
+        ],
+        "Infernal Shrines": [
+          "Activa los sagrarios",
+          "Derrota a los guardianes",
+          "Cuídate del Castigador"
+        ],
+        "Lost Cavern": [
+          "Acción constante",
+          "Esferas de regeneración",
+          "Destruye el Núcleo"
+        ],
+        "Lunar Rocket Racing": [
+          "Carrera de cohete",
+          "Sobres",
+          "Carrera"
+        ],
+        "Punisher Arena": [
+          "Cuidado con los Castigadores",
+          "Asesinatos victoriosos"
+        ],
+        "Sandbox (Cursed Hollow)": [
+          "Recolecta Tributos",
+          "Maldice a tus enemigos",
+          "Fuertes y esbirros malditos"
+        ],
+        "Sandbox (Volskaya Foundry)": [
+          "Puntos de captura",
+          "Controla el Protector",
+          "Destruye todo"
+        ],
+        "Silver City": [
+          "Acción constante",
+          "Esferas de regeneración",
+          "Destruye el Núcleo"
+        ],
+        "Sky Temple": [
+          "Captura los templos",
+          "Conserva el control de los templos",
+          "Defiende los templos"
+        ],
+        "Snow Brawl": [
+          "Lanza bolas de nieve",
+          "Recolecta tributos",
+          "Crea muñecos de nieve"
+        ],
+        "Temple Arena": [
+          "Templos cambiantes",
+          "Desata su poder"
+        ],
+        "Tomb of the Spider Queen": [
+          "Recoge las gemas",
+          "Entrega las gemas",
+          "Invoca las tejerredes"
+        ],
+        "Towers of Doom": [
+          "Núcleos protegidos",
+          "Activa los altares",
+          "Captura los campanarios"
+        ],
+        "Trial Grounds": [
+          "Prueba de fuego",
+          "Prueba experimental",
+          "Suministros de salud"
+        ],
+        "Volskaya Foundry": [
+          "Puntos de captura",
+          "Controla el Protector",
+          "Destruye todo"
+        ]
+      }
+    }
+  }
+}
