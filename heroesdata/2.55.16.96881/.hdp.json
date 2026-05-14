@@ -3,7 +3,7 @@
   "json": "full",
   "extracted": true,
   "files": {
-    "data": {
+    "[data]": {
       "announcerdata": "announcerdata_96881.json",
       "bannerdata": "bannerdata_96881.json",
       "boostdata": "boostdata_96881.json",
@@ -22,9 +22,147 @@
       "typedescriptiondata": "typedescriptiondata_96881.json",
       "unitdata": "unitdata_96881.json",
       "veterancydata": "veterancydata_96881.json",
-      "voicelinedata": "voicelinedata_96881.json"
+      "voicelinedata": "voicelinedata_96881.json",
+      "[maps]": {
+        "alterac_pass": {
+          "unitdata": "unitdata_96881.patch.json",
+          "veterancydata": "veterancydata_96881.patch.json"
+        },
+        "battlefield_of_eternity": {
+          "unitdata": "unitdata_96881.patch.json",
+          "veterancydata": "veterancydata_96881.patch.json"
+        },
+        "blackhearts_bay": {
+          "unitdata": "unitdata_96881.patch.json"
+        },
+        "blackhearts_revenge": {
+          "announcerdata": "announcerdata_96881.patch.json",
+          "unitdata": "unitdata_96881.patch.json"
+        },
+        "braxis_holdout": {
+          "unitdata": "unitdata_96881.patch.json",
+          "veterancydata": "veterancydata_96881.patch.json"
+        },
+        "braxis_outpost": {
+          "unitdata": "unitdata_96881.patch.json",
+          "veterancydata": "veterancydata_96881.patch.json"
+        },
+        "checkpoint_hanamura": {
+          "announcerdata": "announcerdata_96881.patch.json",
+          "unitdata": "unitdata_96881.patch.json",
+          "veterancydata": "veterancydata_96881.patch.json"
+        },
+        "cursed_hollow": {
+          "unitdata": "unitdata_96881.patch.json"
+        },
+        "deadmans_stand": {
+          "unitdata": "unitdata_96881.patch.json",
+          "veterancydata": "veterancydata_96881.patch.json"
+        },
+        "deadmans_stand_heroic": {
+          "unitdata": "unitdata_96881.patch.json",
+          "veterancydata": "veterancydata_96881.patch.json"
+        },
+        "dragon_shire": {
+          "unitdata": "unitdata_96881.patch.json"
+        },
+        "escape_from_braxis": {
+          "unitdata": "unitdata_96881.patch.json",
+          "veterancydata": "veterancydata_96881.patch.json"
+        },
+        "escape_from_braxis_heroic": {
+          "unitdata": "unitdata_96881.patch.json",
+          "veterancydata": "veterancydata_96881.patch.json"
+        },
+        "garden_arena": {
+          "announcerdata": "announcerdata_96881.patch.json",
+          "unitdata": "unitdata_96881.patch.json",
+          "veterancydata": "veterancydata_96881.patch.json"
+        },
+        "garden_of_terror": {
+          "unitdata": "unitdata_96881.patch.json",
+          "veterancydata": "veterancydata_96881.patch.json"
+        },
+        "garden_of_terror_classic": {
+          "unitdata": "unitdata_96881.patch.json",
+          "veterancydata": "veterancydata_96881.patch.json"
+        },
+        "hanamura_temple": {
+          "unitdata": "unitdata_96881.patch.json",
+          "veterancydata": "veterancydata_96881.patch.json"
+        },
+        "haunted_mines": {
+          "unitdata": "unitdata_96881.patch.json"
+        },
+        "industrial_district": {
+          "unitdata": "unitdata_96881.patch.json",
+          "veterancydata": "veterancydata_96881.patch.json"
+        },
+        "infernal_shrines": {
+          "unitdata": "unitdata_96881.patch.json",
+          "veterancydata": "veterancydata_96881.patch.json"
+        },
+        "lost_cavern": {
+          "unitdata": "unitdata_96881.patch.json",
+          "veterancydata": "veterancydata_96881.patch.json"
+        },
+        "lunar_rocket_racing": {
+          "unitdata": "unitdata_96881.patch.json"
+        },
+        "pull_party": {
+          "unitdata": "unitdata_96881.patch.json"
+        },
+        "punisher_arena": {
+          "announcerdata": "announcerdata_96881.patch.json",
+          "unitdata": "unitdata_96881.patch.json",
+          "veterancydata": "veterancydata_96881.patch.json"
+        },
+        "sandbox_cursed_hollow": {
+          "unitdata": "unitdata_96881.patch.json"
+        },
+        "sandbox_volskaya_foundry": {
+          "unitdata": "unitdata_96881.patch.json",
+          "veterancydata": "veterancydata_96881.patch.json"
+        },
+        "silver_city": {
+          "unitdata": "unitdata_96881.patch.json"
+        },
+        "sky_temple": {
+          "unitdata": "unitdata_96881.patch.json",
+          "veterancydata": "veterancydata_96881.patch.json"
+        },
+        "snow_brawl": {
+          "unitdata": "unitdata_96881.patch.json"
+        },
+        "temple_arena": {
+          "announcerdata": "announcerdata_96881.patch.json",
+          "unitdata": "unitdata_96881.patch.json",
+          "veterancydata": "veterancydata_96881.patch.json"
+        },
+        "tomb_of_the_spider_queen": {
+          "unitdata": "unitdata_96881.patch.json",
+          "veterancydata": "veterancydata_96881.patch.json"
+        },
+        "towers_of_doom": {
+          "unitdata": "unitdata_96881.patch.json",
+          "veterancydata": "veterancydata_96881.patch.json"
+        },
+        "trial_grounds": {
+          "announcerdata": "announcerdata_96881.patch.json",
+          "unitdata": "unitdata_96881.patch.json",
+          "veterancydata": "veterancydata_96881.patch.json"
+        },
+        "volskaya_foundry": {
+          "unitdata": "unitdata_96881.patch.json",
+          "veterancydata": "veterancydata_96881.patch.json"
+        },
+        "warhead_junction": {
+          "unitdata": "unitdata_96881.patch.json",
+          "veterancydata": "veterancydata_96881.patch.json"
+        }
+      }
     },
-    "gamestrings": {
+    "[gamestrings]": {
       "dede": "gamestrings_96881_dede.json",
       "enus": "gamestrings_96881_enus.json",
       "eses": "gamestrings_96881_eses.json",
@@ -37,19 +175,19 @@
       "ruru": "gamestrings_96881_ruru.json",
       "zhcn": "gamestrings_96881_zhcn.json",
       "zhtw": "gamestrings_96881_zhtw.json",
-      "mapdata-dede": "gamestrings_mapdata_96881_dede.json",
-      "mapdata-enus": "gamestrings_mapdata_96881_enus.json",
-      "mapdata-eses": "gamestrings_mapdata_96881_eses.json",
-      "mapdata-esmx": "gamestrings_mapdata_96881_esmx.json",
-      "mapdata-frfr": "gamestrings_mapdata_96881_frfr.json",
-      "mapdata-itit": "gamestrings_mapdata_96881_itit.json",
-      "mapdata-kokr": "gamestrings_mapdata_96881_kokr.json",
-      "mapdata-plpl": "gamestrings_mapdata_96881_plpl.json",
-      "mapdata-ptbr": "gamestrings_mapdata_96881_ptbr.json",
-      "mapdata-ruru": "gamestrings_mapdata_96881_ruru.json",
-      "mapdata-zhcn": "gamestrings_mapdata_96881_zhcn.json",
-      "mapdata-zhtw": "gamestrings_mapdata_96881_zhtw.json",
-      "maps": {
+      "mapdata|dede": "gamestrings_mapdata_96881_dede.json",
+      "mapdata|enus": "gamestrings_mapdata_96881_enus.json",
+      "mapdata|eses": "gamestrings_mapdata_96881_eses.json",
+      "mapdata|esmx": "gamestrings_mapdata_96881_esmx.json",
+      "mapdata|frfr": "gamestrings_mapdata_96881_frfr.json",
+      "mapdata|itit": "gamestrings_mapdata_96881_itit.json",
+      "mapdata|kokr": "gamestrings_mapdata_96881_kokr.json",
+      "mapdata|plpl": "gamestrings_mapdata_96881_plpl.json",
+      "mapdata|ptbr": "gamestrings_mapdata_96881_ptbr.json",
+      "mapdata|ruru": "gamestrings_mapdata_96881_ruru.json",
+      "mapdata|zhcn": "gamestrings_mapdata_96881_zhcn.json",
+      "mapdata|zhtw": "gamestrings_mapdata_96881_zhtw.json",
+      "[maps]": {
         "alterac_pass": {
           "dede": "gamestrings_96881_dede.patch.json",
           "enus": "gamestrings_96881_enus.patch.json",
