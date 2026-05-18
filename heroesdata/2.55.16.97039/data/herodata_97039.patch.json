@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.16.97039"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Arthas/life/amount",
+    "value": 2750
+  },
+  {
+    "op": "replace",
+    "path": "/items/Arthas/life/regenRate",
+    "value": 5.7304
+  },
+  {
+    "op": "replace",
+    "path": "/items/Zagara/talents/Level1/2/isQuest",
+    "value": true
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.16.97039"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MurkyMarchoftheMurlocs|MurkyMarchOfTheMurlocs|Heroic",
+    "value": "Время восстановления: 90 сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|ArthasFrostmourneHungersPrimed|Trait",
+    "value": "Следующая автоатака Артаса дополнительно нанесет <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">71</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона и восполнит ему <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>\u00A0ед. маны при попадании.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> убийства воинов или попадания по героям «Жаждой Ледяной Скорби» до конца матча увеличивают дополнительный урон этой способности, а также урон от автоатак Артаса на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0ед."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasDeathCoil|ArthasDeathCoil|Q",
+    "value": "Наносит цели <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">164</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед. урона.<n/><n/>«Лик смерти» можно применить к Артасу, чтобы восполнить ему <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">275</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед. здоровья."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasFrostmourneHungers|ArthasFrostmourneHungers|Trait",
+    "value": "При активации следующая автоатака Артаса станет мгновенной, дополнительно нанесет <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">71</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона и восполнит ему <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>\u00A0ед. маны при попадании.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> убийства воинов или попадания по героям «Жаждой Ледяной Скорби» до конца матча увеличивают дополнительный урон от способности, а также урон от автоатак Артаса на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0ед."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasPathofFrost|ArthasPathofFrost|Active",
+    "value": "Позволяет мгновенно призвать транспорт, скорость которого увеличивается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">648%</c>. При получении урона действие транспорта не отменяется. Максимальная длительность\u00A0— <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0сек.<n/><n/>Когда Артас спешивается, все враги поблизости замедляются на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0сек. и получают <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AzmodanDemonicInvasion|AzmodanDemonicInvasion|Heroic",
+    "value": "Обрушивает на противников небольшую армию демонических рубак, каждый из которых наносит при падении <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед. урона. Демоны-рубаки наносят <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед. урона, имеют <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">750</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед. здоровья и существуют в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> сек. Когда рубаки погибают, они взрываются, нанося находящимся рядом противникам <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед. урона (герои получают вдвое больше урона).<n/><n/>Можно использовать во время поддержания «Всепоглощающего пламени»."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ChenFlyingKick|ChenFlyingKick|Q",
+    "value": "Пробивает цель ногой, нанося <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">130</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед. урона."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ChenFortifyingBrew|ChenFortifyingBrew|Trait",
+    "value": "Чэнь пьет из бочонка, ежесекундно накапливая <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> ед. отвара и получая временный щит прочностью <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">190</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед. Максимальная прочность щита – <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">570</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед. Щит действует еще <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> сек. после того, как Чэнь прекращает пить."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DeathwingMoltenFlameCancel|DeathwingMoltenFlameCancel|Q",
+    "value": "После паузы в <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> сек. Смертокрыл выдыхает поток огня, наносящий <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед. урона раз в <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.125</c> сек. Поглощает <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c> ед. энергии в секунду."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DeathwingMoltenFlame|DeathwingMoltenFlame|Q",
+    "value": "После паузы в <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> сек. Смертокрыл выдыхает поток огня, наносящий <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед. урона раз в <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.125</c> сек. Поглощает <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c> ед. энергии в секунду."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/TinkerRockItTurret|TinkerRockItTurret|Q",
+    "value": "Устанавливает турель, которая наносит <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">43</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона. Турель постепенно теряет здоровье в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0сек. <n/><n/>После установки турели в первую очередь поражают ближайшего героя."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/TychusDrakkenLaserDrill|TychusDrakkenLaserDrill|Heroic",
+    "value": "Вызывает лазерную установку, атакующую находящихся рядом противников и наносящую <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">142</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед. урона в секунду. При повторном использовании позволяет выбрать новую цель. Время действия – <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c> сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/MurkyHeroicAbilityMarchoftheMurlocs|MurkyMarchOfTheMurlocs|Heroic|Level10",
+    "value": "Время восстановления: 90 сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArthasMasteryFrostPresenceHowlingBlast|ArthasFrostPresenceHowlingBlastTalent|W|Level1",
+    "value": "Увеличивает площадь поражения «Воющего ветра» на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> поражайте героев «Воющим ветром».<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Награда:</c> после того как Артас поразит героев <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c>\u00A0<lang rule=\"plural\" val=\"\">раз,раза,раз</lang>, дальность действия «Воющего ветра» увеличится на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> и он будет поражать врагов на своем пути.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Награда:</c> после того как Артас поразит героев <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c>\u00A0<lang rule=\"plural\" val=\"\">раз,раза,раз</lang>, «Воющий ветер» также будет замедлять пораженных героев на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c>\u00A0сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArthasPathofFrost|ArthasPathofFrost|Active|Level20",
+    "value": "Позволяет мгновенно призвать транспорт, скорость которого увеличивается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">648%</c>. При получении урона действие транспорта не отменяется. Максимальная длительность\u00A0— <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0сек.<n/><n/>Когда Артас спешивается, все враги поблизости замедляются на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0сек. и получают <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AzmodanHeroicAbilityDemonicInvasion|AzmodanDemonicInvasion|Heroic|Level10",
+    "value": "Обрушивает на противников небольшую армию демонических рубак, каждый из которых наносит при падении <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед. урона. Демоны-рубаки наносят <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед. урона, имеют <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">750</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед. здоровья и существуют в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> сек. Когда рубаки погибают, они взрываются, нанося находящимся рядом противникам <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед. урона (герои получают вдвое больше урона).<n/><n/>Можно использовать во время поддержания «Всепоглощающего пламени»."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChenMasteryFortifyingBrewEnoughToShare|ChenFortifyingBrewEnoughToShareTalent|Trait|Level13",
+    "value": "«Укрепляющий отвар» мгновенно дает Чэню щит прочностью <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">190</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед. и ежесекундно укрывает находящихся рядом союзных героев щитом прочностью <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед., вплоть до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">420</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DeathwingDestroyersRampage|DeathwingDestroyersRampage|Trait|Level20",
+    "value": "В течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>\u00A0сек. после приземления в облике <c val=\"ef6e28-ad231e\" hlt-name=\"#DeathwingDestroyer\">Сокрушителя</c> Смертокрыл наносит на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c> больше урона, а его базовые способности восстанавливаются на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> быстрее.<n/><n/>Обновляется при нанесении урона героям."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweOneManWreckingCrew|GazloweOneManWreckingCrew|Passive|Level1",
+    "value": "Когда Газлоу использует базовую способность, его следующая автоатака в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> сек. наносит на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c> больше урона. Максимум зарядов – <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisDarkConversionWrathOfNathreza|MalGanisDarkConversionWrathOfNathreza|Heroic|Level20",
+    "value": "Герои, находящиеся рядом с целью «Темного обмена», в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> сек. получают урон, равный <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85%</c> передаваемого объема здоровья.<n/><n/>«Прикосновение вампира» игнорирует этот урон."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisFelClawsWillOfTichondrius|MalGanisFelClawsWillOfTichondrius|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> поражайте героев «Когтями Скверны», чтобы до конца матча увеличить их урон на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c>\u00A0ед.<n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> при поражении <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>\u00A0героев первыми двумя ударами «Когтей Скверны» урон последнего удара увеличивается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>\u00A0ед.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Награда:</c> когда показатель дополнительного урона достигнет <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>\u00A0ед., последний удар будет похищать <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4%</c> здоровья вражеских героев, а время действия оглушения увеличится на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c>\u00A0сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisNecroticEmbraceWingedGuard|MalGanisNecroticEmbraceWingedGuard|W|Level1",
+    "value": "Каждый раз, когда «Объятия смерти» поражают героя, Мал'Ганис получает <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75</c> ед. кинетической брони, защищающей его от следующей автоатаки героя.<n/><n/>Если у Мал'Ганиса нет ни одного заряда «Бронированных крыльев», он получает <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> заряд спустя <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisNightRushDeepSleep|MalGanisNightRushDeepSleep|E|Level13",
+    "value": "Увеличивает время действия сна от «Крыльев ночи» на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75</c> сек., а бонус к скорости передвижения – на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/TychusHeroicAbilityDrakkenLaserDrill|TychusDrakkenLaserDrill|Heroic|Level10",
+    "value": "Вызывает лазерную установку, атакующую находящихся рядом противников и наносящую <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">142</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед. урона в секунду. При повторном использовании позволяет выбрать новую цель. Время действия – <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c> сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/TinkerRockItTurret",
+    "value": "Устанавливает турель, которая наносит <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">43</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона. Турель постепенно теряет здоровье в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0сек. <n/><n/>После установки турели в первую очередь поражают ближайшего героя."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/TinkerRockItTurretPlaceholderDummy",
+    "value": "Устанавливает турель, которая наносит <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">43</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона. Турель постепенно теряет здоровье в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0сек. <n/><n/>После установки турели в первую очередь поражают ближайшего героя."
+  }
+]

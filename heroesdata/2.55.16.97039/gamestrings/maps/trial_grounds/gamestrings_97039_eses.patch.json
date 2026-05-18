@@ -1,0 +1,477 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Trial Grounds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/LeaveVehicle|DragonKnightLeaveDragon|Trait",
+    "value": "Tiempo de reutilización: 10 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/LeaveVehicle|LeavePlantHorror|Trait",
+    "value": "Tiempo de reutilización: 10 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/LeaveVehicle|VolskayaVehicleLeaveVehicle|Trait",
+    "value": "Tiempo de reutilización: 10 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/DragonsDinner|DragonsDinner|Q",
+    "value": "Tiempo de reutilización: 12 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/MercDefenderHealingPulse|MercDefenderHealingPulse|Z",
+    "value": "Tiempo de reutilización: 10 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/RingOfFire|RingOfFire|W",
+    "value": "Tiempo de reutilización: 5 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/VolskayaCoreRocketFist|VolskayaCoreRocketFist|Q",
+    "value": "Tiempo de reutilización: 6 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|DeathwingHearthstone|B",
+    "value": "Tras canalizar durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4.5</c> s, te teletransportas de vuelta a la Cámara de las Tormentas."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneBrew|B",
+    "value": "Te teletransporta de vuelta al altar y te restaura toda la salud y el brebaje al instante."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneNoMana|B",
+    "value": "Te teletransporta de vuelta al altar y te restaura toda la salud al instante."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|Hearthstone|B",
+    "value": "¡Presume de animación de piedra de hogar!"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/LeaveVehicle|DragonKnightLeaveDragon|Trait",
+    "value": "Sales del vehículo."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleActivateParticleCannon|VolskayaVehicleActivateParticleCannon|Q",
+    "value": "Disparas el cañón de partículas e infliges <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">190</c> de daño en el área."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "Cargas contra el objetivo e infliges <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c> de daño en un área. <n/><n/>Los objetivos que no son héroes sufren un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500%</c> más de daño."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleCharge|VolskayaVehicleCharge|Q",
+    "value": "Cargas contra el objetivo e infliges <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c> de daño en un área. <n/><n/>Los objetivos que no son héroes sufren un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500%</c> más de daño."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleCoreChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "Cargas contra el objetivo e infliges <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c> de daño en un área. <n/><n/>Los objetivos que no son héroes sufren un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500%</c> más de daño."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleInitiateParticleCannon|VolskayaVehicleInitiateParticleCannon|Q",
+    "value": "Empiezas a extender el área de impacto del cañón de partículas. Reactiva la habilidad para disparar, lo que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">190</c> de daño en el área seleccionada."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleRocketFist|VolskayaVehicleRocketFist|W",
+    "value": "Disparas un puño cohete que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">150</c> de daño al primer héroe o estructura en su camino. El puño empuja a los héroes durante un máximo de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s y deshabilita las estructuras durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s.<n/><n/>El puño mata al instante a los esbirros a su paso."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleSkyLaser|VolskayaVehicleSkyLaser|E",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">Lanzamiento vectorial</c><n/>Trazas una línea en el suelo que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60</c> de daño. Tras <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s, explota e inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">380</c> de daño."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleStructureChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "Cargas contra el objetivo e infliges <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c> de daño en un área. <n/><n/>Los objetivos que no son héroes sufren un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500%</c> más de daño."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleTacticalStrikes|VolskayaVehicleTacticalStrikes|W",
+    "value": "Activa la habilidad para disparar misiles a la ubicación del cursor. Cada misil inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">38</c> de daño, pero gasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> de energía. Vuelve a activarla para dejar de disparar.<n/><n/>Inflige un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> menos de daño a estructuras."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleTShield|VolskayaVehicleTShield|E",
+    "value": "Obtienes <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> de armadura y otorgas a los héroes aliados cercanos <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500</c> de escudo. Dura <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/VolskayaCoreRocketFist|VolskayaCoreRocketFist|Q",
+    "value": "Disparas un puño cohete que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">150</c> de daño al primer héroe en su camino. El cohete empuja y aturde a los héroes durante un máximo de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/name/LeaveVehicle|DragonKnightLeaveDragon|Trait",
+    "value": "Abandonar vehículo"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/name/VolskayaVehicleChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "Carga"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/name/VolskayaVehicleCharge|VolskayaVehicleCharge|Q",
+    "value": "Carga"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/name/VolskayaVehicleCoreChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "Carga"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/name/VolskayaVehicleStructureChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "Carga"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/DragonsDinner|DragonsDinner|Q",
+    "value": "Apresar"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercDefenderHealingPulse|MercDefenderHealingPulse|Z",
+    "value": "Centinela: Pulso de sanación"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/OverwatchMechanicRepair|OverwatchMechanicRepair|Z",
+    "value": "Ingeniero: reparar"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/RingOfFire|RingOfFire|W",
+    "value": "Anillo de energía"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/VolskayaCoreRocketFist|VolskayaCoreRocketFist|Q",
+    "value": "Puño cohete"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/RingOfFire|RingOfFire|W",
+    "value": "Creas un anillo de energía que inflige daño a los objetivos en su interior."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaCoreRocketFist|VolskayaCoreRocketFist|Q",
+    "value": "Lanza un puño que inflige daño y empuja a los héroes."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleActivateParticleCannon|VolskayaVehicleActivateParticleCannon|Q",
+    "value": "Infliges daño en el área seleccionada."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "Cargas contra el objetivo e infliges daño en un área."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleCharge|VolskayaVehicleCharge|Q",
+    "value": "Cargas contra el objetivo e infliges daño en un área."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleCoreChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "Cargas contra el objetivo e infliges daño en un área."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleInitiateParticleCannon|VolskayaVehicleInitiateParticleCannon|Q",
+    "value": "Cargas el cañón de partículas."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleRocketFist|VolskayaVehicleRocketFist|W",
+    "value": "Lanzas un puño que inflige daño, inmoviliza a los héroes y deshabilita las torres."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleSkyLaser|VolskayaVehicleSkyLaser|E",
+    "value": "Infliges daño con demora en una línea."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleStructureChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "Cargas contra el objetivo e infliges daño en un área."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleTacticalStrikesDeactivate|VolskayaVehicleGatlingCannonCancel|W",
+    "value": "Dejas de disparar."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleTacticalStrikes|VolskayaVehicleTacticalStrikes|W",
+    "value": "Disparas una serie de misiles."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleTShield|VolskayaVehicleTShield|E",
+    "value": "Otorga armadura temporal al protector y escuda a los aliados cercanos."
+  },
+  {
+    "op": "add",
+    "path": "/items/announcer/name/CommodoreFord",
+    "value": "Comodoro Ford"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostTimeOnPoint",
+    "value": "~AwardValue~% del tiempo del equipo en el punto"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostTimeOnPoint",
+    "value": "Defensa del punto"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostTimeOnPoint",
+    "value": "~TooltipAmount~ s en el punto"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/Artifact",
+    "value": "Cura una gran cantidad de salud, a la vez que aumenta considerablemente tu poder y vulnerabilidad."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/BioticEmitter",
+    "value": "Creas un Emisor biótico que restaura un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c> de la salud y el maná máximos de los héroes aliados cercanos durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> s."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mercenario fuerte y con mucha salud. Ataca cuerpo a cuerpo. Se especializa en absorber daño de los ataques de fortificaciones enemigas.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser2",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mercenario fuerte y con mucha salud. Ataca cuerpo a cuerpo. Se especializa en absorber daño de los ataques de fortificaciones enemigas.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser3",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mercenario fuerte y con mucha salud. Ataca cuerpo a cuerpo. Se especializa en absorber daño de los ataques de fortificaciones enemigas.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeIndividual",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mercenario fuerte y con mucha salud. Ataca cuerpo a cuerpo. Se especializa en absorber daño de los ataques de fortificaciones enemigas.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/energyType/VolskayaVehicle",
+    "value": "Energía"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/energyType/VolskayaVehicleGunner",
+    "value": "Energía"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/lifeType/VolskayaVehicle",
+    "value": "Salud"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/lifeType/VolskayaVehicleGunner",
+    "value": "Salud"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/JungleGraveGolemDefender",
+    "value": "Sicario colosal"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/RegenGlobe",
+    "value": "Pack de salud"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Artifact",
+    "value": "Artefacto"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BioticEmitter",
+    "value": "Emisor biótico"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ControlPointMinimapIconA",
+    "value": "Punto de control: icono A en el minimapa"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ControlPointMinimapIconB",
+    "value": "Punto de control: icono B en el minimapa"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ControlPointMinimapIconC",
+    "value": "Punto de control: icono C en el minimapa"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DragonSpiritsPickup",
+    "value": "Espíritus dragones"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DummyUnitToHandleDamageInstances",
+    "value": "Creaciones de Volskaya"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HealingPulsePickup",
+    "value": "Pulso de sanación"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HeavenImmortal",
+    "value": "Inmortal del cielo artificial"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HellImmortal",
+    "value": "Inmortal del infierno artificial"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser",
+    "value": "Secuaz"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser2",
+    "value": "Secuaz"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser3",
+    "value": "Secuaz"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeIndividual",
+    "value": "Centinela"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperLaner",
+    "value": "Zapador"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperDefender",
+    "value": "Soldado de asalto"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperDefenderAttackMissile",
+    "value": "Mercenario empalador (misil defensor)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperLaner",
+    "value": "Soldado de asalto"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperLanerAttackMissile",
+    "value": "Mercenario empalador (misil de camino)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchBossImprisonMissile",
+    "value": "Jefe de Overwatch: misil de Apresar"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchBossImprisonMissileDummy",
+    "value": "Jefe de Overwatch: misil de Apresar (prueba)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchMechanic",
+    "value": "Ingeniero"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchTurret",
+    "value": "Torreta"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchTurretPlayer",
+    "value": "Torreta (jugador)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TrGrRavenLordTribute",
+    "value": "Réplica de tributo del Señor de los Cuervos"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TurretPickup",
+    "value": "Torreta"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/VolskayaMercCaptureSlab",
+    "value": "Losa de captura de mercenario de Volskaya"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/VolskayaVehicleParticleCannonMissile",
+    "value": "Misil de cañón de partículas"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/VolskayaVehicleRocketFistMissile",
+    "value": "Misil de puño cohete"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/VolskayaVehicleSkyLaserMoverUnit",
+    "value": "Unidad de movimiento de rayo láser"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/VolskayaVehicleTacticalStrikesMissile",
+    "value": "Misil de ataques tácticos"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WheresWeirdo",
+    "value": "Dónde está el bicho raro"
+  }
+]

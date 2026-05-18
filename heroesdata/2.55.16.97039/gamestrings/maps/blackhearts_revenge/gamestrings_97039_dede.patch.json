@@ -1,0 +1,102 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Blackheart's Revenge"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|DeathwingHearthstone|B",
+    "value": "Teleportiert den Helden nach <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4.5</c> Sek. Kanalisieren zum Altar der Stürme."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneBrew|B",
+    "value": "Teleportiert den Helden zurück zum Altar und stellt sofort sämtliche Lebenspunkte und sämtliches Gebräu wieder her."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneNoMana|B",
+    "value": "Teleportiert den Helden zurück zum Altar und stellt sofort sämtliche Lebenspunkte wieder her."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|Hearthstone|B",
+    "value": "Teleportiert den Helden zurück zum Altar und stellt sofort sämtliche Lebenspunkte und sämtliches Mana wieder her."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/AttackCore|AttackCore|E",
+    "value": "Zitadelle angreifen"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/CannonAttack|CannonAttack|W",
+    "value": "Kanonenangriff"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/move|Move|W",
+    "value": "Bewegen"
+  },
+  {
+    "op": "add",
+    "path": "/items/announcer/name/CommodoreFord",
+    "value": "Kommodore Ford"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/Boat",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\"> Gewaltiges, stark befestigtes Gebäude. Verursacht hohen Flächenschaden und verfügt über einen Schild, der sich außerhalb des Kampfes regeneriert. Wer dieses Gebäude zerstört, erringt den Sieg.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AmmoCache",
+    "value": "Kanonenkugel"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AttackCoreMissile",
+    "value": "Angriffsgeschoss"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Boat",
+    "value": "Schiff"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Cannon",
+    "value": "Kanone"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/CannonAttackMissile",
+    "value": "Kanonengeschoss"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/CannonballMinimapIconUnit",
+    "value": "Kanonenkugel - Minikarte, Symbol - Einheit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ClickableChestEasterEggUnit",
+    "value": "Klickbare Truhe - Easter Egg, Einheit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TeleporterNeutral",
+    "value": "Teleporter"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TeleporterTeam",
+    "value": "Portal"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WheresWeirdo",
+    "value": "Such den Spinner"
+  }
+]

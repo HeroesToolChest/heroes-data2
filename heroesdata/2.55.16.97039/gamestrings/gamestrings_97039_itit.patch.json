@@ -1,0 +1,137 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.16.97039"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MurkyMarchoftheMurlocs|MurkyMarchOfTheMurlocs|Heroic",
+    "value": "Recupero: 90 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|ArthasFrostmourneHungersPrimed|Trait",
+    "value": "L'attacco base successivo infligge <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">71</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni aggiuntivi. Infliggere danni ripristina <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> Mana.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missione:</c> Uccidere un servitore o colpire un nemico con Fame di Gelidanima aumenta permanentemente i suoi danni aggiuntivi e i danni degli attacchi base di Arthas di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasDeathCoil|ArthasDeathCoil|Q",
+    "value": "Infligge <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">164</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni al nemico selezionato.<n/><n/>Può essere usata su se stessi per rigenerare <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">275</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Salute."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasFrostmourneHungers|ArthasFrostmourneHungers|Trait",
+    "value": "All'attivazione, l'attacco base successivo di Arthas colpisce immediatamente e infligge <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">71</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni aggiuntivi. Infliggere danni ripristina <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> Mana.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missione:</c> Uccidere un servitore o colpire un nemico con Fame di Gelidanima aumenta permanentemente i suoi danni aggiuntivi e i danni degli attacchi base di Arthas di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasPathofFrost|ArthasPathofFrost|Active",
+    "value": "All'attivazione, evoca all'istante la cavalcatura con il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">648%</c> di velocità di movimento aggiuntiva. Subire danni non congeda più la cavalcatura di Arthas. Dura fino a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> s.<n/><n/>Quando Arthas congeda la cavalcatura, rallenta tutti i nemici vicini del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s e infligge <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AzmodanDemonicInvasion|AzmodanDemonicInvasion|Heroic",
+    "value": "Fa piovere dall'alto una piccola armata di Grunt Demoniaci sui nemici, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni all'impatto. I Grunt infliggono <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni, hanno <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">750</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Salute e durano fino a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> s. I Grunt esplodono alla morte, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni ai nemici vicini. L'effetto è raddoppiato contro gli eroi nemici.<n/><n/>Può essere usato durante l'incanalamento di Terra Bruciata."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ChenFlyingKick|ChenFlyingKick|Q",
+    "value": "Scalcia attraverso il nemico selezionato, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">130</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ChenFortifyingBrew|ChenFortifyingBrew|Trait",
+    "value": "Chen beve dalla sua botte, ottenendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> Birra e <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">190</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> scudo temporaneo al secondo mentre beve, fino a un massimo di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">570</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>. Lo scudo dura per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s dopo che Chen ha smesso di bere."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DeathwingMoltenFlameCancel|DeathwingMoltenFlameCancel|Q",
+    "value": "Dopo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> s, Alamorte emette un getto infuocato, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni ogni <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.125</c> s. Sottrae <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c> Energia al secondo. "
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DeathwingMoltenFlame|DeathwingMoltenFlame|Q",
+    "value": "Dopo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> s, Alamorte emette un getto infuocato, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni ogni <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.125</c> s. Sottrae <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c> Energia al secondo. "
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/TinkerRockItTurret|TinkerRockItTurret|Q",
+    "value": "Crea una torretta che infligge <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">43</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni. Esaurisce la Salute in <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> s. <n/><n/>Le torrette danno priorità all'eroe nemico più vicino al momento della creazione."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/TychusDrakkenLaserDrill|TychusDrakkenLaserDrill|Heroic",
+    "value": "Attiva una Trivella Laser per attaccare i nemici, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">142</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni al secondo. Il cambio di bersaglio richiede la riattivazione. Dura <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/MurkyHeroicAbilityMarchoftheMurlocs|MurkyMarchOfTheMurlocs|Heroic|Level10",
+    "value": "Recupero: 90 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArthasMasteryFrostPresenceHowlingBlast|ArthasFrostPresenceHowlingBlastTalent|W|Level1",
+    "value": "Aumenta l'area di Folata Gelida del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missione:</c> Colpisci gli eroi nemici con Folata Gelida.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Ricompensa:</c> Dopo aver colpito <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> eroi, la portata di Folata Gelida aumenta del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> e colpisce i nemici sulla sua traiettoria.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Ricompensa:</c> Dopo aver colpito <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c> eroi, Spira Mortale rallenta gli eroi colpiti del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArthasPathofFrost|ArthasPathofFrost|Active|Level20",
+    "value": "All'attivazione, evoca all'istante la cavalcatura con il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">648%</c> di velocità di movimento aggiuntiva. Subire danni non congeda più la cavalcatura di Arthas. Dura fino a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> s.<n/><n/>Quando Arthas congeda la cavalcatura, rallenta tutti i nemici vicini del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s e infligge <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AzmodanHeroicAbilityDemonicInvasion|AzmodanDemonicInvasion|Heroic|Level10",
+    "value": "Fa piovere dall'alto una piccola armata di Grunt Demoniaci sui nemici, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni all'impatto. I Grunt infliggono <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni, hanno <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">750</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Salute e durano fino a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> s. I Grunt esplodono alla morte, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni ai nemici vicini. L'effetto è raddoppiato contro gli eroi nemici.<n/><n/>Può essere usato durante l'incanalamento di Terra Bruciata."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChenMasteryFortifyingBrewEnoughToShare|ChenFortifyingBrewEnoughToShareTalent|Trait|Level13",
+    "value": "Pinta Fortificante fornisce subito <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">190</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Scudo a Chen e <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Scudo al secondo agli eroi alleati vicini, fino a un massimo di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">420</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DeathwingDestroyersRampage|DeathwingDestroyersRampage|Trait|Level20",
+    "value": "Per i <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s successivi all'atterraggio in forma di <c val=\"ef6e28-ad231e\" hlt-name=\"#DeathwingDestroyer\">Distruttore</c>, i danni di Alamorte aumentano del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c> e il tempo di recupero delle sue abilità base scorre il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> più velocemente.<n/><n/>Infliggere danni agli eroi rinnova l'effetto."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweOneManWreckingCrew|GazloweOneManWreckingCrew|Passive|Level1",
+    "value": "Usare abilità base fa sì che il successivo attacco base di Sparachiodi entro <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> s infligga il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c> di danni aggiuntivi. Accumula fino a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> cariche."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisDarkConversionWrathOfNathreza|MalGanisDarkConversionWrathOfNathreza|Heroic|Level20",
+    "value": "Gli eroi nemici vicini al bersaglio subiscono danni pari al <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85%</c> della Salute trasferita in <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s.<n/><n/>Non gode degli effetti di Tocco Vampirico."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisFelClawsWillOfTichondrius|MalGanisFelClawsWillOfTichondrius|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missione:</c> Colpisci gli eroi con Vilartigli per aumentare permanentemente i danni di Vilartigli di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c>.<n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missione:</c> Colpisci <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> eroi con i primi 2 colpi per far sì che l'ultimo attacco infligga danni aumentati di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Ricompensa:</c> Al raggiungimento di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> danni aggiuntivi, lo stordimento finale aumenta di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> s e l'attacco finale sottrae il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4%</c> della Salute dell'eroe nemico."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisNecroticEmbraceWingedGuard|MalGanisNecroticEmbraceWingedGuard|W|Level1",
+    "value": "Ogni volta che Abbraccio Necrotico colpisce un eroe nemico, Mal'Ganis ottiene <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75</c> Resistenza fisica contro il successivo attacco base di un eroe nemico.<n/><n/>Se Mal'Ganis non ha cariche di Guardia Alata, ne ottiene <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> dopo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisNightRushDeepSleep|MalGanisNightRushDeepSleep|E|Level13",
+    "value": "Aumenta di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75</c> s la durata del sonno di Scatto Notturno e del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> il bonus alla velocità di movimento."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/TychusHeroicAbilityDrakkenLaserDrill|TychusDrakkenLaserDrill|Heroic|Level10",
+    "value": "Attiva una Trivella Laser per attaccare i nemici, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">142</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni al secondo. Il cambio di bersaglio richiede la riattivazione. Dura <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/TinkerRockItTurret",
+    "value": "Crea una torretta che infligge <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">43</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni. Esaurisce la Salute in <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> s. <n/><n/>Le torrette danno priorità all'eroe nemico più vicino al momento della creazione."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/TinkerRockItTurretPlaceholderDummy",
+    "value": "Crea una torretta che infligge <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">43</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni. Esaurisce la Salute in <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> s. <n/><n/>Le torrette danno priorità all'eroe nemico più vicino al momento della creazione."
+  }
+]

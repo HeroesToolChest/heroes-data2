@@ -1,0 +1,67 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.16.97039"
+  },
+  {
+    "op": "replace",
+    "path": "/items/AzmodanDemonicInvasionDemonGrunt/radius",
+    "value": 0.5
+  },
+  {
+    "op": "replace",
+    "path": "/items/AzmodanDemonicInvasionDemonGrunt/innerRadius",
+    "value": 0.5
+  },
+  {
+    "op": "replace",
+    "path": "/items/AzmodanDemonicInvasionDemonGrunt/life/regenRate",
+    "value": -37.5
+  },
+  {
+    "op": "replace",
+    "path": "/items/AzmodanDemonicInvasionDemonGrunt/weapons/0/range",
+    "value": 0.8
+  },
+  {
+    "op": "replace",
+    "path": "/items/AzmodanDemonicInvasionDemonGrunt/weapons/0/damage",
+    "value": 30
+  },
+  {
+    "op": "replace",
+    "path": "/items/AzmodanDemonWarrior/weapons/0/range",
+    "value": 2
+  },
+  {
+    "op": "replace",
+    "path": "/items/GazloweXplodiumChargeArkReaktorRockItTurret/weapons/0/damage",
+    "value": 43
+  },
+  {
+    "op": "replace",
+    "path": "/items/TinkerRockItTurret/weapons/0/damage",
+    "value": 43
+  },
+  {
+    "op": "replace",
+    "path": "/items/TinkerRockItTurretPlaceholderDummy/weapons/0/damage",
+    "value": 43
+  },
+  {
+    "op": "replace",
+    "path": "/items/TychusLaserDrill/life/amount",
+    "value": 1500
+  },
+  {
+    "op": "replace",
+    "path": "/items/TychusLaserDrill/life/regenRate",
+    "value": -60
+  },
+  {
+    "op": "replace",
+    "path": "/items/TychusLaserDrill/life/regenScale",
+    "value": 0.04
+  }
+]

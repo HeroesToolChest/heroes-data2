@@ -1,0 +1,137 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.16.97039"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MurkyMarchoftheMurlocs|MurkyMarchOfTheMurlocs|Heroic",
+    "value": "冷卻時間：90秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|ArthasFrostmourneHungersPrimed|Trait",
+    "value": "下一次的基本攻擊傷害會額外造成 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">71</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> 點傷害。造成傷害時恢復 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> 點法力值。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任務：</c>使用霜之哀傷的飢渴擊殺小兵或命中英雄時，永久提高其傷害加成與阿薩斯的基本攻擊傷害 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> 點。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasDeathCoil|ArthasDeathCoil|Q",
+    "value": "對目標敵人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">164</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害。<n/><n/>對自己施放時，可恢復<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">275</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點生命值。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasFrostmourneHungers|ArthasFrostmourneHungers|Trait",
+    "value": "啟動後，阿薩斯會立即發動下一次基本攻擊，額外造成 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">71</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> 點傷害，並且在造成傷害後恢復 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> 點法力值。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任務：</c>使用霜之哀傷的飢渴擊殺小兵或命中英雄時，永久提高其傷害加成與阿薩斯的基本攻擊傷害 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> 點。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasPathofFrost|ArthasPathofFrost|Active",
+    "value": "主動觸發可立即騎乘，並獲得 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">648%</c> 的額外移動速度加成。受到傷害時，阿薩斯不會離開此坐騎。持續時間最長為 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> 秒。<n/><n/>阿薩斯離開坐騎時，會使附近所有敵人緩速 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c>，持續 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> 秒，同時造成 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> 點傷害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AzmodanDemonicInvasion|AzmodanDemonicInvasion|Heroic",
+    "value": "召喚一群惡魔蠻兵從天而降，每一名蠻兵落地時可對敵人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害。惡魔蠻兵的攻擊可造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害，擁有<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">750</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點生命值，並且最多可存在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>秒。惡魔蠻兵死亡時會爆炸，對附近敵人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害，對敵方英雄造成兩倍傷害。<n/><n/>可在引導獄焚魔光時使用。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ChenFlyingKick|ChenFlyingKick|Q",
+    "value": "踢擊並且穿越敵方目標，造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">130</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ChenFortifyingBrew|ChenFortifyingBrew|Trait",
+    "value": "老陳從酒桶豪飲，獲得<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>點酒力值，並且每秒會獲得<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">190</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點臨時護盾值，最多可累積至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">570</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點。結束飲酒後，護盾可存在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DeathwingMoltenFlameCancel|DeathwingMoltenFlameCancel|Q",
+    "value": "在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c>秒後，死亡之翼吐出一道烈焰，每<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.125</c>秒造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害。每秒消耗<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c>點能量。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DeathwingMoltenFlame|DeathwingMoltenFlame|Q",
+    "value": "在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c>秒後，死亡之翼吐出一道烈焰，每<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.125</c>秒造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害。每秒消耗<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c>點能量。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/TinkerRockItTurret|TinkerRockItTurret|Q",
+    "value": "建造一個造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">43</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害的砲塔。其在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>秒內會持續損失生命值。<n/><n/>砲塔建造完成時，會優先攻擊距離最近的敵方英雄。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/TychusDrakkenLaserDrill|TychusDrakkenLaserDrill|Heroic",
+    "value": "空投一台雷射鑽洞機攻擊附近的敵人，每秒對鎖定的目標造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">142</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害，再次使用技能可指定新的目標，存在時間為<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/MurkyHeroicAbilityMarchoftheMurlocs|MurkyMarchOfTheMurlocs|Heroic|Level10",
+    "value": "冷卻時間：90秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArthasMasteryFrostPresenceHowlingBlast|ArthasFrostPresenceHowlingBlastTalent|W|Level1",
+    "value": "凜風衝擊的攻擊範圍提升 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任務：</c>以凜風衝擊命中敵方英雄。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">獎勵：</c>命中 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> 名英雄後，凜風衝擊的攻擊範圍提高 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>，並會攻擊其路徑上的敵人。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">獎勵：</c>命中 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c> 名英雄時，死亡纏繞會使被命中的敵人緩速 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>，持續 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c> 秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArthasPathofFrost|ArthasPathofFrost|Active|Level20",
+    "value": "主動觸發可立即騎乘，並獲得 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">648%</c> 的額外移動速度加成。受到傷害時，阿薩斯不會離開此坐騎。持續時間最長為 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> 秒。<n/><n/>阿薩斯離開坐騎時，會使附近所有敵人緩速 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c>，持續 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> 秒，同時造成 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> 點傷害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AzmodanHeroicAbilityDemonicInvasion|AzmodanDemonicInvasion|Heroic|Level10",
+    "value": "召喚一群惡魔蠻兵從天而降，每一名蠻兵落地時可對敵人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害。惡魔蠻兵的攻擊可造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害，擁有<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">750</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點生命值，並且最多可存在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>秒。惡魔蠻兵死亡時會爆炸，對附近敵人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害，對敵方英雄造成兩倍傷害。<n/><n/>可在引導獄焚魔光時使用。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChenMasteryFortifyingBrewEnoughToShare|ChenFortifyingBrewEnoughToShareTalent|Trait|Level13",
+    "value": "石形絕釀會立即賦予老陳可吸收<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">190</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害的護盾，並且每秒會賦予附近友方英雄可吸收<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害的護盾，最多可吸收<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">420</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DeathwingDestroyersRampage|DeathwingDestroyersRampage|Trait|Level20",
+    "value": "以<c val=\"ef6e28-ad231e\" hlt-name=\"#DeathwingDestroyer\">毀滅者</c>形態降落後的 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> 秒內，死亡之翼的傷害提高 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c>，基本技能冷卻速度提高 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>。<n/><n/>對英雄造成傷害可重置此效果。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweOneManWreckingCrew|GazloweOneManWreckingCrew|Passive|Level1",
+    "value": "施放基本技能可使加茲魯維在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>秒內的下一次基本攻擊額外造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c>傷害。最多累積<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>次使用次數。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisDarkConversionWrathOfNathreza|MalGanisDarkConversionWrathOfNathreza|Heroic|Level20",
+    "value": "目標附近的敵方英雄會在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>秒內，受到相當於被轉移的生命值<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85%</c>的傷害。<n/><n/>此效果不會觸發吸血之觸。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisFelClawsWillOfTichondrius|MalGanisFelClawsWillOfTichondrius|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任務：</c>以魔化之爪命中英雄時，可永久提高魔化之爪的傷害值 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c> 點。<n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任務：</c>前兩次揮擊命中 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> 名英雄時，可使最後一擊的傷害提高 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> 點。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">獎勵：</c>獲得 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> 點額外傷害時，最後一次擊暈時間延長 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> 秒，且最後一擊會竊取敵方英雄 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4%</c> 生命值。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisNecroticEmbraceWingedGuard|MalGanisNecroticEmbraceWingedGuard|W|Level1",
+    "value": "凋亡之擁每次擊中敵方英雄可獲得<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75</c>點物理護甲，降低下一次敵方英雄的基本攻擊傷害。<n/><n/>當魔翼防護的使用次數耗盡時，瑪爾加尼斯會在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>秒後獲得<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>次使用次數。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisNightRushDeepSleep|MalGanisNightRushDeepSleep|E|Level13",
+    "value": "夜襲的沉睡持續時間提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75</c>秒，移動速度加成提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/TychusHeroicAbilityDrakkenLaserDrill|TychusDrakkenLaserDrill|Heroic|Level10",
+    "value": "空投一台雷射鑽洞機攻擊附近的敵人，每秒對鎖定的目標造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">142</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害，再次使用技能可指定新的目標，存在時間為<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/TinkerRockItTurret",
+    "value": "建造一個造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">43</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害的砲塔。其在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>秒內會持續損失生命值。<n/><n/>砲塔建造完成時，會優先攻擊距離最近的敵方英雄。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/TinkerRockItTurretPlaceholderDummy",
+    "value": "建造一個造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">43</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害的砲塔。其在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>秒內會持續損失生命值。<n/><n/>砲塔建造完成時，會優先攻擊距離最近的敵方英雄。"
+  }
+]

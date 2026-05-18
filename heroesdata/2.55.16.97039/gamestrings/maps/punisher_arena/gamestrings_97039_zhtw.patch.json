@@ -1,0 +1,207 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Punisher Arena"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/MercPunisherLanerFixate|MercPunisherLanerFixate|W",
+    "value": "冷卻時間：10秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/MercPunisherLanerLeap|MercPunisherLanerLeap|Q",
+    "value": "冷卻時間：15秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|DeathwingHearthstone|B",
+    "value": "引導<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4.5</c>秒後，傳送回風暴祭壇。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneBrew|B",
+    "value": "將你傳送回祭壇，立刻恢復所有生命值與酒力值。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneNoMana|B",
+    "value": "將你傳送回祭壇，立刻恢復所有生命值。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|Hearthstone|B",
+    "value": "將你傳送回祭壇，立刻恢復所有生命值與法力值。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/:PASSIVE:|ShrineAuraMinionAura|Q",
+    "value": "強化附近的英雄、小兵和傭兵，使其攻擊傷害、技能傷害和治療效果提高<s val=\"8783e6\" hlt-name=\"StandardTooltip\">20%。</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/CursedShrineSpawn|CursedShrineSpawn|Q",
+    "value": "在指定地點生成受詛咒的小兵。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/MercPunisherLanerFixate|MercPunisherLanerFixate|W",
+    "value": "鎖定目標並進入狂怒狀態，移動速度提高100% ，攻擊速度提高0% ，持續20秒。在此期間，暴虐魔無法接收任何命令。<n/><n/>效果結束時，暴虐魔昏迷1秒。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/MercPunisherLanerLeap|MercPunisherLanerLeap|Q",
+    "value": "跳至目標地點，造成1點傷害並且使著陸地點的目標昏迷1秒。<n/><n/><'( ^o ^ c)</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/:PASSIVE:|ShrineAuraMinionAura|Q",
+    "value": "聖壇小兵靈氣"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/CursedShrineSpawn|CursedShrineSpawn|Q",
+    "value": "生成受詛咒的小兵"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercPunisherLanerFixate|MercPunisherLanerFixate|W",
+    "value": "鎖定"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercPunisherLanerLeap|MercPunisherLanerLeap|Q",
+    "value": "暴虐飛躍"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/MercPunisherLanerLeap|MercPunisherLanerLeap|Q",
+    "value": "使區域內的敵人昏迷"
+  },
+  {
+    "op": "add",
+    "path": "/items/announcer/name/CommodoreFord",
+    "value": "福特准將"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/ParalyzeStructure",
+    "value": "使目標建築癱瘓，並且對該目標造成相當於其最大生命值1%的傷害，同時在10秒內，每秒吸取1點能量。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/VehiclePlantHorror",
+    "value": "植物懼魔"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/CursedShrineMinion",
+    "value": "骷髏"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DiabloArcaneUnit",
+    "value": "秘法"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DiabloShrine",
+    "value": "聖壇"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DiabloShrineWarningUnit",
+    "value": "迪亞布羅聖壇警告單位"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercPunisherLaner",
+    "value": "暴虐魔"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperDefender",
+    "value": "標槍兵"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperLaner",
+    "value": "標槍兵"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerDefender",
+    "value": "沉淪魔薩滿"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerDefenderMinion",
+    "value": "沉淪魔獵犬"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerLaner",
+    "value": "沉淪魔薩滿"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerLanerMinion",
+    "value": "沉淪魔獵犬"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BLURBRVisionBlockedHeaven",
+    "value": "柵門"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BLURBRVisionBlockedHell",
+    "value": "柵門"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BLURTLVisionBlockedHeaven",
+    "value": "柵門"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BLURTLVisionBlockedHell",
+    "value": "柵門"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BRULBLVisionBlockedHeaven",
+    "value": "柵門"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BRULBLVisionBlockedHell",
+    "value": "柵門"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BRULTRVisionBlockedHeaven",
+    "value": "柵門"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BRULTRVisionBlockedHell",
+    "value": "柵門"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WeaponRackSpecialHeaven",
+    "value": "特殊武器架（天堂）"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WeaponRackSpecialHell",
+    "value": "特殊武器架（地獄）"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WheresWeirdo",
+    "value": "Where's Weirdo"
+  }
+]

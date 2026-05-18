@@ -1,0 +1,457 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Trial Grounds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/LeaveVehicle|DragonKnightLeaveDragon|Trait",
+    "value": "Czas odnowienia: 10 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/LeaveVehicle|LeavePlantHorror|Trait",
+    "value": "Czas odnowienia: 10 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/LeaveVehicle|VolskayaVehicleLeaveVehicle|Trait",
+    "value": "Czas odnowienia: 10 sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/DragonsDinner|DragonsDinner|Q",
+    "value": "Czas odnowienia: 12 sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/MercDefenderHealingPulse|MercDefenderHealingPulse|Z",
+    "value": "Czas odnowienia: 10 sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/RingOfFire|RingOfFire|W",
+    "value": "Czas odnowienia: 5 sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/VolskayaCoreRocketFist|VolskayaCoreRocketFist|Q",
+    "value": "Czas odnowienia: 6 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|DeathwingHearthstone|B",
+    "value": "Po podtrzymywaniu przez <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4.5</c> sek. teleportuje Śmiercioskrzydłego z powrotem do Dworu Burz."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneBrew|B",
+    "value": "Teleportuje cię z powrotem do Ołtarza, przywracając natychmiastowo pełne zasoby zdrowia i napitku."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneNoMana|B",
+    "value": "Teleportuje cię z powrotem do Ołtarza, przywracając natychmiastowo pełny zasób zdrowia."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|Hearthstone|B",
+    "value": "Pochwal się swoją animacją Kamienia Powrotu!"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/LeaveVehicle|DragonKnightLeaveDragon|Trait",
+    "value": "Opuść Pojazd"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleActivateParticleCannon|VolskayaVehicleActivateParticleCannon|Q",
+    "value": "Mech wystrzeliwuje z Działa Cząsteczkowego, zadając <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">190</c> pkt. obrażeń na danym obszarze."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "Mech szarżuje na cel, zadając <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c> pkt. obrażeń na danym obszarze. <n/><n/>Cele niebędące bohaterami otrzymują obrażenia zwiększone o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleCharge|VolskayaVehicleCharge|Q",
+    "value": "Mech szarżuje na cel, zadając <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c> pkt. obrażeń na danym obszarze. <n/><n/>Cele niebędące bohaterami otrzymują obrażenia zwiększone o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleCoreChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "Mech szarżuje na cel, zadając <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c> pkt. obrażeń na danym obszarze. <n/><n/>Cele niebędące bohaterami otrzymują obrażenia zwiększone o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleInitiateParticleCannon|VolskayaVehicleInitiateParticleCannon|Q",
+    "value": "Rozpoczyna rozszerzanie zasięgu Działa Cząsteczkowego. Ponowna aktywacja powoduje oddanie strzału, który zadaje na obszarze docelowym <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">190</c> pkt. obrażeń."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleRocketFist|VolskayaVehicleRocketFist|W",
+    "value": "Mech wystrzeliwuje Odrzutową Pięść, która zadaje <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">150</c> pkt. obrażeń pierwszemu trafionemu bohaterowi lub budowli na swojej drodze. Pięść odpycha bohaterów przez maksymalnie <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> sek. i unieszkodliwia budowle na <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> sek.<n/><n/>Natychmiast zabija stronników na swojej drodze."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleSkyLaser|VolskayaVehicleSkyLaser|E",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">Celowanie wektorowe</c><n/>Narysuj na ziemi linię, zadając <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60</c> pkt. obrażeń. Po upływie <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> sek., linia wybucha, zadając <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">380</c> pkt. obrażeń."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleStructureChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "Mech szarżuje na cel, zadając <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c> pkt. obrażeń na danym obszarze. <n/><n/>Cele niebędące bohaterami otrzymują obrażenia zwiększone o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleTacticalStrikes|VolskayaVehicleTacticalStrikes|W",
+    "value": "Przełącz, aby wystrzelić pociski w pozycję kursora. Każdy pocisk zadaje <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">38</c> pkt. obrażeń, ale zużywa <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> pkt. energii. Aktywuj ponownie, aby zatrzymać ostrzał.<n/><n/>Zadaje budowlom obrażenia zmniejszone o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleTShield|VolskayaVehicleTShield|E",
+    "value": "Mech zyskuje <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> pkt. pancerza i zapewnia pobliskim bohaterom sojuszniczym osłonę o mocy <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500</c> pkt. Czas działania: <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/VolskayaCoreRocketFist|VolskayaCoreRocketFist|Q",
+    "value": "Mech wystrzeliwuje Odrzutową Pięść, która zadaje <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">150</c> pkt. obrażeń pierwszemu trafionemu bohaterowi. Pięść odpycha i ogłusza bohaterów na maksymalnie <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/name/LeaveVehicle|DragonKnightLeaveDragon|Trait",
+    "value": "Opuść Pojazd"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/DragonsDinner|DragonsDinner|Q",
+    "value": "Uwięzienie"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercDefenderHealingPulse|MercDefenderHealingPulse|Z",
+    "value": "Wartownik – Uzdrawiający Impuls"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/OverwatchMechanicRepair|OverwatchMechanicRepair|Z",
+    "value": "Inżynier, Naprawa"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/RingOfFire|RingOfFire|W",
+    "value": "Pierścień Energii"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/VolskayaCoreRocketFist|VolskayaCoreRocketFist|Q",
+    "value": "Odrzutowa Pięść"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/RingOfFire|RingOfFire|W",
+    "value": "Tworzy Pierścień Energii, który rani cele znajdujące się wewnątrz"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaCoreRocketFist|VolskayaCoreRocketFist|Q",
+    "value": "Wystrzeliwuje pięść, która zadaje obrażenia bohaterom i odpycha ich"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleActivateParticleCannon|VolskayaVehicleActivateParticleCannon|Q",
+    "value": "Zadaje obrażenia na wskazanym obszarze"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "Szarżuje na cel i zadaje obrażenia obszarowe"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleCharge|VolskayaVehicleCharge|Q",
+    "value": "Szarżuje na cel i zadaje obrażenia obszarowe"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleCoreChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "Szarżuje na cel i zadaje obrażenia obszarowe"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleInitiateParticleCannon|VolskayaVehicleInitiateParticleCannon|Q",
+    "value": "Ładuje Działo Cząsteczkowe"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleRocketFist|VolskayaVehicleRocketFist|W",
+    "value": "Wystrzeliwuje pięść, która zadaje obrażenia, unieruchamia bohaterów oraz dezaktywuje wieże"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleSkyLaser|VolskayaVehicleSkyLaser|E",
+    "value": "Zadaje opóźnione obrażenia w linii prostej"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleStructureChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "Szarżuje na cel i zadaje obrażenia obszarowe"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleTacticalStrikesDeactivate|VolskayaVehicleGatlingCannonCancel|W",
+    "value": "Wstrzymuje ogień"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleTacticalStrikes|VolskayaVehicleTacticalStrikes|W",
+    "value": "Wystrzeliwuje serię pocisków"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleTShield|VolskayaVehicleTShield|E",
+    "value": "Zapewnia tymczasowy pancerz Protektorowi oraz osłony pobliskim sojusznikom"
+  },
+  {
+    "op": "add",
+    "path": "/items/announcer/name/CommodoreFord",
+    "value": "Komodor Ford"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostTimeOnPoint",
+    "value": "~AwardValue~% czasu drużyny na punkcie kontrolnym"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostTimeOnPoint",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Strażnik Punktu,Strażniczka Punktu</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostTimeOnPoint",
+    "value": "~TooltipAmount~ sek. na punkcie kontrolnym"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/Artifact",
+    "value": "Leczy, przywracając duży odsetek zdrowia oraz znacznie zwiększa moc bohatera i jego podatność."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/BioticEmitter",
+    "value": "Tworzy Emiter Biotyczny, którzy przywraca wszystkim pobliskim bohaterom sojuszniczym <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c> ich maksymalnego zdrowia i many w ciągu <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Wytrzymały najemnik o dużej puli zdrowia. Atakuje w zwarciu. Jego najmocniejszą stroną jest przyjmowanie na siebie ataków fortyfikacji wroga.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser2",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Wytrzymały najemnik o dużej puli zdrowia. Atakuje w zwarciu. Jego najmocniejszą stroną jest przyjmowanie na siebie ataków fortyfikacji wroga.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser3",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Wytrzymały najemnik o dużej puli zdrowia. Atakuje w zwarciu. Jego najmocniejszą stroną jest przyjmowanie na siebie ataków fortyfikacji wroga.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeIndividual",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Wytrzymały najemnik o dużej puli zdrowia. Atakuje w zwarciu. Jego najmocniejszą stroną jest przyjmowanie na siebie ataków fortyfikacji wroga.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/energyType/VolskayaVehicle",
+    "value": "Energia"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/energyType/VolskayaVehicleGunner",
+    "value": "Energia"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/lifeType/VolskayaVehicle",
+    "value": "Zdrowie"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/lifeType/VolskayaVehicleGunner",
+    "value": "Zdrowie"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/JungleGraveGolemDefender",
+    "value": "Mega-egzekutor"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/RegenGlobe",
+    "value": "Apteczka"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Artifact",
+    "value": "Artefakt"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BioticEmitter",
+    "value": "Emiter Biotyczny"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ControlPointMinimapIconA",
+    "value": "Punkt kontrolny – ikona A minimapy"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ControlPointMinimapIconB",
+    "value": "Punkt kontrolny – ikona B minimapy"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ControlPointMinimapIconC",
+    "value": "Punkt kontrolny – ikona C minimapy"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DragonSpiritsPickup",
+    "value": "Smocze Duchy"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DummyUnitToHandleDamageInstances",
+    "value": "Twory Zakładów Volskaya"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HealingPulsePickup",
+    "value": "Uzdrawiający Impuls"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HeavenImmortal",
+    "value": "Imitacja Niebiańskiego Nieśmiertelnego"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HellImmortal",
+    "value": "Imitacja Piekielnego Nieśmiertelnego"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser",
+    "value": "Zakapiory"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser2",
+    "value": "Zakapiory"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser3",
+    "value": "Zakapiory"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeIndividual",
+    "value": "Wartownik"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperLaner",
+    "value": "Saper"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperDefender",
+    "value": "Szturmowiec"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperDefenderAttackMissile",
+    "value": "Najemnik Palownik (Obrońca Pocisk)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperLaner",
+    "value": "Szturmowiec"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperLanerAttackMissile",
+    "value": "Najemnik Palownik (Aleja Pocisk)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchBossImprisonMissile",
+    "value": "Boss z Overwatch, Uwięzienie, Pocisk"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchBossImprisonMissileDummy",
+    "value": "Boss z Overwatch, Uwięzienie, Pocisk (Manekin)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchMechanic",
+    "value": "Inżynier"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchTurret",
+    "value": "Wieżyczka"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchTurretPlayer",
+    "value": "Turret (Player)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TrGrRavenLordTribute",
+    "value": "Replika Daniny Władcy Kruków"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TurretPickup",
+    "value": "Wieżyczka (Podniesienie)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/VolskayaMercCaptureSlab",
+    "value": "Volskaya Najemnik Zdobyć Płyta"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/VolskayaVehicleParticleCannonMissile",
+    "value": "Działo Cząsteczkowe Pocisk"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/VolskayaVehicleRocketFistMissile",
+    "value": "Odrzutowa Pięść Pocisk"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/VolskayaVehicleSkyLaserMoverUnit",
+    "value": "Laser Ziemia-Powietrze Jednostka Przemieszczająca"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/VolskayaVehicleTacticalStrikesMissile",
+    "value": "Manewr Taktyczny Pocisk"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WheresWeirdo",
+    "value": "Gdzie jest Dziwadło"
+  }
+]

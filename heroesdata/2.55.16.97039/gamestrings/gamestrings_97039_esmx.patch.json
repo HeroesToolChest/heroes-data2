@@ -1,0 +1,137 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.16.97039"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MurkyMarchoftheMurlocs|MurkyMarchOfTheMurlocs|Heroic",
+    "value": "Tiempo de reutilización: 90 segundos"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|ArthasFrostmourneHungersPrimed|Trait",
+    "value": "El próximo ataque básico inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">71</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> más de daño. Infligir daño restituye <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> de maná.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Matar un esbirro o golpear a un héroe con Agonía de escarcha famélica aumenta de forma permanente su daño adicional y tu daño de ataque básico en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasDeathCoil|ArthasDeathCoil|Q",
+    "value": "Inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">164</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño al enemigo objetivo.<n/><n/>Se puede lanzar sobre sí mismo para recuperar <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">275</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de salud."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasFrostmourneHungers|ArthasFrostmourneHungers|Trait",
+    "value": "Actívalo para que tu próximo ataque básico sea inmediato e inflija <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">71</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> más de daño. Infligir daño restituye <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> de maná.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Matar un esbirro o golpear a un héroe con Agonía de escarcha famélica aumenta de forma permanente su daño adicional y tu daño de ataque básico en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasPathofFrost|ArthasPathofFrost|Active",
+    "value": "Actívalo para montarte al instante con un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">648%</c> de velocidad de movimiento adicional. Recibir daño no hace que te desmontes de esta montura. Dura hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> segundos.<n/><n/>Cuando te desmontas, ralentiza a todos los enemigos cercanos un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> segundos e inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AzmodanDemonicInvasion|AzmodanDemonicInvasion|Heroic",
+    "value": "Hace llover sobre los enemigos un pequeño ejército de Brutos demoníacos que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño por impacto. Los Brutos infligen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño, tienen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">750</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de salud y duran hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> segundos. Los Brutos explotan cuando mueren e infligen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos cercanos. El daño se duplica contra héroes enemigos.<n/><n/>Puede usarse durante la canalización de Fuego devastador."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ChenFlyingKick|ChenFlyingKick|Q",
+    "value": "Atraviesa al enemigo con una patada que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">130</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ChenFortifyingBrew|ChenFortifyingBrew|Trait",
+    "value": "Chen bebe de su barril, lo que le otorga <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> de Brebaje y <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">190</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> escudos temporales por segundo, hasta un máximo de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">570</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>. Los escudos duran <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> segundos más después de que deja de beber."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DeathwingMoltenFlameCancel|DeathwingMoltenFlameCancel|Q",
+    "value": "Después de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> segundos, Alamuerte lanza una llamarada de fuego que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño cada <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.125</c> segundos. Drena <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c> de Energía por segundo. "
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DeathwingMoltenFlame|DeathwingMoltenFlame|Q",
+    "value": "Después de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> segundos, Alamuerte lanza una llamarada de fuego que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño cada <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.125</c> segundos. Drena <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c> de Energía por segundo. "
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/TinkerRockItTurret|TinkerRockItTurret|Q",
+    "value": "Crea una torreta que inflija <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">43</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño. Pierde salud durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> segundos. <n/><n/>Las torretas priorizan al héroe enemigo más cercano cuando las creas."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/TychusDrakkenLaserDrill|TychusDrakkenLaserDrill|Heroic",
+    "value": "Llama a un Taladro láser que ataca a los enemigos cercanos e inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">142</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño por segundo. Reactívalo para asignarle un nuevo objetivo. Dura <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c> segundos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/MurkyHeroicAbilityMarchoftheMurlocs|MurkyMarchOfTheMurlocs|Heroic|Level10",
+    "value": "Tiempo de reutilización: 90 segundos"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArthasMasteryFrostPresenceHowlingBlast|ArthasFrostPresenceHowlingBlastTalent|W|Level1",
+    "value": "Aumenta el área de Explosión aullante un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Golpea a héroes enemigos con Explosión aullante.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Después de golpear a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> héroes, el rango de Explosión aullante aumenta un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> y golpea a los enemigos en su camino.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Después de golpear a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c> héroes, Espiral de la muerte ralentiza a los héroes golpeados un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c> segundos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArthasPathofFrost|ArthasPathofFrost|Active|Level20",
+    "value": "Actívalo para montarte al instante con un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">648%</c> de velocidad de movimiento adicional. Recibir daño no hace que te desmontes de esta montura. Dura hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> segundos.<n/><n/>Cuando te desmontas, ralentiza a todos los enemigos cercanos un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> segundos e inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AzmodanHeroicAbilityDemonicInvasion|AzmodanDemonicInvasion|Heroic|Level10",
+    "value": "Hace llover sobre los enemigos un pequeño ejército de Brutos demoníacos que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño por impacto. Los Brutos infligen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño, tienen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">750</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de salud y duran hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> segundos. Los Brutos explotan cuando mueren e infligen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos cercanos. El daño se duplica contra héroes enemigos.<n/><n/>Puede usarse durante la canalización de Fuego devastador."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChenMasteryFortifyingBrewEnoughToShare|ChenFortifyingBrewEnoughToShareTalent|Trait|Level13",
+    "value": "Brebaje vigorizante le otorga a Chen un escudo que absorbe <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">190</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño al instante, y que le otorga cada segundo un escudo a los héroes aliados cercanos que absorbe <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño, hasta un máximo de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">420</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DeathwingDestroyersRampage|DeathwingDestroyersRampage|Trait|Level20",
+    "value": "Durante los siguientes <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> segundos tras el aterrizaje en forma de <c val=\"ef6e28-ad231e\" hlt-name=\"#DeathwingDestroyer\">Destructor</c>, el daño de Alamuerte aumenta un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c> y los tiempos de reutilización de sus habilidades básicas se recargan un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> más rápido.<n/><n/>Infligir daño a los héroes restablece este efecto."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweOneManWreckingCrew|GazloweOneManWreckingCrew|Passive|Level1",
+    "value": "Las habilidades básicas hacen que el próximo ataque básico de Gazlowe dentro de los siguientes <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> segundos inflija un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c> más de daño. Acumula hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> cargas."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisDarkConversionWrathOfNathreza|MalGanisDarkConversionWrathOfNathreza|Heroic|Level20",
+    "value": "Los héroes enemigos cercanos al objetivo reciben un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85%</c> de la salud transferida como daño durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> segundos.<n/><n/>No se beneficia de Toque vampírico."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisFelClawsWillOfTichondrius|MalGanisFelClawsWillOfTichondrius|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Golpea a héroes con Garras viles para aumentar el daño de Garras Viles en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c>.<n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Golpea <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> héroes en los primeros 2 ataques para que el ataque final aumente el daño en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Después de obtener <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> bonificaciones de daño, el aturdimiento final aumenta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> segundos y el golpe final roba un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4%</c> de la salud del enemigo."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisNecroticEmbraceWingedGuard|MalGanisNecroticEmbraceWingedGuard|W|Level1",
+    "value": "Cada vez que Abrazo necrótico golpea a un héroe enemigo, obtienes <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75</c> de Armadura física contra el siguiente ataque básico de héroe enemigo.<n/><n/>Si Guardia alado no tiene más cargas, Mal'Ganis obtiene <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> carga después de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> segundos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisNightRushDeepSleep|MalGanisNightRushDeepSleep|E|Level13",
+    "value": "Aumenta la duración del sueño de Acometida nocturna <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75</c> segundos y la bonificación de velocidad de movimiento un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/TychusHeroicAbilityDrakkenLaserDrill|TychusDrakkenLaserDrill|Heroic|Level10",
+    "value": "Llama a un Taladro láser que ataca a los enemigos cercanos e inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">142</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño por segundo. Reactívalo para asignarle un nuevo objetivo. Dura <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c> segundos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/TinkerRockItTurret",
+    "value": "Crea una torreta que inflija <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">43</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño. Pierde salud durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> segundos. <n/><n/>Las torretas priorizan al héroe enemigo más cercano cuando las creas."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/TinkerRockItTurretPlaceholderDummy",
+    "value": "Crea una torreta que inflija <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">43</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño. Pierde salud durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> segundos. <n/><n/>Las torretas priorizan al héroe enemigo más cercano cuando las creas."
+  }
+]

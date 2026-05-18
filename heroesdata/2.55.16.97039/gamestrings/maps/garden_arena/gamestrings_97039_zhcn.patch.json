@@ -1,0 +1,152 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Garden Arena"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/PlantHorrorOvergrowthPlant|PlantHorrorOvergrowth|W",
+    "value": "冷却时间：15秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|DeathwingHearthstone|B",
+    "value": "在引导<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4.5</c>秒后传送回风暴大厅。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneBrew|B",
+    "value": "将你传送回祭坛，立即恢复所有的生命值和酒量。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneNoMana|B",
+    "value": "将你传送回祭坛，立即恢复所有的生命值。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|Hearthstone|B",
+    "value": "将你传送回祭坛，立即恢复所有生命值和法力值。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/PlantHorrorLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>秒后，使范围内的敌方英雄变成蹒跚怪，无法攻击和使用技能，并且移动速度降低<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">30%</s>，持续<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">3</s>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/PlantHorrorOvergrowthPlant|PlantHorrorOvergrowth|W",
+    "value": "召唤蔓生藤条使附近建筑失效。你对受到蔓生藤条影响的建筑造成的伤害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200%</c>。蔓生藤条的生命值在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c>秒内缓慢失去。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/:PASSIVE:|TerroroftheGarden|Heroic",
+    "value": "<s val=\"cbe8ff-ffffff\" hlt-name=\"StandardTooltipHeader\">花园恐魔（特质）</s><n/><n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">永久不可阻挡。</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/WallCrush|GraveGolemWallCrush|Hidden",
+    "value": "恶灵魔像 拆毁城墙"
+  },
+  {
+    "op": "add",
+    "path": "/items/announcer/name/CommodoreFord",
+    "value": "准将福特"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostDamageToPlants",
+    "value": "对植物造成最多伤害"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/ItemSeedPickup",
+    "value": "移动到附近来采集这颗种子。"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/PlantHorrorThornSpitter",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">充能冷却时间：12秒</s><n/><n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">在目标位置种植一株荆棘喷射者。荆棘喷射者造成</s><s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">61</s><s val=\"8783e6\" hlt-name=\"StandardTooltip\">点伤害。持续</s><s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">10</s><s val=\"8783e6\" hlt-name=\"StandardTooltip\">秒。</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/energyType/VehiclePlantHorror",
+    "value": "法力"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/lifeType/JunglePlantHorror",
+    "value": "生命值"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/lifeType/VehiclePlantHorror",
+    "value": "生命值"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FertileSoil",
+    "value": "肥沃土壤"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ItemSeedPickup",
+    "value": "种子"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ItemSeedPickupPrecursor",
+    "value": "Seed Precursor"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/JunglePlantHorror",
+    "value": "花园恐魔"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PlantHorrorOvergrowthPlant",
+    "value": "蔓生藤条"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PlantHorrorPoisonBulb",
+    "value": "花园恐魔剧毒孢子"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PlantHorrorPoisonBulbMissile",
+    "value": "花园恐魔剧毒孢子飞弹"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PlantHorrorZombie",
+    "value": "花园恐魔僵尸"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Shambler",
+    "value": "蹒跚怪"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerMissile",
+    "value": "Shambler Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerRanged",
+    "value": "蹒跚怪"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerWalker",
+    "value": "蹒跚怪行者"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WheresWeirdo",
+    "value": "寻找怪人"
+  }
+]

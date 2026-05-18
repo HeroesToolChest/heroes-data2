@@ -1,0 +1,137 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.16.97039"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MurkyMarchoftheMurlocs|MurkyMarchOfTheMurlocs|Heroic",
+    "value": "Abklingzeit: 90 Sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|ArthasFrostmourneHungersPrimed|Trait",
+    "value": "Der nächste automatische Angriff verursacht <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">71</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Bonusschaden und stellt <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> Mana wieder her.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Wenn Frostgram hungert einen Diener tötet oder einen Helden trifft, steigen sein Bonusschaden und der Schaden von Arthas' automatischen Angriffen dauerhaft um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasDeathCoil|ArthasDeathCoil|Q",
+    "value": "Fügt einem gegnerischen Ziel <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">164</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden zu.<n/><n/>Kann auf Arthas selbst angewandt werden, um ihn um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">275</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Lebenspunkte zu heilen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasFrostmourneHungers|ArthasFrostmourneHungers|Trait",
+    "value": "Aktivieren, damit Arthas' nächster automatischer Angriff sofort ausgeführt wird und <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">71</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Bonusschaden verursacht. Verursachter Schaden stellt <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> Mana wieder her.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Wenn Frostgram hungert einen Diener tötet oder einen Helden trifft, steigen sein Bonusschaden und der Schaden von Arthas' automatischen Angriffen dauerhaft um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasPathofFrost|ArthasPathofFrost|Active",
+    "value": "Aktivieren, um sofort mit <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">648\u00A0%</c> zusätzlicher Bewegungsgeschwindigkeit aufzusteigen. Arthas wird durch erlittenen Schaden nicht von diesem Reittier geworfen. Hält bis zu <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> Sek. an.<n/><n/>Gegner in der Nähe werden beim Absteigen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> Sek. lang um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30\u00A0%</c> verlangsamt und erleiden <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AzmodanDemonicInvasion|AzmodanDemonicInvasion|Heroic",
+    "value": "Lässt eine kleine Armee dämonischer Streitkräfte auf die Gegner niederregnen, die beim Auftreffen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden verursachen. Diese Dämonenkrieger verursachen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden, haben <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">750</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Lebenspunkte und bleiben bis zu <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> Sek. lang bestehen. Sie explodieren beim Tod und fügen Gegnern in der Nähe <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden zu. Fügt Helden doppelten Schaden zu.<n/><n/>Kann während des Kanalisierens von Alles wird brennen eingesetzt werden."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ChenFlyingKick|ChenFlyingKick|Q",
+    "value": "Führt einen Sprungtritt auf den anvisierten Gegner aus und verursacht <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">130</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ChenFortifyingBrew|ChenFortifyingBrew|Trait",
+    "value": "Chen trinkt aus seinem Fass und erhält pro Sekunde <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> Gebräu und vorübergehend <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">190</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schildpunkte, bis maximal <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">570</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>. Der Schild bleibt nach dem Ende des Trinkens <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> Sek. lang bestehen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DeathwingMoltenFlameCancel|DeathwingMoltenFlameCancel|Q",
+    "value": "Speit nach <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> Sek. einen Flammenstrahl, der alle <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.125</c> Sek. <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden verursacht. Verbraucht pro Sekunde <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c> Energie. "
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DeathwingMoltenFlame|DeathwingMoltenFlame|Q",
+    "value": "Speit nach <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> Sek. einen Flammenstrahl, der alle <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.125</c> Sek. <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden verursacht. Verbraucht pro Sekunde <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c> Energie. "
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/TinkerRockItTurret|TinkerRockItTurret|Q",
+    "value": "Erschafft einen G-Schützturm, der <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">43</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden verursacht. Verliert <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0Sek. lang Lebenspunkte. <n/><n/>G-Schütztürme bevorzugen nach ihrem Erscheinen den nächsten gegnerischen Helden."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/TychusDrakkenLaserDrill|TychusDrakkenLaserDrill|Heroic",
+    "value": "Fordert einen Laserbohrer an, der Gegner in der Nähe angreift und ihnen pro Sekunde <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">142</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden zufügt. Kann bei erneuter Aktivierung auf ein anderes Ziel ausgerichtet werden. Bleibt <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c> Sek. lang bestehen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/MurkyHeroicAbilityMarchoftheMurlocs|MurkyMarchOfTheMurlocs|Heroic|Level10",
+    "value": "Abklingzeit: 90 Sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArthasMasteryFrostPresenceHowlingBlast|ArthasFrostPresenceHowlingBlastTalent|W|Level1",
+    "value": "Erhöht den Wirkungsbereich von Heulende Böe um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20\u00A0%</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Triff gegnerische Helden mit Heulende Böe.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Belohnung:</c> Sobald <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> Helden getroffen wurden, wird die Reichweite von Heulende Böe um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20\u00A0%</c> erhöht und sie trifft weitere Gegner auf ihrem Weg.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Belohnung:</c> Sobald <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c> Helden getroffen wurden, verlangsamt Todesmantel die getroffenen Helden <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c> Sek. lang um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50\u00A0%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArthasPathofFrost|ArthasPathofFrost|Active|Level20",
+    "value": "Aktivieren, um sofort mit <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">648\u00A0%</c> zusätzlicher Bewegungsgeschwindigkeit aufzusteigen. Arthas wird durch erlittenen Schaden nicht von diesem Reittier geworfen. Hält bis zu <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> Sek. an.<n/><n/>Gegner in der Nähe werden beim Absteigen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> Sek. lang um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30\u00A0%</c> verlangsamt und erleiden <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AzmodanHeroicAbilityDemonicInvasion|AzmodanDemonicInvasion|Heroic|Level10",
+    "value": "Lässt eine kleine Armee dämonischer Streitkräfte auf die Gegner niederregnen, die beim Auftreffen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden verursachen. Diese Dämonenkrieger verursachen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden, haben <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">750</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Lebenspunkte und bleiben bis zu <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> Sek. lang bestehen. Sie explodieren beim Tod und fügen Gegnern in der Nähe <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden zu. Fügt Helden doppelten Schaden zu.<n/><n/>Kann während des Kanalisierens von Alles wird brennen eingesetzt werden."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChenMasteryFortifyingBrewEnoughToShare|ChenFortifyingBrewEnoughToShareTalent|Trait|Level13",
+    "value": "Stärkendes Gebräu gewährt Chen sofort <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">190</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schildpunkte sowie verbündeten Helden in der Nähe <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schildpunkte pro Sekunde, bis maximal <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">420</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DeathwingDestroyersRampage|DeathwingDestroyersRampage|Trait|Level20",
+    "value": "Das Landen in <c val=\"ef6e28-ad231e\" hlt-name=\"#DeathwingDestroyer\">Zerstörergestalt</c> erhöht den Schaden <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> Sek. lang um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40\u00A0%</c> und beschleunigt die Abklingzeiten der Grundfähigkeiten um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50\u00A0%</c>.<n/><n/>Schaden gegen Helden erneuert diesen Effekt."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweOneManWreckingCrew|GazloweOneManWreckingCrew|Passive|Level1",
+    "value": "Nach dem Einsatz einer Grundfähigkeit verursacht der nächste automatische Angriff innerhalb von <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> Sek. <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c> mehr Schaden. Maximal <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> Aufladungen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisDarkConversionWrathOfNathreza|MalGanisDarkConversionWrathOfNathreza|Heroic|Level20",
+    "value": "Gegnerische Helden in der Nähe des Ziels erleiden im Verlauf von <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> Sek. Schaden in Höhe von <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85%</c> der getauschten Lebenspunkte.<n/><n/>Hat keinen Einfluss auf Vampirberührung."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisFelClawsWillOfTichondrius|MalGanisFelClawsWillOfTichondrius|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Triff Helden mit Dämonische Klauen, um den Schaden von Dämonische Klauen dauerhaft um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c> zu erhöhen.<n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Triff mit den ersten 2 Schlägen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> Helden, um den Schaden des letzten Schlags um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> zu erhöhen.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Belohnung:</c> Sobald ein Bonusschaden von <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> erzielt wird, verlängert sich der letzte Betäubungseffekt um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> Sek. und der letzte Schlag stiehlt dem gegnerischen Helden <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4\u00A0%</c> seiner Lebenspunkte."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisNecroticEmbraceWingedGuard|MalGanisNecroticEmbraceWingedGuard|W|Level1",
+    "value": "Gewährt für jeden Heldentreffer mit Nekrotischer Sog <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75</c> physische Panzerung, die den Schaden des nächsten automatischen Angriffs eines gegnerischen Helden verringert.<n/><n/>Wenn keine Aufladung von Flügelschutz aktiv ist, wird nach <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> Sek. <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> Aufladung erzeugt."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisNightRushDeepSleep|MalGanisNightRushDeepSleep|E|Level13",
+    "value": "Erhöht die Dauer des Schlafeffekts von Einbruch der Nacht um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75</c> Sek. und den Bewegungsgeschwindigkeitsbonus um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/TychusHeroicAbilityDrakkenLaserDrill|TychusDrakkenLaserDrill|Heroic|Level10",
+    "value": "Fordert einen Laserbohrer an, der Gegner in der Nähe angreift und ihnen pro Sekunde <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">142</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden zufügt. Kann bei erneuter Aktivierung auf ein anderes Ziel ausgerichtet werden. Bleibt <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c> Sek. lang bestehen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/TinkerRockItTurret",
+    "value": "Erschafft einen G-Schützturm, der <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">43</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden verursacht. Verliert <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0Sek. lang Lebenspunkte. <n/><n/>G-Schütztürme bevorzugen nach ihrem Erscheinen den nächsten gegnerischen Helden."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/TinkerRockItTurretPlaceholderDummy",
+    "value": "Erschafft einen G-Schützturm, der <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">43</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden verursacht. Verliert <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0Sek. lang Lebenspunkte. <n/><n/>G-Schütztürme bevorzugen nach ihrem Erscheinen den nächsten gegnerischen Helden."
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Checkpoint: Hanamura"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/DragonsDinner|DragonsDinner|Q",
+    "value": "Czas odnowienia: 12 sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/MercDefenderHealingPulse|MercDefenderHealingPulse|Z",
+    "value": "Czas odnowienia: 10 sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/RingOfFire|RingOfFire|W",
+    "value": "Czas odnowienia: 5 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneBrew|B",
+    "value": "Teleportuje cię z powrotem do Ołtarza, przywracając natychmiastowo pełne zasoby zdrowia i napitku."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneNoMana|B",
+    "value": "Teleportuje cię z powrotem do Ołtarza, przywracając natychmiastowo pełny zasób zdrowia."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|Hearthstone|B",
+    "value": "Teleportuje cię z powrotem do Ołtarza, przywracając natychmiastowo pełne zasoby zdrowia i many."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/PayloadAttack|Attack|Hidden",
+    "value": "Atak bronią bohatera"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/DragonsDinner|DragonsDinner|Q",
+    "value": "Uczta dla Smoka"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercDefenderHealingPulse|MercDefenderHealingPulse|Z",
+    "value": "Uzdrawiający Impuls"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/move|Move|Trait",
+    "value": "Ruch"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/OverwatchMechanicRepair|OverwatchMechanicRepair|Z",
+    "value": "Inżynier, Naprawa"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/PayloadAttack|Attack|Hidden",
+    "value": "Atak podstawowy"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/RingOfFire|RingOfFire|W",
+    "value": "Pierścień Energii"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/PayloadAttack|Attack|Hidden",
+    "value": "Zadaje wrogom obrażenia atakami podstawowymi"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/RingOfFire|RingOfFire|W",
+    "value": "Tworzy Pierścień Energii, który rani cele znajdujące się wewnątrz"
+  },
+  {
+    "op": "add",
+    "path": "/items/announcer/name/CommodoreFord",
+    "value": "Komodor Ford"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostTimePushing",
+    "value": "~AwardValue~% czasu eskortowania ładunku"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostTimePushing",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Konwojent,Konwojentka</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostTimePushing",
+    "value": "~TooltipAmount~ sek. eskortowania ładunku"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/BioticEmitter",
+    "value": "Tworzy Emiter Biotyczny, którzy przywraca wszystkim pobliskim bohaterom sojuszniczym <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c> ich maksymalnego zdrowia i many w ciągu <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/DummyTurret",
+    "value": "Tworzysz wieżyczkę, która zadaje <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">43</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\"> </c>pkt. obrażeń. Czas działania: <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c> sek. Liczba ładunków: <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Wytrzymały najemnik o dużej puli zdrowia. Atakuje w zwarciu. Jego najmocniejszą stroną jest przyjmowanie na siebie ataków fortyfikacji wroga.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser2",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Wytrzymały najemnik o dużej puli zdrowia. Atakuje w zwarciu. Jego najmocniejszą stroną jest przyjmowanie na siebie ataków fortyfikacji wroga.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser3",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Wytrzymały najemnik o dużej puli zdrowia. Atakuje w zwarciu. Jego najmocniejszą stroną jest przyjmowanie na siebie ataków fortyfikacji wroga.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeIndividual",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Wytrzymały najemnik o dużej puli zdrowia. Atakuje w zwarciu. Jego najmocniejszą stroną jest przyjmowanie na siebie ataków fortyfikacji wroga.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/PayloadSpawningWarningUnit",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/JungleGraveGolemDefender",
+    "value": "Mega-egzekutor"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/RavenLordTributeWarning",
+    "value": "Ładunek pojawia się"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/RegenGlobe",
+    "value": "Apteczka"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AttackCoreMissile",
+    "value": "Atak na bazę, Pocisk"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AttackCoreSourceInvisibleUnit",
+    "value": "Atak na bazę, Źródło, Niewidzialna jednostka"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BioticEmitter",
+    "value": "Emiter Biotyczny"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DragonSpirit",
+    "value": "Smoczy Duch"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DragonSpiritsPickup",
+    "value": "Smocze Duchy (Podniesienie)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DummyTurret",
+    "value": "Manekin wieżyczki"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HealingPulsePickup",
+    "value": "Uzdrawiający Impuls (Podniesienie)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser",
+    "value": "Zakapiory"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser2",
+    "value": "Zakapiory"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser3",
+    "value": "Zakapiory"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeIndividual",
+    "value": "Wartownik"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperLaner",
+    "value": "Saper"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchBossImprisonMissile",
+    "value": "Boss z Overwatch, Uwięzienie, Pocisk"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchBossImprisonMissileDummy",
+    "value": "Boss z Overwatch, Uwięzienie, Pocisk (Manekin)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchMechanic",
+    "value": "Inżynier"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchTurret",
+    "value": "Wieżyczka"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchTurretPlayer",
+    "value": "Turret (Player)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Payload",
+    "value": "Ładunek"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PayloadChaosPath1",
+    "value": "Ładunek, Chaos – Ścieżka 1"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PayloadChaosPath2",
+    "value": "Ładunek, Chaos – Ścieżka 2"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PayloadCheckpointUnit",
+    "value": "Ładunek, Punkt kontrolny, Jednostka"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PayloadDestinationMinimapIcon",
+    "value": "Końcowy cel ładunku"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PayloadDestinationPingTargetUnit",
+    "value": "Cel ładunku Sygnał Wskazana jednostka"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PayloadOrderPath1",
+    "value": "Ładunek, Ład – Ścieżka 1"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PayloadOrderPath2",
+    "value": "Ładunek, Ład – Ścieżka 2"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PayloadSpawningWarningUnit",
+    "value": "Ładunek pojawia się"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/RegenGlobePrecursor",
+    "value": "Kula Regeneracji, Prekursor"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TurretPickup",
+    "value": "Wieżyczka"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.16.97039"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MurkyMarchoftheMurlocs|MurkyMarchOfTheMurlocs|Heroic",
+    "value": "Temps de recharge\u00A0: 90 secondes"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|ArthasFrostmourneHungersPrimed|Trait",
+    "value": "La prochaine attaque de base inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">71</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts supplémentaires. Infliger des dégâts rend <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>\u00A0points de mana.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête\u00A0:</c> tuer un serviteur ou toucher un héros avec Deuillegivre est affamée augmente définitivement son bonus aux dégâts et les dégâts des attaques de base d’Arthas de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0points."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasDeathCoil|ArthasDeathCoil|Q",
+    "value": "Inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">164</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts à l’ennemi ciblé.<n/><n/>Le lancer sur soi-même rend <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">275</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de vie."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasFrostmourneHungers|ArthasFrostmourneHungers|Trait",
+    "value": "À l’activation, la prochaine attaque de base d’Arthas inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">71</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts supplémentaires. Infliger des dégâts rend <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>\u00A0points de mana.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête\u00A0:</c> tuer un serviteur ou toucher un héros avec Deuillegivre est affamée augmente définitivement son bonus aux dégâts et les dégâts des attaques de base d’Arthas de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0points."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasPathofFrost|ArthasPathofFrost|Active",
+    "value": "À l’activation, votre vitesse de déplacement augmente de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">648%</c>. Arthas ne descend pas de cette monture lorsqu’il subit des dégâts. Dure jusqu’à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0secondes.<n/><n/>Lorsqu’Arthas descend de monture, il ralentit tous les adversaires proches de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0secondes, et inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AzmodanDemonicInvasion|AzmodanDemonicInvasion|Heroic",
+    "value": "Fait pleuvoir une petite armée de grognards démoniaques sur l’ennemi, infligeant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts par impact. Les grognards infligent <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts, disposent de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">750</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de vie et durent <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0secondes au maximum. En mourant, ils explosent et infligent <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts aux ennemis proches. Ces dégâts sont doublés contre les héros adverses.<n/><n/>Peut être utilisé pendant la canalisation de Tout doit brûler."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ChenFlyingKick|ChenFlyingKick|Q",
+    "value": "Donne un coup de pied qui traverse l’ennemi en lui infligeant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">130</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ChenFortifyingBrew|ChenFortifyingBrew|Trait",
+    "value": "Chen boit une rasade du tonneau, ce qui lui confère <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> points de breuvage ainsi que <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">190</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de bouclier temporaires par seconde, jusqu’à un maximum de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">570</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points. Le bouclier perdure <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> secondes après avoir arrêté de boire."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DeathwingMoltenFlameCancel|DeathwingMoltenFlameCancel|Q",
+    "value": "Après <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c>\u00A0seconde, Aile de mort projette un souffle de flammes qui inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts toutes les <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.125</c>\u00A0secondes. Draine <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c>\u00A0points d’énergie par seconde. "
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DeathwingMoltenFlame|DeathwingMoltenFlame|Q",
+    "value": "Après <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c>\u00A0seconde, Aile de mort projette un souffle de flammes qui inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts toutes les <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.125</c>\u00A0secondes. Draine <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c>\u00A0points d’énergie par seconde. "
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/TinkerRockItTurret|TinkerRockItTurret|Q",
+    "value": "Pose une tourelle qui inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">43</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts. Cette dernière perd ses points de vie pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0secondes. <n/><n/>Une fois créées, les tourelles visent en priorité le héros adverse le plus proche."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/TychusDrakkenLaserDrill|TychusDrakkenLaserDrill|Heroic",
+    "value": "Largue une foreuse laser qui attaque les ennemis proches et inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">142</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts chaque seconde. Peut être réactivée pour désigner une cible. Dure <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c> secondes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/MurkyHeroicAbilityMarchoftheMurlocs|MurkyMarchOfTheMurlocs|Heroic|Level10",
+    "value": "Temps de recharge\u00A0: 90 secondes"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArthasMasteryFrostPresenceHowlingBlast|ArthasFrostPresenceHowlingBlastTalent|W|Level1",
+    "value": "Augmente la zone de Rafale hurlante de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête\u00A0:</c> immobiliser les héros adverses avec Rafale hurlante.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Récompense\u00A0:</c> après avoir touché <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c>\u00A0héros, la portée de Rafale hurlante augmente de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> et la capacité touche les adversaires sur son chemin.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Récompense\u00A0:</c> après avoir touché <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c>\u00A0héros, Voile mortel ralentit les héros touchés de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c>\u00A0secondes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArthasPathofFrost|ArthasPathofFrost|Active|Level20",
+    "value": "À l’activation, votre vitesse de déplacement augmente de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">648%</c>. Arthas ne descend pas de cette monture lorsqu’il subit des dégâts. Dure jusqu’à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0secondes.<n/><n/>Lorsqu’Arthas descend de monture, il ralentit tous les adversaires proches de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0secondes, et inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AzmodanHeroicAbilityDemonicInvasion|AzmodanDemonicInvasion|Heroic|Level10",
+    "value": "Fait pleuvoir une petite armée de grognards démoniaques sur l’ennemi, infligeant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts par impact. Les grognards infligent <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts, disposent de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">750</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de vie et durent <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0secondes au maximum. En mourant, ils explosent et infligent <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts aux ennemis proches. Ces dégâts sont doublés contre les héros adverses.<n/><n/>Peut être utilisé pendant la canalisation de Tout doit brûler."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChenMasteryFortifyingBrewEnoughToShare|ChenFortifyingBrewEnoughToShareTalent|Trait|Level13",
+    "value": "Boisson fortifiante confère instantanément à Chen un bouclier qui lui permet d’absorber <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">190</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts. Confère également chaque seconde un bouclier aux héros alliés proches, ce qui leur permet d’absorber <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts, jusqu’à un maximum de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">420</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DeathwingDestroyersRampage|DeathwingDestroyersRampage|Trait|Level20",
+    "value": "Durant les <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>\u00A0secondes suivant son atterrissage sous la forme du <c val=\"ef6e28-ad231e\" hlt-name=\"#DeathwingDestroyer\">Destructeur</c>, les dégâts d’Aile de mort sont augmentés de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c> et le temps de recharge de ses capacités de base est réduit de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>.<n/><n/>Infliger des dégâts aux héros réinitialise cet effet."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweOneManWreckingCrew|GazloweOneManWreckingCrew|Passive|Level1",
+    "value": "Quand Gazleu utilise une capacité de base, sa prochaine attaque de base portée dans les <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0secondes suivantes inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75\u00A0%</c> de dégâts supplémentaires. Cumule jusqu’à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0charges."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisDarkConversionWrathOfNathreza|MalGanisDarkConversionWrathOfNathreza|Heroic|Level20",
+    "value": "Les héros adverses proches de la cible subissent un montant de dégâts équivalent à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85%</c> de la quantité de points de vie échangée en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> secondes.<n/><n/>Ces dégâts ne sont pas pris en compte par Toucher vampirique."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisFelClawsWillOfTichondrius|MalGanisFelClawsWillOfTichondrius|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête\u00A0:</c> frapper des héros avec Griffes gangrenées pour augmenter ses dégâts de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c>\u00A0points de manière permanente.<n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête\u00A0:</c> frapper <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>\u00A0héros lors des 2\u00A0premiers coups pour que le dernier coup augmente les dégâts de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>\u00A0points.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Récompense\u00A0:</c> au bout de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>\u00A0points de dégâts bonus, l’étourdissement final est prolongé de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c>\u00A0secondes et le coup final vole <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4%</c> des points de vie des héros adverses."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisNecroticEmbraceWingedGuard|MalGanisNecroticEmbraceWingedGuard|W|Level1",
+    "value": "Chaque fois qu’Étreinte nécrotique touche un héros adverse, confère <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75</c>\u00A0points d’armure physique contre la prochaine attaque de base d’un héros adverse.<n/><n/>Quand Mal’Ganis n’a aucune charge de Ptérogarde, il en obtient <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> au bout de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0secondes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisNightRushDeepSleep|MalGanisNightRushDeepSleep|E|Level13",
+    "value": "Augmente la durée du sommeil infligé par Ailes de la nuit de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75</c> seconde et son bonus à la vitesse de déplacement de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/TychusHeroicAbilityDrakkenLaserDrill|TychusDrakkenLaserDrill|Heroic|Level10",
+    "value": "Largue une foreuse laser qui attaque les ennemis proches et inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">142</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts chaque seconde. Peut être réactivée pour désigner une cible. Dure <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c> secondes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/TinkerRockItTurret",
+    "value": "Pose une tourelle qui inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">43</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts. Cette dernière perd ses points de vie pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0secondes. <n/><n/>Une fois créées, les tourelles visent en priorité le héros adverse le plus proche."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/TinkerRockItTurretPlaceholderDummy",
+    "value": "Pose une tourelle qui inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">43</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts. Cette dernière perd ses points de vie pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0secondes. <n/><n/>Une fois créées, les tourelles visent en priorité le héros adverse le plus proche."
+  }
+]
