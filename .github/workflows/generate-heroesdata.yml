@@ -1,0 +1,29 @@
+name: Generate heroesdata
+
+on:
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: 'Branch to checkout for HeroesDataParser'
+        required: false
+        default: 'main'
+        type: string
+      tag:
+        description: 'Specific tag to checkout for HeroesDataParser (overrides branch if set)'
+        required: false
+        default: ''
+        type: string
+
+jobs:
+  checkout-heroes-data-parser:
+    name: Checkout HeroesDataParser
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout HeroesDataParser
+        uses: actions/checkout@v4
+        with:
+          repository: HeroesToolChest/HeroesDataParser
+          ref: ${{ inputs.tag != '' && inputs.tag || inputs.branch }}
+          sparse-checkout: |
+            scripts
+          sparse-checkout-cone-mode: false
