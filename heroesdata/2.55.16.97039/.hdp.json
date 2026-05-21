@@ -1,6 +1,8 @@
 {
   "hdp": "5.0.0",
   "json": "patch",
+  "depends-on": "2.55.16.96881",
+  "root-version": "2.55.16.96881",
   "extracted": true,
   "files": {
     "[data]": {
