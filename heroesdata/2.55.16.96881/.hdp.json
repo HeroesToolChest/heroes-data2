@@ -1,9 +1,9 @@
 {
   "hdp": "5.0.0",
   "json": "full",
-  "extracted": true,
   "depends-on": "",
   "root-version": "",
+  "extracted": true,
   "files": {
     "[data]": {
       "announcerdata": "announcerdata_96881.json",
