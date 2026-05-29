@@ -198,6 +198,11 @@
           "Alcuni punti si attivano periodicamente. Rimanete al loro interno per conquistarli e ottenere un mech gigante.",
           "Il Protettore Triglav è comandato da due giocatori: un pilota e un mitragliere. Collaborate al meglio.",
           "Le abilità dei Protettori infliggono terribili danni a strutture ed eroi. Sfruttateli per abbattere il nemico."
+        ],
+        "Warhead Junction": [
+          "Degli ordigni nucleari vengono generati periodicamente sul campo di battaglia.",
+          "Raccogliete un ordigno per preparare un lancio nucleare. Sfruttatelo in fretta o sarà perso alla morte!",
+          "Lancia le testate per incendiare le fortificazioni nemiche. Attacca le loro strutture per prolungare gli incendi!"
         ]
       },
       "objectiveTitle": {
@@ -340,6 +345,11 @@
           "Punti di conquista",
           "Controllate il Protettore",
           "Distruggete ogni cosa"
+        ],
+        "Warhead Junction": [
+          "Generazione degli ordigni",
+          "Raccogliete gli ordigni",
+          "Scatenate la distruzione"
         ]
       }
     }

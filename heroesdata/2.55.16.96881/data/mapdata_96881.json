@@ -9,6 +9,7 @@
   },
   "items": {
     "Alterac Pass": {
+      "normalizedId": "alterac_pass",
       "mapId": "AlteracPass",
       "mapLink": "AlteracPass",
       "mapSize": {
@@ -57,6 +58,7 @@
       ]
     },
     "Battlefield of Eternity": {
+      "normalizedId": "battlefield_of_eternity",
       "mapId": "BattlefieldOfEternity",
       "mapLink": "BoE",
       "mapSize": {
@@ -96,6 +98,7 @@
       ]
     },
     "Blackheart's Bay": {
+      "normalizedId": "blackhearts_bay",
       "mapId": "BlackheartsBay",
       "mapLink": "BlackHeartsBay",
       "mapSize": {
@@ -135,6 +138,7 @@
       ]
     },
     "Blackheart's Revenge": {
+      "normalizedId": "blackhearts_revenge",
       "mapId": "DockEscort",
       "mapLink": "BlackHeartsSimple",
       "mapSize": {
@@ -171,6 +175,7 @@
       ]
     },
     "Braxis Holdout": {
+      "normalizedId": "braxis_holdout",
       "mapId": "BraxisHoldout",
       "mapLink": "BraxisHoldout",
       "mapSize": {
@@ -207,6 +212,7 @@
       ]
     },
     "Braxis Outpost": {
+      "normalizedId": "braxis_outpost",
       "mapId": "BraxisOutpost",
       "mapLink": "BraxisOutpost",
       "mapSize": {
@@ -243,6 +249,7 @@
       ]
     },
     "Checkpoint: Hanamura": {
+      "normalizedId": "checkpoint_hanamura",
       "mapId": "HanamuraPayloadPush",
       "mapLink": "HanamuraPayloadPush",
       "mapSize": {
@@ -271,6 +278,7 @@
       ]
     },
     "Cursed Hollow": {
+      "normalizedId": "cursed_hollow",
       "mapId": "CursedHollow",
       "mapLink": "CursedHollow",
       "mapSize": {
@@ -310,6 +318,7 @@
       ]
     },
     "Deadman's Stand": {
+      "normalizedId": "deadmans_stand",
       "mapId": "DeadmansHoldout",
       "mapLink": "DMSN",
       "mapSize": {
@@ -324,6 +333,7 @@
       ]
     },
     "Deadman's Stand (Heroic)": {
+      "normalizedId": "deadmans_stand_heroic",
       "mapId": "DeadmansHoldout",
       "mapLink": "DMSH",
       "mapSize": {
@@ -338,6 +348,7 @@
       ]
     },
     "Dragon Shire": {
+      "normalizedId": "dragon_shire",
       "mapId": "DragonShire",
       "mapLink": "DragonShire",
       "mapSize": {
@@ -377,6 +388,7 @@
       ]
     },
     "Escape From Braxis": {
+      "normalizedId": "escape_from_braxis",
       "mapId": "",
       "mapLink": "EFB",
       "mapSize": {
@@ -392,6 +404,7 @@
       ]
     },
     "Escape From Braxis (Heroic)": {
+      "normalizedId": "escape_from_braxis_heroic",
       "mapId": "",
       "mapLink": "EFBH",
       "mapSize": {
@@ -407,6 +420,7 @@
       ]
     },
     "Garden Arena": {
+      "normalizedId": "garden_arena",
       "mapId": "ArenaModeGardenTerror",
       "mapLink": "GardenSimple",
       "mapSize": {
@@ -437,6 +451,7 @@
       ]
     },
     "Garden of Terror": {
+      "normalizedId": "garden_of_terror",
       "mapId": "HauntedWoods",
       "mapLink": "GardenOfTerror",
       "mapSize": {
@@ -476,6 +491,7 @@
       ]
     },
     "Garden of Terror Classic": {
+      "normalizedId": "garden_of_terror_classic",
       "mapId": "HauntedWoods",
       "mapLink": "GardenOfTerror2",
       "mapSize": {
@@ -515,6 +531,7 @@
       ]
     },
     "Hanamura Temple": {
+      "normalizedId": "hanamura_temple",
       "mapId": "Hanamura",
       "mapLink": "Hanamura",
       "mapSize": {
@@ -551,6 +568,7 @@
       ]
     },
     "Haunted Mines": {
+      "normalizedId": "haunted_mines",
       "mapId": "HauntedMines",
       "mapLink": "HauntedMines",
       "mapSize": {
@@ -590,6 +608,7 @@
       ]
     },
     "Industrial District": {
+      "normalizedId": "industrial_district",
       "mapId": "IndustrialDistrict",
       "mapLink": "IndustrialDistrict",
       "mapSize": {
@@ -626,6 +645,7 @@
       ]
     },
     "Infernal Shrines": {
+      "normalizedId": "infernal_shrines",
       "mapId": "Shrines",
       "mapLink": "Shrines",
       "mapSize": {
@@ -665,6 +685,7 @@
       ]
     },
     "Lost Cavern": {
+      "normalizedId": "lost_cavern",
       "mapId": "LostCavern",
       "mapLink": "LostCavern",
       "mapSize": {
@@ -701,6 +722,7 @@
       ]
     },
     "Lunar Rocket Racing": {
+      "normalizedId": "lunar_rocket_racing",
       "mapId": "LunarFestival",
       "mapLink": "LunarFestival",
       "mapSize": {
@@ -737,6 +759,7 @@
       ]
     },
     "Pull Party": {
+      "normalizedId": "pull_party",
       "mapId": "",
       "mapLink": "PullParty",
       "mapSize": {
@@ -770,6 +793,7 @@
       ]
     },
     "Punisher Arena": {
+      "normalizedId": "punisher_arena",
       "mapId": "ArenaModePunisher",
       "mapLink": "ShrinesSimple",
       "mapSize": {
@@ -800,6 +824,7 @@
       ]
     },
     "Sandbox (Cursed Hollow)": {
+      "normalizedId": "sandbox_cursed_hollow",
       "mapId": "CursedHollowSandbox",
       "mapLink": "CursedHollow",
       "mapSize": {
@@ -839,6 +864,7 @@
       ]
     },
     "Sandbox (Volskaya Foundry)": {
+      "normalizedId": "sandbox_volskaya_foundry",
       "mapId": "Volskaya",
       "mapLink": "VolskayaSandbox",
       "mapSize": {
@@ -875,6 +901,7 @@
       ]
     },
     "Silver City": {
+      "normalizedId": "silver_city",
       "mapId": "SilverCity",
       "mapLink": "SilverCity",
       "mapSize": {
@@ -911,6 +938,7 @@
       ]
     },
     "Sky Temple": {
+      "normalizedId": "sky_temple",
       "mapId": "ControlPoints",
       "mapLink": "SkyTemple",
       "mapSize": {
@@ -950,6 +978,7 @@
       ]
     },
     "Snow Brawl": {
+      "normalizedId": "snow_brawl",
       "mapId": "CursedHollow",
       "mapLink": "SnowBrawl",
       "mapSize": {
@@ -986,6 +1015,7 @@
       ]
     },
     "Temple Arena": {
+      "normalizedId": "temple_arena",
       "mapId": "ArenaModeSkyTemple",
       "mapLink": "SkyTempleSimple",
       "mapSize": {
@@ -1016,6 +1046,7 @@
       ]
     },
     "Tomb of the Spider Queen": {
+      "normalizedId": "tomb_of_the_spider_queen",
       "mapId": "Crypts",
       "mapLink": "TombSpiderQueen",
       "mapSize": {
@@ -1055,6 +1086,7 @@
       ]
     },
     "Towers of Doom": {
+      "normalizedId": "towers_of_doom",
       "mapId": "TowersOfDoom",
       "mapLink": "TowersOfDoom",
       "mapSize": {
@@ -1091,6 +1123,7 @@
       ]
     },
     "Trial Grounds": {
+      "normalizedId": "trial_grounds",
       "mapId": "TrialGrounds",
       "mapLink": "TrialGrounds",
       "mapSize": {
@@ -1127,6 +1160,7 @@
       ]
     },
     "Volskaya Foundry": {
+      "normalizedId": "volskaya_foundry",
       "mapId": "Volskaya",
       "mapLink": "Volskaya",
       "mapSize": {
@@ -1163,6 +1197,7 @@
       ]
     },
     "Warhead Junction": {
+      "normalizedId": "warhead_junction",
       "mapId": "Warhead Junction",
       "mapLink": "WarheadJunction",
       "mapSize": {
@@ -1170,7 +1205,36 @@
         "y": 248
       },
       "replayPreviewImage": "replayspreviewimage_warheadjunction.png",
-      "loadingScreenImage": "storm_ui_homescreenbackground_warhead.png"
+      "loadingScreenImage": "storm_ui_homescreenbackground_warhead.png",
+      "mapObjectives": [
+        {
+          "icons": [
+            {
+              "image": "ui_ingame_mapmechanic_loadscreen_warhead_icon1.png",
+              "height": 150,
+              "scaleWidth": true
+            }
+          ]
+        },
+        {
+          "icons": [
+            {
+              "image": "ui_ingame_mapmechanic_loadscreen_warhead_icon2.png",
+              "height": 150,
+              "scaleWidth": true
+            }
+          ]
+        },
+        {
+          "icons": [
+            {
+              "image": "ui_ingame_mapmechanic_loadscreen_warhead_icon3.png",
+              "height": 155,
+              "scaleWidth": true
+            }
+          ]
+        }
+      ]
     }
   }
 }

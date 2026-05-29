@@ -198,6 +198,11 @@
           "Os Ponto de Controle são ativados de tempos em tempos. Fique neles para capturá-los e ganhar controle de um Mecanoide gigante.",
           "O Protetor Triglav é controlado por dois jogadores: um Piloto e um Atirador. Trabalhem juntos!",
           "As habilidades do Protetor causam muito dano a Estruturas e Heróis. Use-as para aniquilar seus inimigos."
+        ],
+        "Warhead Junction": [
+          "De tempos em tempos, diversas Ogivas surgirão pelo campo de batalha.",
+          "Colete uma Ogiva para ativar a Arma Nuclear. Use-a depressa, pois você a largará se morrer!",
+          "Ative as Armas Nucleares para incendiar as fortificações inimigas. Ataque suas estruturas para aumentar a duração do incêndio!"
         ]
       },
       "objectiveTitle": {
@@ -340,6 +345,11 @@
           "Capture os pontos",
           "Controle o Protetor",
           "Destrua tudo"
+        ],
+        "Warhead Junction": [
+          "Envio de Ogiva",
+          "Colete Ogivas",
+          "Convoque o trovão"
         ]
       }
     }

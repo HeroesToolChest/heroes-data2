@@ -198,6 +198,11 @@
           "Los puntos de control se activan ocasionalmente. Párate dentro de ellos para capturarlos. La captura te otorga el control de un meca gigante.",
           "El meca Protector Triglav es controlado por dos jugadores: un piloto y un artillero. ¡Trabajen conjuntamente!",
           "Las habilidades del Protector infligen gran cantidad de daño tanto a héroes como a estructuras. Úsalo para devastar a tus enemigos."
+        ],
+        "Warhead Junction": [
+          "Aparecerán varias ojivas nucleares periódicamente en el campo de batalla.",
+          "Recoge una ojiva para activar tu misil nuclear. ¡Úsala rápido o la perderás al morir!",
+          "Lanza misiles nucleares para quemar las fortificaciones del equipo enemigo. ¡Ataca sus estructuras para extender el fuego!"
         ]
       },
       "objectiveTitle": {
@@ -340,6 +345,11 @@
           "Puntos de captura",
           "Controla el Protector",
           "Destruye todo"
+        ],
+        "Warhead Junction": [
+          "Activación de ojivas nucleares",
+          "Recoge las ojivas nucleares",
+          "El poder del trueno en tus manos"
         ]
       }
     }

@@ -198,6 +198,11 @@
           "Kontrollpunkte werden ab und zu aktiviert. Stell dich auf einen Punkt, um ihn einzunehmen und die Kontrolle über einen riesigen Mech zu erlangen.",
           "Im Triglav-Protektor haben zwei Spieler Platz, ein Pilot und ein Richtschütze. Arbeitet zusammen!",
           "Der Protektor fügt Gebäuden und Helden unglaublich hohen Schaden zu. Vernichtet damit das gegnerische Team."
+        ],
+        "Warhead Junction": [
+          "Regelmäßig erscheinen mehrere Sprengköpfe auf dem Schlachtfeld.",
+          "Sammle Sprengköpfe ein, um Nuklearraketen anfordern zu können. Setze Sprengköpfe schnell ein, denn sie gehen verloren, wenn dein Held stirbt!",
+          "Feuere Nuklearraketen ab, um die Befestigungen des gegnerischen Teams zu zerstören. Greife ihre Gebäude an, um den Brand auszuweiten!"
         ]
       },
       "objectiveTitle": {
@@ -340,6 +345,11 @@
           "Kontrollpunkte",
           "Steuert den Protektor",
           "Zerstört alles!"
+        ],
+        "Warhead Junction": [
+          "Nukleare Kriegsführung",
+          "Sammle Sprengköpfe",
+          "Fordere<n/>Nuklearschläge an"
         ]
       }
     }
