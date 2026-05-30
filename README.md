@@ -3,8 +3,15 @@
 
 This repository contains the Heroes of the Storm data files that are extracted from [Heroes Data Parser](https://github.com/HeroesToolChest/HeroesDataParser). The images are stored in the [Heroes Images](https://github.com/HeroesToolChest/heroes-images) repository.
 
-The version folders contain `data` and `gamestring` folders. The gamestrings in the `data` files have been extracted into the `gamestrings` files.
+In the `data` and `gamestring` directories, the immediate json files, referred to as the base JSON files, will be in "full" or "patch" form. The "patch" form is a JSON patch created from the previous version of the file as noted in the `.hdp.json` file's `depends-on` property. The "full" form can be created from the [json patch apply](https://github.com/HeroesToolChest/HeroesDataParser/tree/develop-v5#json-patch-apply) command.
 
+There can be multiple "patch" versions in a row. Creating the "full" JSON file requires that the [json patch apply](https://github.com/HeroesToolChest/HeroesDataParser/tree/develop-v5#json-patch-apply) command be run multiple times, starting from the `root-version`.
+
+The `map` directories contain directories of the battlegrounds, each with JSON files in the "patch" form. The JSON patch is created from the "full" base JSON files of the same version (not a previous version). These patch files represent the differences between that battleground and the base JSON files.
+
+For each base JSON file, there should be a battleground patch file, except for the `gamestrings_mapdata_*.json` files. If there is no patch file, there are no differences. If a battleground directory contains no patches then that battleground directory will not exist. Battleground directory names are derived from the `normalizedId` property in the `mapdata_*.json` data files.
+
+### Meta JSON files
 In the `heroesdata` directory, a `.version.json` file contains the following:
 ```json5
 {
@@ -32,7 +39,7 @@ In the version directories, a `.hdp.json` file contains the following:
   "json": "patch",
   // If true, then this directory contains the data and gamestrings files
   "extracted": true,
-  // If "json" is "patch", the prior version directory that the base patch JSON files depend on in order to be rebuilt into "full" JSON files
+  // If "json" is "patch", the prior version directory that the base JSON patch files depend on in order to be rebuilt into "full" JSON files
   "depends-on": "2.55.16.96881",
   // If "json" is "patch", the version directory containing the "full" JSON files used as the starting point for rebuilding the "full" JSON files
   // Will be an equal or lower version than "depends-on"
@@ -44,8 +51,13 @@ In the version directories, a `.hdp.json` file contains the following:
 }
 ```
 
-## Json Data Parsing Library
-
-## Releases
+> [!NOTE]
+> For how often a version will be in "full" form is up to my discretion. If a version was skipped, meaing that `extracted` is `false`, there will *might* be a "full" version after, otherwise maybe around 10 "patch" form versions.
 
 ## Heroes Data Parser Extraction
+
+## Releases
+The releases will always contain the "full" base JSON files. Maps will always contain the JSON patch files.
+
+## Json Data Parsing Library
+[Heroes Element](https://github.com/HeroesToolChest/Heroes.Element) is a .NET library that can be used to parse the "full" JSON files.
