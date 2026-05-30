@@ -3,9 +3,9 @@
 
 This repository contains the Heroes of the Storm data files that are extracted from [Heroes Data Parser](https://github.com/HeroesToolChest/HeroesDataParser). The images are stored in the [Heroes Images](https://github.com/HeroesToolChest/heroes-images) repository.
 
-In the `data` and `gamestring` directories, the immediate json files, referred to as the base JSON files, will be in "full" or "patch" form. The "patch" form is a JSON patch created from the previous version of the file as noted in the `.hdp.json` file's `depends-on` property. The "full" form can be created from the [json patch apply](https://github.com/HeroesToolChest/HeroesDataParser/tree/develop-v5#json-patch-apply) command.
+In the `data` and `gamestring` directories, the immediate json files, referred to as the base JSON files, will be in "full" or "patch" form. The "patch" form is a JSON patch created from the previous version of the file as noted in the `.hdp.json` file's `depends-on` property. The "full" form can be created from the [json patch apply](https://github.com/HeroesToolChest/HeroesDataParser#json-patch-apply) command.
 
-There can be multiple "patch" versions in a row. Creating the "full" JSON file requires that the [json patch apply](https://github.com/HeroesToolChest/HeroesDataParser/tree/develop-v5#json-patch-apply) command be run multiple times, starting from the `root-version`.
+There can be multiple "patch" versions in a row. Creating the "full" JSON file requires that the [json patch apply](https://github.com/HeroesToolChest/HeroesDataParser#json-patch-apply) command be run multiple times, starting from the `root-version`.
 
 The `map` directories contain directories of the battlegrounds, each with JSON files in the "patch" form. The JSON patch is created from the "full" base JSON files of the same version (not a previous version). These patch files represent the differences between that battleground and the base JSON files.
 
