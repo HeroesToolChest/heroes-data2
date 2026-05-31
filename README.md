@@ -1,7 +1,7 @@
 # Heroes Data
 [![Release](https://img.shields.io/github/release/HeroesToolChest/heroes-data2.svg)](https://github.com/HeroesToolChest/heroes-data2/releases/latest)
 
-This repository contains the Heroes of the Storm data files that are extracted from [Heroes Data Parser](https://github.com/HeroesToolChest/HeroesDataParser). The images are stored in the [Heroes Images](https://github.com/HeroesToolChest/heroes-images) repository.
+This repository contains the Heroes of the Storm data files that are extracted with [Heroes Data Parser](https://github.com/HeroesToolChest/HeroesDataParser). The image files are stored in the [Heroes Images](https://github.com/HeroesToolChest/heroes-images) repository.
 
 For versions before `2.55.16.96881`, see the archived repository [heroes-data](https://github.com/HeroesToolChest/heroes-data).
 
