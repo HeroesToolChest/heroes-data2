@@ -3,6 +3,9 @@
 
 This repository contains the Heroes of the Storm data files that are extracted from [Heroes Data Parser](https://github.com/HeroesToolChest/HeroesDataParser). The images are stored in the [Heroes Images](https://github.com/HeroesToolChest/heroes-images) repository.
 
+For versions before `2.55.16.96881`, see the archived repository [heroes-data](https://github.com/HeroesToolChest/heroes-data).
+
+## Versions
 In the `data` and `gamestring` directories, the immediate json files, referred to as the base JSON files, will be in "full" or "patch" form. The "patch" form is a JSON patch created from the previous version of the file as noted in the `.hdp.json` file's `depends-on` property. The "full" form can be created from the [json patch apply](https://github.com/HeroesToolChest/HeroesDataParser#json-patch-apply) command.
 
 There can be multiple "patch" versions in a row. Creating the "full" JSON file requires that the [json patch apply](https://github.com/HeroesToolChest/HeroesDataParser#json-patch-apply) command be run multiple times, starting from the `root-version`.
@@ -52,9 +55,18 @@ In the version directories, a `.hdp.json` file contains the following:
 ```
 
 > [!NOTE]
-> For how often a version will be in "full" form is up to my discretion. If a version was skipped, meaing that `extracted` is `false`, there will *might* be a "full" version after, otherwise maybe around 10 "patch" form versions.
+> For how often a version will be in "full" form is up to discretion. If a version was skipped, meaing that `extracted` is `false`, there will *might* be a "full" version after, otherwise maybe around 10 "patch" form versions.
 
-## Heroes Data Parser Extraction
+## Data Extraction
+The following command was used for extraction of data and images:
+```
+-e all:i -l all --gs-replace-constant-vars --gs-replace-style-vars --gs-preserve-constant-vars --gs-preserve-style-vars --localized-text extract
+```
+All data types across all locales are extracted, along with all images. Color variable names are resolved and preserved in gamestrings, and gamestrings are separated into their own JSON files.
+
+To add the gamestrings back to the data files, use the [localized-text import](https://github.com/HeroesToolChest/HeroesDataParser/#localized-text-import) command.
+
+To modify the format of the gamestrings, use the [gamestring-text format](https://github.com/HeroesToolChest/HeroesDataParser/tree/develop-v5#gamestring-text-format) command.
 
 ## Releases
 The releases will always contain the "full" base JSON files. Maps will always contain the JSON patch files.
