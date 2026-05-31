@@ -58,7 +58,7 @@ In the version directories, a `.hdp.json` file contains the following:
 > For how often a version will be in "full" form is up to discretion. If a version was skipped, meaing that `extracted` is `false`, there will *might* be a "full" version after, otherwise maybe around 10 "patch" form versions.
 
 ## Data Extraction
-The following command was used for extraction of data and images:
+The following options was used for extraction of data and images:
 ```
 -e all:i -l all --gs-replace-constant-vars --gs-replace-style-vars --gs-preserve-constant-vars --gs-preserve-style-vars --localized-text extract
 ```
