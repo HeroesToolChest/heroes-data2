@@ -4,26 +4,306 @@ on:
   workflow_dispatch:
     inputs:
       branch:
-        description: 'Branch to checkout for HeroesDataParser'
+        description: 'Branch to checkout for HDP'
         required: false
         default: 'main'
         type: string
       tag:
-        description: 'Specific tag to checkout for HeroesDataParser (overrides branch if set)'
+        description: 'Specific tag to checkout for HDP (overrides branch if set)'
         required: false
         default: ''
         type: string
+      use-tool:
+        description: 'Use HDP global tool'
+        default: true
+        type: boolean
+      hdp-file-type:
+        description: 'Create [full] or [patch]'
+        required: true
+        default: 'patch'
+        type: string
+      hdp-use-ptr:
+        description: 'HDP command to download from ptr servers'
+        default: false
+        type: boolean
+      hdp-root-options:
+        description: 'Options for the root HDP command (no -o), leave empty to default'
+        required: false
+        default: ''
+        type: string
+      create-data-pr:
+        description: 'Create a pull request for the data'
+        default: true
+        type: boolean
+      create-image-pr:
+        description: 'Create a pull request for the images'
+        default: true
+        type: boolean
 
+env:
+  HD_PATH: hd # heroes-data2 repo
+  HI_PATH: hi # heroes-images repo
+  HDP_PATH: hdp # Heroes Data Parser repo
+  OUTPUT_PATH: output
+  HEROESDATA_PATH: heroesdata # subdirectory of heroes-data2 repo
+  HEROESIMAGES_PATH: heroesimages # subdirectory of the heroes-images
+  HI_STAGING_PATH: hi_staging # for new/modified files
+  
 jobs:
-  checkout-heroes-data-parser:
-    name: Checkout HeroesDataParser
+  run-hdp-auto:
+    name: Run HeroesDataParser
     runs-on: ubuntu-latest
+    outputs:
+      latest: ${{ steps.read-version.outputs.latest }}
+      hd_changes: ${{ steps.hd-check-changes.outputs.hd_changes }}
+      hi_changes: ${{ steps.hi-check-changes.outputs.hi_changes }}
     steps:
-      - name: Checkout HeroesDataParser
-        uses: actions/checkout@v4
+      - name: Checkout heroes-data2
+        uses: actions/checkout@v6
+        with:
+          repository: HeroesToolChest/heroes-data2
+          fetch-depth: 1
+          path: ${{ env.HD_PATH }}
+
+      - name: Checkout heroes-images
+        uses: actions/checkout@v6
+        with:
+          repository: HeroesToolChest/heroes-images
+          fetch-depth: 1
+          path: ${{ env.HI_PATH }}
+          
+      - name: Checkout HeroesDataParser (scripts only)
+        if: ${{ inputs.use-tool }}
+        uses: actions/checkout@v6
         with:
           repository: HeroesToolChest/HeroesDataParser
           ref: ${{ inputs.tag != '' && inputs.tag || inputs.branch }}
           sparse-checkout: |
             scripts
           sparse-checkout-cone-mode: false
+          path: ${{ env.HDP_PATH }}
+
+      - name: Checkout HeroesDataParser (to build)
+        if: ${{ !inputs.use-tool }}
+        uses: actions/checkout@v6
+        with:
+          repository: HeroesToolChest/HeroesDataParser
+          ref: ${{ inputs.tag != '' && inputs.tag || inputs.branch }}
+          fetch-depth: 1
+          path: ${{ env.HDP_PATH }}
+
+      - name: Patch SixLabors license key
+        if: ${{ !inputs.use-tool }}
+        uses: koliva8245/github.workflows/.github/actions/patch-sixlabors-license@main
+        with:
+          main-project: ${{ env.HDP_PATH }}/HeroesDataParser/HeroesDataParser.csproj
+          sixlabors-license-key: ${{ secrets.SIXLABORS_LICENSE_KEY }}
+          
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v5
+        with:
+          dotnet-version: 10.0.x
+
+      - name: Install HDP global tool
+        if: ${{ inputs.use-tool }}
+        run: dotnet tool install --global HeroesDataParser
+        
+      - name: Build HDP
+        if: ${{ !inputs.use-tool}}
+        working-directory: ${{ env.HDP_PATH }}/HeroesDataParser
+        run: dotnet build -c Release -o "${{ github.workspace }}/${{ env.HDP_PATH }}/scripts"
+        
+      - name: Run hdp_auto.cs
+        working-directory: ${{ env.HDP_PATH }}/scripts
+        run: |
+          chmod +x hdp_auto.cs
+          chmod +x heroesdata_create_full.cs
+          chmod +x heroesdata_create_patch.cs
+          ./hdp_auto.cs "online" "${{ github.workspace }}/${{ env.OUTPUT_PATH}}" "${{ github.workspace }}/${{ env.HD_PATH }}/${{ env.HEROESDATA_PATH }}" "${{ github.workspace }}/${{ env.HI_PATH }}/${{ env.HEROESIMAGES_PATH }}" "${{ inputs.hdp-file-type}}" "${{ inputs.hdp-use-ptr }}" "${{ inputs.use-tool }}" "${{ inputs.hdp-root-options }}"
+
+      - name: Read latest version from .version.json
+        id: read-version
+        run: |
+          VERSION=$(jq -r '.latest' "${{ env.HD_PATH }}/.version.json")
+          echo "latest=$VERSION" >> $GITHUB_OUTPUT
+          echo "Latest version (from .version.json): $VERSION"
+          
+      - name: Check for file changes in heroes-data2
+        id: hd-check-changes
+        working-directory: ${{ env.HD_PATH }}
+        run: |
+          git status --short
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "hd_changes=true" >> $GITHUB_OUTPUT
+            echo "There are file changes in the hereos-data2 directory."
+          else
+            echo "hd_changes=false" >> $GITHUB_OUTPUT
+            echo "There are NO file changes in the hereos-data2 directory."
+          fi
+
+      - name: Cache heroesdata for version ${{ steps.read-version.outputs.latest }}
+        if: ${{ steps.hd-check-changes.outputs.hd_changes == 'true' }}
+        uses: actions/cache/save@v5
+        with:
+          path: |
+            ${{ github.workspace }}/${{ env.OUTPUT_PATH}}/heroes_${{ steps.read-version.outputs.latest }}/data
+            ${{ github.workspace }}/${{ env.OUTPUT_PATH}}/heroes_${{ steps.read-version.outputs.latest }}/gamestrings
+          key: heroesdata-${{ steps.read-version.outputs.latest }}
+          
+      - name: Check for file changes in heroes-images
+        id: hi-check-changes
+        working-directory: ${{ env.HI_PATH }}
+        run: |
+          git status --short
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "hi_changes=true" >> $GITHUB_OUTPUT
+            echo "There are file changes in the hereos-images directory."
+            { git diff --name-only --diff-filter=d; git ls-files --others --exclude-standard; } > ${{ runner.temp }}/hi_changed_files.txt
+            echo "New/modified files:"
+            cat ${{ runner.temp }}/hi_changed_files.txt
+            while IFS= read -r file; do
+              mkdir -p "${{ github.workspace }}/${{ env.HI_STAGING_PATH }}/$(dirname "$file")"
+              cp "$file" "${{ github.workspace }}/${{ env.HI_STAGING_PATH }}/$file"
+            done < ${{ runner.temp }}/hi_changed_files.txt
+          else
+            echo "hi_changes=false" >> $GITHUB_OUTPUT
+            echo "There are NO file changes in the hereos-images directory."
+          fi
+        
+      - name: Cache heroesimages for version ${{ steps.read-version.outputs.latest }}
+        if: ${{ steps.hi-check-changes.outputs.hi_changes == 'true' }}
+        uses: actions/cache/save@v5
+        with:
+          path: ${{ github.workspace }}/${{ env.HI_STAGING_PATH }}
+          key: heroesimages-${{ steps.read-version.outputs.latest }}
+
+      - name: Create pull request for heroes-data2 changes
+        if: ${{ inputs.create-data-pr && steps.hd-check-changes.outputs.hd_changes == 'true' }}
+        uses: peter-evans/create-pull-request@v8
+        with:
+          path: ${{ env.HD_PATH }}
+          title: 'Patch ${{ steps.read-version.outputs.latest }} (${{ inputs.hdp-file-type}})'
+          body: 'Automated heroesdata update for patch `${{ steps.read-version.outputs.latest }}`.'
+          branch: patch/${{ steps.read-version.outputs.latest }}/${{ github.run_attempt}}
+          commit-message: 'Added ${{ steps.read-version.outputs.latest }} (${{ inputs.hdp-file-type}})'
+
+      - name: Create pull request for heroes-images changes
+        if: ${{ inputs.create-image-pr && steps.hi-check-changes.outputs.hi_changes == 'true' }}
+        uses: peter-evans/create-pull-request@v8
+        with:
+          path: ${{ env.HI_PATH }}
+          title: 'Add images for patch ${{ steps.read-version.outputs.latest }}'
+          body: 'Automated heroesimages update for patch `${{ steps.read-version.outputs.latest }}`.'
+          branch: patch/${{ steps.read-version.outputs.latest }}/${{ github.run_attempt}}
+          commit-message: 'Added images for patch ${{ steps.read-version.outputs.latest }}'
+        
+
+  package-latest-heroesdata:
+    name: Package latest heroesdata
+    runs-on: ubuntu-latest
+    needs: run-hdp-auto
+    if: ${{ needs.run-hdp-auto.outputs.hd_changes == 'true' }}
+    env:
+      LATEST_VERSION: ${{ needs.run-hdp-auto.outputs.latest }}
+    steps:
+      - name: Restore heroesdata cache
+        uses: actions/cache/restore@v5
+        with:
+          path: |
+            ${{ github.workspace }}/${{ env.OUTPUT_PATH}}/heroes_${{ env.LATEST_VERSION }}/data
+            ${{ github.workspace }}/${{ env.OUTPUT_PATH}}/heroes_${{ env.LATEST_VERSION }}/gamestrings
+          key: heroesdata-${{ needs.run-hdp-auto.outputs.latest }}
+          fail-on-cache-miss: true
+
+      - name: Archive version (zip)
+        run: |
+          7z a -tzip "heroes-data-${{ env.LATEST_VERSION }}.zip" \
+            "${{ github.workspace }}/${{ env.OUTPUT_PATH}}/heroes_${{ env.LATEST_VERSION }}/data" \
+            "${{ github.workspace }}/${{ env.OUTPUT_PATH}}/heroes_${{ env.LATEST_VERSION }}/gamestrings"
+
+      - name: Archive version (tar.gz)
+        run: |
+          tar -czf "heroes-data-${{ env.LATEST_VERSION }}.tar.gz" \
+            "${{ github.workspace }}/${{ env.OUTPUT_PATH}}/heroes_${{ env.LATEST_VERSION }}/data" \
+            "${{ github.workspace }}/${{ env.OUTPUT_PATH}}/heroes_${{ env.LATEST_VERSION }}/gamestrings"
+
+      - name: Archive version without maps (zip)
+        run: |
+          7z a -tzip "heroes-data-no-maps-${{ env.LATEST_VERSION }}.zip" \
+            "${{ github.workspace }}/${{ env.OUTPUT_PATH}}/heroes_${{ env.LATEST_VERSION }}/data" \
+            "${{ github.workspace }}/${{ env.OUTPUT_PATH}}/heroes_${{ env.LATEST_VERSION }}/gamestrings" \
+            -xr!maps
+
+      - name: Archive version without maps (tar.gz)
+        run: |
+          tar -czf "heroes-data-no-maps-${{ env.LATEST_VERSION }}.tar.gz" \
+            --exclude='*/maps' \
+            "${{ github.workspace }}/${{ env.OUTPUT_PATH}}/heroes_${{ env.LATEST_VERSION }}/data" \
+            "${{ github.workspace }}/${{ env.OUTPUT_PATH}}/heroes_${{ env.LATEST_VERSION }}/gamestrings"
+
+      - name: Upload version artifact (zip)
+        uses: actions/upload-artifact@v7
+        with:
+          name: heroes-data-${{ env.LATEST_VERSION }} (zip)
+          path: heroes-data-${{ env.LATEST_VERSION }}.zip
+          if-no-files-found: error
+
+      - name: Upload version artifact (tar.gz)
+        uses: actions/upload-artifact@v7
+        with:
+          name: heroes-data-${{ env.LATEST_VERSION }} (tar)
+          path: heroes-data-${{ env.LATEST_VERSION }}.tar.gz
+          if-no-files-found: error
+
+      - name: Upload version artifact without maps (zip)
+        uses: actions/upload-artifact@v7
+        with:
+          name: heroes-data-no-maps-${{ env.LATEST_VERSION }} (zip)
+          path: heroes-data-no-maps-${{ env.LATEST_VERSION }}.zip
+          if-no-files-found: error
+
+      - name: Upload version artifact without maps (tar.gz)
+        uses: actions/upload-artifact@v7
+        with:
+          name: heroes-data-no-maps-${{ env.LATEST_VERSION }} (tar)
+          path: heroes-data-no-maps-${{ env.LATEST_VERSION }}.tar.gz
+          if-no-files-found: error
+
+  package-latest-heroesimages:
+    name: Package latest heroesimages
+    runs-on: ubuntu-latest
+    needs: run-hdp-auto
+    if: ${{ needs.run-hdp-auto.outputs.hi_changes == 'true' }}
+    env:
+      LATEST_VERSION: ${{ needs.run-hdp-auto.outputs.latest }}
+    steps:
+      - name: Restore heroesimages cache
+        uses: actions/cache/restore@v5
+        with:
+          path: ${{ github.workspace }}/${{ env.HI_STAGING_PATH }}
+          key: heroesimages-${{ needs.run-hdp-auto.outputs.latest }}
+          fail-on-cache-miss: true
+
+      - name: Archive version (zip)
+        run: |
+          7z a -tzip "heroes-images-${{ env.LATEST_VERSION }}.zip" \
+            "${{ github.workspace }}/${{ env.HI_STAGING_PATH }}"
+
+      - name: Archive version (tar.gz)
+        run: |
+          tar -czf "heroes-images-${{ env.LATEST_VERSION }}.tar.gz" \
+            "${{ github.workspace }}/${{ env.HI_STAGING_PATH }}"
+
+      - name: Upload version artifact (zip)
+        uses: actions/upload-artifact@v7
+        with:
+          name: heroes-images-${{ env.LATEST_VERSION }} (zip)
+          path: heroes-images-${{ env.LATEST_VERSION }}.zip
+          if-no-files-found: error
+
+      - name: Upload version artifact (tar.gz)
+        uses: actions/upload-artifact@v7
+        with:
+          name: heroes-images-${{ env.LATEST_VERSION }} (tar)
+          path: heroes-images-${{ env.LATEST_VERSION }}.tar.gz
+          if-no-files-found: error
