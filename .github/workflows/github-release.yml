@@ -1,0 +1,41 @@
+name: Github Release
+
+on: workflow_dispatch
+
+env:
+  ARTIFACTS: ./artifacts
+  
+jobs:
+  create-release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Download artifacts
+        uses: dawidd6/action-download-artifact@v21
+        with:
+          github_token: ${{ secrets.GH_RELEASE }}
+          workflow: generate-heroesdata.yml       
+          name: ^heroes-data-
+          name_is_regexp: true
+          path: ${{ env.ARTIFACTS }}
+
+      - name: Get version from artifact file name
+        id: get-version
+        run: |
+          ZIP_FILE=$(find "${{ env.ARTIFACTS }}" -name "*.zip" | head -n 1)
+          BASENAME=$(basename "$ZIP_FILE" .zip)
+          VERSION="${BASENAME#heroes-data-}"
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "Version: $VERSION"
+
+      - name: Release
+        uses: softprops/action-gh-release@v3
+        with:
+          body: Version ${{ steps.get-version.outputs.version }}
+          name: Heroes Data ${{ steps.get-version.outputs.version }}
+          tag_name: v${{ steps.get-version.outputs.version }}
+          draft: true
+          files: ${{ env.ARTIFACTS }}/**
+          fail_on_unmatched_files: true
+          token: ${{ secrets.GH_RELEASE }}
