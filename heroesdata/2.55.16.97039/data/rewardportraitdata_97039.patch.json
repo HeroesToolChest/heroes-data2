@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/meta/heroesVersion",
-    "value": "2.55.16.97039"
-  }
-]
