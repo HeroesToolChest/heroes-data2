@@ -3,7 +3,7 @@
 
 This repository contains the Heroes of the Storm data files that are extracted with [Heroes Data Parser](https://github.com/HeroesToolChest/HeroesDataParser). The image files are stored in the [Heroes Images](https://github.com/HeroesToolChest/heroes-images) repository.
 
-For versions before `2.55.16.96881`, see the archived repository [heroes-data](https://github.com/HeroesToolChest/heroes-data).
+For versions before `2.55.16.97039`, see the archived repository [heroes-data](https://github.com/HeroesToolChest/heroes-data).
 
 ## Versions
 In the `data` and `gamestring` directories, the immediate json files, referred to as the base JSON files, will be in "full" or "patch" form. The "patch" form is a JSON patch created from the previous version of the file as noted in the `.hdp.json` file's `depends-on` property. The "full" form can be created from the [json patch apply](https://github.com/HeroesToolChest/HeroesDataParser#json-patch-apply) command.
