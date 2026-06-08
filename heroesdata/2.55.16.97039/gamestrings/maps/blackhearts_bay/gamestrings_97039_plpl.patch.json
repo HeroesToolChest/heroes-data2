@@ -1,0 +1,37 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Blackheart's Bay"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/BlackheartsCoreBombardment|BlackheartsCoreBombardment|Hidden",
+    "value": "Wystrzeliwuje we wrogiego bohatera gigantyczną kulę armatnią, która zadaje równowartość <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c> maksymalnego zdrowia w postaci obrażeń i odrzuca go od miejsca trafienia."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/BlackheartsCoreBombardment|BlackheartsCoreBombardment|Hidden",
+    "value": "Bombardowanie"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/BlackheartsCoreBombardment|BlackheartsCoreBombardment|Hidden",
+    "value": "Rani bohaterów na dużym obszarze i odrzuca ich w tył"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostCoinsPaid",
+    "value": "~AwardValue~% przekazanych monet"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostCoinsPaid",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Krezus,Krezuska</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostCoinsPaid",
+    "value": "Zwrócone monety: ~TooltipAmount~"
+  }
+]

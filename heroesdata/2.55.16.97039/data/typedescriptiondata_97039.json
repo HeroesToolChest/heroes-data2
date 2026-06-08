@@ -1,0 +1,285 @@
+{
+  "meta": {
+    "heroesVersion": "2.55.16.97039",
+    "hdpVersion": "5.0.0",
+    "itemsType": "Data",
+    "dataType": "TypeDescriptionData",
+    "localizedText": "Extracted",
+    "totalItems": 78
+  },
+  "items": {
+    "AnnouncerPack": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_announcerpack.png"
+    },
+    "Banner": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_banner.png"
+    },
+    "BasicPortrait": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_basicportrait.png"
+    },
+    "Boost": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_boost.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_stimpack.png"
+    },
+    "Bundle": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_bundle.png"
+    },
+    "EmoticonPack": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_emoticonpack.png"
+    },
+    "FreeRotationSlot": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_freerotationslot.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_rotationslot.png"
+    },
+    "Gem": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_gem.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_gems.png"
+    },
+    "GemPack": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_gempack.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_gems.png"
+    },
+    "GiftBoxBlueRibbon": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_giftboxblueribbon.png"
+    },
+    "GiftBoxGoldRibbon": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_giftboxgoldribbon.png"
+    },
+    "GiftBoxGoldRibbon2": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_giftboxgoldribbon2.png"
+    },
+    "GiftBoxRedRibbon": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_giftboxredribbon.png"
+    },
+    "Gold": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_gold.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_gold.png"
+    },
+    "HalloweenLootChestCommon": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_halloweenlootchestcommon.png"
+    },
+    "HalloweenLootChestEpic": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_halloweenlootchestepic.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_epicautumnlootchest.png"
+    },
+    "HalloweenLootChestRare": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_halloweenlootchestrare.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_rareautumnlootchest.png"
+    },
+    "Hero": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_hero.png"
+    },
+    "LootChest": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchest.png"
+    },
+    "LootChestChristmas2018Common": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestchristmas2018common.png"
+    },
+    "LootChestChristmas2018Epic": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestchristmas2018epic.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_epicwinter2018lootchest.png"
+    },
+    "LootChestChristmas2018Rare": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestchristmas2018rare.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_rarewinter2018lootchest.png"
+    },
+    "LootChestChristmas2019Common": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestchristmas2019common.png"
+    },
+    "LootChestChristmas2019Epic": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestchristmas2019epic.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_epicwinter2018lootchest.png"
+    },
+    "LootChestChristmas2019Rare": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestchristmas2019rare.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_rarewinter2018lootchest.png"
+    },
+    "LootChestChristmas2020Common": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestchristmas2020common.png"
+    },
+    "LootChestChristmas2020Epic": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestchristmas2020epic.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_epicwinterlootchest.png"
+    },
+    "LootChestChristmas2020Rare": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestchristmas2020rare.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_rarewinterlootchest.png"
+    },
+    "LootChestCommon": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestcommon.png"
+    },
+    "LootChestEpic": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestepic.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_epiclootchest.png"
+    },
+    "LootChestHalloween2018": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchesthalloween2018.png"
+    },
+    "LootChestHalloween2018Epic": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchesthalloween2018epic.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_epicautumnlootchest.png"
+    },
+    "LootChestHalloween2018Rare": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchesthalloween2018rare.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_rareautumnlootchest.png"
+    },
+    "LootChestHalloween2020Common": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchesthalloween2020common.png"
+    },
+    "LootChestHalloween2020Epic": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchesthalloween2020epic.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_epicautumnlootchest.png"
+    },
+    "LootChestHalloween2020Rare": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchesthalloween2020rare.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_rareautumnlootchest.png"
+    },
+    "LootChestHero": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchesthero.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_rarelootchest.png"
+    },
+    "LootChestRare": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestrare.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_rarelootchest.png"
+    },
+    "LootChestSpring2019Common": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestspring2019common.png"
+    },
+    "LootChestSpring2019Epic": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestspring2019epic.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_epicspring2019lootchest.png"
+    },
+    "LootChestSpring2019Rare": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestspring2019rare.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_rarespring2019lootchest.png"
+    },
+    "LootChestSpring2020Common": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestspring2020common.png"
+    },
+    "LootChestSpring2020Epic": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestspring2020epic.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_epicspring2019lootchest.png"
+    },
+    "LootChestSpring2020Rare": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestspring2020rare.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_rarespring2019lootchest.png"
+    },
+    "LootChestSummer2018Common": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestsummer2018common.png"
+    },
+    "LootChestSummer2018Epic": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestsummer2018epic.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_epicsummerlootchest.png"
+    },
+    "LootChestSummer2018Rare": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestsummer2018rare.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_raresummerlootchest.png"
+    },
+    "LootChestSummer2019Common": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestsummer2019common.png"
+    },
+    "LootChestSummer2019Epic": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestsummer2019epic.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_epicmecha19lootchest.png"
+    },
+    "LootChestSummer2019Rare": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestsummer2019rare.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_raremecha19lootchest.png"
+    },
+    "LootChestSummer2020Common": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestsummer2020common.png"
+    },
+    "LootChestSummer2020Epic": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestsummer2020epic.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_epicsummerlootchest.png"
+    },
+    "LootChestSummer2020Rare": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lootchestsummer2020rare.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_raresummerlootchest.png"
+    },
+    "Lunar18LootChestCommon": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lunar18lootchestcommon.png"
+    },
+    "Lunar18LootChestEpic": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lunar18lootchestepic.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_epiclunarlootchest.png"
+    },
+    "Lunar18LootChestRare": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_lunar18lootchestrare.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_rarelunarlootchest.png"
+    },
+    "MasterPortrait": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_masterportrait.png"
+    },
+    "MasteryTaunt1": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_masterytaunt1.png"
+    },
+    "MasteryTaunt2": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_masterytaunt2.png"
+    },
+    "MasteryTaunt3": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_masterytaunt3.png"
+    },
+    "MasteryTaunt4": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_masterytaunt4.png"
+    },
+    "MasteryTaunt5": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_masterytaunt5.png"
+    },
+    "Mobster2019EpicLootChest": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_mobster2019epiclootchest.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_epicautumnlootchest.png"
+    },
+    "Mobster2019LootChest": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_mobster2019lootchest.png"
+    },
+    "Mobster2019RareLootChest": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_mobster2019rarelootchest.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_rareautumnlootchest.png"
+    },
+    "Mount": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_mount.png"
+    },
+    "PortraitPack": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_portraitpack.png"
+    },
+    "Skin": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_skin.png"
+    },
+    "Spray": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_spray.png"
+    },
+    "Stimpack": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_stimpack.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_stimpack.png"
+    },
+    "SummerLootChestCommon": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_summerlootchestcommon.png"
+    },
+    "SummerLootChestEpic": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_summerlootchestepic.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_epicsummerlootchest.png"
+    },
+    "SummerLootChestLegendary": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_summerlootchestlegendary.png"
+    },
+    "SummerLootChestRare": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_summerlootchestrare.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_raresummerlootchest.png"
+    },
+    "VoiceLine": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_voiceline.png"
+    },
+    "WinterVeilLootChestCommon": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_winterveillootchestcommon.png"
+    },
+    "WinterVeilLootChestEpic": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_winterveillootchestepic.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_epicwinterlootchest.png"
+    },
+    "WinterVeilLootChestRare": {
+      "rewardIcon": "storm_ui_heroes_reward_icon_winterveillootchestrare.png",
+      "largeIcon": "storm_ui_profile_hero_progression_icon_rarewinterlootchest.png"
+    }
+  }
+}

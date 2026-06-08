@@ -1,0 +1,347 @@
+{
+  "meta": {
+    "heroesVersion": "2.55.16.97039",
+    "hdpVersion": "5.0.0",
+    "itemsType": "GameStrings",
+    "dataTypes": [
+      "MapData"
+    ],
+    "gameStringText": {
+      "locale": "FRFR",
+      "textType": "RawText",
+      "constantVars": {
+        "replaced": true,
+        "preserved": true
+      },
+      "styleVars": {
+        "replaced": true,
+        "preserved": true
+      }
+    }
+  },
+  "items": {
+    "map": {
+      "name": {
+        "Alterac Pass": "La passe d’Alterac",
+        "Battlefield of Eternity": "Les champs de l’éternité",
+        "Blackheart's Bay": "La baie de Cœur-Noir",
+        "Blackheart's Revenge": "La Vengeance de Cœur-Noir",
+        "Braxis Holdout": "Le laboratoire de Braxis",
+        "Braxis Outpost": "L’avant-poste de Braxis",
+        "Checkpoint: Hanamura": "Point de contrôle\u00A0: Hanamura",
+        "Cursed Hollow": "Le val maudit",
+        "Deadman's Stand": "Le baroud du mort",
+        "Deadman's Stand (Heroic)": "Le baroud du mort (héroïque)",
+        "Dragon Shire": "Le comté du dragon",
+        "Escape From Braxis": "La fuite de Braxis",
+        "Escape From Braxis (Heroic)": "La fuite de Braxis (héroïque)",
+        "Garden Arena": "L’arène des jardins",
+        "Garden of Terror": "Les jardins de terreur",
+        "Garden of Terror Classic": "Garden of Terror Classic",
+        "Hanamura Temple": "Le temple d’Hanamura",
+        "Haunted Mines": "La mine hantée",
+        "Industrial District": "Le district industriel",
+        "Infernal Shrines": "Les sanctuaires infernaux",
+        "Lost Cavern": "Le caveau perdu",
+        "Lunar Rocket Racing": "La piste aux fusées",
+        "Pull Party": "Accro au crochet",
+        "Punisher Arena": "L’arène des dominateurs",
+        "Sandbox (Cursed Hollow)": "Bac à sable (Le val maudit)",
+        "Sandbox (Volskaya Foundry)": "Bac à sable (La fonderie Volskaya)",
+        "Silver City": "La cité d’argent",
+        "Sky Temple": "Le temple céleste",
+        "Snow Brawl": "Choc au sommet",
+        "Temple Arena": "L’arène des temples",
+        "Tomb of the Spider Queen": "La tombe de la reine araignée",
+        "Towers of Doom": "Les tours du destin",
+        "Trial Grounds": "Le terrain d’entraînement",
+        "Volskaya Foundry": "La fonderie Volskaya",
+        "Warhead Junction": "Menace nucléaire"
+      },
+      "objectiveDescription": {
+        "Alterac Pass": [
+          "Capturez le camp d’emprisonnement ennemi pour invoquer votre cavalerie. Les camps peuvent être repris par les héros et les serviteurs donc gardez-les bien\u00A0!",
+          "La cavalerie charge le long de chaque voie quand elle est invoquée et améliore les dégâts et la vitesse de déplacement des héros alliés à proximité.",
+          "L’idole de chaque équipe est remplacée par un général qui se défend contre les ennemis. Détruire un bastion réduit l’armure du général."
+        ],
+        "Battlefield of Eternity": [
+          "L’ange Ilarian et le seigneur démon Beleth s’affrontent dans un combat sans fin.",
+          "Aidez votre Immortel à l’emporter contre son adversaire.",
+          "Accompagnez votre Immortel et réduisez en poussière les bâtiments ennemis\u00A0!"
+        ],
+        "Blackheart's Bay": [
+          "Attaquez les coffres au trésor et les mercenaires pour récupérer des doublons.",
+          "Rapportez vos doublons à Cœur-Noir ou vous les perdrez tous si vous mourez\u00A0!",
+          "Une fois qu’il aura reçu suffisamment de doublons de la part de votre équipe, Cœur-Noir bombardera les bâtiments de votre ennemi\u00A0!"
+        ],
+        "Blackheart's Revenge": [
+          "Empêchez les héros adverses de récupérer des boulets et d’utiliser les canons du navire de Cœur-Noir.",
+          "Défendez le navire jusqu’à ce qu’il atteigne les quais et détruise l’idole adverse pour gagner."
+        ],
+        "Braxis Holdout": [
+          "Deux balises s’activent périodiquement. Emparez-vous-en pour remplir votre cellule de détention de Zergs.",
+          "Si l’une des deux cellules de détention est pleine, celles-ci s’ouvrent et lâchent des vagues de Zergs sur les bases des équipes.",
+          "Repoussez les Zergs ennemis tout en aidant les vôtres. Ils n’hésiteront pas à attaquer les héros, alors soyez prudents\u00A0!"
+        ],
+        "Braxis Outpost": [
+          "Les héros ne regagnent pas de points de vie dans la zone de départ. Les pierres de foyer sont désactivées.",
+          "Des globes de régénération apparaissent sur le champ de bataille. Ramassez-les pour récupérer des points de vie.",
+          "Il n’y a pas d’objectif supplémentaire sur ce champ de bataille. Détruisez l’idole adverse et c’est la victoire."
+        ],
+        "Checkpoint: Hanamura": [
+          "Il n’y a pas d’idoles dans ce choc. La partie prend fin quand le convoi atteint sa destination ou que le temps imparti est écoulé.",
+          "Un convoi apparaîtra pour votre équipe. Restez à proximité pour qu’il atteigne sa destination avant la fin du temps imparti."
+        ],
+        "Cursed Hollow": [
+          "Le seigneur corbeau crée périodiquement des tributs. Emparez-vous-en pour votre équipe\u00A0!",
+          "Une fois que vous aurez obtenu trois tributs, le seigneur corbeau maudira vos ennemis\u00A0!",
+          "Les bâtiments maudits ne pourront pas attaquer et les serviteurs maudits n’auront plus qu’un point de vie."
+        ],
+        "Dragon Shire": [
+          "Votre équipe doit contrôler les deux sanctuaires pour activer la statue du chevalier dragon\u00A0!",
+          "Une fois la statue activée, envoyez un héros pour libérer le dragon de sa prison\u00A0!",
+          "Utilisez l’immense puissance du dragon pour raser les bâtiments ennemis\u00A0!"
+        ],
+        "Garden Arena": [
+          "Tuez les monstres des jardins pour récupérer des graines\u00A0!",
+          "Récupérez 100 graines pour gagner\u00A0!"
+        ],
+        "Garden of Terror": [
+          "La reine Belladone invoque régulièrement une graine. Terrassez les traîne-racines qui la gardent et emparez-vous-en pour votre équipe\u00A0!",
+          "Une fois trois graines collectées, des terreurs de jardin se mettent à progresser sur chacune des voies.",
+          "Les terreurs de jardin neutralisent les bâtiments ennemis, donc profitez-en pour les accompagner\u00A0!"
+        ],
+        "Garden of Terror Classic": [
+          "La nuit, des traîne-racines sortent des jardins.",
+          "Tuez les traîne-racines et récupérez des graines pour votre équipe\u00A0!",
+          "Avec 100\u00A0graines, contrôlez votre propre terreur de jardin et détruisez vos ennemis\u00A0!"
+        ],
+        "Hanamura Temple": [
+          "Les deux équipes se disputent un convoi, qui apparaît au centre du champ de bataille à intervalles réguliers.",
+          "Restez près de votre convoi pour le conduire à destination. Empêchez l’équipe adverse de faire de même.",
+          "Une fois qu’une équipe a conduit le convoi à destination, celui-ci ouvrira le feu sur les bâtiments adverses\u00A0!"
+        ],
+        "Haunted Mines": [
+          "La mine hantée ouvre ses portes périodiquement sur l’armée de morts-vivants qu’elle contient\u00A0!",
+          "Détruisez les morts-vivants et récupérez leurs crânes pour alimenter vos golems\u00A0!",
+          "Une fois qu’une équipe a ramassé 55\u00A0crânes, les golems se réveilleront dans les deux équipes\u00A0! Plus votre équipe aura collecté de crânes, plus votre golem sera puissant\u00A0!"
+        ],
+        "Industrial District": [
+          "Les héros ne regagnent pas de points de vie dans la zone de départ. Les pierres de foyer sont désactivées.",
+          "Des globes de régénération apparaissent sur le champ de bataille. Ramassez-les pour récupérer des points de vie.",
+          "Il n’y a pas d’objectif supplémentaire sur ce champ de bataille. Détruisez l’idole adverse et c’est la victoire."
+        ],
+        "Infernal Shrines": [
+          "Les sanctuaires infernaux accumulent régulièrement de la puissance. Activez-les et préparez-vous à combattre.",
+          "Tuez 40 gardiens avant l’équipe adverse pour invoquer un puissant dominateur.",
+          "Les dominateurs disposent d’un pouvoir dévastateur, parmi trois possibilités. Soyez sur vos gardes, car ils font des héros une cible prioritaire."
+        ],
+        "Lost Cavern": [
+          "Les héros ne regagnent pas de points de vie dans la zone de départ. Les pierres de foyer sont désactivées.",
+          "Des globes de régénération apparaissent sur le champ de bataille. Ramassez-les pour récupérer des points de vie.",
+          "Il n’y a pas d’objectif supplémentaire sur ce champ de bataille. Détruisez l’idole adverse et c’est la victoire."
+        ],
+        "Lunar Rocket Racing": [
+          "Les héros se déplacent automatiquement en suivant le pointeur de le souris\u00A0!",
+          "Ramassez des enveloppes pour obtenir différentes capacités\u00A0!",
+          "Terminez 7\u00A0tours pour gagner\u00A0! Le dernier personnage-joueur perd la course."
+        ],
+        "Punisher Arena": [
+          "Les dominateurs s’affrontent d’abord mutuellement, puis s’en prennent aux héros. À chaque manche, les capacités magiques du dominateur changent.",
+          "Les héros adverses valent 4\u00A0points. Le dominateur adverse en vaut 10."
+        ],
+        "Sandbox (Cursed Hollow)": [
+          "Le seigneur corbeau crée périodiquement des tributs. Emparez-vous-en pour votre équipe\u00A0!",
+          "Une fois que vous aurez obtenu trois tributs, le seigneur corbeau maudira vos ennemis\u00A0!",
+          "Les bâtiments maudits ne pourront pas attaquer et les serviteurs maudits n’auront plus qu’un point de vie."
+        ],
+        "Sandbox (Volskaya Foundry)": [
+          "Des points de contrôle s’activent régulièrement. Placez-vous à l’intérieur pour les capturer et prendre les commandes d’un méca géant.",
+          "Le protecteur Triglav a besoin de deux opérateurs\u00A0: un pilote et un artilleur. Pensez à vous coordonner\u00A0!",
+          "Les capacités du protecteur infligent des dégâts colossaux aux bâtiments et aux héros. Utilisez-les pour anéantir vos adversaires."
+        ],
+        "Silver City": [
+          "Les héros ne regagnent pas de points de vie dans la zone de départ. Les pierres de foyer sont désactivées.",
+          "Des globes de régénération apparaissent sur le champ de bataille. Ramassez-les pour récupérer des points de vie.",
+          "Il n’y a pas d’objectif supplémentaire sur ce champ de bataille. Détruisez l’idole adverse et c’est la victoire."
+        ],
+        "Sky Temple": [
+          "Les temples s’activent périodiquement. Tenez-vous dans leur enceinte pour en absorber la puissance\u00A0!",
+          "Restez dans l’enceinte du temple et il finira par déchaîner une attaque dévastatrice contre les bâtiments de vos adversaires\u00A0!",
+          "Les gardiens essaieront de reprendre le contrôle de leurs temples. Repoussez-les pour que votre équipe conserve leur puissance\u00A0!"
+        ],
+        "Snow Brawl": [
+          "Des boules de neige apparaissent près des héros, des bâtiments, des tributs et des globes de régénération. Ramassez-les pour les lancer\u00A0!",
+          "Les apparitions de tribut de neige se succèdent rapidement. Collectez-en suffisamment pour lancer des boules de neige colossales sur les bâtiments ennemis\u00A0!",
+          "Des bonshommes de neige inachevés apparaissent sur le champ de bataille. Complétez-les avec des boules de neige pour qu’ils se joignent à vous\u00A0!"
+        ],
+        "Temple Arena": [
+          "Chaque manche, un nombre aléatoire de temples s’active au cours de la partie.",
+          "Capturez les temples pour détruire l’idole de l’ennemi."
+        ],
+        "Tomb of the Spider Queen": [
+          "Les serviteurs araignées et les héros adverses abandonnent des gemmes lorsqu’ils meurent. Collectez-en autant que possible.",
+          "Rapportez vos gemmes à l’un des autels de la Reine araignée, ou vous les perdrez toutes si vous mourez\u00A0!",
+          "L’équipe qui rapportera assez de gemmes la première bénéficiera de l’appui des tissetoiles pour détruire les défenses adverses."
+        ],
+        "Towers of Doom": [
+          "Les deux idoles sont protégées par une barrière qui ne peut pas être attaquée par les héros. Pour remporter la victoire, vous devez activer des autels.",
+          "Ces autels s’élèveront périodiquement sur le champ de bataille. Activez-les pour que vos clochers tirent sur l’idole adverse.",
+          "Détruisez les clochers de votre ennemi pour en prendre le contrôle. Plus vous en aurez, plus grands seront les dégâts infligés à l’activation des autels."
+        ],
+        "Trial Grounds": [
+          "Éliminez l’équipe adverse pour remporter la manche.",
+          "Peu après le début de la manche, un objectif apparaît au centre du champ de bataille. Utilisez son pouvoir pour détruire vos ennemis\u00A0!",
+          "Les kits de soin répartis sur le champ de bataille rendent une grande partie des points de vie et de ressource quand vous les ramassez."
+        ],
+        "Volskaya Foundry": [
+          "Des points de contrôle s’activent régulièrement. Placez-vous à l’intérieur pour les capturer et prendre les commandes d’un méca géant.",
+          "Le protecteur Triglav a besoin de deux opérateurs\u00A0: un pilote et un artilleur. Pensez à vous coordonner\u00A0!",
+          "Les capacités du protecteur infligent des dégâts colossaux aux bâtiments et aux héros. Utilisez-les pour anéantir vos adversaires."
+        ]
+      },
+      "objectiveTitle": {
+        "Alterac Pass": [
+          "Camps d’emprisonnement",
+          "Cavalerie",
+          "Généraux"
+        ],
+        "Battlefield of Eternity": [
+          "Bataille d’Immortels",
+          "Renversez l’ennemi",
+          "Dévastez les forts"
+        ],
+        "Blackheart's Bay": [
+          "Récupérez des doublons",
+          "Livrez les doublons",
+          "Bombardez vos ennemis"
+        ],
+        "Blackheart's Revenge": [
+          "Tuez les héros adverses",
+          "Protégez le navire de Cœur-Noir"
+        ],
+        "Braxis Holdout": [
+          "Capturer les balises",
+          "Remplir les cellules de détention",
+          "Ruée zerg"
+        ],
+        "Braxis Outpost": [
+          "De l’action en permanence",
+          "Globes de régénération",
+          "Détruisez l’idole"
+        ],
+        "Checkpoint: Hanamura": [
+          "Pas d’idoles",
+          "Escortez le convoi"
+        ],
+        "Cursed Hollow": [
+          "Récupérez des tributs",
+          "Maudissez vos ennemis",
+          "Forts et serviteurs maudits"
+        ],
+        "Dragon Shire": [
+          "Contrôlez les sanctuaires",
+          "Libérez le chevalier dragon",
+          "Dévastez les forts ennemis"
+        ],
+        "Garden Arena": [
+          "Vaincre les terreurs nocturnes",
+          "Récoltez des graines"
+        ],
+        "Garden of Terror": [
+          "Apparition des graines",
+          "Récoltez des graines",
+          "Terreurs de jardin"
+        ],
+        "Garden of Terror Classic": [
+          "Combattez les traîne-racines",
+          "Récoltez des graines",
+          "Contrôlez une terreur de jardin"
+        ],
+        "Hanamura Temple": [
+          "Un seul convoi",
+          "Escortez le convoi",
+          "Bombardez l’ennemi"
+        ],
+        "Haunted Mines": [
+          "Aventurez-vous dans la mine",
+          "Récupérez les crânes",
+          "Lâchez les golems"
+        ],
+        "Industrial District": [
+          "De l’action en permanence",
+          "Globes de régénération",
+          "Détruisez l’idole"
+        ],
+        "Infernal Shrines": [
+          "Activez les sanctuaires",
+          "Combattez les gardiens",
+          "Méfiez-vous des dominateurs"
+        ],
+        "Lost Cavern": [
+          "De l’action en permanence",
+          "Globes de régénération",
+          "Détruisez l’idole"
+        ],
+        "Lunar Rocket Racing": [
+          "Feu aux fusées",
+          "Enveloppes",
+          "Course"
+        ],
+        "Punisher Arena": [
+          "Gare aux dominateurs",
+          "Tuez pour gagner"
+        ],
+        "Sandbox (Cursed Hollow)": [
+          "Récupérez des tributs",
+          "Maudissez vos ennemis",
+          "Forts et serviteurs maudits"
+        ],
+        "Sandbox (Volskaya Foundry)": [
+          "Capturez les points",
+          "Contrôlez le protecteur",
+          "Semez la destruction"
+        ],
+        "Silver City": [
+          "De l’action en permanence",
+          "Globes de régénération",
+          "Détruisez l’idole"
+        ],
+        "Sky Temple": [
+          "Capturez les temples",
+          "Tenez les temples",
+          "Défendez les temples"
+        ],
+        "Snow Brawl": [
+          "Lancez des boules de neige",
+          "Récupérez des tributs",
+          "Formez des bonshommes de neige"
+        ],
+        "Temple Arena": [
+          "Temples changeants",
+          "Usez de leur puissance"
+        ],
+        "Tomb of the Spider Queen": [
+          "Récupérez des gemmes",
+          "Rapportez vos gemmes",
+          "Invoquez les tissetoiles"
+        ],
+        "Towers of Doom": [
+          "Idoles protégées",
+          "Activez les autels",
+          "Emparez-vous des clochers"
+        ],
+        "Trial Grounds": [
+          "Baptême du feu",
+          "Test expérimental",
+          "Kits de soin"
+        ],
+        "Volskaya Foundry": [
+          "Capturez les points",
+          "Contrôlez le protecteur",
+          "Semez la destruction"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,6884 @@
+{
+  "meta": {
+    "heroesVersion": "2.55.16.97039",
+    "hdpVersion": "5.0.0",
+    "itemsType": "Data",
+    "dataType": "MountData",
+    "localizedText": "Extracted",
+    "totalItems": 671
+  },
+  "items": {
+    "AlarakTaldarimMarch": {
+      "hyperlinkId": "HighlordsAscent",
+      "attributeId": "Alru",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "AlarakTaldarimMarch"
+    },
+    "AnubarakWings": {
+      "hyperlinkId": "CryptLordWings",
+      "attributeId": "AnWg",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "AnubarakWings"
+    },
+    "ArmoredHorse": {
+      "hyperlinkId": "ArmoredWarSteed",
+      "attributeId": "ArmH",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Horse",
+      "type": "Ride",
+      "variationMountIds": [
+        "ArmoredHorseBrown",
+        "ArmoredHorsePurple"
+      ]
+    },
+    "ArmoredHorseBrown": {
+      "hyperlinkId": "LeatherArmoredWarSteed",
+      "attributeId": "Arm1",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "ArmoredHorsePurple": {
+      "hyperlinkId": "RoyalArmoredWarSteed",
+      "attributeId": "Arm2",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "AzmodanFireFeet": {
+      "hyperlinkId": "FlamesOfWrath",
+      "attributeId": "AzFF",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "AzmodanFireFeet"
+    },
+    "BattleBeast": {
+      "hyperlinkId": "BattleBeast",
+      "attributeId": "BaB1",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2014-10-07",
+      "category": "Beast",
+      "type": "Ridebeast",
+      "variationMountIds": [
+        "BattleBeastBlue",
+        "BattleBeastWarm"
+      ]
+    },
+    "BattleBeastBlue": {
+      "hyperlinkId": "BattleBeastBlue",
+      "attributeId": "BaB3",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2014-10-07",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "BattleBeastButcher": {
+      "hyperlinkId": "ButchersBeast",
+      "attributeId": "BBB1",
+      "franchise": "Diablo",
+      "rarity": "Epic",
+      "releaseDate": "2015-09-08",
+      "category": "Beast",
+      "type": "Ridebeast",
+      "variationMountIds": [
+        "BattleBeastButcherGreen",
+        "BattleBeastButcherYellow"
+      ]
+    },
+    "BattleBeastButcherGreen": {
+      "hyperlinkId": "FelButchersBeast",
+      "attributeId": "BBB2",
+      "franchise": "Diablo",
+      "rarity": "Epic",
+      "releaseDate": "2015-09-08",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "BattleBeastButcherYellow": {
+      "hyperlinkId": "SavageButchersBeast",
+      "attributeId": "BBB3",
+      "franchise": "Diablo",
+      "rarity": "Epic",
+      "releaseDate": "2015-09-08",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "BattleBeastDark20": {
+      "hyperlinkId": "DarkNexusBeast",
+      "attributeId": "BaBA",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2020-04-14",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ridebeast",
+      "variationMountIds": [
+        "BattleBeastDark20Var1",
+        "BattleBeastDark20Var2",
+        "BattleBeastDark20Var3",
+        "BattleBeastDark20Var4",
+        "BattleBeastDark20Var5"
+      ]
+    },
+    "BattleBeastDark20Var1": {
+      "hyperlinkId": "ShatteredDarkNexusBeast",
+      "attributeId": "BaBB",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2020-04-14",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ridebeast"
+    },
+    "BattleBeastDark20Var2": {
+      "hyperlinkId": "ForgottenDarkNexusBeast",
+      "attributeId": "BaBC",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2020-04-14",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ridebeast"
+    },
+    "BattleBeastDark20Var3": {
+      "hyperlinkId": "WildDarkNexusBeast",
+      "attributeId": "BaBD",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2020-04-14",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ridebeast"
+    },
+    "BattleBeastDark20Var4": {
+      "hyperlinkId": "AwakenedDarkNexusBeast",
+      "attributeId": "BaBE",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2020-04-14",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ridebeast"
+    },
+    "BattleBeastDark20Var5": {
+      "hyperlinkId": "AstralDarkNexusBeast",
+      "attributeId": "BaBF",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2020-04-14",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ridebeast"
+    },
+    "BattleBeastNexus": {
+      "hyperlinkId": "NexusBattleBeast",
+      "attributeId": "BBN1",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2015-10-06",
+      "category": "Beast",
+      "type": "Ridebeast",
+      "variationMountIds": [
+        "BattleBeastNexusOrange",
+        "BattleBeastNexusPurple"
+      ]
+    },
+    "BattleBeastNexusOrange": {
+      "hyperlinkId": "AmberNexusBattleBeast",
+      "attributeId": "BBN2",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2015-10-06",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "BattleBeastNexusPurple": {
+      "hyperlinkId": "VioletNexusBattleBeast",
+      "attributeId": "BBN3",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2015-10-06",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "BattleBeastSaddled": {
+      "hyperlinkId": "SaddledBattleBeast",
+      "attributeId": "BaB7",
+      "franchise": "Nexus",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Beast",
+      "type": "Ridebeast",
+      "variationMountIds": [
+        "BattleBeastSaddledVar1",
+        "BattleBeastSaddledVar2",
+        "BattleBeastSaddledVar3"
+      ]
+    },
+    "BattleBeastSaddledVar1": {
+      "hyperlinkId": "TanSaddledBattleBeast",
+      "attributeId": "BaB8",
+      "franchise": "Warcraft",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "BattleBeastSaddledVar2": {
+      "hyperlinkId": "TealSaddledBattleBeast",
+      "attributeId": "BaB9",
+      "franchise": "Warcraft",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "BattleBeastSaddledVar3": {
+      "hyperlinkId": "CrystallineSaddledBattleBeast",
+      "attributeId": "BaB0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2019-01-02",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "BattleBeastWarm": {
+      "hyperlinkId": "TanBattleBeast",
+      "attributeId": "BaB2",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2014-10-07",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "BillieGoat": {
+      "hyperlinkId": "WonderBillie",
+      "attributeId": "BGo1",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2014-10-14",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "BillieGoatBlue",
+        "BillieGoatPink"
+      ]
+    },
+    "BillieGoatBlue": {
+      "hyperlinkId": "NighttimeWonderBillie",
+      "attributeId": "BGo2",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2014-10-14",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "BillieGoatCelestial": {
+      "hyperlinkId": "CelestialBillie",
+      "attributeId": "BGo0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-07-10",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "BillieGoatPink": {
+      "hyperlinkId": "HeartyWonderBillie",
+      "attributeId": "BGo3",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2014-10-14",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "BlackheartsDoubloon": {
+      "hyperlinkId": "BlackheartsDoubloon",
+      "attributeId": "BhDb",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2015-09-01",
+      "category": "Magical",
+      "type": "Ridesurf",
+      "variationMountIds": [
+        "DiablosDoubloon",
+        "ZergDoubloon"
+      ]
+    },
+    "CarpetGreen": {
+      "hyperlinkId": "VerdantMagicCarpet",
+      "attributeId": "Car2",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2015-01-13",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "CarpetTeal": {
+      "hyperlinkId": "TurquoiseMagicCarpet",
+      "attributeId": "Car3",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2015-01-13",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "CelestialHorse": {
+      "hyperlinkId": "CelestialSteed",
+      "attributeId": "HoC0",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2017-04-25",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "ChoGallRunArmoredHorse": {
+      "hyperlinkId": "ArmoredWarSteed",
+      "attributeId": "QArH",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ChoGallRun",
+      "variationMountIds": [
+        "ChoGallRunArmoredHorseBrown",
+        "ChoGallRunArmoredHorsePurple"
+      ]
+    },
+    "ChoGallRunArmoredHorseBrown": {
+      "hyperlinkId": "LeatherArmoredWarSteed",
+      "attributeId": "QAr1",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunArmoredHorsePurple": {
+      "hyperlinkId": "RoyalArmoredWarSteed",
+      "attributeId": "QAr2",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunCelestialHorse": {
+      "hyperlinkId": "CelestialSteed",
+      "attributeId": "QHo0",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunHeadlessHorsemanHorse": {
+      "hyperlinkId": "HeadlessHorsemansCharger",
+      "attributeId": "QHh4",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-10-17",
+      "category": "Unique",
+      "event": "HallowsEnd",
+      "type": "ChoGallRun",
+      "variationMountIds": [
+        "ChoGallRunHeadlessHorsemanHorseBlue",
+        "ChoGallRunHeadlessHorsemanHorseRed"
+      ]
+    },
+    "ChoGallRunHeadlessHorsemanHorseBlue": {
+      "hyperlinkId": "AzureHeadlessHorsemansCharger",
+      "attributeId": "QHh5",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-10-17",
+      "category": "Unique",
+      "event": "HallowsEnd",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunHeadlessHorsemanHorseRed": {
+      "hyperlinkId": "CrimsonHeadlessHorsemansCharger",
+      "attributeId": "QHh6",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-10-17",
+      "category": "Unique",
+      "event": "HallowsEnd",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunHorseAlmond": {
+      "hyperlinkId": "AlmondHorse",
+      "attributeId": "QHoA",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunHorseBlack": {
+      "hyperlinkId": "OnyxHorse",
+      "attributeId": "QHoB",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunHorseCommon": {
+      "hyperlinkId": "Horse",
+      "attributeId": "QHot",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ChoGallRun",
+      "variationMountIds": [
+        "ChoGallRunHorseAlmond",
+        "ChoGallRunHorseBlack",
+        "ChoGallRunHorseGrey",
+        "ChoGallRunHorsePaint",
+        "ChoGallRunHorsePattern",
+        "ChoGallRunHorseRed",
+        "ChoGallRunHorseTan",
+        "ChoGallRunHorseUndead",
+        "ChoGallRunHorseWhite",
+        "ChoGallRunHorseZebra"
+      ]
+    },
+    "ChoGallRunHorseGrey": {
+      "hyperlinkId": "GreyHorse",
+      "attributeId": "QHos",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunHorsePaint": {
+      "hyperlinkId": "PaintedHorse",
+      "attributeId": "QHou",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunHorsePattern": {
+      "hyperlinkId": "PintoHorse",
+      "attributeId": "QHov",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunHorseRed": {
+      "hyperlinkId": "RedHorse",
+      "attributeId": "QHow",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunHorseTan": {
+      "hyperlinkId": "TanHorse",
+      "attributeId": "QHox",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunHorseUndead": {
+      "hyperlinkId": "UndeadHorse",
+      "attributeId": "QHoy",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunHorseWhite": {
+      "hyperlinkId": "PaleHorse",
+      "attributeId": "QHoz",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunHorseZebra": {
+      "hyperlinkId": "Zebra",
+      "attributeId": "QhO0",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunIllidanHorse": {
+      "hyperlinkId": "IllidansNightmare",
+      "attributeId": "QIH4",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-09-26",
+      "category": "Unique",
+      "type": "ChoGallRun",
+      "variationMountIds": [
+        "ChoGallRunIllidanHorseCrimson",
+        "ChoGallRunIllidanHorseDark"
+      ]
+    },
+    "ChoGallRunIllidanHorseCrimson": {
+      "hyperlinkId": "CrimsonIllidansNightmare",
+      "attributeId": "QIH5",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-09-26",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunIllidanHorseDark": {
+      "hyperlinkId": "WretchedIllidansNightmare",
+      "attributeId": "QIH6",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-09-26",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunInvisibleHorse": {
+      "hyperlinkId": "InvisibleHorse",
+      "attributeId": "QIN0",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunJudgementUtherCharger": {
+      "hyperlinkId": "JudgmentCharger",
+      "attributeId": "QJU4",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2015-09-15",
+      "category": "Unique",
+      "type": "ChoGallRun",
+      "variationMountIds": [
+        "ChoGallRunJudgementUtherHorsePurple",
+        "ChoGallRunJudgementUtherHorseWhite"
+      ]
+    },
+    "ChoGallRunJudgementUtherHorseAzeroth": {
+      "hyperlinkId": "FlamesofJudgementCharger",
+      "attributeId": "QJU7",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2017-02-14",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunJudgementUtherHorsePurple": {
+      "hyperlinkId": "PenanceJudgmentCharger",
+      "attributeId": "QJU5",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2015-09-15",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunJudgementUtherHorseWhite": {
+      "hyperlinkId": "BlessedJudgementCharger",
+      "attributeId": "QJU6",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2015-09-15",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunMalthaelsHerohorse": {
+      "hyperlinkId": "MalthaelsPhantom",
+      "attributeId": "QMa4",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2015-08-18",
+      "category": "Unique",
+      "type": "ChoGallRun",
+      "variationMountIds": [
+        "ChoGallRunMalthaelsHerohorseGold",
+        "ChoGallRunMalthaelsHerohorseRed",
+        "ChoGallRunMalthaelsHerohorseVar3"
+      ]
+    },
+    "ChoGallRunMalthaelsHerohorseGold": {
+      "hyperlinkId": "AngelicPhantom",
+      "attributeId": "QMa6",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2015-08-18",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunMalthaelsHerohorseRed": {
+      "hyperlinkId": "DemonicPhantom",
+      "attributeId": "QMa5",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2015-08-18",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunMalthaelsHerohorseVar3": {
+      "hyperlinkId": "LeoricsPhantom",
+      "attributeId": "QMaC",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2015-08-18",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunMarshallRaynorHorse": {
+      "hyperlinkId": "MarshalsOutrider",
+      "attributeId": "QMr4",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2015-10-06",
+      "category": "Unique",
+      "type": "ChoGallRun",
+      "variationMountIds": [
+        "ChoGallRunMarshallRaynorHorseBrown",
+        "ChoGallRunMarshallRaynorHorseRed"
+      ]
+    },
+    "ChoGallRunMarshallRaynorHorseBrown": {
+      "hyperlinkId": "OldMarshalsOutrider",
+      "attributeId": "QMr6",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2015-10-06",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunMarshallRaynorHorseRed": {
+      "hyperlinkId": "ConfederateMarshalsOutrider",
+      "attributeId": "QMr5",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2015-10-06",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunMountDemonicHorse": {
+      "hyperlinkId": "DemonicHellsteed",
+      "attributeId": "QDH0",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2016-08-09",
+      "category": "Unique",
+      "type": "ChoGallRun",
+      "variationMountIds": [
+        "ChoGallRunMountDemonicHorseVar1",
+        "ChoGallRunMountDemonicHorseVar2"
+      ]
+    },
+    "ChoGallRunMountDemonicHorseVar1": {
+      "hyperlinkId": "ToxicDemonicHellsteed",
+      "attributeId": "QDH1",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2016-08-09",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunMountDemonicHorseVar2": {
+      "hyperlinkId": "AncientDemonicHellsteed",
+      "attributeId": "QDH2",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2016-08-09",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunMountHorseCraft20": {
+      "hyperlinkId": "MountHorseCraft20",
+      "attributeId": "QHC0",
+      "franchise": "Starcraft",
+      "rarity": "Epic",
+      "releaseDate": "2020-09-08",
+      "category": "Unique",
+      "event": "HallowsEnd",
+      "type": "ChoGallRun",
+      "variationMountIds": [
+        "ChoGallRunMountHorseCraft20Var1",
+        "ChoGallRunMountHorseCraft20Var2"
+      ]
+    },
+    "ChoGallRunMountHorseCraft20Var1": {
+      "hyperlinkId": "MountHorseCraft20Var1",
+      "attributeId": "QHC1",
+      "franchise": "Starcraft",
+      "rarity": "Epic",
+      "releaseDate": "2020-09-08",
+      "category": "Unique",
+      "event": "HallowsEnd",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunMountHorseCraft20Var2": {
+      "hyperlinkId": "MountHorseCraft20Var2",
+      "attributeId": "QHC2",
+      "franchise": "Starcraft",
+      "rarity": "Epic",
+      "releaseDate": "2020-09-08",
+      "category": "Unique",
+      "event": "HallowsEnd",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunMountHorseDead": {
+      "hyperlinkId": "UndeadHorse",
+      "attributeId": "QHo8",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunMountHorseGhost": {
+      "hyperlinkId": "MountHorseGhost",
+      "attributeId": "QHo1",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-10-17",
+      "category": "Unique",
+      "event": "HallowsEnd",
+      "type": "ChoGallRun",
+      "variationMountIds": [
+        "ChoGallRunMountHorseGhostVar1",
+        "ChoGallRunMountHorseGhostVar2",
+        "ChoGallRunMountHorseGhostVar3",
+        "ChoGallRunMountHorseGhostVar4"
+      ]
+    },
+    "ChoGallRunMountHorseGhostInvisible": {
+      "hyperlinkId": "MountHorseGhostInvisible",
+      "attributeId": "QHoO",
+      "franchise": "Warcraft",
+      "rarity": "Legendary",
+      "releaseDate": "2017-10-17",
+      "category": "Unique",
+      "event": "HallowsEnd",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunMountHorseGhostVar1": {
+      "hyperlinkId": "MountHorseGhostVar1",
+      "attributeId": "QHo2",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-10-17",
+      "category": "Unique",
+      "event": "HallowsEnd",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunMountHorseGhostVar2": {
+      "hyperlinkId": "MountHorseGhostVar2",
+      "attributeId": "QHo3",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-10-17",
+      "category": "Unique",
+      "event": "HallowsEnd",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunMountHorseGhostVar3": {
+      "hyperlinkId": "MountHorseGhostVar3",
+      "attributeId": "QHo4",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-10-17",
+      "category": "Unique",
+      "event": "HallowsEnd",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunMountHorseGhostVar4": {
+      "hyperlinkId": "MountHorseGhostVar4",
+      "attributeId": "QHo5",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-10-17",
+      "category": "Unique",
+      "event": "HallowsEnd",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunMountHorseToys19": {
+      "hyperlinkId": "ChoGallRunMountHorseToys19",
+      "attributeId": "QHoT",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunMountRedHare": {
+      "hyperlinkId": "CrimsonHare",
+      "attributeId": "QRh4",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-07-19",
+      "category": "Unique",
+      "type": "ChoGallRun",
+      "variationMountIds": [
+        "ChoGallRunMountRedHareVar1",
+        "ChoGallRunMountRedHareVar2"
+      ]
+    },
+    "ChoGallRunMountRedHareVar1": {
+      "hyperlinkId": "FrozenCrimsonHare",
+      "attributeId": "QRh5",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-07-19",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunMountRedHareVar2": {
+      "hyperlinkId": "ShadowCrimsonHare",
+      "attributeId": "QRh6",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-07-19",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunMountWarhorseChess": {
+      "hyperlinkId": "Glitchsteed",
+      "attributeId": "QWa0",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2018-03-27",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunMountWarhorseHGC18": {
+      "hyperlinkId": "MountWarhorseHGC18",
+      "attributeId": "QHG0",
+      "rarity": "Common",
+      "releaseDate": "2018-12-11",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunMountWarhorseReverence19": {
+      "hyperlinkId": "MountWarhorseReverence19",
+      "attributeId": "QRE0",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2019-04-30",
+      "category": "Unique",
+      "type": "ChoGallRun",
+      "variationMountIds": [
+        "ChoGallRunMountWarhorseReverence19Var1",
+        "ChoGallRunMountWarhorseReverence19Var2"
+      ]
+    },
+    "ChoGallRunMountWarhorseReverence19Var1": {
+      "hyperlinkId": "MountWarhorseReverence19Var1",
+      "attributeId": "QRE1",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2019-04-30",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunMountWarhorseReverence19Var2": {
+      "hyperlinkId": "MountWarhorseReverence19Var2",
+      "attributeId": "QRE2",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2019-04-30",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunNazeebra": {
+      "hyperlinkId": "Nazeebra",
+      "attributeId": "QNzs",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ChoGallRun",
+      "variationMountIds": [
+        "ChoGallRunNazeebraGreen",
+        "ChoGallRunNazeebraRed"
+      ]
+    },
+    "ChoGallRunNazeebraGreen": {
+      "hyperlinkId": "ToxicNazeebra",
+      "attributeId": "QNz3",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunNazeebraRed": {
+      "hyperlinkId": "CrimsonNazeebra",
+      "attributeId": "QNz4",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunNexusCharger": {
+      "hyperlinkId": "NexusCharger",
+      "attributeId": "QNx4",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2014-10-07",
+      "category": "Unique",
+      "type": "ChoGallRun",
+      "variationMountIds": [
+        "ChoGallRunNexusChargerOrange",
+        "ChoGallRunNexusChargerViolet"
+      ]
+    },
+    "ChoGallRunNexusChargerGold": {
+      "hyperlinkId": "GoldenNexusCharger",
+      "attributeId": "QNg0",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2016-01-24",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunNexusChargerOrange": {
+      "hyperlinkId": "AmberNexusCharger",
+      "attributeId": "QNx6",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2014-10-07",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunNexusChargerViolet": {
+      "hyperlinkId": "VioletNexusCharger",
+      "attributeId": "QNx5",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2014-10-07",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunRainbowUnicorn": {
+      "hyperlinkId": "RainbowUnicorn",
+      "attributeId": "QRao",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ChoGallRun",
+      "variationMountIds": [
+        "ChoGallRunRainbowUnicornGreen",
+        "ChoGallRunRainbowUnicornOrange"
+      ]
+    },
+    "ChoGallRunRainbowUnicornGreen": {
+      "hyperlinkId": "LuckyRainbowUnicorn",
+      "attributeId": "QRa3",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunRainbowUnicornOrange": {
+      "hyperlinkId": "OrangeRainbowUnicorn",
+      "attributeId": "QRa4",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunRank17Base": {
+      "hyperlinkId": "Rank17Base",
+      "attributeId": "QBr0",
+      "rarity": "Common",
+      "releaseDate": "2017-12-19",
+      "category": "Unique",
+      "type": "ChoGallRun",
+      "variationMountIds": [
+        "ChoGallRunRank17BaseVar1",
+        "ChoGallRunRank17BaseVar2",
+        "ChoGallRunRank17BaseVar3",
+        "ChoGallRunRank17BaseVar4"
+      ]
+    },
+    "ChoGallRunRank17BaseVar1": {
+      "hyperlinkId": "Rank17BaseVar1",
+      "attributeId": "QBr1",
+      "rarity": "Common",
+      "releaseDate": "2017-12-19",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunRank17BaseVar2": {
+      "hyperlinkId": "Rank17BaseVar2",
+      "attributeId": "QBr2",
+      "rarity": "Common",
+      "releaseDate": "2017-12-19",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunRank17BaseVar3": {
+      "hyperlinkId": "Rank17BaseVar3",
+      "attributeId": "QBr3",
+      "rarity": "Common",
+      "releaseDate": "2017-12-19",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunRank17BaseVar4": {
+      "hyperlinkId": "Rank17BaseVar4",
+      "attributeId": "QBr4",
+      "rarity": "Common",
+      "releaseDate": "2017-12-19",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunRank17Epic": {
+      "hyperlinkId": "Rank17Epic",
+      "attributeId": "QEr0",
+      "rarity": "Common",
+      "releaseDate": "2017-12-19",
+      "category": "Unique",
+      "type": "ChoGallRun",
+      "variationMountIds": [
+        "ChoGallRunRank17EpicVar1",
+        "ChoGallRunRank17EpicVar2",
+        "ChoGallRunRank17EpicVar3",
+        "ChoGallRunRank17EpicVar4"
+      ]
+    },
+    "ChoGallRunRank17EpicVar1": {
+      "hyperlinkId": "Rank17EpicVar1",
+      "attributeId": "QEr1",
+      "rarity": "Common",
+      "releaseDate": "2017-12-19",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunRank17EpicVar2": {
+      "hyperlinkId": "Rank17EpicVar2",
+      "attributeId": "QEr2",
+      "rarity": "Common",
+      "releaseDate": "2017-12-19",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunRank17EpicVar3": {
+      "hyperlinkId": "Rank17EpicVar3",
+      "attributeId": "QEr3",
+      "rarity": "Common",
+      "releaseDate": "2017-12-19",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunRank17EpicVar4": {
+      "hyperlinkId": "Rank17EpicVar4",
+      "attributeId": "QEr4",
+      "rarity": "Common",
+      "releaseDate": "2017-12-19",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunSaddledHorse": {
+      "hyperlinkId": "SaddledHorse",
+      "attributeId": "Qsa1",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunTyraelsCharger": {
+      "hyperlinkId": "TyraelsCharger",
+      "attributeId": "QTyi",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2015-07-14",
+      "category": "Unique",
+      "type": "ChoGallRun",
+      "variationMountIds": [
+        "ChoGallRunTyraelsChargerBlue",
+        "ChoGallRunTyraelsChargerWhite"
+      ]
+    },
+    "ChoGallRunTyraelsChargerBlue": {
+      "hyperlinkId": "PlatinumTyraelsCharger",
+      "attributeId": "QTy4",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2015-07-14",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "ChoGallRunTyraelsChargerWhite": {
+      "hyperlinkId": "IvoryTyraelsCharger",
+      "attributeId": "QTy5",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2015-07-14",
+      "category": "Unique",
+      "type": "ChoGallRun"
+    },
+    "Cloud9Nexagon": {
+      "hyperlinkId": "2015ChampionsNexagon",
+      "attributeId": "C9N0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2015-12-15",
+      "category": "Magical",
+      "type": "Ridesurf",
+      "variationMountIds": [
+        "Cloud9NexagonVar1",
+        "Cloud9NexagonVar2"
+      ]
+    },
+    "Cloud9NexagonVar1": {
+      "hyperlinkId": "Onyx2015ChampionsNexagon",
+      "attributeId": "C9N1",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2015-12-15",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "Cloud9NexagonVar2": {
+      "hyperlinkId": "Ivory2015ChampionsNexagon",
+      "attributeId": "C9N2",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2015-12-15",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "CountArthasMorphForm": {
+      "hyperlinkId": "BatForm",
+      "attributeId": "CABF",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "CountArthasMorphForm"
+    },
+    "CountessKerriganBatForm": {
+      "hyperlinkId": "BatTransformation",
+      "attributeId": "CKBF",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "CountessKerriganBatForm"
+    },
+    "CyberWolf": {
+      "hyperlinkId": "CyberWolf",
+      "attributeId": "Cybe",
+      "rarity": "Epic",
+      "releaseDate": "2015-09-07",
+      "category": "Mechanical",
+      "type": "Ride",
+      "variationMountIds": [
+        "CyberWolfGrey",
+        "CyberWolfYellow"
+      ]
+    },
+    "CyberWolfBlack": {
+      "hyperlinkId": "ObsidianCyberWolf",
+      "attributeId": "Cyb6",
+      "rarity": "Common",
+      "releaseDate": "2016-08-23",
+      "category": "Mechanical",
+      "type": "Ride"
+    },
+    "CyberWolfBronze": {
+      "hyperlinkId": "BronzeCyberWolf",
+      "attributeId": "Cyb4",
+      "rarity": "Common",
+      "releaseDate": "2014-10-14",
+      "category": "Mechanical",
+      "type": "Ride"
+    },
+    "CyberWolfGold": {
+      "hyperlinkId": "GoldenCyberWolf",
+      "attributeId": "Cyb3",
+      "rarity": "Common",
+      "releaseDate": "2014-10-14",
+      "category": "Mechanical",
+      "type": "Ride",
+      "variationMountIds": [
+        "CyberWolfBronze",
+        "CyberWolfPlat"
+      ]
+    },
+    "CyberWolfGrey": {
+      "hyperlinkId": "SteelCyberWolf",
+      "attributeId": "Cyb1",
+      "rarity": "Epic",
+      "releaseDate": "2015-09-07",
+      "category": "Mechanical",
+      "type": "Ride"
+    },
+    "CyberWolfPlat": {
+      "hyperlinkId": "PlatinumCyberWolf",
+      "attributeId": "Cyb5",
+      "rarity": "Legendary",
+      "releaseDate": "2014-10-14",
+      "category": "Mechanical",
+      "type": "Ride"
+    },
+    "CyberWolfYellow": {
+      "hyperlinkId": "CitrineCyberWolf",
+      "attributeId": "Cyb2",
+      "rarity": "Epic",
+      "releaseDate": "2015-09-07",
+      "category": "Mechanical",
+      "type": "Ride"
+    },
+    "DiabloRun": {
+      "hyperlinkId": "TerrorCharge",
+      "attributeId": "Diru",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "Ridenone"
+    },
+    "DiablosDoubloon": {
+      "hyperlinkId": "DiablosDoubloon",
+      "attributeId": "DiDb",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-05-08",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "Direwolf": {
+      "hyperlinkId": "DireWolf",
+      "attributeId": "Dire",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2015-09-07",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "DirewolfBrown",
+        "DirewolfWhite"
+      ]
+    },
+    "DirewolfBrown": {
+      "hyperlinkId": "BrownDireWolf",
+      "attributeId": "Dir1",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2015-09-07",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "DirewolfIronsidesBlue": {
+      "hyperlinkId": "CobaltsideDireWolf",
+      "attributeId": "Idr1",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2015-06-02",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "DirewolfIronsidesGold": {
+      "hyperlinkId": "GoldensideDireWolf",
+      "attributeId": "Idr2",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2015-06-02",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "DirewolfWhite": {
+      "hyperlinkId": "HordeDireWolf",
+      "attributeId": "Dir2",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2015-09-07",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "Felstalker": {
+      "hyperlinkId": "Felstalker",
+      "attributeId": "FEL0",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2015-11-10",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "FelstalkerOrange",
+        "FelstalkerPurple"
+      ]
+    },
+    "FelstalkerDemon": {
+      "hyperlinkId": "Felsaber",
+      "attributeId": "FEL3",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-01-24",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "FelstalkerDemonVar1",
+        "FelstalkerDemonVar2"
+      ]
+    },
+    "FelstalkerDemonVar1": {
+      "hyperlinkId": "CrimsonFelsaberDemon",
+      "attributeId": "FEL4",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-01-24",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "FelstalkerDemonVar2": {
+      "hyperlinkId": "HunterFelsaberDemon",
+      "attributeId": "FEL5",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-01-24",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "FelstalkerOrange": {
+      "hyperlinkId": "PallidFelstalker",
+      "attributeId": "FEL2",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2015-11-10",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "FelstalkerPurple": {
+      "hyperlinkId": "RunedFelstalker",
+      "attributeId": "FEL1",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2015-11-10",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "Goat": {
+      "hyperlinkId": "BillieTheKid",
+      "attributeId": "Goa1",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2015-06-02",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "GoatBlack",
+        "GoatBrown"
+      ]
+    },
+    "GoatBlack": {
+      "hyperlinkId": "OnyxBillietheKid",
+      "attributeId": "Goa3",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2015-06-02",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "GoatBrown": {
+      "hyperlinkId": "TanBillietheKid",
+      "attributeId": "Goa2",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2015-06-02",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "HeadlessHorsemanHorse": {
+      "hyperlinkId": "HeadlessHorsemansCharger",
+      "attributeId": "Hhh1",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-10-17",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ride",
+      "variationMountIds": [
+        "HeadlessHorsemanHorseBlue",
+        "HeadlessHorsemanHorseRed"
+      ]
+    },
+    "HeadlessHorsemanHorseBlue": {
+      "hyperlinkId": "AzureHeadlessHorsemansCharger",
+      "attributeId": "Hhh2",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-10-17",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ride"
+    },
+    "HeadlessHorsemanHorseRed": {
+      "hyperlinkId": "CrimsonHeadlessHorsemansCharger",
+      "attributeId": "Hhh3",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-10-17",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ride"
+    },
+    "HearthstoneCard": {
+      "hyperlinkId": "HearthstoneCard",
+      "attributeId": "Hrt1",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2015-06-02",
+      "category": "Magical",
+      "type": "Ridesurf",
+      "variationMountIds": [
+        "HearthstoneCardBrown",
+        "HearthstoneCardRed"
+      ]
+    },
+    "HearthstoneCardBrown": {
+      "hyperlinkId": "LegendaryHearthstoneCard",
+      "attributeId": "Hrt2",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2015-06-02",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "HearthstoneCardMedivh": {
+      "hyperlinkId": "MedivhHearthstoneCard",
+      "attributeId": "HCM0",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2015-06-02",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "HearthstoneCardRed": {
+      "hyperlinkId": "PandamoniumHearthstoneCard",
+      "attributeId": "Hrt3",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2015-06-02",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "HorseAlmond": {
+      "hyperlinkId": "AlmondHorse",
+      "attributeId": "Hor1",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "HorseBlack": {
+      "hyperlinkId": "OnyxHorse",
+      "attributeId": "Hor2",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "HorseCommon": {
+      "hyperlinkId": "Horse",
+      "attributeId": "Hors",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Horse",
+      "type": "Ride",
+      "variationMountIds": [
+        "HorseAlmond",
+        "HorseBlack",
+        "HorseGrey",
+        "HorsePaint",
+        "HorsePattern",
+        "HorseRed",
+        "HorseTan",
+        "HorseWhite",
+        "HorseZebra"
+      ]
+    },
+    "HorseGrey": {
+      "hyperlinkId": "GreyHorse",
+      "attributeId": "Hor3",
+      "franchise": "Warcraft",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "HorsePaint": {
+      "hyperlinkId": "PaintedHorse",
+      "attributeId": "Hor4",
+      "franchise": "Warcraft",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "HorsePattern": {
+      "hyperlinkId": "PintoHorse",
+      "attributeId": "Hor5",
+      "franchise": "Warcraft",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "HorseRed": {
+      "hyperlinkId": "RedHorse",
+      "attributeId": "Hor6",
+      "franchise": "Warcraft",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "HorseTan": {
+      "hyperlinkId": "TanHorse",
+      "attributeId": "Hor7",
+      "franchise": "Warcraft",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "HorseWhite": {
+      "hyperlinkId": "PaleHorse",
+      "attributeId": "Hor9",
+      "franchise": "Warcraft",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "HorseZebra": {
+      "hyperlinkId": "Zebra",
+      "attributeId": "Ho10",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "IllidanHorse": {
+      "hyperlinkId": "IllidansNightmare",
+      "attributeId": "IHo1",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-09-26",
+      "category": "Horse",
+      "type": "Ride",
+      "variationMountIds": [
+        "IllidanHorseCrimson",
+        "IllidanHorseDark"
+      ]
+    },
+    "IllidanHorseCrimson": {
+      "hyperlinkId": "CrimsonIllidansNightmare",
+      "attributeId": "IHo2",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-09-26",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "IllidanHorseDark": {
+      "hyperlinkId": "WretchedIllidansNightmare",
+      "attributeId": "IHo3",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-09-26",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "InvisibleHorse": {
+      "hyperlinkId": "InvisibleHorse",
+      "attributeId": "INV0",
+      "rarity": "Common",
+      "releaseDate": "2017-09-26",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "IronsideDireWolf": {
+      "hyperlinkId": "IronsideDireWolf",
+      "attributeId": "Idir",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2015-06-02",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "DirewolfIronsidesBlue",
+        "DirewolfIronsidesGold"
+      ]
+    },
+    "JudgementUtherCharger": {
+      "hyperlinkId": "JudgmentCharger",
+      "attributeId": "JUH1",
+      "franchise": "Warcraft",
+      "rarity": "Legendary",
+      "releaseDate": "2015-09-15",
+      "category": "Horse",
+      "type": "Ride",
+      "variationMountIds": [
+        "JudgementUtherHorsePurple",
+        "JudgementUtherHorseWhite"
+      ]
+    },
+    "JudgementUtherHorseAzeroth": {
+      "hyperlinkId": "FlamesofJudgementCharger",
+      "attributeId": "JUH0",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2017-02-14",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "JudgementUtherHorsePurple": {
+      "hyperlinkId": "PenanceJudgmentCharger",
+      "attributeId": "JUH3",
+      "franchise": "Warcraft",
+      "rarity": "Legendary",
+      "releaseDate": "2015-09-15",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "JudgementUtherHorseWhite": {
+      "hyperlinkId": "BlessedJudgementCharger",
+      "attributeId": "JUH2",
+      "franchise": "Warcraft",
+      "rarity": "Legendary",
+      "releaseDate": "2015-09-15",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "LionGreymane": {
+      "hyperlinkId": "RingmastersPride",
+      "attributeId": "LIO0",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2016-01-12",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "LionGreymaneVar1",
+        "LionGreymaneVar2"
+      ]
+    },
+    "LionGreymaneVar1": {
+      "hyperlinkId": "CrimsonRingmastersPride",
+      "attributeId": "LIO1",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2016-01-12",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "LionGreymaneVar2": {
+      "hyperlinkId": "BigTopRingmastersPride",
+      "attributeId": "LIO2",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2016-01-12",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "LunarDragon": {
+      "hyperlinkId": "LunarDragon",
+      "attributeId": "LDR0",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2018-02-06",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ride",
+      "variationMountIds": [
+        "LunarDragonVar1",
+        "LunarDragonVar2",
+        "LunarDragonVar3"
+      ]
+    },
+    "LunarDragonVar1": {
+      "hyperlinkId": "AzureLunarDragon",
+      "attributeId": "LDR1",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2018-02-06",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ride"
+    },
+    "LunarDragonVar2": {
+      "hyperlinkId": "VerdantLunarDragon",
+      "attributeId": "LDR2",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2018-02-06",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ride"
+    },
+    "LunarDragonVar3": {
+      "hyperlinkId": "FireLunarDragon",
+      "attributeId": "LDR3",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-03-26",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ride"
+    },
+    "LunarFestivalRocket": {
+      "hyperlinkId": "LunarSkyrocket",
+      "attributeId": "LUN0",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2018-02-06",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ride",
+      "variationMountIds": [
+        "LunarFestivalRocketVar1",
+        "LunarFestivalRocketVar2",
+        "LunarFestivalRocketVar3",
+        "LunarFestivalRocketVar4"
+      ]
+    },
+    "LunarFestivalRocketVar1": {
+      "hyperlinkId": "SoaringLunarSkyrocket",
+      "attributeId": "LUN1",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-03-26",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ride"
+    },
+    "LunarFestivalRocketVar2": {
+      "hyperlinkId": "JadeLunarSkyrocket",
+      "attributeId": "LUN2",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-03-26",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ride"
+    },
+    "LunarFestivalRocketVar3": {
+      "hyperlinkId": "BlossomLunarSkyrocket",
+      "attributeId": "LUN3",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-03-26",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ride"
+    },
+    "LunarFestivalRocketVar4": {
+      "hyperlinkId": "GoldenLunarSkyrocket",
+      "attributeId": "LUN4",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2018-02-06",
+      "category": "SeasonalEvents",
+      "event": "",
+      "type": "Ride"
+    },
+    "LunarTiger": {
+      "hyperlinkId": "LunarTiger",
+      "attributeId": "Tilu",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2018-02-06",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ride",
+      "variationMountIds": [
+        "TigerLunarBlue",
+        "TigerLunarGreen"
+      ]
+    },
+    "MagicCarpet": {
+      "hyperlinkId": "MagicCarpet",
+      "attributeId": "Car1",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2015-01-13",
+      "category": "Magical",
+      "type": "Ridesurf",
+      "variationMountIds": [
+        "CarpetGreen",
+        "CarpetTeal"
+      ]
+    },
+    "MalthaelsHerohorse": {
+      "hyperlinkId": "MalthaelsPhantom",
+      "attributeId": "Mal1",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2015-08-18",
+      "category": "Horse",
+      "type": "Ride",
+      "variationMountIds": [
+        "MalthaelsHerohorseGold",
+        "MalthaelsHerohorseRed",
+        "MalthaelsHerohorseVar3"
+      ]
+    },
+    "MalthaelsHerohorseGold": {
+      "hyperlinkId": "AngelicPhantom",
+      "attributeId": "Mal2",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2015-08-18",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MalthaelsHerohorseRed": {
+      "hyperlinkId": "DemonicPhantom",
+      "attributeId": "Mal3",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2015-08-18",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MalthaelsHerohorseVar3": {
+      "hyperlinkId": "LeoricsPhantom",
+      "attributeId": "MalC",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2015-08-18",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MarauderMuradinJetpackForm": {
+      "hyperlinkId": "RocketJumpJets",
+      "attributeId": "MMJF",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "MarauderMuradinJetpackForm"
+    },
+    "MarshallRaynorHorse": {
+      "hyperlinkId": "MarshalsOutrider",
+      "attributeId": "Mrh1",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2015-10-06",
+      "category": "Horse",
+      "type": "Ride",
+      "variationMountIds": [
+        "MarshallRaynorHorseBrown",
+        "MarshallRaynorHorseRed"
+      ]
+    },
+    "MarshallRaynorHorseBrown": {
+      "hyperlinkId": "OldMarshalsOutrider",
+      "attributeId": "Mrh3",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2015-10-06",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MarshallRaynorHorseRed": {
+      "hyperlinkId": "ConfederateMarshalsOutrider",
+      "attributeId": "Mrh2",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2015-10-06",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "Mechanospider": {
+      "hyperlinkId": "Mechanospider",
+      "attributeId": "Spi1",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2015-06-09",
+      "category": "Mechanical",
+      "type": "Ridebeast",
+      "variationMountIds": [
+        "SpiderMountBlack",
+        "SpiderMountRed"
+      ]
+    },
+    "MechaTassadarMorphForm": {
+      "hyperlinkId": "MechaMorph",
+      "attributeId": "MTMF",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "MechaTassadarMorphForm"
+    },
+    "MoneyPig": {
+      "hyperlinkId": "PiggyBank",
+      "attributeId": "Mpig",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-06-26",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MoneyPigGreen",
+        "MoneyPigPink",
+        "MoneyPigVar3"
+      ]
+    },
+    "MoneyPigGreen": {
+      "hyperlinkId": "LuckyPiggyBank",
+      "attributeId": "Mpi2",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-03-06",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MoneyPigPink": {
+      "hyperlinkId": "ClassicPiggyBank",
+      "attributeId": "Mpi1",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2014-10-14",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MoneyPigVar3": {
+      "hyperlinkId": "CopperMoneyPig",
+      "attributeId": "Mpi0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-09-25",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountAntelopeRank18_00": {
+      "hyperlinkId": "Technolope",
+      "attributeId": "ant0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-09-25",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountAntelopeRank18_00Var1",
+        "MountAntelopeRank18_00Var2"
+      ]
+    },
+    "MountAntelopeRank18_00Var1": {
+      "hyperlinkId": "CobaltTechnolope",
+      "attributeId": "ant1",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-09-25",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountAntelopeRank18_00Var2": {
+      "hyperlinkId": "MasterTechnolope",
+      "attributeId": "ant2",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-09-25",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountAntelopeRank18_01": {
+      "hyperlinkId": "EpicTechnolope",
+      "attributeId": "ant3",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-09-25",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountAntelopeRank18_01Var1",
+        "MountAntelopeRank18_01Var2"
+      ]
+    },
+    "MountAntelopeRank18_01Var1": {
+      "hyperlinkId": "EpicCobaltTechnolope",
+      "attributeId": "ant4",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-09-25",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountAntelopeRank18_01Var2": {
+      "hyperlinkId": "EpicMasterTechnolope",
+      "attributeId": "ant5",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-09-25",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountAzmodanMadAxe18": {
+      "hyperlinkId": "MountAzmodanMadAxe18Common",
+      "attributeId": "AZT0",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "MountAzmodanMadAxe18"
+    },
+    "MountAzmodanMadAxe18Var1": {
+      "hyperlinkId": "MountAzmodanMadAxe18Common",
+      "attributeId": "AZT1",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "MountAzmodanMadAxe18Var1"
+    },
+    "MountAzmodanMadAxe18Var2": {
+      "hyperlinkId": "MountAzmodanMadAxe18Common",
+      "attributeId": "AZT2",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "MountAzmodanMadAxe18Var2"
+    },
+    "MountBalloonDuckSummer20": {
+      "hyperlinkId": "PumpedUpPato",
+      "attributeId": "Bal0",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2020-06-23",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountBalloonDuckSummer20Var1",
+        "MountBalloonDuckSummer20Var2"
+      ]
+    },
+    "MountBalloonDuckSummer20Var1": {
+      "hyperlinkId": "PumpedUpSwan",
+      "attributeId": "Bal1",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2020-06-23",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ride"
+    },
+    "MountBalloonDuckSummer20Var2": {
+      "hyperlinkId": "MountBalloonDuckSummer20Var2",
+      "attributeId": "Bal2",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2020-06-23",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ride"
+    },
+    "MountBannerAzmodunk": {
+      "hyperlinkId": "ChampionshipBanner",
+      "attributeId": "BAN0",
+      "franchise": "Nexus",
+      "rarity": "Rare",
+      "releaseDate": "2016-04-12",
+      "category": "Magical",
+      "type": "Ridesurf",
+      "variationMountIds": [
+        "MountBannerAzmodunkVar1",
+        "MountBannerAzmodunkVar2"
+      ]
+    },
+    "MountBannerAzmodunkVar1": {
+      "hyperlinkId": "ShowtimeChampionshipBanner",
+      "attributeId": "BAN1",
+      "franchise": "Nexus",
+      "rarity": "Rare",
+      "releaseDate": "2016-04-12",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountBannerAzmodunkVar2": {
+      "hyperlinkId": "RealDreamChampionshipBanner",
+      "attributeId": "BAN2",
+      "franchise": "Nexus",
+      "rarity": "Rare",
+      "releaseDate": "2016-04-12",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountBannerDorm18": {
+      "hyperlinkId": "2018ChampionshipBanner",
+      "attributeId": "BHD0",
+      "franchise": "Nexus",
+      "rarity": "Rare",
+      "releaseDate": "2018-07-10",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountBannerKerriCheer": {
+      "hyperlinkId": "2017ChampionshipBanner",
+      "attributeId": "BKC0",
+      "franchise": "Nexus",
+      "rarity": "Rare",
+      "releaseDate": "2017-04-11",
+      "category": "Magical",
+      "type": "Ridesurf",
+      "variationMountIds": [
+        "MountBannerKerriCheerVar1",
+        "MountBannerKerriCheerVar2",
+        "MountBannerKerriCheerVar5"
+      ]
+    },
+    "MountBannerKerriCheerVar1": {
+      "hyperlinkId": "Glorious2017ChampionshipBanner",
+      "attributeId": "BKC1",
+      "franchise": "Nexus",
+      "rarity": "Rare",
+      "releaseDate": "2017-04-11",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountBannerKerriCheerVar2": {
+      "hyperlinkId": "Golden2017ChampionshipBanner",
+      "attributeId": "BKC2",
+      "franchise": "Nexus",
+      "rarity": "Rare",
+      "releaseDate": "2017-04-11",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountBannerKerriCheerVar5": {
+      "hyperlinkId": "Dorm2017ChampionshipBanner",
+      "attributeId": "BKC5",
+      "franchise": "Nexus",
+      "rarity": "Rare",
+      "releaseDate": "2017-04-11",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountBattleBeastEsport17Base": {
+      "hyperlinkId": "ChaosLizard",
+      "attributeId": "BAT0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Beast",
+      "type": "Ridebeast",
+      "variationMountIds": [
+        "MountBattleBeastEsport17BaseVar1",
+        "MountBattleBeastEsport17BaseVar2"
+      ]
+    },
+    "MountBattleBeastEsport17BaseVar1": {
+      "hyperlinkId": "DeadlyChaosLizard",
+      "attributeId": "BAT1",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountBattleBeastEsport17BaseVar2": {
+      "hyperlinkId": "ArcaneChaosLizard",
+      "attributeId": "BAT2",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountBattleBeastEsport17Epic": {
+      "hyperlinkId": "EpicChaosLizard",
+      "attributeId": "BAL0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Beast",
+      "type": "Ridebeast",
+      "variationMountIds": [
+        "MountBattleBeastEsport17EpicVar1",
+        "MountBattleBeastEsport17EpicVar2"
+      ]
+    },
+    "MountBattleBeastEsport17EpicVar1": {
+      "hyperlinkId": "DeadlyEpicChaosLizard",
+      "attributeId": "BAL1",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountBattleBeastEsport17EpicVar2": {
+      "hyperlinkId": "ArcaneEpicChaosLizard",
+      "attributeId": "BAL2",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountBattleBeastRankBase": {
+      "hyperlinkId": "ElementalLizard",
+      "attributeId": "BBR0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-07-12",
+      "category": "Beast",
+      "type": "Ridebeast",
+      "variationMountIds": [
+        "MountBattleBeastRankBaseVar1",
+        "MountBattleBeastRankBaseVar2"
+      ]
+    },
+    "MountBattleBeastRankBaseVar1": {
+      "hyperlinkId": "AzureElementalLizard",
+      "attributeId": "BBR1",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-07-12",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountBattleBeastRankBaseVar2": {
+      "hyperlinkId": "VerdantElementalLizard",
+      "attributeId": "BBR2",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-07-12",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountBattleBeastRankEpic": {
+      "hyperlinkId": "EpicElementalLizard",
+      "attributeId": "BBR3",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-07-12",
+      "category": "Beast",
+      "type": "Ridebeast",
+      "variationMountIds": [
+        "MountBattleBeastRankEpicVar1",
+        "MountBattleBeastRankEpicVar2"
+      ]
+    },
+    "MountBattleBeastRankEpicVar1": {
+      "hyperlinkId": "AzureEpicElementalLizard",
+      "attributeId": "BBR4",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-07-12",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountBattleBeastRankEpicVar2": {
+      "hyperlinkId": "VerdantEpicElementalLizard",
+      "attributeId": "BBR5",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-07-12",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountBattleBeastTriceratops_00": {
+      "hyperlinkId": "PrimalDirehorn",
+      "attributeId": "TRI0",
+      "rarity": "Common",
+      "releaseDate": "2018-07-10",
+      "category": "Beast",
+      "type": "Ridebeast",
+      "variationMountIds": [
+        "MountBattleBeastTriceratops_00Var1",
+        "MountBattleBeastTriceratops_00Var2"
+      ]
+    },
+    "MountBattleBeastTriceratops_00Var1": {
+      "hyperlinkId": "SholazarDirehorn",
+      "attributeId": "TRI1",
+      "rarity": "Common",
+      "releaseDate": "2018-07-10",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountBattleBeastTriceratops_00Var2": {
+      "hyperlinkId": "HellfireDirehorn",
+      "attributeId": "TRI2",
+      "rarity": "Common",
+      "releaseDate": "2018-07-10",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountBattleBeastTriceratops_01": {
+      "hyperlinkId": "EpicPrimalDirehorn",
+      "attributeId": "TRI3",
+      "rarity": "Common",
+      "releaseDate": "2018-07-10",
+      "category": "Beast",
+      "type": "Ridebeast",
+      "variationMountIds": [
+        "MountBattleBeastTriceratops_01Var1",
+        "MountBattleBeastTriceratops_01Var2"
+      ]
+    },
+    "MountBattleBeastTriceratops_01Var1": {
+      "hyperlinkId": "EpicSholazarDirehorn",
+      "attributeId": "TRI4",
+      "rarity": "Common",
+      "releaseDate": "2018-07-10",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountBattleBeastTriceratops_01Var2": {
+      "hyperlinkId": "EpicHellfireDirehorn",
+      "attributeId": "TRI5",
+      "rarity": "Common",
+      "releaseDate": "2018-07-10",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountBearCelestial": {
+      "hyperlinkId": "CelestialUrsa",
+      "attributeId": "BEA8",
+      "rarity": "Common",
+      "releaseDate": "2018-03-27",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountBearRank17Base": {
+      "hyperlinkId": "EarthbreakerGrizzly",
+      "attributeId": "BEA5",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2017-09-05",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountBearRank17BaseVar1",
+        "MountBearRank17BaseVar2"
+      ]
+    },
+    "MountBearRank17BaseVar1": {
+      "hyperlinkId": "DreambreakerGrizzly",
+      "attributeId": "BEA6",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2017-09-05",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountBearRank17BaseVar2": {
+      "hyperlinkId": "NetherbreakerGrizzly",
+      "attributeId": "BEA7",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2017-09-05",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountBearRank17Epic": {
+      "hyperlinkId": "EpicEarthbreakerGrizzly",
+      "attributeId": "BEAA",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2017-09-05",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountBearRank17EpicVar1",
+        "MountBearRank17EpicVar2"
+      ]
+    },
+    "MountBearRank17EpicVar1": {
+      "hyperlinkId": "EpicDreambreakerGrizzly",
+      "attributeId": "BEAB",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2017-09-05",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountBearRank17EpicVar2": {
+      "hyperlinkId": "EpicNetherbreakerGrizzly",
+      "attributeId": "BEAC",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2017-09-05",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountBearRank21S1": {
+      "hyperlinkId": "Quillbear",
+      "attributeId": "BEA9",
+      "rarity": "Common",
+      "releaseDate": "2020-12-01",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountBearWar": {
+      "hyperlinkId": "AmaniWarBear",
+      "attributeId": "BEA0",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-01-04",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountBearWarVar1",
+        "MountBearWarVar2"
+      ]
+    },
+    "MountBearWarVar1": {
+      "hyperlinkId": "CrimsonWarBear",
+      "attributeId": "BEA1",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-01-04",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountBearWarVar2": {
+      "hyperlinkId": "DrakkariWarBear",
+      "attributeId": "BEA2",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-01-04",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountBottle": {
+      "hyperlinkId": "Bottleship",
+      "attributeId": "Bot0",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2020-12-01",
+      "category": "Magical",
+      "type": "Ridebeast",
+      "variationMountIds": [
+        "MountBottleVar1",
+        "MountBottleVar2"
+      ]
+    },
+    "MountBottleVar1": {
+      "hyperlinkId": "GrogBottleship",
+      "attributeId": "Bot1",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2020-12-01",
+      "category": "Magical",
+      "type": "Ridebeast"
+    },
+    "MountBottleVar2": {
+      "hyperlinkId": "SeaweedBottleship",
+      "attributeId": "Bot2",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2020-12-01",
+      "category": "Magical",
+      "type": "Ridebeast"
+    },
+    "MountCatFire": {
+      "hyperlinkId": "PrimalFlamesaber",
+      "attributeId": "CAF0",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2018-02-06",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountCatFireVar1",
+        "MountCatFireVar2",
+        "MountCatFireVar3",
+        "MountCatFireVar4"
+      ]
+    },
+    "MountCatFireVar1": {
+      "hyperlinkId": "PrimalDreamsaber",
+      "attributeId": "CAF1",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2018-02-06",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountCatFireVar2": {
+      "hyperlinkId": "PrimalSandsaber",
+      "attributeId": "CAF2",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2018-02-06",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountCatFireVar3": {
+      "hyperlinkId": "MountCatFireVar3",
+      "attributeId": "CAF3",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2018-02-06",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountCatFireVar4": {
+      "hyperlinkId": "MountCatFireVar4",
+      "attributeId": "CAF4",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2018-02-06",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountCatHaunted": {
+      "hyperlinkId": "HauntedCat",
+      "attributeId": "CAT0",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountCatHauntedVar1"
+      ]
+    },
+    "MountCatHauntedVar1": {
+      "hyperlinkId": "HauntedCat",
+      "attributeId": "CAT1",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountCerberusMyth20": {
+      "hyperlinkId": "Cerberus",
+      "attributeId": "Cer0",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2020-05-05",
+      "category": "Beast",
+      "type": "Ridebeast",
+      "variationMountIds": [
+        "MountCerberusMyth20Var1",
+        "MountCerberusMyth20Var2",
+        "MountCerberusMyth20Var3",
+        "MountCerberusMyth20Var4"
+      ]
+    },
+    "MountCerberusMyth20Var1": {
+      "hyperlinkId": "RunedCerberus",
+      "attributeId": "Cer1",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2020-05-05",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountCerberusMyth20Var2": {
+      "hyperlinkId": "ResoluteCerberus",
+      "attributeId": "Cer2",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2020-05-05",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountCerberusMyth20Var3": {
+      "hyperlinkId": "EarthenCerberus",
+      "attributeId": "Cer3",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2020-05-05",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountCerberusMyth20Var4": {
+      "hyperlinkId": "LoyalCerberus",
+      "attributeId": "Cer4",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2020-05-05",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountCloud": {
+      "hyperlinkId": "NimbusCloud",
+      "attributeId": "CLO0",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2017-01-31",
+      "category": "Magical",
+      "type": "Ridesurf",
+      "variationMountIds": [
+        "MountCloudVar1",
+        "MountCloudVar2"
+      ]
+    },
+    "MountCloudVar1": {
+      "hyperlinkId": "JadeNimbusCloud",
+      "attributeId": "CLO1",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2017-01-31",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountCloudVar2": {
+      "hyperlinkId": "AzureNimbusCloud",
+      "attributeId": "CLO2",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2017-01-31",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountCloudWhimsy": {
+      "hyperlinkId": "HappyCloud",
+      "attributeId": "CLW0",
+      "franchise": "Diablo",
+      "rarity": "Legendary",
+      "releaseDate": "2017-06-13",
+      "category": "Magical",
+      "type": "Ridesurf",
+      "variationMountIds": [
+        "MountCloudWhimsyVar1",
+        "MountCloudWhimsyVar2",
+        "MountCloudWhimsyVar3",
+        "MountCloudWhimsyVar4"
+      ]
+    },
+    "MountCloudWhimsyVar1": {
+      "hyperlinkId": "SadCloud",
+      "attributeId": "CLW1",
+      "franchise": "Diablo",
+      "rarity": "Legendary",
+      "releaseDate": "2017-06-13",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountCloudWhimsyVar2": {
+      "hyperlinkId": "AngryCloud",
+      "attributeId": "CLW2",
+      "franchise": "Diablo",
+      "rarity": "Legendary",
+      "releaseDate": "2017-06-13",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountCloudWhimsyVar3": {
+      "hyperlinkId": "SleepyCloud",
+      "attributeId": "CLW3",
+      "franchise": "Diablo",
+      "rarity": "Legendary",
+      "releaseDate": "2019-11-19",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountCloudWhimsyVar4": {
+      "hyperlinkId": "FlirtyCloud",
+      "attributeId": "CLW4",
+      "franchise": "Diablo",
+      "rarity": "Legendary",
+      "releaseDate": "2019-02-12",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountCrabCelestial": {
+      "hyperlinkId": "CelestialDeepcrawler",
+      "attributeId": "Crb6",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2019-09-24",
+      "category": "Beast",
+      "type": "Ridesurf"
+    },
+    "MountCrabRank18Base": {
+      "hyperlinkId": "Deepcrawler",
+      "attributeId": "Crb0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-12-11",
+      "category": "Beast",
+      "type": "Ridesurf",
+      "variationMountIds": [
+        "MountCrabRank18BaseVar1",
+        "MountCrabRank18BaseVar2"
+      ]
+    },
+    "MountCrabRank18BaseVar1": {
+      "hyperlinkId": "ReefDeepcrawler",
+      "attributeId": "Crb1",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-12-11",
+      "category": "Beast",
+      "type": "Ridesurf"
+    },
+    "MountCrabRank18BaseVar2": {
+      "hyperlinkId": "CoralDeepcrawler",
+      "attributeId": "Crb2",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-12-11",
+      "category": "Beast",
+      "type": "Ridesurf"
+    },
+    "MountCrabRank18Epic": {
+      "hyperlinkId": "EpicDeepcrawler",
+      "attributeId": "Crb3",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-12-11",
+      "category": "Beast",
+      "type": "Ridesurf",
+      "variationMountIds": [
+        "MountCrabRank18EpicVar1",
+        "MountCrabRank18EpicVar2"
+      ]
+    },
+    "MountCrabRank18EpicVar1": {
+      "hyperlinkId": "EpicReefDeepcrawler",
+      "attributeId": "Crb4",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-12-11",
+      "category": "Beast",
+      "type": "Ridesurf"
+    },
+    "MountCrabRank18EpicVar2": {
+      "hyperlinkId": "EpicCoralDeepcrawler",
+      "attributeId": "Crb5",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-12-11",
+      "category": "Beast",
+      "type": "Ridesurf"
+    },
+    "MountDeer_Rank16_00": {
+      "hyperlinkId": "ElementalStag",
+      "attributeId": "DER0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2017-03-14",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountDeer_Rank16_00Var1",
+        "MountDeer_Rank16_00Var2"
+      ]
+    },
+    "MountDeer_Rank16_00Var1": {
+      "hyperlinkId": "AzureElementalStag",
+      "attributeId": "DER1",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2017-03-14",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountDeer_Rank16_00Var2": {
+      "hyperlinkId": "VerdantElementalStag",
+      "attributeId": "DER2",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2017-03-14",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountDeer_Rank16_01": {
+      "hyperlinkId": "EpicElementalStag",
+      "attributeId": "DER3",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2017-03-14",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountDeer_Rank16_01Var1",
+        "MountDeer_Rank16_01Var2"
+      ]
+    },
+    "MountDeer_Rank16_01Var1": {
+      "hyperlinkId": "AzureEpicElementalStag",
+      "attributeId": "DER4",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2017-03-14",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountDeer_Rank16_01Var2": {
+      "hyperlinkId": "VerdantEpicElementalStag",
+      "attributeId": "DER5",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2017-03-14",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountDemonicHorse": {
+      "hyperlinkId": "DemonicHellsteed",
+      "attributeId": "DEM0",
+      "franchise": "Diablo",
+      "rarity": "Legendary",
+      "releaseDate": "2016-08-09",
+      "category": "Horse",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountDemonicHorseVar1",
+        "MountDemonicHorseVar2"
+      ]
+    },
+    "MountDemonicHorseVar1": {
+      "hyperlinkId": "ToxicDemonicHellsteed",
+      "attributeId": "DEM1",
+      "franchise": "Diablo",
+      "rarity": "Legendary",
+      "releaseDate": "2016-08-09",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MountDemonicHorseVar2": {
+      "hyperlinkId": "AncientDemonicHellsteed",
+      "attributeId": "DEM2",
+      "franchise": "Diablo",
+      "rarity": "Legendary",
+      "releaseDate": "2016-08-09",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MountDirewolf_Esport17Epic": {
+      "hyperlinkId": "EpicChaosWolf",
+      "attributeId": "DIL0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountDirewolf_Esport17EpicVar1",
+        "MountDirewolf_Esport17EpicVar2"
+      ]
+    },
+    "MountDirewolf_Esport17EpicVar1": {
+      "hyperlinkId": "DeadlyEpicChaosWolf",
+      "attributeId": "DIL1",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountDirewolf_Esport17EpicVar2": {
+      "hyperlinkId": "FuriousEpicChaosWolf",
+      "attributeId": "DIL2",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountDirewolf_Esport17_00": {
+      "hyperlinkId": "ChaosWolf",
+      "attributeId": "DIO0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountDirewolf_Esport17_00Var1",
+        "MountDirewolf_Esport17_00Var2"
+      ]
+    },
+    "MountDirewolf_Esport17_00Var1": {
+      "hyperlinkId": "DeadlyChaosWolf",
+      "attributeId": "DIO1",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountDirewolf_Esport17_00Var2": {
+      "hyperlinkId": "FuriousChaosWolf",
+      "attributeId": "DIO2",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountDirewolf_Rank15_00": {
+      "hyperlinkId": "ElementalWolf",
+      "attributeId": "DIE0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-06-14",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountDirewolf_Rank15_00Var1",
+        "MountDirewolf_Rank15_00Var2"
+      ]
+    },
+    "MountDirewolf_Rank15_00Var1": {
+      "hyperlinkId": "AzureElementalWolf",
+      "attributeId": "DIE1",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-06-14",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountDirewolf_Rank15_00Var2": {
+      "hyperlinkId": "VerdantElementalWolf",
+      "attributeId": "DIE2",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-06-14",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountDirewolf_Rank15_01": {
+      "hyperlinkId": "EpicElementalWolf",
+      "attributeId": "DIW0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-06-14",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountDirewolf_Rank15_01Var1",
+        "MountDirewolf_Rank15_01Var2",
+        "MountDirewolf_Rank15_01Var5"
+      ]
+    },
+    "MountDirewolf_Rank15_01Var1": {
+      "hyperlinkId": "AzureEpicElementalWolf",
+      "attributeId": "DIW1",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-06-14",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountDirewolf_Rank15_01Var2": {
+      "hyperlinkId": "VerdantEpicElementalWolf",
+      "attributeId": "DIW2",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-06-14",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountDirewolf_Rank15_01Var5": {
+      "hyperlinkId": "EpicCrimsonChaosWolf",
+      "attributeId": "DIW5",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-08-21",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountDogArmy19": {
+      "hyperlinkId": "DERPA",
+      "attributeId": "DOA0",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-02-12",
+      "category": "Mechanical",
+      "type": "Ridebeast",
+      "variationMountIds": [
+        "MountDogArmy19Var1",
+        "MountDogArmy19Var2"
+      ]
+    },
+    "MountDogArmy19Var1": {
+      "hyperlinkId": "CommandoDERPA",
+      "attributeId": "DOA1",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-02-12",
+      "category": "Mechanical",
+      "type": "Ridebeast"
+    },
+    "MountDogArmy19Var2": {
+      "hyperlinkId": "DesertDERPA",
+      "attributeId": "DOA2",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-02-12",
+      "category": "Mechanical",
+      "type": "Ridebeast"
+    },
+    "MountDogBandage19": {
+      "hyperlinkId": "BarkoPolo",
+      "attributeId": "DBG0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2019-01-22",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountDogBandage19Var3"
+      ]
+    },
+    "MountDogBandage19Var3": {
+      "hyperlinkId": "ScrappyBarkoPolo",
+      "attributeId": "DBG3",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2020-05-19",
+      "category": "Beast",
+      "event": "LTO",
+      "type": "Ride"
+    },
+    "MountDogFoo": {
+      "hyperlinkId": "LunarGuardian",
+      "attributeId": "Foo0",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-02-06",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountDogFooVar1",
+        "MountDogFooVar2",
+        "MountDogFooVar3",
+        "MountDogFooVar4"
+      ]
+    },
+    "MountDogFooVar1": {
+      "hyperlinkId": "JadeLunarGuardian",
+      "attributeId": "Foo1",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-02-06",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ride"
+    },
+    "MountDogFooVar2": {
+      "hyperlinkId": "ObsidianLunarGuardian",
+      "attributeId": "Foo2",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2019-03-26",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ride"
+    },
+    "MountDogFooVar3": {
+      "hyperlinkId": "MarbleLunarGuardian",
+      "attributeId": "Foo3",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-02-06",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ride"
+    },
+    "MountDogFooVar4": {
+      "hyperlinkId": "GoldenLunarGuardian",
+      "attributeId": "Foo4",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2019-03-26",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ride"
+    },
+    "MountDogSummer18": {
+      "hyperlinkId": "Luchihuahua",
+      "attributeId": "Dog0",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-05-22",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountDogSummer18Var1",
+        "MountDogSummer18Var2",
+        "MountDogSummer18Var3",
+        "MountDogSummer18Var4"
+      ]
+    },
+    "MountDogSummer18Var1": {
+      "hyperlinkId": "UnderworldLuchihuahua",
+      "attributeId": "Dog1",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-05-22",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ride"
+    },
+    "MountDogSummer18Var2": {
+      "hyperlinkId": "HellsScreamerLuchihuahua",
+      "attributeId": "Dog2",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-05-22",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ride"
+    },
+    "MountDogSummer18Var3": {
+      "hyperlinkId": "FestiveLuchihuahua",
+      "attributeId": "Dog3",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2020-06-23",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ride"
+    },
+    "MountDogSummer18Var4": {
+      "hyperlinkId": "ChampionshipLuchihuahua",
+      "attributeId": "Dog4",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2020-06-23",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ride"
+    },
+    "MountDollarBill": {
+      "hyperlinkId": "ThrallerBill",
+      "attributeId": "Dol0",
+      "rarity": "Legendary",
+      "releaseDate": "2020-06-23",
+      "category": "Magical",
+      "type": "Ridesurf",
+      "variationMountIds": [
+        "MountDollarBillVar1",
+        "MountDollarBillVar2"
+      ]
+    },
+    "MountDollarBillVar1": {
+      "hyperlinkId": "MountDollarBill",
+      "attributeId": "Dol1",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountDollarBillVar2": {
+      "hyperlinkId": "MountDollarBill",
+      "attributeId": "Dol2",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountEye": {
+      "hyperlinkId": "EyePad",
+      "attributeId": "EYE0",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-10-17",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ridesurf",
+      "variationMountIds": [
+        "MountEyeVar1",
+        "MountEyeVar2",
+        "MountEyeVar3",
+        "MountEyeVar4"
+      ]
+    },
+    "MountEyePadDark18": {
+      "hyperlinkId": "DarkNexusManta",
+      "attributeId": "EYD0",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2018-05-01",
+      "category": "Magical",
+      "type": "Ridesurf",
+      "variationMountIds": [
+        "MountEyePadDark18Var1",
+        "MountEyePadDark18Var2",
+        "MountEyePadDark18Var3",
+        "MountEyePadDark18Var4"
+      ]
+    },
+    "MountEyePadDark18Var1": {
+      "hyperlinkId": "CorrosiveDarkNexusManta",
+      "attributeId": "EYD1",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2018-05-01",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountEyePadDark18Var2": {
+      "hyperlinkId": "EntropicDarkNexusManta",
+      "attributeId": "EYD2",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2018-05-01",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountEyePadDark18Var3": {
+      "hyperlinkId": "AwakenedDarkNexusManta",
+      "attributeId": "EYD3",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2020-04-14",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ridesurf"
+    },
+    "MountEyePadDark18Var4": {
+      "hyperlinkId": "AstralDarkNexusManta",
+      "attributeId": "EYD4",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2020-04-14",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ridesurf"
+    },
+    "MountEyeVar1": {
+      "hyperlinkId": "PredatorEyePad",
+      "attributeId": "EYE1",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-10-17",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ridesurf"
+    },
+    "MountEyeVar2": {
+      "hyperlinkId": "SavageEyePad",
+      "attributeId": "EYE2",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-10-17",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ridesurf"
+    },
+    "MountEyeVar3": {
+      "hyperlinkId": "PumpkinEyePad",
+      "attributeId": "EYE3",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2018-09-25",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ridesurf"
+    },
+    "MountEyeVar4": {
+      "hyperlinkId": "SunnySideEyePad",
+      "attributeId": "EYE4",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2018-09-25",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ridesurf"
+    },
+    "MountFenixBase": {
+      "hyperlinkId": "MountFenixBase",
+      "attributeId": "FeCM",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "MountFenixBase"
+    },
+    "MountGoatAdultBillie": {
+      "hyperlinkId": "WonderWilliam",
+      "attributeId": "Goa0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-10-30",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountGoatAdultBillieVar1",
+        "MountGoatAdultBillieVar2"
+      ]
+    },
+    "MountGoatBirthday19": {
+      "hyperlinkId": "HappyBirthdayBillie",
+      "attributeId": "Goa7",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2019-05-28",
+      "category": "Beast",
+      "event": "",
+      "type": "Ride"
+    },
+    "MountGoatGuardian21": {
+      "hyperlinkId": "RankedReward",
+      "attributeId": "Goa8",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2021-04-13",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountGoatGuardian21Var1",
+        "MountGoatGuardian21Var2",
+        "MountGoatGuardian21Var3"
+      ]
+    },
+    "MountGoatGuardian21Var1": {
+      "hyperlinkId": "RankedReward",
+      "attributeId": "GoaA",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2021-04-13",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountGoatGuardian21Var2": {
+      "hyperlinkId": "RankedReward",
+      "attributeId": "GoaB",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2021-04-13",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountGoatGuardian21Var3": {
+      "hyperlinkId": "RankedReward",
+      "attributeId": "GoaC",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2021-04-13",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountHeart": {
+      "hyperlinkId": "HeartStone",
+      "attributeId": "HRT0",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2017-02-14",
+      "category": "Magical",
+      "type": "Ridesurf",
+      "variationMountIds": [
+        "MountHeartVar1",
+        "MountHeartVar2"
+      ]
+    },
+    "MountHearthstoneCardCookieBite": {
+      "hyperlinkId": "Gingerboard",
+      "attributeId": "Hrt0",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2017-12-12",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ridesurf",
+      "variationMountIds": [
+        "MountHearthstoneCardCookieBiteVar1",
+        "MountHearthstoneCardCookieBiteVar2",
+        "MountHearthstoneCardCookieBiteVar3",
+        "MountHearthstoneCardCookieBiteVar4"
+      ]
+    },
+    "MountHearthstoneCardCookieBiteVar1": {
+      "hyperlinkId": "BlueberryGingerboard",
+      "attributeId": "Hrt4",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2017-12-12",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ridesurf"
+    },
+    "MountHearthstoneCardCookieBiteVar2": {
+      "hyperlinkId": "StrawberryGingerboard",
+      "attributeId": "Hrt5",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2017-12-12",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ridesurf"
+    },
+    "MountHearthstoneCardCookieBiteVar3": {
+      "hyperlinkId": "FrostedGingerboard",
+      "attributeId": "Hrt6",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2017-12-12",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ridesurf"
+    },
+    "MountHearthstoneCardCookieBiteVar4": {
+      "hyperlinkId": "MoldyGingerboard",
+      "attributeId": "Hrt7",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2017-12-12",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ridesurf"
+    },
+    "MountHearthstoneCardSoapBar": {
+      "hyperlinkId": "SoapBar",
+      "attributeId": "Hrt8",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2018-11-27",
+      "category": "Magical",
+      "type": "Ridesurf",
+      "variationMountIds": [
+        "MountHearthstoneCardSoapBarVar1",
+        "MountHearthstoneCardSoapBarVar2",
+        "MountHearthstoneCardSoapBarVar3"
+      ]
+    },
+    "MountHearthstoneCardSoapBarVar1": {
+      "hyperlinkId": "PrimeSoapBar",
+      "attributeId": "Hrt9",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2018-11-27",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountHearthstoneCardSoapBarVar2": {
+      "hyperlinkId": "SqueakySoapBar",
+      "attributeId": "HrtA",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2018-11-27",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountHearthstoneCardSoapBarVar3": {
+      "hyperlinkId": "RCHSSoapBar",
+      "attributeId": "HrtB",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-11-27",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountHeartVar1": {
+      "hyperlinkId": "SapphireHeartStone",
+      "attributeId": "HRT1",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2017-02-14",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountHeartVar2": {
+      "hyperlinkId": "GarnetHeartStone",
+      "attributeId": "HRT2",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2017-02-14",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountHellBillie": {
+      "hyperlinkId": "HellBillie",
+      "attributeId": "HlB0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-06-02",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountHellBillieVar1",
+        "MountHellBillieVar2"
+      ]
+    },
+    "MountHellBillieVar1": {
+      "hyperlinkId": "MagentaHellBillie",
+      "attributeId": "HlB1",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-06-02",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountHellBillieVar2": {
+      "hyperlinkId": "CrimsonHellBillie",
+      "attributeId": "HlB2",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-06-02",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountHorseCraft20": {
+      "hyperlinkId": "Invincilisk",
+      "attributeId": "HCR0",
+      "franchise": "Starcraft",
+      "rarity": "Epic",
+      "releaseDate": "2020-09-08",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountHorseCraft20Var1",
+        "MountHorseCraft20Var2"
+      ]
+    },
+    "MountHorseCraft20Var1": {
+      "hyperlinkId": "SlimeheartInvincilisk",
+      "attributeId": "HCR1",
+      "franchise": "Starcraft",
+      "rarity": "Epic",
+      "releaseDate": "2020-09-08",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ride"
+    },
+    "MountHorseCraft20Var2": {
+      "hyperlinkId": "SulphurousInvincilisk",
+      "attributeId": "HCR2",
+      "franchise": "Starcraft",
+      "rarity": "Epic",
+      "releaseDate": "2020-09-08",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ride"
+    },
+    "MountHorseDead": {
+      "hyperlinkId": "UndeadHorse",
+      "attributeId": "Hor8",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-09-05",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MountHorseGhost": {
+      "hyperlinkId": "PhantomStallion",
+      "attributeId": "Hor0",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-10-17",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountHorseGhostVar1",
+        "MountHorseGhostVar2",
+        "MountHorseGhostVar3",
+        "MountHorseGhostVar4"
+      ]
+    },
+    "MountHorseGhostInvisible": {
+      "hyperlinkId": "SpectralStallion",
+      "attributeId": "HorO",
+      "franchise": "Warcraft",
+      "rarity": "Legendary",
+      "releaseDate": "2017-10-17",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ride"
+    },
+    "MountHorseGhostVar1": {
+      "hyperlinkId": "PicnicPhantomStallion",
+      "attributeId": "HorJ",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-10-17",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ride"
+    },
+    "MountHorseGhostVar2": {
+      "hyperlinkId": "GrimPhantomStallion",
+      "attributeId": "HorL",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-10-17",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ride"
+    },
+    "MountHorseGhostVar3": {
+      "hyperlinkId": "Jack-o-PhantomStallion",
+      "attributeId": "HorM",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-10-17",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ride"
+    },
+    "MountHorseGhostVar4": {
+      "hyperlinkId": "SecretPhantomStallion",
+      "attributeId": "HorN",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2017-10-17",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ride"
+    },
+    "MountHorseMyth20": {
+      "hyperlinkId": "Pegasus",
+      "attributeId": "Pag0",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2020-05-05",
+      "category": "Horse",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountHorseMyth20Var1",
+        "MountHorseMyth20Var2",
+        "MountHorseMyth20Var3",
+        "MountHorseMyth20Var4"
+      ]
+    },
+    "MountHorseMyth20Var1": {
+      "hyperlinkId": "RunedPegasus",
+      "attributeId": "Pag1",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2020-05-05",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MountHorseMyth20Var2": {
+      "hyperlinkId": "IcyPegasus",
+      "attributeId": "Pag2",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2020-05-05",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MountHorseMyth20Var3": {
+      "hyperlinkId": "FernwoodPegasus",
+      "attributeId": "Pag3",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2020-05-05",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MountHorseMyth20Var4": {
+      "hyperlinkId": "ExtravagantPegasus",
+      "attributeId": "Pag4",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2020-05-05",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MountHorseToys18": {
+      "hyperlinkId": "PlushUnicorn",
+      "attributeId": "HOR0",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-12-11",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountHorseToys18Var1",
+        "MountHorseToys18Var2",
+        "MountHorseToys18Var3",
+        "MountHorseToys18Var4",
+        "MountHorseToys18Var5",
+        "MountHorseToys18Var6"
+      ]
+    },
+    "MountHorseToys18Var1": {
+      "hyperlinkId": "PlushZombicorn",
+      "attributeId": "HOR1",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-12-11",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ride"
+    },
+    "MountHorseToys18Var2": {
+      "hyperlinkId": "PrettyPlushUnicorn",
+      "attributeId": "HOR2",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-12-11",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ride"
+    },
+    "MountHorseToys18Var3": {
+      "hyperlinkId": "FuzzyPlushUnicorn",
+      "attributeId": "HOR3",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-12-11",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ride"
+    },
+    "MountHorseToys18Var4": {
+      "hyperlinkId": "HoneyPlushUnicorn",
+      "attributeId": "HOR4",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-12-11",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ride"
+    },
+    "MountHorseToys18Var5": {
+      "hyperlinkId": "GloomyPlushUnicorn",
+      "attributeId": "HOR5",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2019-12-17",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ride"
+    },
+    "MountHorseToys18Var6": {
+      "hyperlinkId": "ShabbyPlushUnicorn",
+      "attributeId": "HOR6",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2019-12-17",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ride"
+    },
+    "MountHorseToys19": {
+      "hyperlinkId": "GreenArmyHorse",
+      "attributeId": "HorT",
+      "rarity": "Common",
+      "releaseDate": "2019-12-03",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MountKelThuzadWake": {
+      "hyperlinkId": "UnrelentingFrost",
+      "attributeId": "KEL0",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2017-01-01",
+      "category": "Unique",
+      "type": "MountKelThuzadWake"
+    },
+    "MountKelThuzadWakeVar1": {
+      "hyperlinkId": "MountKelThuzadWake",
+      "attributeId": "KEL1",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2017-01-01",
+      "category": "Unique",
+      "type": "MountKelThuzadWake"
+    },
+    "MountKelThuzadWakeVar2": {
+      "hyperlinkId": "MountKelThuzadWake",
+      "attributeId": "KEL2",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2017-01-01",
+      "category": "Unique",
+      "type": "MountKelThuzadWake"
+    },
+    "MountLionToys18": {
+      "hyperlinkId": "CosmicLion",
+      "attributeId": "LIN0",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2018-12-11",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountLionToys18Var1",
+        "MountLionToys18Var2",
+        "MountLionToys18Var3",
+        "MountLionToys18Var4"
+      ]
+    },
+    "MountLionToys18Var1": {
+      "hyperlinkId": "PsionicLion",
+      "attributeId": "LIN1",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2018-12-11",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ride"
+    },
+    "MountLionToys18Var2": {
+      "hyperlinkId": "NegaLion",
+      "attributeId": "LIN2",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2018-12-11",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ride"
+    },
+    "MountLionToys18Var3": {
+      "hyperlinkId": "GalacticLion",
+      "attributeId": "LIN3",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-12-17",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ride"
+    },
+    "MountLionToys18Var4": {
+      "hyperlinkId": "ProtoLion",
+      "attributeId": "LIN4",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-12-17",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ride"
+    },
+    "MountLion_Rank16_00": {
+      "hyperlinkId": "ElementalLion",
+      "attributeId": "LIO4",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-12-14",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountLion_Rank16_00_Var1",
+        "MountLion_Rank16_00_Var2",
+        "MountLion_Rank16_00_Var3",
+        "MountLion_Rank16_00_Var4",
+        "MountLion_Rank16_00_Var5"
+      ]
+    },
+    "MountLion_Rank16_00_Var1": {
+      "hyperlinkId": "AzureElementalLion",
+      "attributeId": "LIO5",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-12-14",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountLion_Rank16_00_Var2": {
+      "hyperlinkId": "VerdantElementalLion",
+      "attributeId": "LIO6",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-12-14",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountLion_Rank16_00_Var3": {
+      "hyperlinkId": "ArcaneElementalLion",
+      "attributeId": "LIO7",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountLion_Rank16_00_Var4": {
+      "hyperlinkId": "ChaosLion",
+      "attributeId": "LIOC",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountLion_Rank16_00_Var5": {
+      "hyperlinkId": "GoldenChaosLion",
+      "attributeId": "LIOD",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountLion_Rank16_01": {
+      "hyperlinkId": "EpicElementalLion",
+      "attributeId": "LIO8",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-12-14",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountLion_Rank16_01_Var1",
+        "MountLion_Rank16_01_Var2",
+        "MountLion_Rank16_01_Var3",
+        "MountLion_Rank16_01_Var4",
+        "MountLion_Rank16_01_Var5"
+      ]
+    },
+    "MountLion_Rank16_01_Var1": {
+      "hyperlinkId": "AzureEpicElementalLion",
+      "attributeId": "LIO9",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-12-14",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountLion_Rank16_01_Var2": {
+      "hyperlinkId": "VerdantEpicElementalLion",
+      "attributeId": "LIOA",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-12-14",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountLion_Rank16_01_Var3": {
+      "hyperlinkId": "EpicElementalLion",
+      "attributeId": "LIOB",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-12-14",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountLion_Rank16_01_Var4": {
+      "hyperlinkId": "EpicChaosLion",
+      "attributeId": "LIOE",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountLion_Rank16_01_Var5": {
+      "hyperlinkId": "EpicGoldenChaosLion",
+      "attributeId": "LIOF",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountMeatWagon": {
+      "hyperlinkId": "MeatWagon",
+      "attributeId": "MTW0",
+      "franchise": "Warcraft",
+      "rarity": "Legendary",
+      "releaseDate": "2018-10-16",
+      "category": "Mechanical",
+      "type": "Ridebike",
+      "variationMountIds": [
+        "MountMeatWagonVar1",
+        "MountMeatWagonVar2",
+        "MountMeatWagonVar3"
+      ]
+    },
+    "MountMeatWagonVar1": {
+      "hyperlinkId": "NorthrendMeatWagon",
+      "attributeId": "MTW1",
+      "franchise": "Warcraft",
+      "rarity": "Legendary",
+      "releaseDate": "2018-10-16",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "MountMeatWagonVar2": {
+      "hyperlinkId": "BlackrockMeatWagon",
+      "attributeId": "MTW2",
+      "franchise": "Warcraft",
+      "rarity": "Legendary",
+      "releaseDate": "2018-10-16",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "MountMeatWagonVar3": {
+      "hyperlinkId": "DeathguardMeatWagon",
+      "attributeId": "MTW3",
+      "franchise": "Warcraft",
+      "rarity": "Legendary",
+      "releaseDate": "2018-10-16",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "MountMephistoBase": {
+      "hyperlinkId": "MountMephistoBase",
+      "attributeId": "MeCM",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "MountMephistoBase"
+    },
+    "MountMonoWheelMadAxe19": {
+      "hyperlinkId": "MountMonoWheelMadAxe19",
+      "attributeId": "WHM0",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2026-04-20",
+      "category": "Mechanical",
+      "type": "Ridebike",
+      "variationMountIds": [
+        "MountMonoWheelMadAxe19Var1",
+        "MountMonoWheelMadAxe19Var2"
+      ]
+    },
+    "MountMonoWheelMadAxe19Var1": {
+      "hyperlinkId": "MountMonoWheelMadAxe19Var1",
+      "attributeId": "WHM1",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2026-04-20",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "MountMonoWheelMadAxe19Var2": {
+      "hyperlinkId": "MountMonoWheelMadAxe19Var2",
+      "attributeId": "WHM2",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2026-04-20",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "MountMouseSummer20": {
+      "hyperlinkId": "RatondeBatalla",
+      "attributeId": "Mou0",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2020-06-23",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountMouseSummer20Var1",
+        "MountMouseSummer20Var2"
+      ]
+    },
+    "MountMouseSummer20Var1": {
+      "hyperlinkId": "ComebackRatondeBatalla",
+      "attributeId": "Mou1",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2020-06-23",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ride"
+    },
+    "MountMouseSummer20Var2": {
+      "hyperlinkId": "UnderworldRatondeBatalla",
+      "attributeId": "Mou2",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2020-06-23",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ride"
+    },
+    "MountNexagonFAL16": {
+      "hyperlinkId": "2016FallFinalsNexagon",
+      "attributeId": "NEX1",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-12-14",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountNexagonMadAxe18": {
+      "hyperlinkId": "Ripper",
+      "attributeId": "NEX3",
+      "rarity": "Common",
+      "releaseDate": "2018-07-24",
+      "category": "Mechanical",
+      "type": "Ridesurf",
+      "variationMountIds": [
+        "MountNexagonMadAxe18Var3",
+        "MountNexagonMadAxe18Var4",
+        "MountNexagonMadAxe18Var5"
+      ]
+    },
+    "MountNexagonMadAxe18Var3": {
+      "hyperlinkId": "ScavengersRipper",
+      "attributeId": "NEX9",
+      "rarity": "Common",
+      "releaseDate": "2019-08-06",
+      "category": "Mechanical",
+      "type": "Ridesurf"
+    },
+    "MountNexagonMadAxe18Var4": {
+      "hyperlinkId": "OutridersRipper",
+      "attributeId": "NEXA",
+      "rarity": "Common",
+      "releaseDate": "2019-08-06",
+      "category": "Mechanical",
+      "type": "Ridesurf"
+    },
+    "MountNexagonMadAxe18Var5": {
+      "hyperlinkId": "SoldiersRipper",
+      "attributeId": "NEXB",
+      "rarity": "Common",
+      "releaseDate": "2019-08-06",
+      "category": "Mechanical",
+      "type": "Ridesurf"
+    },
+    "MountNexagonMSB18": {
+      "hyperlinkId": "2018MidSeasonBrawlNexagon",
+      "attributeId": "NEX6",
+      "rarity": "Common",
+      "releaseDate": "2018-08-07",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountNexagonOverwatch": {
+      "hyperlinkId": "OverwatchNexagon",
+      "attributeId": "NEX2",
+      "franchise": "Overwatch",
+      "rarity": "Common",
+      "releaseDate": "2017-04-25",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountNexagonSpooky18": {
+      "hyperlinkId": "RedeemedTombstone",
+      "attributeId": "NEX7",
+      "rarity": "Common",
+      "releaseDate": "2018-09-25",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ridesurf",
+      "variationMountIds": [
+        "MountNexagonSpooky18Var1",
+        "MountNexagonSpooky18Var2",
+        "MountNexagonSpooky18Var3"
+      ]
+    },
+    "MountNexagonSpooky18Var1": {
+      "hyperlinkId": "CorruptedTombstone",
+      "attributeId": "NEX8",
+      "rarity": "Common",
+      "releaseDate": "2018-09-25",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ridesurf"
+    },
+    "MountNexagonSpooky18Var2": {
+      "hyperlinkId": "ReveredTombstone",
+      "attributeId": "NEXC",
+      "rarity": "Legendary",
+      "releaseDate": "2019-09-24",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ridesurf"
+    },
+    "MountNexagonSpooky18Var3": {
+      "hyperlinkId": "VenomousTombstone",
+      "attributeId": "NEXD",
+      "rarity": "Epic",
+      "releaseDate": "2019-09-24",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ridesurf"
+    },
+    "MountNexagonSPR16": {
+      "hyperlinkId": "2016SpringFinalsNexagon",
+      "attributeId": "NXS0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-04-19",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountNexagonSUM16": {
+      "hyperlinkId": "2016SummerFinalsNexagon",
+      "attributeId": "NEX0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-07-12",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountOwlSeekerAltered20": {
+      "hyperlinkId": "Seeker",
+      "attributeId": "Owl0",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2020-07-14",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountOwlSeekerAltered20Var1",
+        "MountOwlSeekerAltered20Var2"
+      ]
+    },
+    "MountOwlSeekerAltered20Var1": {
+      "hyperlinkId": "WoodlandSeeker",
+      "attributeId": "Owl1",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2020-07-14",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountOwlSeekerAltered20Var2": {
+      "hyperlinkId": "TwilightSeeker",
+      "attributeId": "Owl2",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2020-07-14",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountPigFel": {
+      "hyperlinkId": "Hellboar",
+      "attributeId": "PIF0",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2016-10-18",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountPigFelVar1",
+        "MountPigFelVar2"
+      ]
+    },
+    "MountPigFelVar1": {
+      "hyperlinkId": "Felboar",
+      "attributeId": "PIF1",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2016-10-18",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountPigFelVar2": {
+      "hyperlinkId": "ShadowmoonHellboar",
+      "attributeId": "PIF2",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2016-10-18",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountPigNexus": {
+      "hyperlinkId": "NexusRazorback",
+      "attributeId": "PIF4",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2017-10-17",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountPigPinata": {
+      "hyperlinkId": "Pignata",
+      "attributeId": "PGP0",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-05-22",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountPigPinataVar1",
+        "MountPigPinataVar2",
+        "MountPigPinataVar3",
+        "MountPigPinataVar4"
+      ]
+    },
+    "MountPigPinataVar1": {
+      "hyperlinkId": "LuchaPignata",
+      "attributeId": "PGP1",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-05-22",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ride"
+    },
+    "MountPigPinataVar2": {
+      "hyperlinkId": "HellsScreamerPignata",
+      "attributeId": "PGP2",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-05-22",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ride"
+    },
+    "MountPigPinataVar3": {
+      "hyperlinkId": "FestivePignata",
+      "attributeId": "PGP3",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2020-06-23",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ride"
+    },
+    "MountPigPinataVar4": {
+      "hyperlinkId": "WildPignata",
+      "attributeId": "PGP4",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2020-06-23",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ride"
+    },
+    "MountPigSpring19": {
+      "hyperlinkId": "CyberOniWarboar",
+      "attributeId": "MOU0",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-03-26",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountPigSpring19Var1",
+        "MountPigSpring19Var2",
+        "MountPigSpring19Var3",
+        "MountPigSpring19Var4"
+      ]
+    },
+    "MountPigSpring19Var1": {
+      "hyperlinkId": "IvoryCyberOniWarboar",
+      "attributeId": "MOU1",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-03-26",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ride"
+    },
+    "MountPigSpring19Var2": {
+      "hyperlinkId": "JigokuCyberOniWarboar",
+      "attributeId": "MOU2",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-03-26",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ride"
+    },
+    "MountPigSpring19Var3": {
+      "hyperlinkId": "AzureCyberOniWarboar",
+      "attributeId": "MOU3",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-03-26",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ride"
+    },
+    "MountPigSpring19Var4": {
+      "hyperlinkId": "JadeCyberOniWarboar",
+      "attributeId": "MOU4",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-03-26",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ride"
+    },
+    "MountPig_Rank18_00": {
+      "hyperlinkId": "ElementalBoar",
+      "attributeId": "PIG0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-03-06",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountPig_Rank18_00Var1",
+        "MountPig_Rank18_00Var2",
+        "MountPig_Rank18_00Var3",
+        "MountPig_Rank18_00Var4"
+      ]
+    },
+    "MountPig_Rank18_00Var1": {
+      "hyperlinkId": "AzureElementalBoar",
+      "attributeId": "PIG2",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-03-06",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountPig_Rank18_00Var2": {
+      "hyperlinkId": "VerdantElementalBoar",
+      "attributeId": "PIG3",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-03-06",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountPig_Rank18_00Var3": {
+      "hyperlinkId": "MountPig_Rank18_00Var3",
+      "attributeId": "PIG4",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-03-06",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountPig_Rank18_00Var4": {
+      "hyperlinkId": "MountPig_Rank18_00Var4",
+      "attributeId": "PIG5",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-03-06",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountPig_Rank18_01": {
+      "hyperlinkId": "EpicElementalBoar",
+      "attributeId": "PIG1",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-03-06",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountPig_Rank18_01Var1",
+        "MountPig_Rank18_01Var2",
+        "MountPig_Rank18_01Var3",
+        "MountPig_Rank18_01Var4"
+      ]
+    },
+    "MountPig_Rank18_01Var1": {
+      "hyperlinkId": "AzureEpicElementalBoar",
+      "attributeId": "PIG6",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-03-06",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountPig_Rank18_01Var2": {
+      "hyperlinkId": "VerdantEpicElementalBoar",
+      "attributeId": "PIG7",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-03-06",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountPig_Rank18_01Var3": {
+      "hyperlinkId": "MountPig_Rank18_01Var3",
+      "attributeId": "PIG8",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-03-06",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountPig_Rank18_01Var4": {
+      "hyperlinkId": "MountPig_Rank18_01Var4",
+      "attributeId": "PIG9",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-03-06",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountPlushSheepToys21": {
+      "hyperlinkId": "MountPlushSheepToys21",
+      "attributeId": "Toy0",
+      "franchise": "Warcraft",
+      "rarity": "Legendary",
+      "releaseDate": "2025-09-30",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountPlushSheepToys21Var1",
+        "MountPlushSheepToys21Var2",
+        "MountPlushSheepToys21Var3",
+        "MountPlushSheepToys21Var4"
+      ]
+    },
+    "MountPlushSheepToys21Var1": {
+      "hyperlinkId": "MountPlushSheepToys21Var1",
+      "attributeId": "Toy1",
+      "franchise": "Warcraft",
+      "rarity": "Legendary",
+      "releaseDate": "2025-09-30",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountPlushSheepToys21Var2": {
+      "hyperlinkId": "MountPlushSheepToys21Var2",
+      "attributeId": "Toy2",
+      "franchise": "Warcraft",
+      "rarity": "Legendary",
+      "releaseDate": "2025-09-30",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountPlushSheepToys21Var3": {
+      "hyperlinkId": "MountPlushSheepToys21Var3",
+      "attributeId": "Toy3",
+      "franchise": "Warcraft",
+      "rarity": "Legendary",
+      "releaseDate": "2025-09-30",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountRaccoonMobster19": {
+      "hyperlinkId": "TimmyRaccoon",
+      "attributeId": "RAC0",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2019-09-24",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountRaccoonMobster19Var1",
+        "MountRaccoonMobster19Var2",
+        "MountRaccoonMobster19Var3",
+        "MountRaccoonMobster19Var4",
+        "MountRaccoonMobster19Var5"
+      ]
+    },
+    "MountRaccoonMobster19Var1": {
+      "hyperlinkId": "BobbyRaccoon",
+      "attributeId": "RAC1",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2019-09-24",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ride"
+    },
+    "MountRaccoonMobster19Var2": {
+      "hyperlinkId": "FrankieRaccoon",
+      "attributeId": "RAC2",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2019-09-24",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ride"
+    },
+    "MountRaccoonMobster19Var3": {
+      "hyperlinkId": "JoeyRaccoon",
+      "attributeId": "RAC3",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2019-09-24",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ride"
+    },
+    "MountRaccoonMobster19Var4": {
+      "hyperlinkId": "EscobarRacoon",
+      "attributeId": "RAC4",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2019-09-24",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ride"
+    },
+    "MountRaccoonMobster19Var5": {
+      "hyperlinkId": "TommyRaccoon",
+      "attributeId": "RAC5",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2019-09-24",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ride"
+    },
+    "MountRagnarosWake": {
+      "hyperlinkId": "MoltenFlow",
+      "attributeId": "RAG0",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2015-01-01",
+      "category": "Unique",
+      "type": "MountRagnarosWake"
+    },
+    "MountRagnarosWakeVar1": {
+      "hyperlinkId": "MountRagnarosWake",
+      "attributeId": "RAG1",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2015-01-01",
+      "category": "Unique",
+      "type": "MountRagnarosWake"
+    },
+    "MountRagnarosWakeVar2": {
+      "hyperlinkId": "MountRagnarosWake",
+      "attributeId": "RAG2",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2015-01-01",
+      "category": "Unique",
+      "type": "MountRagnarosWake"
+    },
+    "MountRamCyber": {
+      "hyperlinkId": "CyberRam",
+      "attributeId": "RAM0",
+      "rarity": "Legendary",
+      "releaseDate": "2016-12-20",
+      "category": "Mechanical",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountRamCyberVar1",
+        "MountRamCyberVar2",
+        "MountRamCyberVar3"
+      ]
+    },
+    "MountRamCyberVar1": {
+      "hyperlinkId": "RaiderCyberRam",
+      "attributeId": "RAM1",
+      "rarity": "Legendary",
+      "releaseDate": "2016-12-20",
+      "category": "Mechanical",
+      "type": "Ride"
+    },
+    "MountRamCyberVar2": {
+      "hyperlinkId": "DominionCyberRam",
+      "attributeId": "RAM2",
+      "rarity": "Legendary",
+      "releaseDate": "2016-12-20",
+      "category": "Mechanical",
+      "type": "Ride"
+    },
+    "MountRamCyberVar3": {
+      "hyperlinkId": "UmojanCyberRam",
+      "attributeId": "RAM3",
+      "rarity": "Legendary",
+      "releaseDate": "2018-03-27",
+      "category": "Mechanical",
+      "type": "Ride"
+    },
+    "MountRamWCAV_00": {
+      "hyperlinkId": "MountRamWCAV_00",
+      "attributeId": "ral0",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2018-06-12",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountRamWCAV_00Var3"
+      ]
+    },
+    "MountRamWCAV_00Var3": {
+      "hyperlinkId": "StormpikeRam",
+      "attributeId": "ral3",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2018-06-12",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountRamWCAV_01": {
+      "hyperlinkId": "SwiftStormpikeRam",
+      "attributeId": "ral4",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2018-06-19",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountRamWCAV_01Var1",
+        "MountRamWCAV_01Var2"
+      ]
+    },
+    "MountRamWCAV_01Var1": {
+      "hyperlinkId": "SwiftStormwindRam",
+      "attributeId": "ral5",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2018-06-19",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountRamWCAV_01Var2": {
+      "hyperlinkId": "SwiftDarkIronRam",
+      "attributeId": "ral6",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2018-06-19",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountRank17BaseHorse": {
+      "hyperlinkId": "TitaniumCybersteed",
+      "attributeId": "HorA",
+      "rarity": "Common",
+      "releaseDate": "2017-12-19",
+      "category": "Horse",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountRank17BaseHorseVar1",
+        "MountRank17BaseHorseVar2",
+        "MountRank17BaseHorseVar3",
+        "MountRank17BaseHorseVar4"
+      ]
+    },
+    "MountRank17BaseHorseVar1": {
+      "hyperlinkId": "CarbonCybersteed",
+      "attributeId": "HorB",
+      "rarity": "Common",
+      "releaseDate": "2017-12-19",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MountRank17BaseHorseVar2": {
+      "hyperlinkId": "SpectrumCybersteed",
+      "attributeId": "HorC",
+      "rarity": "Common",
+      "releaseDate": "2018-01-09",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MountRank17BaseHorseVar3": {
+      "hyperlinkId": "MasterCybersteed",
+      "attributeId": "HorD",
+      "rarity": "Common",
+      "releaseDate": "2017-12-19",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MountRank17BaseHorseVar4": {
+      "hyperlinkId": "GoldenCybersteed",
+      "attributeId": "HorE",
+      "rarity": "Common",
+      "releaseDate": "2018-01-09",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MountRank17EpicHorse": {
+      "hyperlinkId": "EpicTitaniumCybersteed",
+      "attributeId": "HorF",
+      "rarity": "Common",
+      "releaseDate": "2017-12-19",
+      "category": "Horse",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountRank17EpicHorseVar1",
+        "MountRank17EpicHorseVar2",
+        "MountRank17EpicHorseVar3",
+        "MountRank17EpicHorseVar4"
+      ]
+    },
+    "MountRank17EpicHorseVar1": {
+      "hyperlinkId": "EpicCarbonCybersteed",
+      "attributeId": "HorG",
+      "rarity": "Common",
+      "releaseDate": "2017-12-19",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MountRank17EpicHorseVar2": {
+      "hyperlinkId": "EpicSpectrumCybersteed",
+      "attributeId": "HorH",
+      "rarity": "Common",
+      "releaseDate": "2018-01-09",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MountRank17EpicHorseVar3": {
+      "hyperlinkId": "EpicMasterCybersteed",
+      "attributeId": "HorI",
+      "rarity": "Common",
+      "releaseDate": "2017-12-19",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MountRank17EpicHorseVar4": {
+      "hyperlinkId": "EpicGoldenCybersteed",
+      "attributeId": "HorK",
+      "rarity": "Common",
+      "releaseDate": "2018-01-09",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MountRaptorCelestial": {
+      "hyperlinkId": "CelestialRaptor",
+      "attributeId": "RAPA",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2017-09-26",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountRaptorOrgrimmar": {
+      "hyperlinkId": "TamedRavasaur",
+      "attributeId": "RaO0",
+      "rarity": "Common",
+      "releaseDate": "2020-09-08",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountRaptor_Rank17_00": {
+      "hyperlinkId": "BattleRaptor",
+      "attributeId": "RAP0",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2017-06-13",
+      "category": "Beast",
+      "type": "Ridebeast",
+      "variationMountIds": [
+        "MountRaptor_Rank17_00Var1",
+        "MountRaptor_Rank17_00Var2"
+      ]
+    },
+    "MountRaptor_Rank17_00Var1": {
+      "hyperlinkId": "CrimsonBattleRaptor",
+      "attributeId": "RAP2",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2017-06-13",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountRaptor_Rank17_00Var2": {
+      "hyperlinkId": "DeadlyBattleRaptor",
+      "attributeId": "RAP3",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2017-06-13",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountRaptor_Rank17_01": {
+      "hyperlinkId": "EpicBattleRaptor",
+      "attributeId": "RAP1",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2017-06-13",
+      "category": "Beast",
+      "type": "Ridebeast",
+      "variationMountIds": [
+        "MountRaptor_Rank17_01Var1",
+        "MountRaptor_Rank17_01Var2"
+      ]
+    },
+    "MountRaptor_Rank17_01Var1": {
+      "hyperlinkId": "CrimsonEpicBattleRaptor",
+      "attributeId": "RAP4",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2017-06-13",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountRaptor_Rank17_01Var2": {
+      "hyperlinkId": "DeadlyEpicBattleRaptor",
+      "attributeId": "RAP5",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2017-06-13",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountRaven": {
+      "hyperlinkId": "RavenRunner",
+      "attributeId": "RAV0",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2018-11-13",
+      "category": "Beast",
+      "type": "Ridebeast",
+      "variationMountIds": [
+        "MountRavenVar1",
+        "MountRavenVar2"
+      ]
+    },
+    "MountRavenVar1": {
+      "hyperlinkId": "HauntedRavenRunner",
+      "attributeId": "RAV1",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2018-11-13",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountRavenVar2": {
+      "hyperlinkId": "BloodmoonRavenRunner",
+      "attributeId": "RAV2",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2018-11-13",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountReaver": {
+      "hyperlinkId": "Reaver",
+      "attributeId": "REA0",
+      "rarity": "Legendary",
+      "releaseDate": "2019-04-30",
+      "category": "Mechanical",
+      "type": "Ridebeast",
+      "variationMountIds": [
+        "MountReaverVar1",
+        "MountReaverVar2"
+      ]
+    },
+    "MountReaverVar1": {
+      "hyperlinkId": "SolariteReaver",
+      "attributeId": "REA1",
+      "rarity": "Legendary",
+      "releaseDate": "2019-04-30",
+      "category": "Mechanical",
+      "type": "Ridebeast"
+    },
+    "MountReaverVar2": {
+      "hyperlinkId": "TaldarimReaver",
+      "attributeId": "REA2",
+      "rarity": "Legendary",
+      "releaseDate": "2019-04-30",
+      "category": "Mechanical",
+      "type": "Ridebeast"
+    },
+    "MountRedHare": {
+      "hyperlinkId": "CrimsonHare",
+      "attributeId": "RED0",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2016-07-19",
+      "category": "Horse",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountRedHareVar1",
+        "MountRedHareVar2"
+      ]
+    },
+    "MountRedHareVar1": {
+      "hyperlinkId": "FrozenCrimsonHare",
+      "attributeId": "RED1",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2016-07-19",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MountRedHareVar2": {
+      "hyperlinkId": "ShadowCrimsonHare",
+      "attributeId": "RED2",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2016-07-19",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MountRoosterLunar": {
+      "hyperlinkId": "LunarRooster",
+      "attributeId": "Ros0",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2018-02-06",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ride"
+    },
+    "MountRoosterLunar19": {
+      "hyperlinkId": "CourageousRooster",
+      "attributeId": "Ros2",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2019-08-06",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountRoosterLunar19Var1",
+        "MountRoosterLunar19Var2"
+      ]
+    },
+    "MountRoosterLunar19Var1": {
+      "hyperlinkId": "ValiantRooster",
+      "attributeId": "Ros3",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2019-08-06",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountRoosterLunar19Var2": {
+      "hyperlinkId": "VictoriousRooster",
+      "attributeId": "Ros4",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2019-08-06",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountRoosterLunarVar1": {
+      "hyperlinkId": "GoldenLunarRooster",
+      "attributeId": "Ros1",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2019-02-26",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ride"
+    },
+    "MountSheepCraft20": {
+      "hyperlinkId": "MountSheepCraft20",
+      "attributeId": "She0",
+      "rarity": "Common",
+      "releaseDate": "2021-11-09",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountSheepCraft20Var1",
+        "MountSheepCraft20Var2",
+        "MountSheepCraft20Var3",
+        "MountSheepCraft20Var4",
+        "MountSheepCraft20Var5"
+      ]
+    },
+    "MountSheepCraft20Var1": {
+      "hyperlinkId": "MountSheepCraft20Var1",
+      "attributeId": "She1",
+      "rarity": "Common",
+      "releaseDate": "2021-11-09",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountSheepCraft20Var2": {
+      "hyperlinkId": "MountSheepCraft20Var2",
+      "attributeId": "She2",
+      "rarity": "Common",
+      "releaseDate": "2021-11-09",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountSheepCraft20Var3": {
+      "hyperlinkId": "MountSheepCraft20Var3",
+      "attributeId": "She3",
+      "rarity": "Common",
+      "releaseDate": "2021-11-09",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountSheepCraft20Var4": {
+      "hyperlinkId": "MountSheepCraft20Var4",
+      "attributeId": "She4",
+      "rarity": "Common",
+      "releaseDate": "2021-11-09",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountSheepCraft20Var5": {
+      "hyperlinkId": "MountSheepCraft20Var5",
+      "attributeId": "She5",
+      "rarity": "Common",
+      "releaseDate": "2021-11-09",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountSnake": {
+      "hyperlinkId": "CloudSerpent",
+      "attributeId": "SNA0",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2016-03-01",
+      "category": "Magical",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountSnakeVar1",
+        "MountSnakeVar2"
+      ]
+    },
+    "MountSnakeCelestial": {
+      "hyperlinkId": "CelestialSerpent",
+      "attributeId": "CEL0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-09-04",
+      "category": "Magical",
+      "type": "Ride"
+    },
+    "MountSnakeVar1": {
+      "hyperlinkId": "TurquoiseCloudSerpent",
+      "attributeId": "SNA1",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2016-03-01",
+      "category": "Magical",
+      "type": "Ride"
+    },
+    "MountSnakeVar2": {
+      "hyperlinkId": "CopperCloudSerpent",
+      "attributeId": "SNA2",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2016-03-01",
+      "category": "Magical",
+      "type": "Ride"
+    },
+    "MountSnowflake": {
+      "hyperlinkId": "SpecialSnowflake",
+      "attributeId": "SNF0",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2017-12-12",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ridesurf",
+      "variationMountIds": [
+        "MountSnowflakeVar1",
+        "MountSnowflakeVar2",
+        "MountSnowflakeVar3",
+        "MountSnowflakeVar4"
+      ]
+    },
+    "MountSnowflakeVar1": {
+      "hyperlinkId": "IvorySpecialSnowflake",
+      "attributeId": "SNF1",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2017-12-12",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ridesurf"
+    },
+    "MountSnowflakeVar2": {
+      "hyperlinkId": "VerdantSpecialSnowflake",
+      "attributeId": "SNF2",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2017-12-12",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ridesurf"
+    },
+    "MountSnowflakeVar3": {
+      "hyperlinkId": "MellowSnowflake",
+      "attributeId": "SNF3",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-12-17",
+      "category": "SeasonalEvents",
+      "event": "LTO",
+      "type": "Ridesurf"
+    },
+    "MountSnowflakeVar4": {
+      "hyperlinkId": "PeriwinkleSnowflake",
+      "attributeId": "SNF4",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-12-17",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ridesurf"
+    },
+    "MountSpeederBike": {
+      "hyperlinkId": "GhostSpeeder",
+      "attributeId": "SPE0",
+      "rarity": "Legendary",
+      "releaseDate": "2016-09-20",
+      "category": "Mechanical",
+      "type": "Ridebike",
+      "variationMountIds": [
+        "MountSpeederBikeVar1",
+        "MountSpeederBikeVar2",
+        "MountSpeederBikeVar3"
+      ]
+    },
+    "MountSpeederBikeBuggy": {
+      "hyperlinkId": "RoadChariot",
+      "attributeId": "BUG0",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-04-24",
+      "category": "Mechanical",
+      "type": "Ridebike",
+      "variationMountIds": [
+        "MountSpeederBikeBuggyVar1",
+        "MountSpeederBikeBuggyVar2"
+      ]
+    },
+    "MountSpeederBikeBuggyVar1": {
+      "hyperlinkId": "HoarfrostRoadChariot",
+      "attributeId": "BUG1",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-04-24",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "MountSpeederBikeBuggyVar2": {
+      "hyperlinkId": "ExaltedRoadChariot",
+      "attributeId": "BUG2",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-04-24",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "MountSpeederBikeOni": {
+      "hyperlinkId": "OrochiHovercycle",
+      "attributeId": "ONI0",
+      "franchise": "Overwatch",
+      "rarity": "Common",
+      "releaseDate": "2016-11-15",
+      "category": "Mechanical",
+      "type": "Ridebike",
+      "variationMountIds": [
+        "MountSpeederBikeOniVar1",
+        "MountSpeederBikeOniVar2",
+        "MountSpeederBikeOniVar3",
+        "MountSpeederBikeOniVar4",
+        "MountSpeederBikeOniVar5",
+        "MountSpeederBikeOniVar6"
+      ]
+    },
+    "MountSpeederBikeOniVar1": {
+      "hyperlinkId": "CrimsonOrochiHovercycle",
+      "attributeId": "ONI1",
+      "franchise": "Overwatch",
+      "rarity": "Common",
+      "releaseDate": "2016-11-15",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "MountSpeederBikeOniVar2": {
+      "hyperlinkId": "AzureOrochiHovercycle",
+      "attributeId": "ONI2",
+      "franchise": "Overwatch",
+      "rarity": "Common",
+      "releaseDate": "2016-11-15",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "MountSpeederBikeOniVar3": {
+      "hyperlinkId": "SlipstreamOrochiHovercyle",
+      "attributeId": "ONI3",
+      "franchise": "Overwatch",
+      "rarity": "Common",
+      "releaseDate": "2016-11-15",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "MountSpeederBikeOniVar4": {
+      "hyperlinkId": "SpectreOrochiHovercyle",
+      "attributeId": "ONI4",
+      "franchise": "Overwatch",
+      "rarity": "Common",
+      "releaseDate": "2016-11-15",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "MountSpeederBikeOniVar5": {
+      "hyperlinkId": "CyberOrochiHovercyle",
+      "attributeId": "ONI5",
+      "franchise": "Overwatch",
+      "rarity": "Common",
+      "releaseDate": "2016-11-15",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "MountSpeederBikeOniVar6": {
+      "hyperlinkId": "GoldenOrochiHovercycle",
+      "attributeId": "ONI6",
+      "franchise": "Overwatch",
+      "rarity": "Legendary",
+      "releaseDate": "2019-08-27",
+      "category": "Mechanical",
+      "event": "LTO",
+      "type": "Ridebike"
+    },
+    "MountSpeederBikePolice": {
+      "hyperlinkId": "BusanPoliceHovercycle",
+      "attributeId": "SBP0",
+      "franchise": "Overwatch",
+      "rarity": "Common",
+      "releaseDate": "2017-04-25",
+      "category": "Mechanical",
+      "type": "Ridebike",
+      "variationMountIds": [
+        "MountSpeederBikePoliceVar1",
+        "MountSpeederBikePoliceVar2"
+      ]
+    },
+    "MountSpeederBikePoliceVar1": {
+      "hyperlinkId": "SuperchargedPoliceHovercycle",
+      "attributeId": "SBP1",
+      "franchise": "Overwatch",
+      "rarity": "Common",
+      "releaseDate": "2017-04-25",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "MountSpeederBikePoliceVar2": {
+      "hyperlinkId": "RangerPoliceHovercycle",
+      "attributeId": "SBP2",
+      "franchise": "Overwatch",
+      "rarity": "Common",
+      "releaseDate": "2017-04-25",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "MountSpeederBikeRoad": {
+      "hyperlinkId": "RoadBoar",
+      "attributeId": "SBR0",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2017-08-08",
+      "category": "Mechanical",
+      "type": "Ridebike",
+      "variationMountIds": [
+        "MountSpeederBikeRoadVar1",
+        "MountSpeederBikeRoadVar2",
+        "MountSpeederBikeRoadVar3",
+        "MountSpeederBikeRoadVar4"
+      ]
+    },
+    "MountSpeederBikeRoadVar1": {
+      "hyperlinkId": "BiohazardRoadBoar",
+      "attributeId": "SBR1",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2017-08-08",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "MountSpeederBikeRoadVar2": {
+      "hyperlinkId": "FrozenRoadBoar",
+      "attributeId": "SBR2",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2017-08-08",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "MountSpeederBikeRoadVar3": {
+      "hyperlinkId": "MutantRoadBoar",
+      "attributeId": "SBR3",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2017-08-08",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "MountSpeederBikeRoadVar4": {
+      "hyperlinkId": "HordeRoadBoar",
+      "attributeId": "SBR4",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2017-08-08",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "MountSpeederBikeSidecar19": {
+      "hyperlinkId": "GetawaySidecar",
+      "attributeId": "SBS0",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-09-24",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ridebike",
+      "variationMountIds": [
+        "MountSpeederBikeSidecar19Var1",
+        "MountSpeederBikeSidecar19Var2",
+        "MountSpeederBikeSidecar19Var3",
+        "MountSpeederBikeSidecar19Var4",
+        "MountSpeederBikeSidecar19Var5"
+      ]
+    },
+    "MountSpeederBikeSidecar19Var1": {
+      "hyperlinkId": "ClassicGetawaySidecar",
+      "attributeId": "SBS1",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-09-24",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ridebike"
+    },
+    "MountSpeederBikeSidecar19Var2": {
+      "hyperlinkId": "BlazingGetawaySidecar",
+      "attributeId": "SBS2",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-09-24",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ridebike"
+    },
+    "MountSpeederBikeSidecar19Var3": {
+      "hyperlinkId": "SmoothGetawaySidecar",
+      "attributeId": "SBS3",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-09-24",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ridebike"
+    },
+    "MountSpeederBikeSidecar19Var4": {
+      "hyperlinkId": "SwellGetawaySidecar",
+      "attributeId": "SBS4",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-09-24",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ridebike"
+    },
+    "MountSpeederBikeSidecar19Var5": {
+      "hyperlinkId": "RoyalGetawaySidecar",
+      "attributeId": "SBS5",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-09-24",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ridebike"
+    },
+    "MountSpeederBikeVar1": {
+      "hyperlinkId": "VespeneGhostSpeeder",
+      "attributeId": "SPE1",
+      "rarity": "Legendary",
+      "releaseDate": "2016-09-20",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "MountSpeederBikeVar2": {
+      "hyperlinkId": "DominionGhostSpeeder",
+      "attributeId": "SPE2",
+      "rarity": "Legendary",
+      "releaseDate": "2016-09-20",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "MountSpeederBikeVar3": {
+      "hyperlinkId": "MEKAGhostSpeeder",
+      "attributeId": "SPE3",
+      "rarity": "Legendary",
+      "releaseDate": "2016-09-20",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "MountSpiderEnforcer": {
+      "hyperlinkId": "STORMStrider",
+      "attributeId": "SpE0",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-03-06",
+      "category": "Mechanical",
+      "type": "Ridebeast",
+      "variationMountIds": [
+        "MountSpiderEnforcerVar1",
+        "MountSpiderEnforcerVar2",
+        "MountSpiderEnforcerVar3",
+        "MountSpiderEnforcerVar4"
+      ]
+    },
+    "MountSpiderEnforcerVar1": {
+      "hyperlinkId": "SmartSTORMStrider",
+      "attributeId": "SpE1",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-03-06",
+      "category": "Mechanical",
+      "type": "Ridebeast"
+    },
+    "MountSpiderEnforcerVar2": {
+      "hyperlinkId": "MountSpiderEnforcerVar2",
+      "attributeId": "SpE2",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-03-06",
+      "category": "Mechanical",
+      "type": "Ridebeast"
+    },
+    "MountSpiderEnforcerVar3": {
+      "hyperlinkId": "MountSpiderEnforcerVar3",
+      "attributeId": "SpE3",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-03-06",
+      "category": "Mechanical",
+      "type": "Ridebeast"
+    },
+    "MountSpiderEnforcerVar4": {
+      "hyperlinkId": "SuperchargedSTORMStrider",
+      "attributeId": "SpE4",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-03-06",
+      "category": "Mechanical",
+      "type": "Ridebeast"
+    },
+    "MountSurfboard": {
+      "hyperlinkId": "Surfboard",
+      "attributeId": "SUB0",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2017-06-27",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ridesurf",
+      "variationMountIds": [
+        "MountSurfboardVar1",
+        "MountSurfboardVar2",
+        "MountSurfboardVar3",
+        "MountSurfboardVar4"
+      ]
+    },
+    "MountSurfboardBite": {
+      "hyperlinkId": "SharkbiteSurfboard",
+      "attributeId": "SBB0",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2017-06-27",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ridesurf",
+      "variationMountIds": [
+        "MountSurfboardBiteVar1",
+        "MountSurfboardBiteVar2",
+        "MountSurfboardBiteVar3",
+        "MountSurfboardBiteVar4"
+      ]
+    },
+    "MountSurfboardBiteVar1": {
+      "hyperlinkId": "CoastalSharkbiteSurfboard",
+      "attributeId": "SBB1",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2017-06-27",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ridesurf"
+    },
+    "MountSurfboardBiteVar2": {
+      "hyperlinkId": "RiptideSharkbiteSurfboard",
+      "attributeId": "SBB2",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2017-06-27",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ridesurf"
+    },
+    "MountSurfboardBiteVar3": {
+      "hyperlinkId": "MurkySharkbiteSurfboard",
+      "attributeId": "SBB3",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2017-06-27",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ridesurf"
+    },
+    "MountSurfboardBiteVar4": {
+      "hyperlinkId": "WebbedSharkbiteSurfboard",
+      "attributeId": "SBB4",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2017-06-27",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ridesurf"
+    },
+    "MountSurfboardCelestial": {
+      "hyperlinkId": "CelestialSurfboard",
+      "attributeId": "SUB5",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-12-11",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "MountSurfboardVar1": {
+      "hyperlinkId": "CoastalSurfboard",
+      "attributeId": "SUB1",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2017-06-27",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ridesurf"
+    },
+    "MountSurfboardVar2": {
+      "hyperlinkId": "RiptideSurfboard",
+      "attributeId": "SUB2",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2017-06-27",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ridesurf"
+    },
+    "MountSurfboardVar3": {
+      "hyperlinkId": "MurkySurfboard",
+      "attributeId": "SUB3",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2017-06-27",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ridesurf"
+    },
+    "MountSurfboardVar4": {
+      "hyperlinkId": "WebbedSurfboard",
+      "attributeId": "SUB4",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2017-06-27",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ridesurf"
+    },
+    "MountSurfMecha19": {
+      "hyperlinkId": "SeraphWing",
+      "attributeId": "SuM0",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-06-18",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ridesurf",
+      "variationMountIds": [
+        "MountSurfMecha19Var1",
+        "MountSurfMecha19Var2",
+        "MountSurfMecha19Var3",
+        "MountSurfMecha19Var4",
+        "MountSurfMecha19Var5"
+      ]
+    },
+    "MountSurfMecha19Var1": {
+      "hyperlinkId": "HolySeraphWing",
+      "attributeId": "SuM1",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-06-18",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ridesurf"
+    },
+    "MountSurfMecha19Var2": {
+      "hyperlinkId": "FierceSeraphWing",
+      "attributeId": "SuM2",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-06-18",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ridesurf"
+    },
+    "MountSurfMecha19Var3": {
+      "hyperlinkId": "EternalSeraphWing",
+      "attributeId": "SuM3",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-06-18",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ridesurf"
+    },
+    "MountSurfMecha19Var4": {
+      "hyperlinkId": "GuardianSeraphWing",
+      "attributeId": "SuM4",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-06-18",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ridesurf"
+    },
+    "MountSurfMecha19Var5": {
+      "hyperlinkId": "PrototypeSeraphWing",
+      "attributeId": "SuM5",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-06-18",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ridesurf"
+    },
+    "MountSurfNexusShark": {
+      "hyperlinkId": "NexusRazorgrin",
+      "attributeId": "SNS0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-09-25",
+      "category": "Beast",
+      "type": "Ridesurf"
+    },
+    "MountSurfRedPocketLunar20": {
+      "hyperlinkId": "LuckyRedEnvelope",
+      "attributeId": "RED4",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2020-01-21",
+      "category": "SeasonalEvents",
+      "event": "LTO",
+      "type": "Ridesurf"
+    },
+    "MountSurfShark18": {
+      "hyperlinkId": "GreatRazorgrin",
+      "attributeId": "SSK0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-05-29",
+      "category": "SeasonalEvents",
+      "event": "",
+      "type": "Ridesurf",
+      "variationMountIds": [
+        "MountSurfShark18Var1",
+        "MountSurfShark18Var2",
+        "MountSurfShark18Var3"
+      ]
+    },
+    "MountSurfShark18Var1": {
+      "hyperlinkId": "CoastalSharkShark18Surfboard",
+      "attributeId": "SSK1",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-05-29",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ridesurf"
+    },
+    "MountSurfShark18Var2": {
+      "hyperlinkId": "FelRazorgrin",
+      "attributeId": "SSK2",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2019-06-18",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ridesurf"
+    },
+    "MountSurfShark18Var3": {
+      "hyperlinkId": "CoastalSharkShark18Surfboard",
+      "attributeId": "SSK3",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-05-29",
+      "category": "SeasonalEvents",
+      "event": "SunsOutGunsOut",
+      "type": "Ridesurf"
+    },
+    "MountTigerAltered20": {
+      "hyperlinkId": "ShadowsongsNightsaber",
+      "attributeId": "Tig0",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2020-07-14",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountTigerAltered20Var1",
+        "MountTigerAltered20Var2"
+      ]
+    },
+    "MountTigerAltered20Var1": {
+      "hyperlinkId": "TempleNightsaber",
+      "attributeId": "Tig3",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2020-07-14",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountTigerAltered20Var2": {
+      "hyperlinkId": "BetrayersNightsaber",
+      "attributeId": "Tig4",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2020-07-14",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountTigerNexus": {
+      "hyperlinkId": "NexusTiger",
+      "attributeId": "NEU0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-10-25",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountTigerNexusVar1",
+        "MountTigerNexusVar2"
+      ]
+    },
+    "MountTigerNexusVar1": {
+      "hyperlinkId": "AmberNexusTiger",
+      "attributeId": "NEU1",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-10-25",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountTigerNexusVar2": {
+      "hyperlinkId": "VioletNexusTiger",
+      "attributeId": "NEU2",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2016-10-25",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountTigerRoyal": {
+      "hyperlinkId": "RegalTiger",
+      "attributeId": "TigA",
+      "rarity": "Common",
+      "releaseDate": "2020-06-23",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountTracerBikeOWC20": {
+      "hyperlinkId": "OSV-03Rogue",
+      "attributeId": "TrB0",
+      "franchise": "Overwatch",
+      "rarity": "Legendary",
+      "releaseDate": "2020-12-01",
+      "category": "Unique",
+      "event": "HeroSpecificTracer",
+      "type": "MountTracerBikeOWC20",
+      "variationMountIds": [
+        "MountTracerBikeOWC20Var1",
+        "MountTracerBikeOWC20Var2"
+      ]
+    },
+    "MountTracerBikeOWC20Var1": {
+      "hyperlinkId": "SunsetOSV-03Rogue",
+      "attributeId": "TrB1",
+      "franchise": "Overwatch",
+      "rarity": "Legendary",
+      "releaseDate": "2020-12-01",
+      "category": "Unique",
+      "event": "HeroSpecificTracer",
+      "type": "MountTracerBikeOWC20"
+    },
+    "MountTracerBikeOWC20Var2": {
+      "hyperlinkId": "MagnateOSV-03Rogue",
+      "attributeId": "TrB2",
+      "franchise": "Overwatch",
+      "rarity": "Legendary",
+      "releaseDate": "2020-12-01",
+      "category": "Unique",
+      "event": "HeroSpecificTracer",
+      "type": "MountTracerBikeOWC20"
+    },
+    "MountTrainEngineToys19": {
+      "hyperlinkId": "ToyTrain",
+      "attributeId": "ENG0",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2019-12-17",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ridebeast",
+      "variationMountIds": [
+        "MountTrainEngineToys19Var1",
+        "MountTrainEngineToys19Var2",
+        "MountTrainEngineToys19Var3",
+        "MountTrainEngineToys19Var4",
+        "MountTrainEngineToys19Var5"
+      ]
+    },
+    "MountTrainEngineToys19Var1": {
+      "hyperlinkId": "SpeedyToyTrain",
+      "attributeId": "ENG1",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2019-12-17",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ridebeast"
+    },
+    "MountTrainEngineToys19Var2": {
+      "hyperlinkId": "BlazingToyTrain",
+      "attributeId": "ENG2",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2019-12-17",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ridebeast"
+    },
+    "MountTrainEngineToys19Var3": {
+      "hyperlinkId": "CosmicToyTrain",
+      "attributeId": "ENG3",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2019-12-17",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ridebeast"
+    },
+    "MountTrainEngineToys19Var4": {
+      "hyperlinkId": "RoyalToyTrain",
+      "attributeId": "ENG4",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2019-12-17",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ridebeast"
+    },
+    "MountTrainEngineToys19Var5": {
+      "hyperlinkId": "GrimrailToyTrain",
+      "attributeId": "ENG5",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2019-12-17",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ridebeast"
+    },
+    "MountTurtleRankSpr19Base": {
+      "hyperlinkId": "ArcadianWarTurtle",
+      "attributeId": "TUR0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2019-03-26",
+      "category": "Beast",
+      "type": "Ridebeast",
+      "variationMountIds": [
+        "MountTurtleRankSpr19BaseVar1",
+        "MountTurtleRankSpr19BaseVar2"
+      ]
+    },
+    "MountTurtleRankSpr19BaseVar1": {
+      "hyperlinkId": "JadeArcadianWarTurtle",
+      "attributeId": "TUR1",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2019-03-26",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountTurtleRankSpr19BaseVar2": {
+      "hyperlinkId": "SandyArcadianWarTurtle",
+      "attributeId": "TUR2",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2019-03-26",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountTurtleRankSpr19Epic": {
+      "hyperlinkId": "EpicArcadianWarTurtle",
+      "attributeId": "TUR3",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2019-03-26",
+      "category": "Beast",
+      "type": "Ridebeast",
+      "variationMountIds": [
+        "MountTurtleRankSpr19EpicVar1",
+        "MountTurtleRankSpr19EpicVar2"
+      ]
+    },
+    "MountTurtleRankSpr19EpicVar1": {
+      "hyperlinkId": "EpicJadeArcadianWarTurtle",
+      "attributeId": "TUR4",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2019-03-26",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountTurtleRankSpr19EpicVar2": {
+      "hyperlinkId": "EpicSandyArcadianWarTurtle",
+      "attributeId": "TUR5",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2019-03-26",
+      "category": "Beast",
+      "type": "Ridebeast"
+    },
+    "MountVultureArmy18": {
+      "hyperlinkId": "ViperDominator",
+      "attributeId": "Vul0",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2018-08-07",
+      "category": "Mechanical",
+      "type": "Ridebike",
+      "variationMountIds": [
+        "VultureArmy18Var1",
+        "VultureArmy18Var2",
+        "VultureArmy18Var4"
+      ]
+    },
+    "MountVultureCraft20": {
+      "hyperlinkId": "IronKite",
+      "attributeId": "VulA",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2020-09-08",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ridebike",
+      "variationMountIds": [
+        "MountVultureCraft20Var1",
+        "MountVultureCraft20Var2",
+        "MountVultureCraft20Var3",
+        "MountVultureCraft20Var4",
+        "MountVultureCraft20Var5",
+        "MountVultureCraft20Var6"
+      ]
+    },
+    "MountVultureCraft20Var1": {
+      "hyperlinkId": "StormgardeIronKite",
+      "attributeId": "VulB",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2020-09-08",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ridebike"
+    },
+    "MountVultureCraft20Var2": {
+      "hyperlinkId": "KulTirasIronKite",
+      "attributeId": "VulC",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2020-09-08",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ridebike"
+    },
+    "MountVultureCraft20Var3": {
+      "hyperlinkId": "MountVultureCraft20Var3",
+      "attributeId": "Vul8",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2020-09-08",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ridebike"
+    },
+    "MountVultureCraft20Var4": {
+      "hyperlinkId": "MountVultureCraft20Var4",
+      "attributeId": "Vul9",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2020-09-08",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ridebike"
+    },
+    "MountVultureCraft20Var5": {
+      "hyperlinkId": "MountVultureCraft20Var5",
+      "attributeId": "VulD",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2020-09-08",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ridebike"
+    },
+    "MountVultureCraft20Var6": {
+      "hyperlinkId": "MountVultureCraft20Var6",
+      "attributeId": "VulE",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2020-09-08",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "type": "Ridebike"
+    },
+    "MountWarhorseAnniversary": {
+      "hyperlinkId": "MountWarhorseAnniversary",
+      "attributeId": "MOT0",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2021-11-09",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MountWarhorseChess": {
+      "hyperlinkId": "Glitchsteed",
+      "attributeId": "War0",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2018-03-27",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MountWarhorseHGC18": {
+      "hyperlinkId": "2018HGCFinalsSteed",
+      "attributeId": "HGC0",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2018-12-11",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MountWarhorseReverence19": {
+      "hyperlinkId": "Reverence",
+      "attributeId": "REV0",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2019-04-30",
+      "category": "Horse",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountWarhorseReverence19Var1",
+        "MountWarhorseReverence19Var2"
+      ]
+    },
+    "MountWarhorseReverence19Var1": {
+      "hyperlinkId": "RedridgeReverence",
+      "attributeId": "REV1",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2019-04-30",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MountWarhorseReverence19Var2": {
+      "hyperlinkId": "DarkshireReverence",
+      "attributeId": "REV2",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2019-04-30",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "MountWhitemaneCat": {
+      "hyperlinkId": "MountWhitemaneCat",
+      "attributeId": "WHC0",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "MountWhitemaneCat"
+    },
+    "MountWolfDark18": {
+      "hyperlinkId": "DarkNexusHound",
+      "attributeId": "WDR0",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-05-01",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountWolfDark18Var1",
+        "MountWolfDark18Var2",
+        "MountWolfDark18Var3",
+        "MountWolfDark18Var4"
+      ]
+    },
+    "MountWolfDark18Var1": {
+      "hyperlinkId": "SadisticDarkNexusHound",
+      "attributeId": "WDR1",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-05-01",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountWolfDark18Var2": {
+      "hyperlinkId": "AncientDarkNexusHound",
+      "attributeId": "WDR2",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-05-01",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountWolfDark18Var3": {
+      "hyperlinkId": "AstralDarkNexusHound",
+      "attributeId": "WDR3",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2020-04-14",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ride"
+    },
+    "MountWolfDark18Var4": {
+      "hyperlinkId": "AwakenedDarkNexusHound",
+      "attributeId": "WDR4",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2020-04-14",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ride"
+    },
+    "MountWolfWCAV_00": {
+      "hyperlinkId": "MountWolfWCAV_00",
+      "attributeId": "whr0",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2018-06-12",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountWolfWCAV_00Var4"
+      ]
+    },
+    "MountWolfWCAV_00Var4": {
+      "hyperlinkId": "SwiftFrostwolf",
+      "attributeId": "whr4",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2018-06-12",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountWolfWCAV_01": {
+      "hyperlinkId": "RagingWarWolf",
+      "attributeId": "whr5",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2018-06-19",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountWolfWCAV_01Var1",
+        "MountWolfWCAV_01Var2"
+      ]
+    },
+    "MountWolfWCAV_01Var1": {
+      "hyperlinkId": "RagingTimberWolf",
+      "attributeId": "whr6",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2018-06-19",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountWolfWCAV_01Var2": {
+      "hyperlinkId": "RagingNightWolf",
+      "attributeId": "whr7",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2018-06-19",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountZergling": {
+      "hyperlinkId": "Zergling",
+      "attributeId": "Zgl0",
+      "rarity": "Epic",
+      "releaseDate": "2018-03-27",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountZerglingVar1",
+        "MountZerglingVar2"
+      ]
+    },
+    "MountZerglingVar1": {
+      "hyperlinkId": "CharZergling",
+      "attributeId": "Zgl1",
+      "rarity": "Epic",
+      "releaseDate": "2018-03-27",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "MountZerglingVar2": {
+      "hyperlinkId": "KaldirZergling",
+      "attributeId": "Zgl2",
+      "rarity": "Epic",
+      "releaseDate": "2018-03-27",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "Nazeebra": {
+      "hyperlinkId": "Nazeebra",
+      "attributeId": "Nzbr",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Horse",
+      "type": "Ride",
+      "variationMountIds": [
+        "NazeebraGreen",
+        "NazeebraRed"
+      ]
+    },
+    "NazeebraGreen": {
+      "hyperlinkId": "ToxicNazeebra",
+      "attributeId": "Nzb2",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "NazeebraRed": {
+      "hyperlinkId": "CrimsonNazeebra",
+      "attributeId": "Nzb1",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "NexusCharger": {
+      "hyperlinkId": "NexusCharger",
+      "attributeId": "Nxc1",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2014-10-07",
+      "category": "Horse",
+      "type": "Ride",
+      "variationMountIds": [
+        "NexusChargerOrange",
+        "NexusChargerViolet"
+      ]
+    },
+    "NexusChargerGold": {
+      "hyperlinkId": "GoldenNexusCharger",
+      "attributeId": "Nxg0",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2016-01-24",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "NexusChargerOrange": {
+      "hyperlinkId": "AmberNexusCharger",
+      "attributeId": "Nxc3",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2014-10-07",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "NexusChargerViolet": {
+      "hyperlinkId": "VioletNexusCharger",
+      "attributeId": "Nxc2",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2014-10-07",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "RainbowUnicorn": {
+      "hyperlinkId": "RainbowUnicorn",
+      "attributeId": "Rain",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2014-03-13",
+      "category": "Horse",
+      "type": "Ride",
+      "variationMountIds": [
+        "RainbowUnicornGreen",
+        "RainbowUnicornOrange"
+      ]
+    },
+    "RainbowUnicornGreen": {
+      "hyperlinkId": "LuckyRainbowUnicorn",
+      "attributeId": "Rai1",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2014-03-13",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "RainbowUnicornOrange": {
+      "hyperlinkId": "OrangeRainbowUnicorn",
+      "attributeId": "Rai2",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2014-03-13",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "Random": {
+      "hyperlinkId": "Random",
+      "attributeId": "Rand",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unsorted"
+    },
+    "ReignDeer": {
+      "hyperlinkId": "ReignDeer",
+      "attributeId": "RDR1",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2017-12-12",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ride",
+      "variationMountIds": [
+        "ReignDeerFel",
+        "ReignDeerHorde",
+        "ReignDeerVar3"
+      ]
+    },
+    "ReignDeerFel": {
+      "hyperlinkId": "FelReignDeer",
+      "attributeId": "RDR2",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2017-12-12",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ride"
+    },
+    "ReignDeerHorde": {
+      "hyperlinkId": "HordeReignDeer",
+      "attributeId": "RDR3",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2017-12-12",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ride"
+    },
+    "ReignDeerIce17": {
+      "hyperlinkId": "IceforgedReignDeer",
+      "attributeId": "RDR4",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2017-12-12",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ride"
+    },
+    "ReignDeerVar3": {
+      "hyperlinkId": "ArcticReignDeer",
+      "attributeId": "RDR0",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2017-12-12",
+      "category": "SeasonalEvents",
+      "event": "",
+      "type": "Ride"
+    },
+    "SaddledHorse": {
+      "hyperlinkId": "SaddledHorse",
+      "attributeId": "sad0",
+      "franchise": "Warcraft",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "SpectreBike": {
+      "hyperlinkId": "SpectrePhantom",
+      "attributeId": "SPB0",
+      "rarity": "Legendary",
+      "releaseDate": "2016-04-19",
+      "category": "Mechanical",
+      "type": "Ridebike",
+      "variationMountIds": [
+        "SpectreBikeVar1",
+        "SpectreBikeVar2"
+      ]
+    },
+    "SpectreBikeVar1": {
+      "hyperlinkId": "NeonSpectrePhantom",
+      "attributeId": "SPB1",
+      "rarity": "Legendary",
+      "releaseDate": "2016-04-19",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "SpectreBikeVar2": {
+      "hyperlinkId": "AmberSpectrePhantom",
+      "attributeId": "SPB2",
+      "rarity": "Legendary",
+      "releaseDate": "2016-04-19",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "SpeederBikeHellfire": {
+      "hyperlinkId": "Helldorado",
+      "attributeId": "SPD0",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-07-10",
+      "category": "Mechanical",
+      "type": "Ridebike",
+      "variationMountIds": [
+        "SpeederBikeHellfireVar1",
+        "SpeederBikeHellfireVar2",
+        "SpeederBikeHellfireVar3"
+      ]
+    },
+    "SpeederBikeHellfireVar1": {
+      "hyperlinkId": "GhostlyHelldorado",
+      "attributeId": "SPD1",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-07-10",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "SpeederBikeHellfireVar2": {
+      "hyperlinkId": "NamelessHelldorado",
+      "attributeId": "SPD2",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2018-07-10",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "SpeederBikeHellfireVar3": {
+      "hyperlinkId": "DaredevilHelldorado",
+      "attributeId": "SPD3",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2019-08-06",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "SpiderMountBlack": {
+      "hyperlinkId": "OnyxMechanospider",
+      "attributeId": "Spi2",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2015-06-09",
+      "category": "Mechanical",
+      "type": "Ridebeast"
+    },
+    "SpiderMountRed": {
+      "hyperlinkId": "CrimsonMechanospider",
+      "attributeId": "Spi3",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2015-06-09",
+      "category": "Mechanical",
+      "type": "Ridebeast"
+    },
+    "Starbreaker": {
+      "hyperlinkId": "SpaceLordsStarbreaker",
+      "attributeId": "STA0",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2016-01-19",
+      "category": "Mechanical",
+      "type": "Ridebike",
+      "variationMountIds": [
+        "StarbreakerVar1",
+        "StarbreakerVar2"
+      ]
+    },
+    "StarbreakerVar1": {
+      "hyperlinkId": "NeutronSpaceLordsStarbreaker",
+      "attributeId": "STA1",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2016-01-19",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "StarbreakerVar2": {
+      "hyperlinkId": "HunterSpaceLordsStarbreaker",
+      "attributeId": "STA2",
+      "franchise": "Nexus",
+      "rarity": "Legendary",
+      "releaseDate": "2016-01-19",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "StarChariot": {
+      "hyperlinkId": "StarChariot",
+      "attributeId": "StC0",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2016-02-09",
+      "category": "Magical",
+      "type": "Ridesurf",
+      "variationMountIds": [
+        "StarChariotVar1",
+        "StarChariotVar2"
+      ]
+    },
+    "StarChariotVar1": {
+      "hyperlinkId": "ThunderStarChariot",
+      "attributeId": "StC1",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2016-02-09",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "StarChariotVar2": {
+      "hyperlinkId": "MagicalStarChariot",
+      "attributeId": "StC2",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2016-02-09",
+      "category": "Magical",
+      "type": "Ridesurf"
+    },
+    "TigerGold": {
+      "hyperlinkId": "GoldenTiger",
+      "attributeId": "Tigr",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2015-05-12",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "TigerGoldChrome",
+        "TigerGoldObsidian"
+      ]
+    },
+    "TigerGoldChrome": {
+      "hyperlinkId": "ChromeTiger",
+      "attributeId": "Tig2",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2015-05-12",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "TigerGoldObsidian": {
+      "hyperlinkId": "ObsidianTiger",
+      "attributeId": "Tig1",
+      "franchise": "Warcraft",
+      "rarity": "Common",
+      "releaseDate": "2015-05-12",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "TigerLunarBlue": {
+      "hyperlinkId": "EclipseLunarTiger",
+      "attributeId": "Til1",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2018-02-06",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ride"
+    },
+    "TigerLunarGreen": {
+      "hyperlinkId": "HarvestLunarTiger",
+      "attributeId": "Til2",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2018-02-06",
+      "category": "SeasonalEvents",
+      "event": "LunarFestival",
+      "type": "Ride"
+    },
+    "TreasureGoblin": {
+      "hyperlinkId": "TreasureGoblin",
+      "attributeId": "TrGo",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2015-08-18",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "TreasureGoblinPurple",
+        "TreasureGoblinVar3",
+        "TreasureGoblinWhite"
+      ]
+    },
+    "TreasureGoblinPurple": {
+      "hyperlinkId": "GreenTreasureGoblin",
+      "attributeId": "TrG2",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2015-08-18",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "TreasureGoblinVar3": {
+      "hyperlinkId": "GoldenTreasureGoblin",
+      "attributeId": "TrG0",
+      "franchise": "Diablo",
+      "rarity": "Rare",
+      "releaseDate": "2015-08-18",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "TreasureGoblinWhite": {
+      "hyperlinkId": "OrangeTreasureGoblin",
+      "attributeId": "TrG3",
+      "franchise": "Diablo",
+      "rarity": "Common",
+      "releaseDate": "2015-08-18",
+      "category": "Beast",
+      "type": "Ride"
+    },
+    "TreasureGoblinWinter": {
+      "hyperlinkId": "FestiveGoblin",
+      "attributeId": "TGW0",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2017-12-12",
+      "category": "SeasonalEvents",
+      "event": "WinterVeil",
+      "type": "Ride"
+    },
+    "TyraelMechaJetpackForm": {
+      "hyperlinkId": "TyraelMechaJetpackForm",
+      "attributeId": "TMJF",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "TyraelMechaJetpackForm"
+    },
+    "TyraelsCharger": {
+      "hyperlinkId": "TyraelsCharger",
+      "attributeId": "TyCh",
+      "franchise": "Diablo",
+      "rarity": "Legendary",
+      "releaseDate": "2015-07-14",
+      "category": "Horse",
+      "type": "Ride",
+      "variationMountIds": [
+        "TyraelsChargerBlue",
+        "TyraelsChargerWhite"
+      ]
+    },
+    "TyraelsChargerBlue": {
+      "hyperlinkId": "PlatinumTyraelsCharger",
+      "attributeId": "TyC2",
+      "franchise": "Diablo",
+      "rarity": "Legendary",
+      "releaseDate": "2015-07-14",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "TyraelsChargerWhite": {
+      "hyperlinkId": "IvoryTyraelsCharger",
+      "attributeId": "TyC3",
+      "franchise": "Diablo",
+      "rarity": "Legendary",
+      "releaseDate": "2015-07-14",
+      "category": "Horse",
+      "type": "Ride"
+    },
+    "VoidSpeeder": {
+      "hyperlinkId": "VoidSpeeder",
+      "attributeId": "VSp1",
+      "rarity": "Common",
+      "releaseDate": "2015-10-06",
+      "category": "Mechanical",
+      "type": "Ridesurf",
+      "variationMountIds": [
+        "VoidSpeederBlue",
+        "VoidSpeederPurple"
+      ]
+    },
+    "VoidSpeederBlue": {
+      "hyperlinkId": "CyanVoidSpeeder",
+      "attributeId": "VSp2",
+      "rarity": "Common",
+      "releaseDate": "2015-10-06",
+      "category": "Mechanical",
+      "type": "Ridesurf"
+    },
+    "VoidSpeederPurple": {
+      "hyperlinkId": "VioletVoidSpeeder",
+      "attributeId": "VSp3",
+      "rarity": "Common",
+      "releaseDate": "2015-10-06",
+      "category": "Mechanical",
+      "type": "Ridesurf"
+    },
+    "Vulture": {
+      "hyperlinkId": "Vulture",
+      "attributeId": "Vul1",
+      "rarity": "Common",
+      "releaseDate": "2015-10-06",
+      "category": "Mechanical",
+      "type": "Ridebike",
+      "variationMountIds": [
+        "VultureBaseVar1",
+        "VultureBaseVar2"
+      ]
+    },
+    "VultureArmy18Var1": {
+      "hyperlinkId": "HazardousViperDominator",
+      "attributeId": "Vul4",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2018-08-07",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "VultureArmy18Var2": {
+      "hyperlinkId": "PitViperDominator",
+      "attributeId": "Vul5",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2018-08-07",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "VultureArmy18Var4": {
+      "hyperlinkId": "BadlandsViperDominator",
+      "attributeId": "Vul7",
+      "franchise": "Nexus",
+      "rarity": "Epic",
+      "releaseDate": "2019-02-12",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "VultureBaseVar1": {
+      "hyperlinkId": "DominionVulture",
+      "attributeId": "Vul2",
+      "rarity": "Common",
+      "releaseDate": "2015-10-06",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "VultureBaseVar2": {
+      "hyperlinkId": "SpectreVulture",
+      "attributeId": "Vul3",
+      "rarity": "Common",
+      "releaseDate": "2015-10-06",
+      "category": "Mechanical",
+      "type": "Ridebike"
+    },
+    "ZagaraWings": {
+      "hyperlinkId": "BroodmotherFlight",
+      "attributeId": "Zaga",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Unique",
+      "type": "ZagaraWings"
+    },
+    "ZergDoubloon": {
+      "hyperlinkId": "SwarmsDoubloon",
+      "attributeId": "ZgDb",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2019-05-07",
+      "category": "Magical",
+      "event": "LTO",
+      "type": "Ridesurf"
+    }
+  }
+}

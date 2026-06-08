@@ -1,0 +1,167 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Alterac Pass"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/AlteracBossCharge|AlteracBossCharge|W",
+    "value": "Recarga: 6 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/AlteracBossWhirlwind|AlteracBossWhirlwind|Q",
+    "value": "Recarga: 12 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/CapturedSoldierDummyAttack|Attack|Hidden",
+    "value": "Ataca usando a arma do Herói"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/AlteracBossChargeApproach|AlteracBossCharge|Hidden",
+    "value": "Investida"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/AlteracBossCharge|AlteracBossCharge|W",
+    "value": "Investida"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/AlteracBossWhirlwind|AlteracBossWhirlwind|Q",
+    "value": "Tornado"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/CapturedSoldierDummyAttack|Attack|Hidden",
+    "value": "Ataque Básico"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/shortText/UnderworldBossRoots|GraveGolemBindingRoots|Q",
+    "value": "Causa dano a inimigos e cria uma área de desaceleração"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AlteracBossChargeApproach|AlteracBossCharge|Hidden",
+    "value": "Investe contra um inimigo e causa dano"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AlteracBossCharge|AlteracBossCharge|W",
+    "value": "Investe contra um inimigo e causa dano"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AlteracBossWhirlwind|AlteracBossWhirlwind|Q",
+    "value": "Causa dano a inimigos próximos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/CapturedSoldierDummyAttack|Attack|Hidden",
+    "value": "Causa dano a inimigos com Ataques Básicos"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostInterruptedCageUnlocks",
+    "value": "Interrompeu ~AwardValue~% das aberturas de Jaula da equipe"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostInterruptedCageUnlocks",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Defensor Leal</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostInterruptedCageUnlocks",
+    "value": "Interrompeu ~TooltipAmount~ aberturas de Jaula"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/AlteracCoreBossParent",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Estrutura poderosa e significativamente robusta. Causa alto dano colateral e tem um escudo que se regenera quando não está sendo atacado. A destruição desta estrutura concederá a vitória.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/DrekThar",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Estrutura poderosa e significativamente robusta. Causa alto dano colateral e tem um escudo que se regenera quando não está sendo atacado. A destruição desta estrutura concederá a vitória.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/VanndarStormpike",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Estrutura poderosa e significativamente robusta. Causa alto dano colateral e tem um escudo que se regenera quando não está sendo atacado. A destruição desta estrutura concederá a vitória.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AllianceCavalry",
+    "value": "Cavalaria da Aliança"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AlteracCoreBossParent",
+    "value": "AlteracCoreBossParent"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AVCaptureFlagPreviewDummyAlliance",
+    "value": "Campo de Prisioneiros da Aliança"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AVCaptureFlagPreviewDummyHorde",
+    "value": "Campo de Prisioneiros da Horda"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AVCapturePointDefender",
+    "value": "Defensor de Jaula"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/CaptureCage",
+    "value": "CaptureCage"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/CapturedSoldier",
+    "value": "Soldado Capturado"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DrekThar",
+    "value": "Drek'Thar"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HordeCavalry",
+    "value": "Cavalaria da Horda"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ReaverMinion",
+    "value": "Tropa Aniquiladora"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Storm_Building_WCAV_Alliance_CaptureCage",
+    "value": "Storm_Building_WCAV_Alliance_CaptureCage"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranHellbat",
+    "value": "Gnoll"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranHellbatDefender",
+    "value": "Gnoll"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/VanndarStormpike",
+    "value": "Vanndar Lançatroz"
+  }
+]
