@@ -148,7 +148,7 @@ jobs:
           path: |
             ${{ github.workspace }}/${{ env.OUTPUT_PATH}}/heroes_${{ steps.read-version.outputs.latest }}/data
             ${{ github.workspace }}/${{ env.OUTPUT_PATH}}/heroes_${{ steps.read-version.outputs.latest }}/gamestrings
-          key: heroesdata-${{ steps.read-version.outputs.latest }}
+          key: heroesdata-${{ steps.read-version.outputs.latest }}-${{ github.run_attempt}}
           
       - name: Check for file changes in heroes-images
         id: hi-check-changes
@@ -175,7 +175,7 @@ jobs:
         uses: actions/cache/save@v5
         with:
           path: ${{ github.workspace }}/${{ env.HI_STAGING_PATH }}
-          key: heroesimages-${{ steps.read-version.outputs.latest }}
+          key: heroesimages-${{ steps.read-version.outputs.latest }}-${{ github.run_attempt}}
 
       - name: Create pull request for heroes-data2 changes
         if: ${{ inputs.create-data-pr && steps.hd-check-changes.outputs.hd_changes == 'true' }}
@@ -212,7 +212,7 @@ jobs:
           path: |
             ${{ github.workspace }}/${{ env.OUTPUT_PATH}}/heroes_${{ env.LATEST_VERSION }}/data
             ${{ github.workspace }}/${{ env.OUTPUT_PATH}}/heroes_${{ env.LATEST_VERSION }}/gamestrings
-          key: heroesdata-${{ needs.run-hdp-auto.outputs.latest }}
+          key: heroesdata-${{ needs.run-hdp-auto.outputs.latest }}-${{ github.run_attempt}}
           fail-on-cache-miss: true
 
       - name: Archive version (zip)
@@ -281,7 +281,7 @@ jobs:
         uses: actions/cache/restore@v5
         with:
           path: ${{ github.workspace }}/${{ env.HI_STAGING_PATH }}
-          key: heroesimages-${{ needs.run-hdp-auto.outputs.latest }}
+          key: heroesimages-${{ needs.run-hdp-auto.outputs.latest }}-${{ github.run_attempt}}
           fail-on-cache-miss: true
 
       - name: Archive version (zip)
