@@ -124,7 +124,7 @@ jobs:
       - name: Read latest version from .version.json
         id: read-version
         run: |
-          VERSION=$(jq -r '.latest' "${{ env.HD_PATH }}/.version.json")
+          VERSION=$(jq -r '.latest' "${{ env.HD_PATH }}/${{ env.HEROESDATA_PATH}}/.version.json")
           echo "latest=$VERSION" >> $GITHUB_OUTPUT
           echo "Latest version (from .version.json): $VERSION"
           
