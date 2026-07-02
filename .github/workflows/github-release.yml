@@ -28,7 +28,7 @@ jobs:
         run: |
           ZIP_FILE=$(find "${{ env.ARTIFACTS }}" -name "*.zip" | head -n 1)
           BASENAME=$(basename "$ZIP_FILE" .zip)
-          VERSION="${BASENAME#heroes-data-}"
+          VERSION="${BASENAME#heroes-data-no-maps-}"
           echo "version=$VERSION" >> $GITHUB_OUTPUT
           echo "Version: $VERSION"
 
