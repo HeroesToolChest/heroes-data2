@@ -36,7 +36,7 @@ jobs:
         uses: softprops/action-gh-release@v3
         with:
           body: Version ${{ steps.get-version.outputs.version }}
-          name: Heroes Images ${{ steps.get-version.outputs.version }}
+          name: v${{ steps.get-version.outputs.version }}
           tag_name: v${{ steps.get-version.outputs.version }}
           draft: true
           files: ${{ env.ARTIFACTS }}/**
