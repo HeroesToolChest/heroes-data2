@@ -1,0 +1,65 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/totalItems",
+    "value": 919
+  },
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Pull Party"
+  },
+  {
+    "op": "replace",
+    "path": "/items/XelNagaWatchTower/sight",
+    "value": 18
+  },
+  {
+    "op": "add",
+    "path": "/items/TracerDummy",
+    "value": {
+      "radius": 1,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "User1"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TychusDummy",
+    "value": {
+      "radius": 1,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "User1"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  }
+]

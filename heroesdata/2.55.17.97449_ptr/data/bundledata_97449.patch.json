@@ -1,0 +1,4283 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97449_ptr"
+  },
+  {
+    "op": "remove",
+    "path": "/items/1003WeeklySaleBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/1003WeeklySaleBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/1003WeeklySaleBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/1010WeeklySaleBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/1010WeeklySaleBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/1010WeeklySaleBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/1017WeeklySaleBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/1017WeeklySaleBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/1017WeeklySaleBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/1024WeeklySaleBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/1024WeeklySaleBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/1024WeeklySaleBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/1031WeeklySaleBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/1031WeeklySaleBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/1031WeeklySaleBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/1114WeeklySaleBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/1114WeeklySaleBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/1114WeeklySaleBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/1128WeeklySaleBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/1128WeeklySaleBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/1128WeeklySaleBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/117WeeklySaleBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/117WeeklySaleBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/117WeeklySaleBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/1205WeeklySaleBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/1205WeeklySaleBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/1205WeeklySaleBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/2016HeroesoftheDormChampionsBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/2016HeroesoftheDormChampionsBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/2016HeroesoftheDormChampionsBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/2016SpringChampionshipBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/2016SpringChampionshipBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/2016SpringChampionshipBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/2016SummerGlobalChampionsBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/2016SummerGlobalChampionsBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/2016SummerGlobalChampionsBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/2017HeroesoftheDormBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/2017HeroesoftheDormBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/2017HeroesoftheDormBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/2017LoveisintheAirBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/2017LoveisintheAirBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/2017LoveisintheAirBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/2017LunarFestivalBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/2017LunarFestivalBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/2017LunarFestivalBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/2019LunarFestivalBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/2019LunarFestivalBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/2019LunarFestivalBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/24DynamicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/24DynamicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/24DynamicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/24UltimateDynamicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/24UltimateDynamicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/24UltimateDynamicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/815WeeklySaleBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/815WeeklySaleBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/815WeeklySaleBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/822WeeklySaleBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/822WeeklySaleBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/822WeeklySaleBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/829WeeklySaleBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/829WeeklySaleBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/829WeeklySaleBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/88WeeklySaleBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/88WeeklySaleBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/88WeeklySaleBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/905WeeklySaleBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/905WeeklySaleBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/905WeeklySaleBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/912WeeklySaleBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/912WeeklySaleBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/912WeeklySaleBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/919WeeklySaleBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/919WeeklySaleBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/919WeeklySaleBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/926WeeklySaleBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/926WeeklySaleBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/926WeeklySaleBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AdmiralKrakenovSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AdmiralKrakenovSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AdmiralKrakenovSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AlexstraszaHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AlexstraszaHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AlexstraszaHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AlteredFatesCompleteBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AlteredFatesSkinBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AlteredFatesSkinBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AlteredWarBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AlteredWarBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AlteredWarBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AnaHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AnaHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AnaHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AnduinHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AnduinHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AnduinHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AngirisCouncilBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AngirisCouncilBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AngirisCouncilBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AnubarakCybarakBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ArchangelDiabloBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ArmedandReadyBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ArmedandReadyBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ArmedandReadyBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ArthasFrostWyrmBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ArthasPrinceBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AssassinBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AssassinBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AutumnLootChest12Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AutumnLootChest12Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AutumnLootChest12Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AutumnLootChest1Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AutumnLootChest1Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AutumnLootChest1Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AutumnLootChest25Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AutumnLootChest25Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AutumnLootChest25Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AutumnLootChest52Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AutumnLootChest52Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AutumnLootChest52Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AutumnLootChest5Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AutumnLootChest5Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AutumnLootChest5Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AzmodanAzguldanBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BackinBlackFridayBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BackinBlackFridayBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BackinBlackFridayBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BalespiderGuldanBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BattleBeastsBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BattleBeastsBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BattleBeastsBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BeatdownBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BeatdownBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BestFriendsBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BestFriendsBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BestFriendsBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BikiniStitchesBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BlazeHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BlazeHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BlazeHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BlizzCon2015ChampionshipBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BlizzCon2015ChampionshipBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BlizzCon2015ChampionshipBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BlizzConlineTracerBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BlizzConlineTracerBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BlizzConlineTracerBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BoostPromoLegendaryChestPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BoostPromoLegendaryChestPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BoostPromoLegendaryChestPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BowBeforeViperBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BowBeforeViperBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BowBeforeViperBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ButcherliskBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CaldeumComplexBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CaldeumComplexBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CaldeumComplexBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CelestialEmpressWhitemaneSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CelestialEmpressWhitemaneSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CelestialEmpressWhitemaneSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CenturionJohannaBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CerberusPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CerberusPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CerberusPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CheerleaderKerriganBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CheerleaderKerriganBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CheerleaderKerriganBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChenWarmasterBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChinaGoldChampionship2015Bundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChinaGoldChampionship2015Bundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChinaGoldChampionship2015Bundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ClassicLoveisintheAirBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ClassicLoveisintheAirBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ClassicLoveisintheAirBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ConquestBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ConquestBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ContentFilteringWhitelist/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ContentFilteringWhitelist/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ContentFilteringWhitelist/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CorruptorChogallBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CosmicForceValeeraSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CosmicForceValeeraSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CosmicForceValeeraSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CosmonautQhiraBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CosmonautQhiraBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CosmonautQhiraBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CourtoftheArchlichBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CourtoftheArchlichBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CourtoftheArchlichBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CraftWars2020LootChest1Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CraftWars2020LootChest1Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CraftWars2020LootChest1Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CrimsonCountArthasBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CuddleBearStitchesSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CuddleBearStitchesSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CuddleBearStitchesSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CursedWitchWhitemaneSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CursedWitchWhitemaneSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CursedWitchWhitemaneSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CyberdemonZaryaSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CyberdemonZaryaSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CyberdemonZaryaSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CyberhawkKaelThasBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CyberOniButcherSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CyberOniButcherSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CyberOniButcherSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CyberOniWarboarBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CyberOniWarboarBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CyberOniWarboarBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DarkNexus2020LootChest1Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DarkNexus2020LootChest1Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DarkNexus2020LootChest1Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DarkNexusBeastPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DarkNexusBeastPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DarkNexusBeastPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DarkNexusBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DarkNexusBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DarkNexusBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DarkNexusDeathwingBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DarkNexusDeathwingBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DarkNexusDeathwingBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DarkNexusFenixBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DarkNexusFenixBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DarkNexusFenixBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DarkNexusHarbingersBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DarkNexusHarbingersBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DarkNexusHarbingersBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DarkNexusTassadarBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DarkNexusTassadarBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DarkNexusTassadarBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DarkQueenAlexstraszaSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DarkQueenAlexstraszaSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DarkQueenAlexstraszaSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DeathfangGenjiSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DeathfangGenjiSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DeathfangGenjiSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DeathrangerNovaBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DeathrangerNovaBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DeathrangerNovaBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DeckardHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DeckardHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DeckardHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DeckardPainSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DeckardPainSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DeckardPainSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DehakasaurusRexSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DehakasaurusRexSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DehakasaurusRexSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DeltaHanzoSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DeltaHanzoSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DeltaHanzoSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DemonHunterValeeraBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DemonHunterValeeraBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DemonHunterValeeraBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DemonicAurielBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DemonicDevastationBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DemonicDevastationBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DemonicDevastationBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DemonicImperiusSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DemonicImperiusSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DemonicImperiusSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DestroyerBrightwingBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DestroyerBrightwingBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DestroyerBrightwingBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DiabloFranchiseBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DiabloKaijoBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DieselSpeakerNazeeboSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DieselSpeakerNazeeboSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DieselSpeakerNazeeboSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DivineHeraldTracerBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DivineHeraldTracerBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DivineHeraldTracerBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DominationBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DominationBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DominusVileAzmodanSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DominusVileAzmodanSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DominusVileAzmodanSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DoombreakerBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DraeneiExecutorArtanisSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DraeneiExecutorArtanisSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DraeneiExecutorArtanisSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DreadmachineMalGanisSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DreadmachineMalGanisSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DreadmachineMalGanisSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DrekTharRehgarSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DrekTharRehgarSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DrekTharRehgarSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DruidoftheFlameMalfurionBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DVaHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DVaHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DVaHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DVatheDestroyerBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DVatheDestroyerBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DVatheDestroyerBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/EagleEyeTyrandeBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/EchoesofAlteracBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/EchoesofAlteracBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/EchoesofAlteracBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/EchoesofTristramBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/EchoesofTristramBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/EchoesofTristramBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ElBandidoImperiusSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ElBandidoImperiusSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ElBandidoImperiusSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ElvenFatesBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ElvenFatesBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ElvenFatesBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/EmberlordZuljinBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/EmberlordZuljinBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/EmberlordZuljinBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/EnforcerJohannaHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/EnforcerJohannaHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/EnforcerJohannaHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/EnforcersBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/EnforcersBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/EnforcersBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/EternalConflictBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/EternalConflictBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/EternalConflictBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/EternalConflictUltimateBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/EternalConflictUltimateBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/EternalConflictUltimateBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FallenJunkratSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FallenJunkratSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FallenJunkratSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FallofKingsCrestBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FallofKingsCrestBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FallofKingsCrestBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FarstriderHanzoSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FarstriderHanzoSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FarstriderHanzoSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FelQueenChromieBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FelReaverBlazeSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FelReaverBlazeSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FelReaverBlazeSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FenixHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FenixHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FenixHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FirestormBlazeSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FirestormBlazeSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FirestormBlazeSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FirstAnniversaryBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FirstAnniversaryBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FirstAnniversaryBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FootmanVarianSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FootmanVarianSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FootmanVarianSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FortheAllianceBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FortheAllianceBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FortheAllianceBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FortheHordeBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FortheHordeBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FortheHordeBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FoundationBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FoundationBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FoundationBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FragmentsoftheDarkNexusBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FragmentsoftheDarkNexusBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FragmentsoftheDarkNexusBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FrostlordRexxarBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GarroshHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GarroshHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GarroshHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GatadeBatallaLiLiSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GatadeBatallaLiLiSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GatadeBatallaLiLiSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GazloweBigTopBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GenjiLaunchBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GenjiLaunchBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GenjiLaunchBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GhostKerriganBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GhostKerriganBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GhostKerriganBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GlorytotheFirstbornBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GlorytotheFirstbornBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GlorytotheFirstbornBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GoliathDVaSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GoliathDVaSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GoliathDVaSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GrandMarshalVarianSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GrandMarshalVarianSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GrandMarshalVarianSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GraveWardenMalthaelSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GraveWardenMalthaelSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GraveWardenMalthaelSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GreedandValorBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GreedandValorBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GreedandValorBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GreedChogallSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GreedChogallSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GreedChogallSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GreenArmyBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GreenArmyBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GreenArmyBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Halloween2018LootChest12Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Halloween2018LootChest12Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Halloween2018LootChest12Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Halloween2018LootChest1Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Halloween2018LootChest1Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Halloween2018LootChest1Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Halloween2018LootChest25Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Halloween2018LootChest25Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Halloween2018LootChest25Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Halloween2018LootChest52Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Halloween2018LootChest52Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Halloween2018LootChest52Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Halloween2018LootChest5Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Halloween2018LootChest5Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Halloween2018LootChest5Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HallowsEnd2017Bundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HallowsEnd2017Bundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HallowsEnd2017Bundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HallowsEndClassicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HallowsEndClassicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HallowsEndClassicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HallowsEndCostumeBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HallowsEndCostumeBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HanzoHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HanzoHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HanzoHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HarlequinNazeeboBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HealerBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HeavyHittersBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HeavyHittersBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HellbladeSamuroBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HellbladeSamuroBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HellbladeSamuroBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HellforgedHeroesBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HellforgedHeroesBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HellforgedHeroesBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HellhammerThrallBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HellsScreamersBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HellsScreamersBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HellsScreamersBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HellwardenMaievSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HellwardenMaievSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HellwardenMaievSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HeraldofNzothAlarakBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Hero10Pack1Bundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Hero10Pack1Bundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HeroesofLightBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HeroesofLightBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HeroesofLuxoriaBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HeroesofLuxoriaBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HeroesofLuxoriaBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HeroesoftheDorm2018Bundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HeroesoftheDorm2018Bundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HeroesoftheDorm2018Bundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HeroesofWarcraftBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HeroesofWarcraftBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HeroesofWarcraftBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HeroicReinforcementBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HeroicReinforcementBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HeroicReinforcementBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HighPriestessMaievSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HighPriestessMaievSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HighPriestessMaievSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HighWarlordGarroshSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HighWarlordGarroshSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HighWarlordGarroshSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HoggerHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HoggerHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HoggerHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HordeLegendsBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HordeLegendsBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HordeLegendsBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ImperatorStukovSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ImperatorStukovSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ImperatorStukovSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ImperiusHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ImperiusHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ImperiusHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/InterdimensionalFusionBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/InterdimensionalFusionBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/InterdimensionalFusionBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/InvinciliskBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/InvinciliskBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/InvinciliskBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/JadeDragonKharazimBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/JanitorLeoricBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/JanitorLeoricBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/JanitorLeoricBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/JointheResistanceBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/JointheResistanceBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/JointheResistanceBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/JunkratHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/JunkratHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/JunkratHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/KelThuzadHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/KelThuzadHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/KelThuzadHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/KingofBladesArthasSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/KingofBladesArthasSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/KingofBladesArthasSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/KnightOwlMedivhBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/KopruluBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LeadingLadiesBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LeadingLadiesBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LeadingLadiesBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LifeUndeathBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LifeUndeathBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LifeUndeathBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LilDestroyersBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LilDestroyersBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LilDestroyersBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LilRagnarosBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LoGoshVarianBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LootChest1PackGold/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LootChest1PackGold/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LootChest1PackGold/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LootChestBoostPromoBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LootChestBoostPromoBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LootChestBoostPromoBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LostVikingsLaunchBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LoveBugAnubarakBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LoveDoctorMoralesBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LoveisintheAir2015Bundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LoveIsintheAirClassicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LoveIsintheAirClassicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LoveIsintheAirClassicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LtMoralesApothecaryBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarFestival2015Bundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarFestival2015Bundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarFestival2015Bundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarFestival2016Bundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarFestival2016Bundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarFestival2016Bundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarFestival2018Bundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarFestival2018Bundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarFestival2018Bundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarFestivalClassicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarFestivalClassicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarFestivalClassicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarFestivalMountBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarFestivalMountBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarFestivalMountBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarFestivalSkinBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarLootChest12Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarLootChest12Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarLootChest12Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarLootChest1Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarLootChest1Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarLootChest1Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarLootChest25Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarLootChest25Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarLootChest25Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarLootChest52Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarLootChest52Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarLootChest52Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarLootChest5Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarLootChest5Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarLootChest5Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LuxorianNightsBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LuxorianNightsBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LuxorianNightsBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LuxoriaSkinBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MachinesofWarBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MachinesofWarBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MachinesofWarBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MadAndMightyBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MadAndMightyBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MadAndMightyCompleteBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MadAxeGarroshSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MadAxeGarroshSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MadAxeGarroshSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MadJesterYrelSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MadJesterYrelSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MadJesterYrelSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MadKingBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MaievHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MaievHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MaievHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MalGanisHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MalGanisHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MalGanisHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MalgauchoMalganisSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MalgauchoMalganisSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MalgauchoMalganisSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MalthaelHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MalthaelHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MalthaelHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MaraudinMuradinBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MaraudinMuradinBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MaraudinMuradinBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MastersofMagicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MastersofMagicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MastersofMagicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MatchoftheCenturyBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MatchoftheCenturyBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MatchoftheCenturyBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MeatWagonBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MeatWagonBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MeatWagonBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MechaDehakaBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MechaRehgarHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MechaRehgarHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MechaRehgarHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MechaStormBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MechaStormBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MechaStormBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MechaStormIIBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MechaStormIIBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MechaStormIIBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MechaTyraelHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MechaTyraelHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MechaTyraelHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MechaVallaSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MechaVallaSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MechaVallaSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MechaYrelSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MechaYrelSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MechaYrelSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MedivhRemasteredBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MedivhRemasteredBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MedivhRemasteredBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MegabundleAssassins/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MegabundleAssassins/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MegabundleFlex/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MegabundleFlex/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MegabundleJungle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MegabundleJungle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MegabundleSupport/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MegabundleSupport/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MephistoHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MephistoHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MephistoHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MineralHarvesterGazloweSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MineralHarvesterGazloweSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MineralHarvesterGazloweSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Mobster2019LegendaryLootChest1Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Mobster2019LegendaryLootChest1Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Mobster2019LegendaryLootChest1Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Mobster2019LootChest1Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Mobster2019LootChest1Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Mobster2019LootChest1Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MobsterBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MobsterBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MobsterBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MobsterGetawaySidecarBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MobsterGetawaySidecarBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MobsterGetawaySidecarBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MobsterJunkratSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MobsterJunkratSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MobsterJunkratSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MobsterOrpheaSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MobsterOrpheaSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MobsterOrpheaSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MobsterRaccoonBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MobsterRaccoonBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MobsterRaccoonBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MobsterSgtHammerSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MobsterSgtHammerSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MobsterSgtHammerSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MobsterWhitemaneSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MobsterWhitemaneSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MobsterWhitemaneSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MultiverseBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MultiverseBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MultiverseBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MurkyGruntyBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MysticKingdomsArthasBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MysticKingdomsArthasBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MysticKingdomsArthasBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MythicPantheonBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MythicPantheonBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MythicPantheonBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NecrotopologistMeiSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NecrotopologistMeiSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NecrotopologistMeiSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NephalemBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NephalemBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NephalemBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Nexomania2020LootChest1Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Nexomania2020LootChest1Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Nexomania2020LootChest1Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NexomaniaBestBrosBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NexomaniaBestBrosBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NexomaniaBestBrosBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NexomaniaBitterRivalsBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NexomaniaBitterRivalsBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NexomaniaBitterRivalsBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NexoweightChampionshipBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NexoweightChampionshipBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NexoweightChampionshipBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NexusChallengerBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NexusChallengerBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NexusChallengerBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NexusConquerorBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NexusConquerorBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NexusConquerorBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NexusHeroineBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NexusHeroineBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NexusHeroineBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NightslayerValeeraSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NightslayerValeeraSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NightslayerValeeraSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NoblegardenBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NovaCompleteBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NovazonNovaBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/OniGenjiSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/OniGenjiSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/OniGenjiSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/OrpheaHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/OrpheaHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/OrpheaHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/PajamaPartyMeiHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/PajamaPartyMeiHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/PajamaPartyMeiHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ParamedicMoralesHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ParamedicMoralesHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ParamedicMoralesHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/PegasusPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/PegasusPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/PegasusPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/PhantomKnightZaryaSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/PhantomKnightZaryaSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/PhantomKnightZaryaSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/PirateCassiaBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/PlayoftheGameBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/PlayoftheGameBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/PlayoftheGameBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/PowerhouseBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/PrisonerTychusBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Protoss20thAnniversaryBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Protoss20thAnniversaryBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Protoss20thAnniversaryBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/PumpedupPatoBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/PumpedupPatoBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/PumpedupPatoBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/PurifierArtanisBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/PurpleRageBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/PurpleRageBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/PurpleRageBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/QhiraHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/QhiraHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/QhiraHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/RaiderRexxarBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/RaidersofWarchromeBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/RaidersofWarchromeBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/RaidersofWarchromeBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/RangerGeneralSylvanasBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/RavenCrestHighBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/RavenCrestHighBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/RavenCrestHighBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ReaverBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ReaverBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ReaverBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/RedandBlackFridayBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/RedandBlackFridayBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/RedandBlackFridayBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/RehgarIronClawBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/RibbitLucioBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/RoadraiderRaynorSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/RoadraiderRaynorSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/RoadraiderRaynorSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/RuinwalkerFenixSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/RuinwalkerFenixSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/RuinwalkerFenixSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SakuraAurielSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SakuraAurielSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SakuraAurielSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SapperJunkratSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SapperJunkratSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SapperJunkratSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SecondChanceBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SentinelLunaraBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SeraphWingBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SeraphWingBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SeraphWingBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SerpentKingXulBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SerpentKingXulBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SerpentKingXulBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ShardBundle100Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ShardBundle100Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ShardBundle100Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ShardBundle500Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ShardBundle500Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ShardBundle500Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ShrikeSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ShrikeSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ShrikeSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SideshowBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SidewinderAnaSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SidewinderAnaSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SidewinderAnaSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SlackerOrpheaSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SlackerOrpheaSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SlackerOrpheaSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SonyaRemasteredBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SonyaRemasteredBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SonyaRemasteredBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SovereignFiendsBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SovereignFiendsBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SovereignFiendsBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SpectralWyrmAlexstraszaSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SpectralWyrmAlexstraszaSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SpectralWyrmAlexstraszaSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SpectreBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SpectreBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SpectreBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SpectreTracerBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SpeedDemonLucioSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SpeedDemonLucioSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SpeedDemonLucioSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SpellbreakerJohannaBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SpiderWardenMaievSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SpiderWardenMaievSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SpiderWardenMaievSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SpiritHealerAurielSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SpiritHealerAurielSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SpiritHealerAurielSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Spring2019LootChest1Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Spring2019LootChest1Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Spring2019LootChest1Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StarCraft20thAnniversaryBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StarCraft20thAnniversaryBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StarCraft20thAnniversaryBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StarCrossedBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StarCrossedBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StarCrossedBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StarLichKelThuzadSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StarLichKelThuzadSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StarLichKelThuzadSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StarPrincessLiMingBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StarPrincessLiMingBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StarPrincessLiMingBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StarterBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StarterBundleBeta/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StarWraithMephistoSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StarWraithMephistoSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StarWraithMephistoSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StormpunkKaelThasBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StreetCyborgKharazimSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StreetCyborgKharazimSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StreetCyborgKharazimSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StrikerLiMingBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StukovHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StukovHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StukovHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Summer2018LootChest12Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Summer2018LootChest12Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Summer2018LootChest12Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Summer2018LootChest1Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Summer2018LootChest1Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Summer2018LootChest1Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Summer2018LootChest25Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Summer2018LootChest25Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Summer2018LootChest25Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Summer2018LootChest52Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Summer2018LootChest52Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Summer2018LootChest52Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Summer2018LootChest5Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Summer2018LootChest5Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Summer2018LootChest5Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Summer2019LootChest1Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Summer2019LootChest1Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Summer2019LootChest1Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SummerLootChest12Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SummerLootChest12Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SummerLootChest12Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SummerLootChest1Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SummerLootChest1Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SummerLootChest1Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SummerLootChest25Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SummerLootChest25Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SummerLootChest25Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SummerLootChest52Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SummerLootChest52Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SummerLootChest52Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SummerLootChest5Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SummerLootChest5Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SummerLootChest5Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SunsOut2017Bundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SunsOut2017Bundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SunsOut2017Bundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SunsOutGunsOutBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SunsOutGunsOutBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SunsOutGunsOutBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SuperheroesoftheStormBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SuperheroesoftheStormBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SuperheroesoftheStormBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SuperheroinesBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SupportBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SupportBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TeamSpiritBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TeamSpiritBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TeamSpiritBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TechnoVandalChromieSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TechnoVandalChromieSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TechnoVandalChromieSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TempestRegaliaJainaBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Terran20thAnniversaryBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Terran20thAnniversaryBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Terran20thAnniversaryBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TerranAllianceBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TerranAllianceBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TerranAllianceBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TerranItUpBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TerranItUpBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TerranItUpBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TerranProbiusBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TestBonusBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TestBonusBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TestBonusBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ThunderGoddessCassiaBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ThunderGoddessCassiaBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ThunderGoddessCassiaBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ThunderGuardZaryaBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TickleMephistoBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TickleMephistoBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TickleMephistoBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ToyHeroesBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ToyHeroesBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ToyHeroesBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Toys2018Bundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Toys2018Bundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Toys2018Bundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Toys2019Bundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Toys2019Bundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Toys2019Bundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TrainBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TrainBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TrainBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TriumphBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TriumphBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TriumphBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TyraelEliteBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateArthasBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateArthasBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateArthasBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateBattleBeastsBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateBattleBeastsBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateBattleBeastsBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateBestFriendsBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateBestFriendsBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateBestFriendsBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateBladesofDestructionBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateBladesofDestructionBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateBladesofDestructionBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateElvenFatesBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateElvenFatesBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateElvenFatesBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateHalloweenBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateHealerBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateKopruluBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateLeadingLadiesBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateLeadingLadiesBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateLeadingLadiesBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateLuxorianNightsBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateLuxorianNightsBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateLuxorianNightsBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateMastersofMagicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateMastersofMagicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateMastersofMagicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateMultiverseBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateMultiverseBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateMultiverseBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateNexusHeroineBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateNexusHeroineBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateNexusHeroineBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimatePowerhouseBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateSideshowBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateSovereignFiendsBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateSovereignFiendsBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateSovereignFiendsBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UltimateUndyingLegendsBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UndyingLegendsBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UndyingLegendsBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UndyingLegendsBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/UtherMedicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/VanndarMuradinSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/VanndarMuradinSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/VanndarMuradinSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ViperReturnsBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ViperReturnsBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ViperReturnsBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WarchromeCommandersBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WarchromeCommandersBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WarchromeCommandersBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WarcraftArmoryBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WarcraftArmoryBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WarcraftArmoryBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WarriorBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WarriorBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WarsongJohannaSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WarsongJohannaSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WarsongJohannaSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WastewalkerDeckardSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WastewalkerDeckardSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WastewalkerDeckardSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WatchdogGreymaneHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WatchdogGreymaneHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WatchdogGreymaneHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WelcomeBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WelcomeBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WelcomeBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WelcometotheNexusBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WelcometotheNexusBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WelcometotheNexusBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WhitemaneHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WhitemaneHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WhitemaneHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WidowmakerNovaBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Winter2018LootChest12Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Winter2018LootChest12Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Winter2018LootChest12Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Winter2018LootChest1Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Winter2018LootChest1Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Winter2018LootChest1Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Winter2018LootChest25Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Winter2018LootChest25Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Winter2018LootChest25Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Winter2018LootChest52Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Winter2018LootChest52Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Winter2018LootChest52Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Winter2018LootChest5Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Winter2018LootChest5Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Winter2018LootChest5Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Winter2019LootChest1Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Winter2019LootChest1Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Winter2019LootChest1Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Winter2020LootChest1Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Winter2020LootChest1Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Winter2020LootChest1Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterLootChest12Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterLootChest12Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterLootChest12Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterLootChest1Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterLootChest1Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterLootChest1Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterLootChest25Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterLootChest25Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterLootChest25Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterLootChest52Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterLootChest52Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterLootChest52Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterLootChest5Pack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterLootChest5Pack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterLootChest5Pack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterVeil2015Bundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterVeil2016Bundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterVeil2016Bundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterVeil2016Bundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterVeil2017Bundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterVeil2017Bundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterVeil2017Bundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterVeilClassicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterVeilClassicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterVeilClassicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WinterVeilJainaBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WorldsCollideBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WorldsCollideBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WorldsCollideBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/XenotechAbathurHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/XenotechAbathurHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/XenotechAbathurHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/XenotechMalthaelSkinPack/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/XenotechMalthaelSkinPack/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/XenotechMalthaelSkinPack/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/YrelHeroicBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/YrelHeroicBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/YrelHeroicBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ZagaraInsectoidBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ZeratulEliteBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Zerg20thAnniversaryBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Zerg20thAnniversaryBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Zerg20thAnniversaryBundle/mountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ZerglingBundle/heroIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ZerglingBundle/skinIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ZerglingBundle/mountIds"
+  }
+]

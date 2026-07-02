@@ -1,0 +1,72 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97449_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelDivinePurpose|YrelDivinePurpose|Trait",
+    "value": "Temps de recharge\u00A0: 12 secondes"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelAvengingWrathChannel|YrelAvengingWrath|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana\u00A0: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelAvengingWrathDivinePurpose|YrelAvengingWrath|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana\u00A0: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelAvengingWrath|YrelAvengingWrath|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana\u00A0: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelRighteousHammerChannel|YrelRighteousHammer|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana\u00A0: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelRighteousHammerDivinePurpose|YrelRighteousHammer|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana\u00A0: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelRighteousHammer|YrelRighteousHammer|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana\u00A0: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelVindicationCast|YrelVindication|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana\u00A0: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelVindication|YrelVindication|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana\u00A0: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/IllidanSweepingStrike|IllidanSweepingStrike|W",
+    "value": "Fonce vers l’endroit ciblé en infligeant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">119</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts aux ennemis sur le chemin. Toucher un ennemi augmente les dégâts des attaques de base de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c> pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> secondes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "Réduit le coût en mana de Rafale de flammes de<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête\u00A0:</c> toucher <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60</c> héros embrasés avec Rafale de flammes.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Récompense\u00A0:</c> toucher un héros embrasé avec Rafale de flammes réduit le temps de recharge de Reine-dragon de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> secondes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/IllidanMasteryBatteredAssaultSweepingStrike|IllidanSweepingStrikeBatteredAssaultTalent|W|Level1",
+    "value": "Augmente la durée du bonus aux dégâts des attaque de base conféré par Voie des lames de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> secondes. Si Voie des lames touche au moins <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> héros, porte son bonus aux dégâts de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c> à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">125%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/TalentOverdrive",
+    "value": "<s val=\"cbe8ff-ffffff\" hlt-name=\"StandardTooltipHeader\">Surmultiplicateur</s><n/><s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Temps de recharge\u00A0: 25 secondes<n/><n/><s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Effet actif\u00A0: </s><s val=\"8783e6\" hlt-name=\"StandardTooltip\">augmente la puissance de capacité de 30% et le coût en mana de 50% pendant 0 secondes.</s>"
+  }
+]

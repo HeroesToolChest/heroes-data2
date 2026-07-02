@@ -1,0 +1,1577 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/totalItems",
+    "value": 941
+  },
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Punisher Arena"
+  },
+  {
+    "op": "add",
+    "path": "/items/CatapultMinion/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_minion_catapult_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/FootmanMinion/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_minion_melee_hell.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/JungleCampIconUnit/radius",
+    "value": 0
+  },
+  {
+    "op": "remove",
+    "path": "/items/JungleCampIconUnit/portraits/minimap"
+  },
+  {
+    "op": "replace",
+    "path": "/items/KingsCore/attributes/1",
+    "value": "ImmuneToFriendlyAbilities"
+  },
+  {
+    "op": "add",
+    "path": "/items/KingsCore/attributes/2",
+    "value": "Structure"
+  },
+  {
+    "op": "replace",
+    "path": "/items/KingsCore/life/amount",
+    "value": 3
+  },
+  {
+    "op": "remove",
+    "path": "/items/KingsCore/shield"
+  },
+  {
+    "op": "add",
+    "path": "/items/KingsCore/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_core_hell.png"
+  },
+  {
+    "op": "remove",
+    "path": "/items/KingsCore/weapons"
+  },
+  {
+    "op": "remove",
+    "path": "/items/KingsCore/abilities/Hidden/1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/MercSiegeTrooperDefender/killXP",
+    "value": 90
+  },
+  {
+    "op": "add",
+    "path": "/items/MercSiegeTrooperDefender/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_merc_siege.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/MercSiegeTrooperLaner/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_merc_siege.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/MercSummonerDefender/killXP",
+    "value": 450
+  },
+  {
+    "op": "add",
+    "path": "/items/RangedMinion/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_minion_ranged_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownCannonTowerL2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_tower_0_hell.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownCannonTowerL2Standalone/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_tower_0_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownCannonTowerL3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_tower_1_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownCannonTowerL3Standalone/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_tower_1_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL215BLUR/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL215BLURBRVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL215BLURTLVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL215BRUL/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL215BRULBLVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL215BRULTRVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL2BLUR/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL2BLURBRVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL2BLURTLVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL2BRUL/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL2BRULBLVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL2BRULTRVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL2Horizontal/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL2HorizontalBotVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL2HorizontalTopVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL2Vertical/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL2VerticalLeftVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL2VerticalRightVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL315BLUR/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL315BLURBRVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL315BLURTLVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL315BRUL/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL315BRULBLVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL315BRULTRVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL3BLUR/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL3BLURBRVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL3BLURTLVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL3BRUL/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL3BRULBLVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL3BRULTRVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL3Horizontal/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL3HorizontalBotVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL3HorizontalTopVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL3Vertical/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL3VerticalLeftVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL3VerticalRightVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_gate_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownMoonwellL2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_moonwell_hell.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownMoonwellL3/life/amount",
+    "value": 3600
+  },
+  {
+    "op": "add",
+    "path": "/items/TownMoonwellL3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_moonwell_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownMoonwellL3/shield",
+    "value": {
+      "amount": 900,
+      "scale": 0,
+      "regenRate": 30,
+      "regenScale": 0,
+      "regenDelay": 8
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TownTownHallL2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_fort_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownTownHallL3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_keep_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial0L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial0L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial10L1/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial10L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial10L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial11L1/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial11L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial11L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial12L1/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial12L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial12L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial13L1/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial13L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial13L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial14L1/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial14L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial14L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial15L1/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial15L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial15L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial16L1/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial16L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial16L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial17L1/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial17L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial17L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial18L1/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial18L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial18L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial19L1/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial19L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial19L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial1L1/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial1L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial1L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial20L1/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial20L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial20L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial21L1/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial21L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial21L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial22L1/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial22L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial22L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial23L1/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial23L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial23L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial2L1/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial2L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial2L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial3L1/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial3L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial3L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial4L1/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial4L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial4L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial5L1/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial5L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial5L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial6L1/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial6L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial6L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial7L1/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial7L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial7L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial8L1/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial8L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial8L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial9L1/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial9L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial9L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_building_wall_hell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/WizardMinion/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_boe_minion_wizard_hell.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/XelNagaWatchTower/sight",
+    "value": 26
+  },
+  {
+    "op": "add",
+    "path": "/items/CursedShrineMinion",
+    "value": {
+      "damageType": "Monster",
+      "radius": 0.5,
+      "innerRadius": 0.375,
+      "sight": 9,
+      "speed": 3.5,
+      "attributes": [
+        "Creep",
+        "MapCreature"
+      ],
+      "scalingLinkIds": [
+        "CursedShrineMinionScaling"
+      ],
+      "life": {
+        "amount": 300,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "targetInfo": "storm_ui_ingame_targetinfopanel_unit_infernalshrines_merc_punisher_defender.png"
+      },
+      "weapons": [
+        {
+          "nameId": "CursedShrineMinionWeapon",
+          "isDisabled": false,
+          "range": 0.5,
+          "minimumRange": 0,
+          "period": 1,
+          "damage": 9,
+          "damageScale": 0
+        }
+      ],
+      "abilities": {
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/DiabloArcaneUnit",
+    "value": {
+      "damageType": "Minion",
+      "radius": 3,
+      "innerRadius": 0.5,
+      "sight": 8,
+      "speed": 3.25,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {},
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": "DiabloArcaneTurn|DiabloArcaneTurn|Q",
+            "abilityId": "DiabloArcaneTurn",
+            "buttonId": "DiabloArcaneTurn",
+            "icon": "storm_temp_war3_btndemolish.png",
+            "abilityType": "Q"
+          }
+        ],
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          },
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/DiabloCoreArcaneUnit",
+    "value": {
+      "damageType": "Minion",
+      "radius": 3,
+      "innerRadius": 0.5,
+      "sight": 8,
+      "speed": 3.25,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {},
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": "DiabloCoreArcaneTurn|DiabloCoreArcaneTurn|Q",
+            "abilityId": "DiabloCoreArcaneTurn",
+            "buttonId": "DiabloCoreArcaneTurn",
+            "icon": "storm_temp_war3_btndemolish.png",
+            "abilityType": "Q"
+          }
+        ],
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          },
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/DiabloMortarMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/DiabloShrine",
+    "value": {
+      "damageType": "Structure",
+      "radius": 1.5,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 0,
+      "attributes": [
+        "AITargetableStructure",
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "User1"
+      ],
+      "life": {
+        "amount": 1500,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {},
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": "CursedShrineSpawn|CursedShrineSpawn|Q",
+            "abilityId": "CursedShrineSpawn",
+            "buttonId": "CursedShrineSpawn",
+            "icon": "storm_ui_icon_shrinkray.png",
+            "abilityType": "Q"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/DiabloShrineWarningUnit",
+    "value": {
+      "radius": 2,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_raventribute.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/FallenLunatic",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0.375,
+      "sight": 9,
+      "speed": 3.5,
+      "killXP": 30,
+      "attributes": [
+        "ImmuneToFriendlyAbilities",
+        "Merc"
+      ],
+      "life": {
+        "amount": 2000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {},
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": ":PASSIVE:|FallenLunaticAura|Q",
+            "abilityId": ":PASSIVE:",
+            "buttonId": "FallenLunaticAura",
+            "abilityType": "Q"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "move|:NONE:|Hidden",
+            "abilityId": "move",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/Hell_GiantDemon_Base",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 6,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "Structure",
+        "User1"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {},
+      "abilities": {
+        "Hidden": [
+          {
+            "linkId": "move|:NONE:|Hidden",
+            "abilityId": "move",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/Hell_GiantDemon_Chains",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 6,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "Structure",
+        "User1"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {},
+      "abilities": {
+        "Hidden": [
+          {
+            "linkId": "move|:NONE:|Hidden",
+            "abilityId": "move",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MercPunisherLaner",
+    "value": {
+      "radius": 1,
+      "innerRadius": 1,
+      "sight": 20,
+      "speed": 3.75,
+      "attributes": [
+        "ImmuneToFriendlyAbilities",
+        "MapBoss",
+        "MapCreature"
+      ],
+      "life": {
+        "amount": 10800,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_minesgolem.png"
+      },
+      "weapons": [
+        {
+          "nameId": "MercPunisherLanerWeapon",
+          "isDisabled": false,
+          "range": 3.5,
+          "minimumRange": 0,
+          "period": 1,
+          "damage": 103,
+          "damageScale": 0,
+          "damageFactors": {
+            "MapCreature": 1,
+            "Merc": 0,
+            "Minion": 0,
+            "Structure": 0,
+            "Summoned": 0
+          }
+        },
+        {
+          "nameId": "MercPunisherLanerWeaponStructure",
+          "isDisabled": false,
+          "range": 3.5,
+          "minimumRange": 0,
+          "period": 1,
+          "damage": 103,
+          "damageScale": 0,
+          "damageFactors": {
+            "MapCreature": 1,
+            "Merc": 0,
+            "Minion": 0,
+            "Structure": 0,
+            "Summoned": 0
+          }
+        },
+        {
+          "nameId": "MercPunisherLanerFixateWeaponOnlyVsPunishers",
+          "isDisabled": true,
+          "range": 3.5,
+          "minimumRange": 0,
+          "period": 0.5,
+          "damage": 103,
+          "damageScale": 0
+        },
+        {
+          "nameId": "MercPunisherLanerFixateWeaponOnlyVsPunishersDelayed",
+          "isDisabled": true,
+          "range": 3.5,
+          "minimumRange": 0,
+          "period": 0.5,
+          "damage": 103,
+          "damageScale": 0
+        },
+        {
+          "nameId": "MercPunisherLanerFixateWeapon",
+          "isDisabled": true,
+          "range": 2,
+          "minimumRange": 0,
+          "period": 0.5,
+          "damage": 103,
+          "damageScale": 0
+        }
+      ],
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": "MercPunisherLanerLeap|MercPunisherLanerLeap|Q",
+            "abilityId": "MercPunisherLanerLeap",
+            "buttonId": "MercPunisherLanerLeap",
+            "icon": "storm_btn_d3_barbarian_leap.png",
+            "abilityType": "Q"
+          },
+          {
+            "linkId": "MercPunisherLanerFixate|MercPunisherLanerFixate|W",
+            "abilityId": "MercPunisherLanerFixate",
+            "buttonId": "MercPunisherLanerFixate",
+            "icon": "storm_temp_war3_btnundeadunload.png",
+            "abilityType": "W"
+          },
+          {
+            "linkId": "MercPunisherLanerLeapGlobal|MercPunisherLanerLeapGlobal|E",
+            "abilityId": "MercPunisherLanerLeapGlobal",
+            "buttonId": "MercPunisherLanerLeapGlobal",
+            "icon": "storm_btn_d3_barbarian_leap.png",
+            "abilityType": "E"
+          }
+        ],
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "AbathurAssumingDirectControlCancel|AbathurSymbioteCancel|Hidden",
+            "abilityId": "AbathurAssumingDirectControlCancel",
+            "buttonId": "AbathurSymbioteCancel",
+            "icon": "hud_btn_bg_ability_cancel.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ParalyzeStructure",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 2.5,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ShrineAuraMinion",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0.375,
+      "sight": 9,
+      "speed": 3.5,
+      "killXP": 30,
+      "attributes": [
+        "ImmuneToFriendlyAbilities",
+        "Merc"
+      ],
+      "scalingLinkIds": [
+        "ShrineAuraMinionScaling"
+      ],
+      "life": {
+        "amount": 4000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_lordorder.png"
+      },
+      "weapons": [
+        {
+          "nameId": "ShrineAuraMinionWeapon",
+          "isDisabled": false,
+          "range": 8,
+          "minimumRange": 0,
+          "period": 1,
+          "damage": 50,
+          "damageScale": 0,
+          "damageFactors": {
+            "MapCreature": 1,
+            "Merc": 1,
+            "Minion": 1,
+            "Structure": 1,
+            "Summoned": 1
+          }
+        }
+      ],
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": ":PASSIVE:|ShrineAuraMinionAura|Q",
+            "abilityId": ":PASSIVE:",
+            "buttonId": "ShrineAuraMinionAura",
+            "icon": "storm_temp_war3_btnunholyaura.png",
+            "abilityType": "Q"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "move|:NONE:|Hidden",
+            "abilityId": "move",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ShrineAuraMinionWeaponMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL315BLURBRVisionBlockedHeaven",
+    "value": {
+      "radius": 0.75,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 0,
+      "attributes": [
+        "AITargetableStructure",
+        "Structure"
+      ],
+      "life": {
+        "amount": 7000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL315BLURBRVisionBlockedHell",
+    "value": {
+      "radius": 0.75,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 0,
+      "attributes": [
+        "AITargetableStructure",
+        "Structure"
+      ],
+      "life": {
+        "amount": 7000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL315BLURTLVisionBlockedHeaven",
+    "value": {
+      "radius": 0.75,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 0,
+      "attributes": [
+        "AITargetableStructure",
+        "Structure"
+      ],
+      "life": {
+        "amount": 7000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL315BLURTLVisionBlockedHell",
+    "value": {
+      "radius": 0.75,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 0,
+      "attributes": [
+        "AITargetableStructure",
+        "Structure"
+      ],
+      "life": {
+        "amount": 7000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL315BRULBLVisionBlockedHeaven",
+    "value": {
+      "radius": 0.75,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 0,
+      "attributes": [
+        "AITargetableStructure",
+        "Structure"
+      ],
+      "life": {
+        "amount": 7000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL315BRULBLVisionBlockedHell",
+    "value": {
+      "radius": 0.75,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 0,
+      "attributes": [
+        "AITargetableStructure",
+        "Structure"
+      ],
+      "life": {
+        "amount": 7000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL315BRULTRVisionBlockedHeaven",
+    "value": {
+      "radius": 0.75,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 0,
+      "attributes": [
+        "AITargetableStructure",
+        "Structure"
+      ],
+      "life": {
+        "amount": 7000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL315BRULTRVisionBlockedHell",
+    "value": {
+      "radius": 0.75,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 0,
+      "attributes": [
+        "AITargetableStructure",
+        "Structure"
+      ],
+      "life": {
+        "amount": 7000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/WeaponRackSpecialHeaven",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "User1"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/WeaponRackSpecialHell",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "User1"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/WheresWeirdo",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "User1"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  }
+]

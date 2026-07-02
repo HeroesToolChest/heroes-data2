@@ -1,0 +1,72 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97449_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelDivinePurpose|YrelDivinePurpose|Trait",
+    "value": "Tiempo de reutilización: 12 segundos"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelAvengingWrathChannel|YrelAvengingWrath|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelAvengingWrathDivinePurpose|YrelAvengingWrath|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelAvengingWrath|YrelAvengingWrath|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelRighteousHammerChannel|YrelRighteousHammer|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelRighteousHammerDivinePurpose|YrelRighteousHammer|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelRighteousHammer|YrelRighteousHammer|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelVindicationCast|YrelVindication|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelVindication|YrelVindication|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/IllidanSweepingStrike|IllidanSweepingStrike|W",
+    "value": "Illidan se lanza hacia el punto objetivo e inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">119</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos que encuentra a su paso. Cuando golpea a un enemigo, el daño de ataque básico de Illidan aumenta un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c> durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> segundos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "Reduce el costo de maná de Sacudida de llamas de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Golpea a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60</c> héroes en llamas con Sacudida de llamas.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Golpear a un héroe en llamas con Sacudida de llamas reduce el tiempo de reutilización de Reina de los dragones <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> segundos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/IllidanMasteryBatteredAssaultSweepingStrike|IllidanSweepingStrikeBatteredAssaultTalent|W|Level1",
+    "value": "La duración de la bonificación de daño de ataque básico de Golpe ineludible aumenta de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> segundos. Si Golpe ineludible golpea a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> héroes su bonificación de daño aumenta de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c> a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">125%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/TalentOverdrive",
+    "value": "<s val=\"cbe8ff-ffffff\" hlt-name=\"StandardTooltipHeader\">Ultravelocidad</s><n/><s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Tiempo de reutilización: 25 segundos<n/><n/><s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Activo: </s><s val=\"8783e6\" hlt-name=\"StandardTooltip\">Aumenta el poder de las habilidades un 30% y los costos de maná de las habilidades un 50% durante 0 segundos.</s>"
+  }
+]

@@ -1,0 +1,2047 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97449_ptr"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AlarakTaldarimMarch/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AnubarakWings/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ArmoredHorseBrown/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ArmoredHorsePurple/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/AzmodanFireFeet/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BattleBeastBlue/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BattleBeastButcherGreen/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BattleBeastButcherYellow/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BattleBeastDark20Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BattleBeastDark20Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BattleBeastDark20Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BattleBeastDark20Var4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BattleBeastDark20Var5/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BattleBeastNexusOrange/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BattleBeastNexusPurple/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BattleBeastSaddledVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BattleBeastSaddledVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BattleBeastSaddledVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BattleBeastWarm/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BillieGoatBlue/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BillieGoatCelestial/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/BillieGoatPink/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CarpetGreen/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CarpetTeal/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CelestialHorse/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunArmoredHorseBrown/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunArmoredHorsePurple/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunCelestialHorse/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunHeadlessHorsemanHorseBlue/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunHeadlessHorsemanHorseRed/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunHorseAlmond/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunHorseBlack/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunHorseGrey/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunHorsePaint/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunHorsePattern/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunHorseRed/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunHorseTan/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunHorseUndead/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunHorseWhite/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunHorseZebra/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunIllidanHorseCrimson/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunIllidanHorseDark/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunInvisibleHorse/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunJudgementUtherHorseAzeroth/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunJudgementUtherHorsePurple/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunJudgementUtherHorseWhite/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunMalthaelsHerohorseGold/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunMalthaelsHerohorseRed/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunMalthaelsHerohorseVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunMarshallRaynorHorseBrown/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunMarshallRaynorHorseRed/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunMountDemonicHorseVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunMountDemonicHorseVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunMountHorseCraft20Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunMountHorseCraft20Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunMountHorseDead/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunMountHorseGhostInvisible/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunMountHorseGhostVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunMountHorseGhostVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunMountHorseGhostVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunMountHorseGhostVar4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunMountHorseToys19/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunMountRedHareVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunMountRedHareVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunMountWarhorseChess/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunMountWarhorseHGC18/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunMountWarhorseReverence19Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunMountWarhorseReverence19Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunNazeebraGreen/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunNazeebraRed/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunNexusChargerGold/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunNexusChargerOrange/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunNexusChargerViolet/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunRainbowUnicornGreen/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunRainbowUnicornOrange/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunRank17BaseVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunRank17BaseVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunRank17BaseVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunRank17BaseVar4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunRank17EpicVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunRank17EpicVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunRank17EpicVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunRank17EpicVar4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunSaddledHorse/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunTyraelsChargerBlue/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ChoGallRunTyraelsChargerWhite/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Cloud9NexagonVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Cloud9NexagonVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CountArthasMorphForm/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CountessKerriganBatForm/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CyberWolfBlack/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CyberWolfBronze/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CyberWolfGrey/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CyberWolfPlat/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CyberWolfYellow/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DiabloRun/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DiablosDoubloon/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DirewolfBrown/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DirewolfIronsidesBlue/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DirewolfIronsidesGold/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DirewolfWhite/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FelstalkerDemonVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FelstalkerDemonVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FelstalkerOrange/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FelstalkerPurple/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GoatBlack/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/GoatBrown/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HeadlessHorsemanHorseBlue/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HeadlessHorsemanHorseRed/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HearthstoneCardBrown/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HearthstoneCardMedivh/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HearthstoneCardRed/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HorseAlmond/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HorseBlack/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HorseGrey/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HorsePaint/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HorsePattern/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HorseRed/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HorseTan/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HorseWhite/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/HorseZebra/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/IllidanHorseCrimson/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/IllidanHorseDark/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/InvisibleHorse/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/JudgementUtherHorseAzeroth/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/JudgementUtherHorsePurple/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/JudgementUtherHorseWhite/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LionGreymaneVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LionGreymaneVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarDragonVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarDragonVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarDragonVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarFestivalRocketVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarFestivalRocketVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarFestivalRocketVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LunarFestivalRocketVar4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MalthaelsHerohorseGold/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MalthaelsHerohorseRed/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MalthaelsHerohorseVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MarauderMuradinJetpackForm/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MarshallRaynorHorseBrown/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MarshallRaynorHorseRed/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MechaTassadarMorphForm/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MoneyPigGreen/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MoneyPigPink/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MoneyPigVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountAntelopeRank18_00Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountAntelopeRank18_00Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountAntelopeRank18_01Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountAntelopeRank18_01Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountAzmodanMadAxe18/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountAzmodanMadAxe18Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountAzmodanMadAxe18Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBalloonDuckSummer20Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBalloonDuckSummer20Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBannerAzmodunkVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBannerAzmodunkVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBannerDorm18/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBannerKerriCheerVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBannerKerriCheerVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBannerKerriCheerVar5/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBattleBeastEsport17BaseVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBattleBeastEsport17BaseVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBattleBeastEsport17EpicVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBattleBeastEsport17EpicVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBattleBeastRankBaseVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBattleBeastRankBaseVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBattleBeastRankEpicVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBattleBeastRankEpicVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBattleBeastTriceratops_00Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBattleBeastTriceratops_00Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBattleBeastTriceratops_01Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBattleBeastTriceratops_01Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBearCelestial/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBearRank17BaseVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBearRank17BaseVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBearRank17EpicVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBearRank17EpicVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBearRank21S1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBearWarVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBearWarVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBottleVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountBottleVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountCatFireVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountCatFireVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountCatFireVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountCatFireVar4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountCatHauntedVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountCerberusMyth20Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountCerberusMyth20Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountCerberusMyth20Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountCerberusMyth20Var4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountCloudVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountCloudVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountCloudWhimsyVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountCloudWhimsyVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountCloudWhimsyVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountCloudWhimsyVar4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountCrabCelestial/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountCrabRank18BaseVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountCrabRank18BaseVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountCrabRank18EpicVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountCrabRank18EpicVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDeer_Rank16_00Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDeer_Rank16_00Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDeer_Rank16_01Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDeer_Rank16_01Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDemonicHorseVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDemonicHorseVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDirewolf_Esport17EpicVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDirewolf_Esport17EpicVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDirewolf_Esport17_00Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDirewolf_Esport17_00Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDirewolf_Rank15_00Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDirewolf_Rank15_00Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDirewolf_Rank15_01Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDirewolf_Rank15_01Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDirewolf_Rank15_01Var5/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDogArmy19Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDogArmy19Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDogBandage19Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDogFooVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDogFooVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDogFooVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDogFooVar4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDogSummer18Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDogSummer18Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDogSummer18Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDogSummer18Var4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDollarBillVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDollarBillVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountEyePadDark18Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountEyePadDark18Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountEyePadDark18Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountEyePadDark18Var4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountEyeVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountEyeVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountEyeVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountEyeVar4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountFenixBase/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountGoatBirthday19/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountGoatGuardian21Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountGoatGuardian21Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountGoatGuardian21Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHearthstoneCardCookieBiteVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHearthstoneCardCookieBiteVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHearthstoneCardCookieBiteVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHearthstoneCardCookieBiteVar4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHearthstoneCardSoapBarVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHearthstoneCardSoapBarVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHearthstoneCardSoapBarVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHeartVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHeartVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHellBillieVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHellBillieVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHorseCraft20Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHorseCraft20Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHorseDead/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHorseGhostInvisible/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHorseGhostVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHorseGhostVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHorseGhostVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHorseGhostVar4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHorseMyth20Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHorseMyth20Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHorseMyth20Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHorseMyth20Var4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHorseToys18Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHorseToys18Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHorseToys18Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHorseToys18Var4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHorseToys18Var5/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHorseToys18Var6/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountHorseToys19/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountKelThuzadWake/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountKelThuzadWakeVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountKelThuzadWakeVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountLionToys18Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountLionToys18Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountLionToys18Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountLionToys18Var4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountLion_Rank16_00_Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountLion_Rank16_00_Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountLion_Rank16_00_Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountLion_Rank16_00_Var4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountLion_Rank16_00_Var5/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountLion_Rank16_01_Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountLion_Rank16_01_Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountLion_Rank16_01_Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountLion_Rank16_01_Var4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountLion_Rank16_01_Var5/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountMeatWagonVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountMeatWagonVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountMeatWagonVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountMephistoBase/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountMonoWheelMadAxe19Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountMonoWheelMadAxe19Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountMouseSummer20Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountMouseSummer20Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountNexagonFAL16/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountNexagonMadAxe18Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountNexagonMadAxe18Var4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountNexagonMadAxe18Var5/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountNexagonMSB18/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountNexagonOverwatch/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountNexagonSpooky18Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountNexagonSpooky18Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountNexagonSpooky18Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountNexagonSPR16/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountNexagonSUM16/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountOwlSeekerAltered20Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountOwlSeekerAltered20Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountPigFelVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountPigFelVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountPigNexus/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountPigPinataVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountPigPinataVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountPigPinataVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountPigPinataVar4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountPigSpring19Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountPigSpring19Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountPigSpring19Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountPigSpring19Var4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountPig_Rank18_00Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountPig_Rank18_00Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountPig_Rank18_00Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountPig_Rank18_00Var4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountPig_Rank18_01Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountPig_Rank18_01Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountPig_Rank18_01Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountPig_Rank18_01Var4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountPlushSheepToys21Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountPlushSheepToys21Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountPlushSheepToys21Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRaccoonMobster19Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRaccoonMobster19Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRaccoonMobster19Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRaccoonMobster19Var4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRaccoonMobster19Var5/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRagnarosWake/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRagnarosWakeVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRagnarosWakeVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRamCyberVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRamCyberVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRamCyberVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRamWCAV_00Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRamWCAV_01Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRamWCAV_01Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRank17BaseHorseVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRank17BaseHorseVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRank17BaseHorseVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRank17BaseHorseVar4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRank17EpicHorseVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRank17EpicHorseVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRank17EpicHorseVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRank17EpicHorseVar4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRaptorCelestial/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRaptorOrgrimmar/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRaptor_Rank17_00Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRaptor_Rank17_00Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRaptor_Rank17_01Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRaptor_Rank17_01Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRavenVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRavenVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountReaverVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountReaverVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRedHareVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRedHareVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRoosterLunar/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRoosterLunar19Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRoosterLunar19Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountRoosterLunarVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSheepCraft20Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSheepCraft20Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSheepCraft20Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSheepCraft20Var4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSheepCraft20Var5/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSnakeCelestial/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSnakeVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSnakeVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSnowflakeVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSnowflakeVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSnowflakeVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSnowflakeVar4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpeederBikeBuggyVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpeederBikeBuggyVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpeederBikeOniVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpeederBikeOniVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpeederBikeOniVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpeederBikeOniVar4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpeederBikeOniVar5/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpeederBikeOniVar6/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpeederBikePoliceVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpeederBikePoliceVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpeederBikeRoadVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpeederBikeRoadVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpeederBikeRoadVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpeederBikeRoadVar4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpeederBikeSidecar19Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpeederBikeSidecar19Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpeederBikeSidecar19Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpeederBikeSidecar19Var4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpeederBikeSidecar19Var5/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpeederBikeVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpeederBikeVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpeederBikeVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpiderEnforcerVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpiderEnforcerVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpiderEnforcerVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSpiderEnforcerVar4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSurfboardBiteVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSurfboardBiteVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSurfboardBiteVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSurfboardBiteVar4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSurfboardCelestial/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSurfboardVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSurfboardVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSurfboardVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSurfboardVar4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSurfMecha19Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSurfMecha19Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSurfMecha19Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSurfMecha19Var4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSurfMecha19Var5/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSurfNexusShark/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSurfRedPocketLunar20/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSurfShark18Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSurfShark18Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountSurfShark18Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountTigerAltered20Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountTigerAltered20Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountTigerNexusVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountTigerNexusVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountTigerRoyal/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountTracerBikeOWC20Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountTracerBikeOWC20Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountTrainEngineToys19Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountTrainEngineToys19Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountTrainEngineToys19Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountTrainEngineToys19Var4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountTrainEngineToys19Var5/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountTurtleRankSpr19BaseVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountTurtleRankSpr19BaseVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountTurtleRankSpr19EpicVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountTurtleRankSpr19EpicVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountVultureCraft20Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountVultureCraft20Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountVultureCraft20Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountVultureCraft20Var4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountVultureCraft20Var5/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountVultureCraft20Var6/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountWarhorseAnniversary/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountWarhorseChess/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountWarhorseHGC18/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountWarhorseReverence19Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountWarhorseReverence19Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountWhitemaneCat/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountWolfDark18Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountWolfDark18Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountWolfDark18Var3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountWolfDark18Var4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountWolfWCAV_00Var4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountWolfWCAV_01Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountWolfWCAV_01Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountZerglingVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountZerglingVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NazeebraGreen/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NazeebraRed/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NexusChargerGold/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NexusChargerOrange/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NexusChargerViolet/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/RainbowUnicornGreen/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/RainbowUnicornOrange/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Random/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ReignDeerFel/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ReignDeerHorde/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ReignDeerIce17/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ReignDeerVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SaddledHorse/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SpectreBikeVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SpectreBikeVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SpeederBikeHellfireVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SpeederBikeHellfireVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SpeederBikeHellfireVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SpiderMountBlack/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SpiderMountRed/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StarbreakerVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StarbreakerVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StarChariotVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/StarChariotVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TigerGoldChrome/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TigerGoldObsidian/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TigerLunarBlue/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TigerLunarGreen/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TreasureGoblinPurple/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TreasureGoblinVar3/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TreasureGoblinWhite/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TreasureGoblinWinter/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TyraelMechaJetpackForm/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TyraelsChargerBlue/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TyraelsChargerWhite/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/VoidSpeederBlue/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/VoidSpeederPurple/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/VultureArmy18Var1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/VultureArmy18Var2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/VultureArmy18Var4/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/VultureBaseVar1/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/VultureBaseVar2/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ZagaraWings/variationMountIds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ZergDoubloon/variationMountIds"
+  }
+]

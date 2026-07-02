@@ -1,0 +1,11 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97449_ptr"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MercCampBannerSconceDummyVeterancy/veterancyLevels"
+  }
+]

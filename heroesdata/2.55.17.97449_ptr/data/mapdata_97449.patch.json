@@ -1,0 +1,59 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97449_ptr"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Deadman's Stand/mapObjectives/0/icons"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Deadman's Stand/mapObjectives/1/icons"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Deadman's Stand/mapObjectives/2/icons"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Deadman's Stand (Heroic)/mapObjectives/0/icons"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Deadman's Stand (Heroic)/mapObjectives/1/icons"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Deadman's Stand (Heroic)/mapObjectives/2/icons"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Escape From Braxis/mapObjectives/0/icons"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Escape From Braxis/mapObjectives/1/icons"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Escape From Braxis/mapObjectives/2/icons"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Escape From Braxis (Heroic)/mapObjectives/0/icons"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Escape From Braxis (Heroic)/mapObjectives/1/icons"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Escape From Braxis (Heroic)/mapObjectives/2/icons"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Warhead Junction/mapObjectives"
+  }
+]
