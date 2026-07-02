@@ -19,16 +19,16 @@ In the `heroesdata` directory, a `.version.json` file contains the following:
 ```json5
 {
   // The latest version directory
-  "latest": "2.55.16.97039",
+  "latest": "2.55.17.97407_ptr",
   // The latest version directory that contains the "full" JSON files
   // Will be an equal or lower version than "latest"
-  "latest-full": "2.55.16.96881",
+  "latest-full": "2.55.16.97039",
   // The UTC datetime of the latest version extracted
-  "date": "2026-05-11T15:49:11.608384+00:00",
+  "date": "2026-07-02T01:29:58.4061443+00:00",
   // An array of the version directories (in order)
   "versions": [
-    "2.55.16.96881",
-    "2.55.16.97039"
+    "2.55.16.97039",
+    "2.55.17.97407_ptr"
   ]
 }
 ```
@@ -40,13 +40,13 @@ In the version directories, a `.hdp.json` file contains the following:
   "hdp": "5.0.0",
   // The type of the base JSON files: "full" or "patch"
   "json": "patch",
-  // If true, then this directory contains the data and gamestrings files
-  "extracted": true,
   // If "json" is "patch", the prior version directory that the base JSON patch files depend on in order to be rebuilt into "full" JSON files
-  "depends-on": "2.55.16.96881",
+  "depends-on": "2.55.16.97039",
   // If "json" is "patch", the version directory containing the "full" JSON files used as the starting point for rebuilding the "full" JSON files
   // Will be an equal or lower version than "depends-on"
-  "root-version": "2.55.16.96881",
+  "root-version": "2.55.16.97039",
+  // If true, then this directory contains the data and gamestrings files
+  "extracted": true,
   // The files that are in this directory
   "files": {
     ...
