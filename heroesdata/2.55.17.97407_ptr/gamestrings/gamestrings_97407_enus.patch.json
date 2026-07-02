@@ -1,0 +1,635 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97407_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/:PASSIVE:|YrelDivinePurposeActive|Trait",
+    "value": "Cooldown: 16 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/AbathurLocustSwarm|AbathurLocustSwarm|Active",
+    "value": "Cooldown: 75 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/AlexstraszaDragonqueen|AlexstraszaDragonqueen|Trait",
+    "value": "Cooldown: 130 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/CrusaderBlessedShield|CrusaderBlessedShield|Heroic",
+    "value": "Cooldown: 65 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/CrusaderShieldGlare|CrusaderShieldGlare|E",
+    "value": "Cooldown: 13 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/FirebatBunkerDrop|FirebatBunkerDrop|Heroic",
+    "value": "Cooldown: 85 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagExplosiveRune|RagnarosBigRagExplosiveRune|E",
+    "value": "Cooldown: 2.5 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagMeteorShower|RagnarosBigRagMeteorShower|W",
+    "value": "Cooldown: 6 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagMoltenSwing|RagnarosBigRagMoltenSwing|Q",
+    "value": "Cooldown: 9 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagSulfurasSmash|RagnarosSulfurasSmash|Heroic",
+    "value": "Cooldown: 1 second"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosMoltenCore|RagnarosMoltenCore|Trait",
+    "value": "Cooldown: 180 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosSulfurasSmash|RagnarosSulfurasSmash|Heroic",
+    "value": "Cooldown: 1 second"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/WhitemaneIntercession|WhitemaneIntercession|Active",
+    "value": "Cooldown: 60 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelDivinePurpose|YrelDivinePurpose|Trait",
+    "value": "Cooldown: 16 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelHandOfFreedom|YrelHandOfFreedom|Active",
+    "value": "Cooldown: 40 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelSeraphim|YrelSeraphim|Active",
+    "value": "Cooldown: 20 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|WitchDoctorVoodooRitualTrait|Trait",
+    "value": "Nazeebo's Basic Attacks and Abilities poison Non-Heroic enemies, causing them to take <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> additional damage over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> seconds. <n/><n/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> If a Minion dies while poisoned by Voodoo Ritual, Nazeebo permanently gains <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> Health and <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> Mana."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|YrelDivinePurposeActive|Trait",
+    "value": "Activate to instantly charge Yrel's next Basic Ability at no mana cost. Divine Purpose's cooldown is reduced by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> seconds if Stunned or Silenced while charging her skills.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Passive:</c> Yrel's Basic Abilities charge up over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> seconds, increasing in effectiveness, but reducing Yrel's Movement Speed by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AbathurSpawnLocusts|AbathurLocustStrain|Q",
+    "value": "Spawns a Locust to attack down the nearest lane every <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> seconds.  Locusts heal for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> of the damage they deal, and regain <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> of their Maximum health when a nearby minion dies.<n/><n/>Locusts lose health over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">17</c> seconds, have <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">225</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> health and deal <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">58</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage with each Basic Attack, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> bonus damage to enemy Structures."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AbathurSpawnLocusts|AbathurLocustStrain|Trait",
+    "value": "Spawns a Locust to attack down the nearest lane every <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> seconds.  Locusts heal for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> of the damage they deal, and regain <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> of their Maximum health when a nearby minion dies.<n/><n/>Locusts lose health over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">17</c> seconds, have <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">225</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> health and deal <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">58</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage with each Basic Attack, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> bonus damage to enemy Structures."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaBreathOfLife|AlexstraszaBreathOfLife|Q",
+    "value": "Heal an allied Hero for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> of Alexstrasza's current Health.<n/><n/>Breath of Life is also empowered by Gift of Life Talents."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaPreservation|AlexstraszaPreservation|W",
+    "value": "Plant a seed of healing that blooms after <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds, healing nearby allied Heroes for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> of their maximum Health.<n/><n/>Preservation is also empowered by Abundance Talents."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasPathofFrost|ArthasPathofFrost|Active",
+    "value": "Activate to instantly mount with <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140%</c> minimum Movement Speed. Taking damage does not dismount Arthas from this Mount. Lasts up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> seconds.<n/><n/>When Arthas dismounts, Slow all nearby enemies by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds and deal <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloFireStomp|DiabloFireStomp|W",
+    "value": "Unleashes fire waves toward the targeted area that deal <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">11</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage each. Once they reach maximum range they return, dealing an additional <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">34</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage. Diablo heals for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">130%</c> of the damage dealt to Heroes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloOverpower|DiabloOverpower|E",
+    "value": "Grabs the target and slams it behind Diablo, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage and Stunning for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloShadowCharge|DiabloShadowCharge|Q",
+    "value": "Charge an enemy, knocking them back, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage and gaining <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> Movement Speed for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds. If the enemy hits terrain, they are Stunned for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> second and take an additional <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloTalentLordOfTerror|DiabloLordOfTerror|Active",
+    "value": "Activate to steal <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12%</c> of the maximum Health of nearby enemy Heroes and gain <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> Souls per Hero hit."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/FirebatAdrenalineStimpack|FirebatAdrenalineStimpack|Active",
+    "value": "<c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Passive:</c> While over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80%</c> Health, gain <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> bonus Attack Speed and <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c> bonus Movement Speed.<n/><n/>Activate to gain <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85%</c> Attack Speed and <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> Movement Speed for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/IllidanSweepingStrike|IllidanSweepingStrike|W",
+    "value": "Dash towards target point, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">119</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to enemies along the way. Hitting an enemy increases Illidan's Basic Attack damage by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/NexusHunterBloodRage|NexusHunterBloodRage|W",
+    "value": "Qhira deals <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">32</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage and heals for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Health per enemy Hero affected. Damage and healing is increased by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> per each additional stack on that Hero.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Passive:</c> Basic Attack and Ability damage cause enemies to bleed for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">32</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> seconds. Stacks <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> times.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Damage enemy Heroes with Blood Rage's bleed damage to permanently increase its damage by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.24%</c>. <n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> After damaging Heroes with Blood Rage's bleed damage <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">150</c> times, Blood Rage's duration is increased by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagExplosiveRune|RagnarosBigRagExplosiveRune|E",
+    "value": "Create a rune that erupts after <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> and sets enemies on fire, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">22</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage per second for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagMeteorShower|RagnarosBigRagMeteorShower|W",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">Vector Targeting</c><n/>Summon <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> meteors at the target point that fall in the target direction. Each meteor deals <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage and Slows enemies by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c> for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagMoltenSwing|RagnarosBigRagMoltenSwing|Q",
+    "value": "Swing Sulfuras in a wide arc, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage and Stunning enemies for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> second."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagSulfurasSmash|RagnarosSulfurasSmash|Heroic",
+    "value": "Hurl Sulfuras at the target area, landing after <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75</c> seconds, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage. Enemies in the center take <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">594</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage instead and are Stunned for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> seconds.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Hit <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> enemy Heroes in the center.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Mythic Reward:</c> Sulfuras Smash gains an additional charge."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBlastWave|RagnarosBlastWave|E",
+    "value": "Ignite Ragnaros or an ally, granting <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> Movement Speed for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> seconds before exploding dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">120</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to nearby enemies.<n/><n/><c val=\"D65CFF\" hlt-name=\"#ColorViolet\">Molten Core: Explosive Rune</c><n/>Cause a delayed explosion in a large area."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosMoltenCore|RagnarosMoltenCore|Trait",
+    "value": "Channel on an allied or destroyed Fort or Keep to replace it with Ragnaros's ultimate form, temporarily gaining new Abilities, having <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5000</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Health that burns away over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">23</c> seconds.  Ragnaros's ability ranges increase over the duration of Molten Core.<n/><n/>Ragnaros returns to his normal form but is Stunned for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> second upon losing all Health in Molten Core."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosSulfurasSmash|RagnarosSulfurasSmash|Heroic",
+    "value": "Hurl Sulfuras at the target area, landing after <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75</c> seconds, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage. Enemies in the center take <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">594</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage instead and are Stunned for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> seconds.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Hit <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> enemy Heroes in the center.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Mythic Reward:</c> Sulfuras Smash gains an additional charge."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/WhitemaneGuidingLight|WhitemaneGuidingLight|Active",
+    "value": "Activate to cast a permanent <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">Zeal</c> on an allied Hero that costs no Mana and doesn't grant <c val=\"FF8B8B\" hlt-name=\"#WhitemaneDesperation\">Desperation</c>. Only one can be active at a time and has global cast range.<n/><n/>Increases the Spell Power bonus provided by Whitemane's trait by 15%."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/WhitemaneSearingLash|WhitemaneSearingLash|E",
+    "value": "After <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> seconds, smite enemies in a straight line for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">82</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage.<n/><n/>If the first strike hits an enemy Hero, a second strike will occur after a short delay.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Repeatable Quest:</c> Hit Heroes with Searing Lash.<n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Repeatable Quest:</c> Hit <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> Heroes with Basic Attacks.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> Permanently increase Whitemane's maximum Health by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> and Mana by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>. Heroes hit with the second strike of Searing Lash count as <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> hits."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelAvengingWrathChannel|YrelAvengingWrath|E",
+    "value": "Leap to a location, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to enemies in an area and Slowing them by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> second.<n/><n/>Charging up this Ability increases its range."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelAvengingWrathDivinePurpose|YrelAvengingWrath|E",
+    "value": "Leap to a location, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to enemies in an area and Slowing them by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> second.<n/><n/>Charging up this Ability increases its range."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelAvengingWrath|YrelAvengingWrath|E",
+    "value": "Leap to a location, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to enemies in an area and Slowing them by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> second.<n/><n/>Charging up this Ability increases its range."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelDivinePurpose|YrelDivinePurpose|Trait",
+    "value": "Activate to instantly charge Yrel's next Basic Ability at no mana cost. Divine Purpose's cooldown is reduced by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> seconds if Stunned or Silenced while charging her skills.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Passive:</c> Yrel's Basic Abilities charge up over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> seconds, increasing in effectiveness, but reducing Yrel's Movement Speed by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelHandOfFreedom|YrelHandOfFreedom|Active",
+    "value": "Grant an allied Hero <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> Movement Speed for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds and remove all Slows and Roots from them."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelRighteousHammerChannel|YrelRighteousHammer|W",
+    "value": "Swing Yrel's hammer, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to enemies in front of her and knocking them away.<n/><n/>Charging up this Ability increases its knockback distance, and damage up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>. Enemies hit at maximum charge are Stunned for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelRighteousHammerDivinePurpose|YrelRighteousHammer|W",
+    "value": "Swing Yrel's hammer, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to enemies in front of her and knocking them away.<n/><n/>Charging up this Ability increases its knockback distance, and damage up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>. Enemies hit at maximum charge are Stunned for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelRighteousHammer|YrelRighteousHammer|W",
+    "value": "Swing Yrel's hammer, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to enemies in front of her and knocking them away.<n/><n/>Charging up this Ability increases its knockback distance, and damage up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>. Enemies hit at maximum charge are Stunned for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelVindicationCast|YrelVindication|Q",
+    "value": "Unleash holy energy around Yrel, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">48</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to nearby enemies and healing her for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">111</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>.<n/><n/>Charging up this Ability increases its damage up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>, and healing up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">370</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelVindication|YrelVindication|Q",
+    "value": "Unleash holy energy around Yrel, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">48</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to nearby enemies and healing her for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">111</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>.<n/><n/>Charging up this Ability increases its damage up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>, and healing up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">370</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/ValeeraCancelStealth|ValeeraCancelStealth|Trait",
+    "value": "Cancels Stealth."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/cooldownText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/CrusaderHeroicAbilityBlessedShield|CrusaderBlessedShield|Heroic|Level10",
+    "value": "Cooldown: 65 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/FirebatHeroicAbilityBunkerDrop|FirebatBunkerDrop|Heroic|Level10",
+    "value": "Cooldown: 85 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/RagnarosSulfurasSmash|RagnarosSulfurasSmash|Heroic|Level10",
+    "value": "Cooldown: 1 second"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/WhitemaneIntercession|WhitemaneIntercession|Active|Level7",
+    "value": "Cooldown: 60 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/YrelHandOfFreedom|YrelHandOfFreedom|Active|Level4",
+    "value": "Cooldown: 40 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/YrelSeraphim|YrelSeraphim|Active|Level20",
+    "value": "Cooldown: 20 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/cooldownText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "Cooldown: 75 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurCombatStyleBombardStrain|AbathurLocustStrainBombardStrainTalent|Trait|Level13",
+    "value": "Locust's Basic Attacks become a long-range siege attack and they now lose health <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> more slowly."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurMasteryEnvenomedNestsToxicNest|AbathurToxicNestEnvenomedNestTalent|W|Level1",
+    "value": "Toxic Nests deal <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c> more damage over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds and reduce the Armor of enemy Heroes hit by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaAncientFlameFlameBuffet|AlexstraszaAncientFlameFlameBuffet|Trait|Level20",
+    "value": "While Dragonqueen is active, Alexstrasza's Basic Attacks apply Flame Buffet. This does not grant quest stacks."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaDraconicDisciplineDragonqueen|AlexstraszaDraconicDisciplineDragonqueen|Trait|Level16",
+    "value": "Increase Dragonqueen Basic Attack healing by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\"> 50%</c>. For each allied Hero healed with Dragonqueen Basic Attacks, reduce Preservation's cooldown by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "Reduce the Mana cost of Flame Buffet from <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Hit Burning enemy Heroes with Flame Buffet. <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> hits unlocks a Mythic Quest.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> After hitting <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> Heroes, hitting a Burning enemy Hero with Flame Buffet reduces Dragonqueen's cooldown by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> seconds.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Mythic Quest:</c> After hitting <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> more Heroes without dying, Dragonqueen damage against Heroes refreshes its duration."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaLifeblossomGiftOfLife|AlexstraszaLifeblossomeGiftOfLife|Q|Level7",
+    "value": "While above <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c> Health, casting Gift of Life creates a Lifeblossom at the target's location, Breath of Life instead removes Slows and Roots from the target.<n/><n/>After collecting a Lifeblossom, the next Gift of Life costs no Health.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Passive:</c> Reduces the cost of Gift of Life to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c> of Alexstrasza's current Health."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaLiveAndLetLiveGiftOfLife|AlexstraszaLiveAndLetLiveGiftOfLife|Q|Level1",
+    "value": "While above <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c> Health, Gift of Life's cooldown recharges <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">125%</c> faster.<n/><n/><c val=\"D65CFF\" hlt-name=\"#ColorViolet\">Dragonqueen:</c> While above <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c> Health, Breath of Life's cooldown recharges <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> faster."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaOnRubyWingsCleansingFlame|AlexstraszaOnRubyWingsCleansingFlame|Heroic|Level20",
+    "value": "Healing or damaging <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> or more Heroes with a single Cleansing Flame fireball causes that fireball to not be consumed."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AnubarakMasteryLeechingScarabs|AnubarakLeechingMandiblesTalent|Trait|Level7",
+    "value": "Beetles attacks deal <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> more damage and heal Anub'arak <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> of damage dealt if he is nearby."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArthasPathofFrost|ArthasPathofFrost|Active|Level20",
+    "value": "Activate to instantly mount with <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140%</c> minimum Movement Speed. Taking damage does not dismount Arthas from this Mount. Lasts up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> seconds.<n/><n/>When Arthas dismounts, Slow all nearby enemies by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds and deal <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChoCallousedHide|ChoCallousedHide|Trait|Level1",
+    "value": "While under <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c> maximum Health, Cho gains <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> increased Movement Speed and healing received."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChoFirestarter|ChoFirestarter|W|Level7",
+    "value": "Basic Attacks against ignited Heroes decreases the cooldown of Consuming Blaze by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> second.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Passive:</c> Reduce the cooldown of Consuming Blaze by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds. "
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieDragonsBreathDeepBreathing|ChromieDragonsBreathDeepBreathing|W|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Every time Dragon's Breath hits a Hero increase its damage by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5%</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> After hitting <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> Heroes, reduce the cooldown of Dragon's Breath by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> seconds and its Mana cost from <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65</c> to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieSandBlastOnceAgainTheFirstTime|ChromieSandBlastOnceAgaintheFirstTime|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Hit <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> Heroes with Sand Blast from Chromie or her Echoes without dying.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> Increase the maximum number of active Echoes to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>, and increase Echo damage to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieTimeTrapChronicConditions|ChromieTimeTrapChronicConditions|E|Level4",
+    "value": "Time Trap will activate on enemy Heroes automatically.<After its Time Stop ends, enemies affected by Time Trap are Slowed by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds and allies gain <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> Movement Speed for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DiabloDiabolicalMomentum|DiabloDiabolicalMomentum|Passive|Level7",
+    "value": "When Diablo's Basic Attacks damage enemies, reduce the cooldown of Shadow Charge and Overpower by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DiabloMasteryDyingBreathApocalypse|DiabloApocalypseDyingBreathTalent|Heroic|Level20",
+    "value": "Apocalypse's cooldown is reduced by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c> seconds for every enemy Hero hit (to a minimum of <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> seconds) and is cast for free when Diablo dies."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DiabloTalentLordOfTerror|DiabloLordOfTerror|Active|Level20",
+    "value": "Activate to steal <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12%</c> of the maximum Health of nearby enemy Heroes and gain <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> Souls per Hero hit."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/FirebatAdrenalineStimpack|FirebatAdrenalineStimpack|Active|Level1",
+    "value": "<c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Passive:</c> While over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80%</c> Health, gain <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> bonus Attack Speed and <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c> bonus Movement Speed.<n/><n/>Activate to gain <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85%</c> Attack Speed and <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> Movement Speed for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallBombsAway|GallBombsAwayTalent|E|Level4",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Damaging a Hero with Runic Blast increases its damage by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> After damaging <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> Heroes, the range and speed of Cho's Rune Bomb is increased by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallLeadenOrb|GallLeadenOrb|W|Level16",
+    "value": "Dread Orb Stuns enemy Heroes for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.6</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallRisingDread|GallRisingDreadTalent|W|Level4",
+    "value": "Each bounce of Dread Orb increases its radius by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> and damage by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>. Activate Dread Orb before the second bounce ends to reverse the direction of the third bounce."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiCyberAgilityPathfinder|GenjiCyberAgilityPathfinder|Trait|Level1",
+    "value": "Jumping over terrain with Cyber Agility increases Movement Speed by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c>, and grants Stealth, for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> seconds.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Passive:</c> Genji's Heroic Ability heals him for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c> of the damage dealt to enemy Heroes, increasing up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> the lower Genji's Health is."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiDeflectPerfectDefense|GenjiDeflectPerfectDefense|W|Level7",
+    "value": "Deflected damage reduces the cooldown of Deflect by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds, up to a maximum of <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeFinalCut|GenjiSwiftStrikeFinalCut|E|Level16",
+    "value": "After <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> second, Swift Strike deals an additional <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">115</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to all enemies in the area."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeFlowLikeWater|GenjiSwiftStrikeFlowLikeWater|E|Level13",
+    "value": "Each enemy Hero hit with Swift Strike reduces its cooldown by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeStrikeAtTheHeart|GenjiSwiftStrikeStrikeAtTheHeart|E|Level4",
+    "value": "Enemies hit by the end of Swift Strike take an additional <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">142</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage after <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> second."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeSwiftAsTheWind|GenjiSwiftStrikeSwiftAsTheWind|E|Level1",
+    "value": "Hitting an enemy Hero with Swift Strike increases Genji's Movement Speed by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c> for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/IllidanMasteryBatteredAssaultSweepingStrike|IllidanSweepingStrikeBatteredAssaultTalent|W|Level1",
+    "value": "Increase Sweeping Strike's Basic Attack damage bonus duration from <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> seconds. If Sweeping Strike hits <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> Heroes its damage bonus is increased from <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisFelClawsWillOfTichondrius|MalGanisFelClawsWillOfTichondrius|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Hit Heroes with Fel Claws to permanently increase Fel Claw's damage by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c>.<n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Hit <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> Heroes in the first 2 slashes to cause the final slash to increase damage by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> Upon gaining <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> bonus damage, the final Stun is increased by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c> seconds and the final slash steals <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4%</c> of enemy Hero Health."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/NexusHunterFatalWounds|NexusHunterFatalWounds|W|Level1",
+    "value": "While at maximum stacks, Blood Rage's bleed deals <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> additional damage to enemy Heroes under <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> Health."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosBlastWaveEngulfingFlame|RagnarosBlastWaveEngulfingFlame|E|Level1",
+    "value": "Increase Blast Wave's damage by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> and its radius by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosLavaWaveLavaSurge|RagnarosLavaWaveLavaSurge|Heroic|Level20",
+    "value": "Lava Wave gains an additional charge and causes allied Minions and Mercenaries to be carried with it."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "Molten Core's range is increased by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> at the start of its duration.  In addition, the cooldown of Molten Core is reduced by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">110</c> seconds when used on a destroyed Fort or Keep."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosSulfurasSmash|RagnarosSulfurasSmash|Heroic|Level10",
+    "value": "Hurl Sulfuras at the target area, landing after <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75</c> seconds, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage. Enemies in the center take <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">594</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage instead and are Stunned for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> seconds.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Hit <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> enemy Heroes in the center.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Mythic Reward:</c> Sulfuras Smash gains an additional charge."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WhitemaneGuidingLight|WhitemaneGuidingLight|Active|Level20",
+    "value": "Activate to cast a permanent <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">Zeal</c> on an allied Hero that costs no Mana and doesn't grant <c val=\"FF8B8B\" hlt-name=\"#WhitemaneDesperation\">Desperation</c>. Only one can be active at a time and has global cast range.<n/><n/>Increases the Spell Power bonus provided by Whitemane's trait by 15%."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WhitemaneInquisitorsPrayer|WhitemaneInquisitor'sPrayer|E|Level1",
+    "value": "Hitting a hero with Searing Lash restores <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25 mana</c>.  In addition, the duration of <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">Zeal</c> is increased by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WhitemaneZealPityTheFrail|WhitemaneZealPityTheFrail|W|Level1",
+    "value": "For every Hero hit with Searing Lash, lower the cooldown of Inquisition by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> seconds. Allies below <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> Health receive <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> more healing from Whitemane."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WhitemaneZealScarletWrath|WhitemaneZealScarletWrath|Trait|Level13",
+    "value": "Basic Attacks against Heroes increase the duration of all active <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">Zeals</c> by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75</c> seconds, restore <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">%</c> Mana to all <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">Zeal</c> targets, and lower the cooldown of <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">Zeals</c> activation by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WitchDoctorVileInfection|WitchDoctorVileInfection|Trait|Level20",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Reach <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175</c> stacks of Voodoo Ritual.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> After reaching <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175</c> stacks of Voodoo Ritual, it can also be applied to Heroes and its damage is increased from <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">165</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelHandOfFreedom|YrelHandOfFreedom|Active|Level4",
+    "value": "Grant an allied Hero <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> Movement Speed for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds and remove all Slows and Roots from them."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelRighteousHammerRighteousMomentum|YrelRighteousHammerRighteousMomentum|W|Level7",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Hit enemy Heroes with a fully charged Righteous Hammer.  This quest cannot be started until all previously selected quests are complete.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> Upon hitting 10 Heroes, gain <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c> Movement Speed. Yrel is no longer Slowed while Channeling Righteous Hammer, and instead this bonus is quadrupled."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationAldorPeacekeeper|YrelVindicationAldorPeacekeeper|Q|Level13",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Hit at least 2 Heroes with a maximum charge Light of Karabor, one of which must be an enemy.  This quest cannot be started until all previously selected quests are complete.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> After hitting multiple Heroes 10 times, Enemy Heroes hit by Vindication at maximum charge deal <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c> less damage for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Mythic Reward:</c> If Yrel completes all 3 of her Quests, reduce the charge time of all of her Basic Abilities by 50%."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationLightOfKarabor|YrelVindicationLightOfKarabor|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Collect Regeneration Globes.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> Upon collecting 10 Globes, increase Vindication's radius by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> Upon collecting 20 Globes, hitting an enemy Hero increases Vindication's healing by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45%</c>. If more than one Hero is hit, the bonus is increased to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90%</c>.<n/>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "Activate to spawn <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> Locusts at a nearby location."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "Increases Locust's Health by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200%</c> and damage by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": "Abathur's Basic Attacks now Stun non-Heroic enemies and deal <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500%</c> damage."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level1"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "Locust Brood"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "Survival Instincts"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": "Slapathur"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/AlexstraszaDraconicDisciplineDragonqueen|AlexstraszaDraconicDisciplineDragonqueen|Trait|Level16",
+    "value": "Dragonqueen Attacks restore more Health"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "<c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Lower Dragonqueen cooldown, last forever"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/AlexstraszaOnRubyWingsCleansingFlame|AlexstraszaOnRubyWingsCleansingFlame|Heroic|Level20",
+    "value": "Hitting multiple Heroes extends Cleansing Flame"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/ChromieTimeTrapChronicConditions|ChromieTimeTrapChronicConditions|E|Level4",
+    "value": "Time Trap auto-triggers, affects enemy/allied Move Speed"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/NexusHunterFatalWounds|NexusHunterFatalWounds|W|Level1",
+    "value": "Increase Blood Rage damage to low health enemies"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/RagnarosLavaWaveLavaSurge|RagnarosLavaWaveLavaSurge|Heroic|Level20",
+    "value": "Lava Wave has two charges, speeds up waves"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "Enhances Molten Core range, cooldown"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/WhitemaneInquisitorsPrayer|WhitemaneInquisitor'sPrayer|E|Level1",
+    "value": "Searing Lash restores mana, bonus Zeal duration"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/ZagaraMasteryInfest|ZagaraInfest|Active|Level1",
+    "value": "<c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Increase nearby Ranged Minion damage"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "Spawn a group of Locusts"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "Increases Locust Health and damage"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": "Basic attacks Stun, deal bonus damage"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/lifeType/AbathurEvolvedMonstrosity",
+    "value": "Health"
+  }
+]

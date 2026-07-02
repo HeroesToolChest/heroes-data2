@@ -1,0 +1,102 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Blackheart's Revenge"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|DeathwingHearthstone|B",
+    "value": "Dopo un incanalamento di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4.5</c> s, teletrasporta l'eroe nella Sala delle Tempeste."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneBrew|B",
+    "value": "Teletrasporta l'eroe all'Altare, rigenerando all'istante tutta la Salute e la Birra."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneNoMana|B",
+    "value": "Teletrasporta l'eroe all'Altare, rigenerando all'istante tutta la Salute."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|Hearthstone|B",
+    "value": "Teletrasporta l'eroe all'Altare, rigenerando all'istante tutta la Salute e il Mana."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/AttackCore|AttackCore|E",
+    "value": "Attacca il nucleo"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/CannonAttack|CannonAttack|W",
+    "value": "Attacco con cannoni"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/move|Move|W",
+    "value": "Muovi"
+  },
+  {
+    "op": "add",
+    "path": "/items/announcerPack/name/CommodoreFord",
+    "value": "Commodoro Ford"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/Boat",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Potente e resistente struttura. Infligge ingenti danni radiali e dispone di uno scudo che si rigenera quando non viene attaccata. Distruggere questa struttura porta la squadra alla vittoria.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AmmoCache",
+    "value": "Scorta di munizioni"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AttackCoreMissile",
+    "value": "Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Boat",
+    "value": "Nave"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Cannon",
+    "value": "Cannone"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/CannonAttackMissile",
+    "value": "Proiettile del cannone"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/CannonballMinimapIconUnit",
+    "value": "Palla di cannone"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ClickableChestEasterEggUnit",
+    "value": "Forziere cliccabile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TeleporterNeutral",
+    "value": "Teletrasporto"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TeleporterTeam",
+    "value": "Portale"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WheresWeirdo",
+    "value": "Unità strana"
+  }
+]

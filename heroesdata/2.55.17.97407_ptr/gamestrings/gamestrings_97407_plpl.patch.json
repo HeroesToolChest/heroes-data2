@@ -1,0 +1,525 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97407_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/:PASSIVE:|YrelDivinePurposeActive|Trait",
+    "value": "Czas odnowienia: 16 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/AbathurLocustSwarm|AbathurLocustSwarm|Active",
+    "value": "Czas odnowienia: 75 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/AlexstraszaDragonqueen|AlexstraszaDragonqueen|Trait",
+    "value": "Czas odnowienia: 130 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/CrusaderBlessedShield|CrusaderBlessedShield|Heroic",
+    "value": "Czas odnowienia: 65 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/CrusaderShieldGlare|CrusaderShieldGlare|E",
+    "value": "Czas odnowienia: 13 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/FirebatBunkerDrop|FirebatBunkerDrop|Heroic",
+    "value": "Czas odnowienia: 85 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagExplosiveRune|RagnarosBigRagExplosiveRune|E",
+    "value": "Czas odnowienia: 2.5 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagMeteorShower|RagnarosBigRagMeteorShower|W",
+    "value": "Czas odnowienia: 6 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagMoltenSwing|RagnarosBigRagMoltenSwing|Q",
+    "value": "Czas odnowienia: 9 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagSulfurasSmash|RagnarosSulfurasSmash|Heroic",
+    "value": "Czas odnowienia: 1 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosMoltenCore|RagnarosMoltenCore|Trait",
+    "value": "Czas odnowienia: 180 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosSulfurasSmash|RagnarosSulfurasSmash|Heroic",
+    "value": "Czas odnowienia: 1 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/WhitemaneIntercession|WhitemaneIntercession|Active",
+    "value": "Czas odnowienia: 60 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelDivinePurpose|YrelDivinePurpose|Trait",
+    "value": "Czas odnowienia: 16 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelHandOfFreedom|YrelHandOfFreedom|Active",
+    "value": "Czas odnowienia: 40 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelSeraphim|YrelSeraphim|Active",
+    "value": "Czas odnowienia: 20 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|WitchDoctorVoodooRitualTrait|Trait",
+    "value": "Ataki podstawowe i zdolności użyte przeciwko celom niebędącym bohaterami zatruwają je i powodują, że otrzymują one dodatkowo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><w> pkt. obrażeń w ciągu </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c><w> sek. </w><n/><n/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Zadanie:</c><w> Jeśli stronnik zginie pod wpływem zatrucia przez Rytuał Voodoo, Nazebo zyskuje na stałe </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c><w> pkt. zdrowia i </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c><w> pkt. many.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AbathurEvolveMonstrosity|AbathurEvolveMonstrosityHotbar|Heroic",
+    "value": "Przeistacza sojuszniczego stronnika lub Szarańczę w Potworność. Wrodzy stronnicy ginący w pobliżu Potworności zapewniają jej premię <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c><c val=\"#ColorGray\">~~-0.038462~~</c> do zdrowia i <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> do obrażeń od ataku podstawowego. Efekt ten może się kumulować maksymalnie <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> razy. Potworność może być leczona przez Karapaks i potrafi się zagrzebać, a następnie przemieścić pod ziemią w dowolne widoczne dla siebie miejsce, co <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80</c> sek.<n/><n/>Po użyciu zdolności Symbiont na Potworności Abatur przejmuje nad nią kontrolę oraz otrzymuje standardowe premie. Zdolność można aktywować ponownie, aby automatycznie użyć Symbionta na Potworności."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AbathurSpawnLocusts|AbathurLocustStrain|Q",
+    "value": "Co <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> sek. powija Szarańczę, która rusza do ataku wzdłuż najbliższej alei. Szarańcze żyją <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c> sek., dysponują <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">225</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. zdrowia i każdym atakiem podstawowym zadają <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">58</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. obrażeń oraz wywołują <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> dodatkowych zniszczeń wrogich budowli."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AbathurSpawnLocusts|AbathurLocustStrain|Trait",
+    "value": "Co <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> sek. powija Szarańczę, która rusza do ataku wzdłuż najbliższej alei. Szarańcze żyją <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c> sek., dysponują <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">225</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. zdrowia i każdym atakiem podstawowym zadają <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">58</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. obrażeń oraz wywołują <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> dodatkowych zniszczeń wrogich budowli."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaBreathOfLife|AlexstraszaBreathOfLife|Q",
+    "value": "Alexstraza leczy bohatera sojuszniczego, przywracając mu <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> wartości jej bieżącego zdrowia."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaCleansingFlameDragonqueen|AlexstraszaCleansingFlameDragonqueen|Heroic",
+    "value": "Alexstraza wzbija się w powietrze i miota <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> ognistych kul na pozycję kursora przez <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> sek. Ogniste kule zadają <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">135</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. obrażeń przeciwnikom i przywracają bohaterom sojuszniczym <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">300</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. zdrowia.<n/><n/>Alexstraza ląduje na pozycji kursora <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> sek. od upuszczenia wszystkich ognistych kul."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaCleansingFlame|AlexstraszaCleansingFlame|Heroic",
+    "value": "Po upływie <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c> sek. Alexstraza wzbija się w powietrze i miota <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> ognistych kul na pozycję kursora przez <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> sek. Ogniste kule zadają <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">135</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. obrażeń przeciwnikom i przywracają bohaterom sojuszniczym <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">300</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. zdrowia.<n/><n/>Alexstraza ląduje na pozycji kursora <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> sek. od upuszczenia wszystkich ognistych kul."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaPreservation|AlexstraszaPreservation|W",
+    "value": "Alexstraza umieszcza w ziemi lecznicze ziarno, które kiełkuje i rozkwita po upływie <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> sek., a następnie leczy pobliskich bohaterów sojuszniczych, przywracając im <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> ich maksymalnego zdrowia."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloFireStomp|DiabloFireStomp|W",
+    "value": "Wywołuje fale ognia, które rozchodzą się we wskazanym kierunku, a każda zadaje <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">11</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. obrażeń. Kiedy osiągną maksymalny zasięg, wracają do Diablo, zadając dodatkowo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">34</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. obrażeń. Diablo odzyskuje w postaci zdrowia równowartość <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">130%</c> obrażeń zadanych bohaterom."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloOverpower|DiabloOverpower|E",
+    "value": "Diablo chwyta cel i ciska nim za siebie, zadając <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. obrażeń i ogłuszając go na <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c> sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloShadowCharge|DiabloShadowCharge|Q",
+    "value": "Szarżuje na wroga i odrzuca go w tył, zadając mu <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. obrażeń. Diablo zyskuje wówczas premię <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> do szybkości ruchu na <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> sek. Jeśli przeciwnik zderzy się z przeszkodą na mapie, zostanie ogłuszony na <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> sek. i otrzyma dodatkowo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. obrażeń."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloTalentLordOfTerror|DiabloLordOfTerror|Active",
+    "value": "Aktywuj, aby Diablo wykradł <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12%</c> maksymalnego zdrowia pobliskim wrogim bohaterom i zdobył dusze (<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>) za każdego trafionego bohatera."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/FirebatAdrenalineStimpack|FirebatAdrenalineStimpack|Active",
+    "value": "<c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Działanie pasywne:</c> Kiedy Pożarsky ma ponad <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80%</c> zdrowia, zyskuje premię <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> do szybkości ataku oraz <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c> do szybkości ruchu.<n/><n/>Aktywuj, aby zwiększyć szybkość ataku Pożarsky'ego o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85%</c>, a jego szybkość ruchu o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> na <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/IllidanSweepingStrike|IllidanSweepingStrike|W",
+    "value": "Przyskakuje w wybranym kierunku, zadając po drodze <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">119</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. obrażeń wszystkim napotkanym wrogom. Trafienie po drodze wroga zwiększa obrażenia ataków podstawowych Illidana o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> na <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/NexusHunterBloodRage|NexusHunterBloodRage|W",
+    "value": "<c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Działanie pasywne</c>: Trafienie atakiem podstawowym lub zdolnością sprawia, że przeciwnicy krwawią i otrzymują <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">32</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. obrażeń w ciągu <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> sek. Efekt ten kumuluje się <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> razy.<n/><n/>Działanie aktywne: Qhira zadaje <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">32</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. obrażeń i odzyskuje <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. zdrowia za każdego wrogiego bohatera objętego działaniem zdolności. Wartość obrażeń i skuteczność leczenia wzrasta o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> za każdy dodatkowy poziom kumulacji działający na danego bohatera."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagExplosiveRune|RagnarosBigRagExplosiveRune|E",
+    "value": "Ragnaros tworzy runę, która po upływie <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> sek. zadaje <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">285</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. obrażeń przeciwnikom niebędącym budowlami.<n/><n/>Obrażenia wzrastają o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> przeciwko stronnikom, najemnikom i potworom."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagMeteorShower|RagnarosBigRagMeteorShower|W",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">Celowanie wektorowe</c><n/>Ragnaros przywołuje w wybrane miejsce meteoryty (<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>), które spadają we wskazanym kierunku. Każdy meteoryt zadaje <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. obrażeń i spowalnia wrogów o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c> na <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> sek.<n/><n/>Obrażenia wzrastają o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> przeciwko stronnikom, najemnikom i potworom."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagMoltenSwing|RagnarosBigRagMoltenSwing|Q",
+    "value": "Ragnaros wykonuje zamaszysty cios Sulfurasem, który zadaje <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. obrażeń i ogłusza przeciwników na <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> sek.<n/><n/>Obrażenia wzrastają o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> przeciwko stronnikom, najemnikom i potworom."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBlastWave|RagnarosBlastWave|E",
+    "value": "Rozpala Ragnarosa lub wybranego sojusznika, zapewniając celowi premię <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> do szybkości ruchu na <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> sek., do czasu eksplozji, która zadaje pobliskim przeciwnikom <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">120</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. obrażeń.<n/><n/><c val=\"D65CFF\" hlt-name=\"#ColorViolet\">Ognista Czeluść: Wybuchowa Runa</c><n/>Wywołuje opóźnioną eksplozję na dużym obszarze."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosMoltenCore|RagnarosMoltenCore|Trait",
+    "value": "Podtrzymuje zdolność na sojuszniczym lub zniszczonym forcie lub twierdzy, aby zmienić ją w ostateczną postać Ragnarosa. Ragnaros uzyska tymczasowo nowe zdolności <w>oraz </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5000</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><w> pkt. zdrowia, które będą zanikać w ciągu </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">23</c><w> sek.<n/><n/><w>Ragnaros powróci do swojej zwykłej postaci po tym, jak jego forma Ognistej Czeluści utraci całe zdrowie.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelAvengingWrathChannel|YrelAvengingWrath|E",
+    "value": "Yrel doskakuje we wskazane miejsce, zadaje <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><w> pkt. obrażeń przeciwnikom znajdującym się na tym obszarze i spowalnia ich o </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c><w> na </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c><w> sek.<n/><n/><w>Doładowywanie tej zdolności zwiększa jej zasięg.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelAvengingWrathDivinePurpose|YrelAvengingWrath|E",
+    "value": "Yrel doskakuje we wskazane miejsce, zadaje <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><w> pkt. obrażeń przeciwnikom znajdującym się na tym obszarze i spowalnia ich o </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c><w> na </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c><w> sek.<n/><n/><w>Doładowywanie tej zdolności zwiększa jej zasięg.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelAvengingWrath|YrelAvengingWrath|E",
+    "value": "Yrel doskakuje we wskazane miejsce, zadaje <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><w> pkt. obrażeń przeciwnikom znajdującym się na tym obszarze i spowalnia ich o </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c><w> na </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c><w> sek.<n/><n/><w>Doładowywanie tej zdolności zwiększa jej zasięg.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelHandOfFreedom|YrelHandOfFreedom|Active",
+    "value": "Zapewnia bohaterowi sojuszniczemu premię <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> do szybkości ruchu na <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> sek. oraz usuwa wszystkie działające na niego efekty spowolnienia i unieruchomienia."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelRighteousHammerChannel|YrelRighteousHammer|W",
+    "value": "Yrel wykonuje zamach młotem i zadaje wrogom przed sobą <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. obrażeń i odrzuca ich.<n/><n/>Doładowywanie tej zdolności zwiększa odległość, na którą następuje odrzucenie, oraz zadawane przez nią obrażenia, maksymalnie do <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. Wrogowie trafieni przy maksymalnym doładowaniu zdolności zostają ogłuszeni na <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c><w> sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelRighteousHammerDivinePurpose|YrelRighteousHammer|W",
+    "value": "Yrel wykonuje zamach młotem i zadaje wrogom przed sobą <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. obrażeń i odrzuca ich.<n/><n/>Doładowywanie tej zdolności zwiększa odległość, na którą następuje odrzucenie, oraz zadawane przez nią obrażenia, maksymalnie do <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. Wrogowie trafieni przy maksymalnym doładowaniu zdolności zostają ogłuszeni na <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c><w> sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelRighteousHammer|YrelRighteousHammer|W",
+    "value": "Yrel wykonuje zamach młotem i zadaje wrogom przed sobą <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. obrażeń i odrzuca ich.<n/><n/>Doładowywanie tej zdolności zwiększa odległość, na którą następuje odrzucenie, oraz zadawane przez nią obrażenia, maksymalnie do <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. Wrogowie trafieni przy maksymalnym doładowaniu zdolności zostają ogłuszeni na <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c><w> sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelVindicationCast|YrelVindication|Q",
+    "value": "Uwalnia wokół Yrel świętą energię, która zadaje pobliskim przeciwnikom <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">48</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. obrażeń i leczy ją, przywracając <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">111</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. zdrowia.<n/><n/>Doładowywanie tej zdolności zwiększa zadawane przez nią obrażenia maksymalnie do <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt., a skuteczność leczenia maksymalnie do <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">370</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelVindication|YrelVindication|Q",
+    "value": "Uwalnia wokół Yrel świętą energię, która zadaje pobliskim przeciwnikom <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">48</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. obrażeń i leczy ją, przywracając <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">111</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. zdrowia.<n/><n/>Doładowywanie tej zdolności zwiększa zadawane przez nią obrażenia maksymalnie do <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt., a skuteczność leczenia maksymalnie do <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">370</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/ValeeraCancelStealth|ValeeraCancelStealth|Trait",
+    "value": "Anuluje Ukrycie."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/cooldownText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/CrusaderHeroicAbilityBlessedShield|CrusaderBlessedShield|Heroic|Level10",
+    "value": "Czas odnowienia: 65 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/FirebatHeroicAbilityBunkerDrop|FirebatBunkerDrop|Heroic|Level10",
+    "value": "Czas odnowienia: 85 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/RagnarosSulfurasSmash|RagnarosSulfurasSmash|Heroic|Level10",
+    "value": "Czas odnowienia: 1 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/WhitemaneIntercession|WhitemaneIntercession|Active|Level7",
+    "value": "Czas odnowienia: 60 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/YrelHandOfFreedom|YrelHandOfFreedom|Active|Level4",
+    "value": "Czas odnowienia: 40 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/YrelSeraphim|YrelSeraphim|Active|Level20",
+    "value": "Czas odnowienia: 20 sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/cooldownText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "Czas odnowienia: 75 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurCombatStyleBombardStrain|AbathurLocustStrainBombardStrainTalent|Trait|Level13",
+    "value": "Atak podstawowy Szarańczy staje się długodystansowym atakiem oblężniczym, a Szarańcza żyje o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-0%</c> dłużej."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurHeroicAbilityEvolveMonstrosity|AbathurEvolveMonstrosityHotbar|Heroic|Level10",
+    "value": "Przeistacza sojuszniczego stronnika lub Szarańczę w Potworność. Wrodzy stronnicy ginący w pobliżu Potworności zapewniają jej premię <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c><c val=\"#ColorGray\">~~-0.038462~~</c> do zdrowia i <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> do obrażeń od ataku podstawowego. Efekt ten może się kumulować maksymalnie <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> razy. Potworność może być leczona przez Karapaks i potrafi się zagrzebać, a następnie przemieścić pod ziemią w dowolne widoczne dla siebie miejsce, co <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80</c> sek.<n/><n/>Po użyciu zdolności Symbiont na Potworności Abatur przejmuje nad nią kontrolę oraz otrzymuje standardowe premie. Zdolność można aktywować ponownie, aby automatycznie użyć Symbionta na Potworności."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurMasteryEnvenomedNestsToxicNest|AbathurToxicNestEnvenomedNestTalent|W|Level1",
+    "value": "Toksyczne Gniazda zadają obrażenia zwiększone o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c> w ciągu <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> sek. i zmniejszają pancerz trafionych wrogich bohaterów o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> pkt. na <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaCleansingFlame|AlexstraszaCleansingFlame|Heroic|Level10",
+    "value": "Po upływie <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c> sek. Alexstraza wzbija się w powietrze i miota <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> ognistych kul na pozycję kursora przez <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> sek. Ogniste kule zadają <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">135</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. obrażeń przeciwnikom i przywracają bohaterom sojuszniczym <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">300</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. zdrowia.<n/><n/>Alexstraza ląduje na pozycji kursora <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> sek. od upuszczenia wszystkich ognistych kul."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaDraconicDisciplineDragonqueen|AlexstraszaDraconicDisciplineDragonqueen|Trait|Level16",
+    "value": "Wydłuża czas działania Smoczej Królowej <w>o </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c><w> sek. i zwiększa skuteczność leczenia zapewnianego przez ataki podstawowe o </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c><w>.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "Zmniejsza koszt Uderzenia Płomieni z <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> do <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> pkt. many.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Zadanie:</c> Traf <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60</c> płonących bohaterów Uderzeniem Płomieni.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Nagroda:</c> Trafienie płonącego bohatera Uderzeniem Płomieni skraca czas odnowienia Smoczej Królowej o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaOnRubyWingsCleansingFlame|AlexstraszaOnRubyWingsCleansingFlame|Heroic|Level20",
+    "value": "Uleczenie lub zranienie bohaterów co najmniej <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> razy Oczyszczającym Ogniem aktywuje Smoczą Królową przez <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> sek. po lądowaniu."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChoFirestarter|ChoFirestarter|W|Level7",
+    "value": "Ataki podstawowe wymierzone w podpalonych bohaterów skracają czas odnowienia Żarłocznej Pożogi o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> sek.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Działanie pasywne:</c> Skraca czas odnowienia Żarłocznej Pożogi o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieDragonsBreathDeepBreathing|ChromieDragonsBreathDeepBreathing|W|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Zadanie:</c> Za każdym razem, kiedy Smocze Zionięcie trafia bohatera, zadawane przez nie obrażenia wzrastają o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5%</c>, maksymalnie do <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Nagroda:</c> Po trafieniu <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">9999</c> bohaterów czas odnowienia Smoczego Zionięcia zostaje skrócony o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> sek., a jego koszt spada z <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65</c> do <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> pkt. many."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieSandBlastOnceAgainTheFirstTime|ChromieSandBlastOnceAgaintheFirstTime|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Zadanie:</c> Traf <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> bohaterów Piaskowym Podmuchem użytym przez Chronię lub jej Echa.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Nagroda:</c> Maksymalna liczba aktywnych Ech wzrasta do <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>, a obrażenia zadawane przez Echa zostają zwiększone do <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieTimeTrapChronicConditions|ChromieTimeTrapChronicConditions|E|Level4",
+    "value": "Po zakończeniu działania efektu Zatrzymania Czasu wrogowie objęci działaniem Pułapki Czasowej zostają spowolnieni o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> na <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> sek., a sojusznicy zyskują premię <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> do szybkości ruchu na <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DiabloDiabolicalMomentum|DiabloDiabolicalMomentum|Passive|Level7",
+    "value": "Kiedy ataki podstawowe Diablo ranią przeciwników, czasy odnowienia Szarży Cienia oraz Obezwładnienia zostają skrócone <w>o </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c><w> sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DiabloMasteryDyingBreathApocalypse|DiabloApocalypseDyingBreathTalent|Heroic|Level20",
+    "value": "Skraca czas odnowienia Apokalipsy o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c> sek. za każdego trafionego wrogiego bohatera (minimalnie do <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> sek.). W momencie śmierci Diablo rzuca ją za darmo."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DiabloTalentLordOfTerror|DiabloLordOfTerror|Active|Level20",
+    "value": "Aktywuj, aby Diablo wykradł <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12%</c> maksymalnego zdrowia pobliskim wrogim bohaterom i zdobył dusze (<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>) za każdego trafionego bohatera."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/FirebatAdrenalineStimpack|FirebatAdrenalineStimpack|Active|Level1",
+    "value": "<c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Działanie pasywne:</c> Kiedy Pożarsky ma ponad <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80%</c> zdrowia, zyskuje premię <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> do szybkości ataku oraz <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c> do szybkości ruchu.<n/><n/>Aktywuj, aby zwiększyć szybkość ataku Pożarsky'ego o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85%</c>, a jego szybkość ruchu o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> na <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallBombsAway|GallBombsAwayTalent|E|Level4",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Zadanie:</c> Rań wrogich bohaterów Runicznym Wybuchem, aby zwiększyć jego obrażenia o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> pkt., maksymalnie do <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> pkt.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Nagroda:</c> Po zranieniu <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> bohaterów zasięg i szerokość Runicznej Bomby Czo wzrasta o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallLeadenOrb|GallLeadenOrb|W|Level16",
+    "value": "Straszliwa Kula ogłusza wrogich bohaterów na <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.6</c> sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallRisingDread|GallRisingDreadTalent|W|Level4",
+    "value": "Każde odbicie Straszliwej Kuli zwiększa jej promień o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>, a zadawane przez nią obrażenia o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>. Aktywuj Straszliwą Kulę przed zakończeniem jej drugiego odbicia, aby zmienić kierunek trzeciego odbicia na przeciwny."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiCyberAgilityPathfinder|GenjiCyberAgilityPathfinder|Trait|Level1",
+    "value": "Skakanie nad przeszkodami przy użyciu Cyber-Zwinności zwiększa szybkość ruchu Genjiego o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> i zapewnia mu ukrycie na <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> sek.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Działanie pasywne:</c> Zdolność Bohaterska Genjiego przywraca mu zdrowie o wartości odpowiadającej <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c> obrażeń zadanym wrogim bohaterom. Premia ta zwiększa się do <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c>, im mniej zdrowia ma Genji."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiDeflectPerfectDefense|GenjiDeflectPerfectDefense|W|Level7",
+    "value": "Odbijanie obrażeń skraca czas odnowienia Odbicia o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> sek., maksymalnie do <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12</c> sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeFinalCut|GenjiSwiftStrikeFinalCut|E|Level16",
+    "value": "Po upływie <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> sek. Szybkie Cięcie zadaje dodatkowo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">115</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. obrażeń wszystkim przeciwnikom na danym obszarze."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeFlowLikeWater|GenjiSwiftStrikeFlowLikeWater|E|Level13",
+    "value": "Każde trafienie bohatera Szybkim Cięciem skraca jego czas odnowienia o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeStrikeAtTheHeart|GenjiSwiftStrikeStrikeAtTheHeart|E|Level4",
+    "value": "Wrogowie trafieni pod koniec działania Szybkiego Cięcia otrzymują dodatkowo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">142</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pkt. obrażeń po upływie <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeSwiftAsTheWind|GenjiSwiftStrikeSwiftAsTheWind|E|Level1",
+    "value": "Trafienie wrogiego bohatera Szybkim Cięciem zwiększa szybkość ruchu Genjiego o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c> na <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/IllidanMasteryBatteredAssaultSweepingStrike|IllidanSweepingStrikeBatteredAssaultTalent|W|Level1",
+    "value": "Wydłuża czas działania premii do obrażeń ataku podstawowego zapewnianej przez Zamaszysty Cios z <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> sek. do <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> sek. Jeśli Zamaszysty Cios trafi <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> bohaterów, jego premia do obrażeń wzrośnie z <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> do <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisFelClawsWillOfTichondrius|MalGanisFelClawsWillOfTichondrius|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Zadanie:</c> Trafiaj wrogów Szponami Spaczenia, aby na stałe zwiększyć ich obrażenia o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c>.<n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Zadanie:</c> Traf <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> wrogów pierwszymi 2 zamachami, aby zwiększyć obrażenia ostatniego ciosu o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Nagroda:</c> Po zyskaniu <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> pkt. premii do obrażeń ostatnie ogłuszenie jest wydłużone o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c> sek., a ostatni cios kradnie wrogiemu bohaterowi <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4%</c> zdrowia."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/NexusHunterFatalWounds|NexusHunterFatalWounds|W|Level1",
+    "value": "Kiedy Krwawy Amok osiąga maksymalną liczbę poziomów kumulacji, efekt krwawienia zadaje wrogim bohaterom dysponującym mniej niż <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> zdrowia dodatkowe <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> obrażeń.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Zadanie:</c> Rań wrogich bohaterów krwawieniem wywoływanym przez Krwawy Amok. <n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Nagroda:</c> Po zranieniu bohaterów obrażeniami od krwawienia zapewnianego przez Krwawy Amok <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">99999</c> razy czas działania Krwawego Amoku zostaje wydłużony o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ProbiusGatherMineralsPhotonCannonQuest|ProbiusGatherMineralsPhotonCannonQuestTalent|E|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Zadanie: </c>Zbieraj minerały, aby zwiększyć zdrowie Dział Fotonowych o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> pkt., maksymalnie do <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">560</c> pkt. <n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Nagroda:</c> Gdy zbierzesz <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70</c> minerałów, Działa Fotonowe będą zadawać obrażenia zwiększone o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosBlastWaveEngulfingFlame|RagnarosBlastWaveEngulfingFlame|E|Level1",
+    "value": "Zwiększa obrażenia od Fali Uderzeniowej o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>, a jej pole rażenia o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosLavaWaveLavaSurge|RagnarosLavaWaveLavaSurge|Heroic|Level20",
+    "value": "Fala Lawy zyskuje dodatkowy ładunek, a jej czas odnowienia zostaje skrócony o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-0</c> sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "Zdrowie Ragnarosa w formie Ognistej Czeluści i zadawane przez niego obrażenia wzrastają o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>, a czas odnowienia zdolności zostaje skrócony o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-20</c> sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WhitemaneZealPityTheFrail|WhitemaneZealPityTheFrail|W|Level1",
+    "value": "Czas odnowienia Inkwizycji zostaje skrócony o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> sek. za każdego bohatera trafionego Ognistym Smagnięciem. Sojusznicy posiadający mniej niż <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> zdrowia otrzymują od Białowłosej leczenie skuteczniejsze o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WhitemaneZealScarletWrath|WhitemaneZealScarletWrath|Trait|Level13",
+    "value": "Ataki podstawowe wymierzone w bohaterów wydłużają czas działania wszystkich aktywnych przypadków <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">Zapału</c> o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75</c> sek., przywracają <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">%</c> many wszystkim celom <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">Zapału</c> i skracają czas odnowienia dla aktywacji <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">Zapału</c> o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WitchDoctorVileInfection|WitchDoctorVileInfection|Trait|Level20",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Zadanie:</c> Zgromadź poziomy kumulacji Rytuału Voodoo (<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175</c>).<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Nagroda:</c> Po zgromadzeniu <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175</c> poziomów kumulacji Rytuał Voodoo zaczyna działać na bohaterów, a jego obrażenia wzrastają z <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><w> pkt. do </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">165</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><w> pkt. w ciągu </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c><w> sek.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelHandOfFreedom|YrelHandOfFreedom|Active|Level4",
+    "value": "Zapewnia bohaterowi sojuszniczemu premię <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> do szybkości ruchu na <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> sek. oraz usuwa wszystkie działające na niego efekty spowolnienia i unieruchomienia."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "Aktywuj, aby powić w pobliżu Szarańczę (<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>)."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "Zwiększa zdrowie Szarańczy o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200%</c> oraz zadawane przez nią obrażenia o <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level1"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "Szczep Szarańczy"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "Instynkt Przetrwania"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level1"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "Aktywuj, by wezwać chmarę Szarańczy"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "Szarańcza ma więcej zdrowia i zadaje zwiększone obrażenia"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/lifeType/AbathurEvolvedMonstrosity",
+    "value": "Zdrowie"
+  }
+]

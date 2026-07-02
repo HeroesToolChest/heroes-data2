@@ -1,0 +1,530 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97407_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/:PASSIVE:|YrelDivinePurposeActive|Trait",
+    "value": "Recupero: 16 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/AbathurLocustSwarm|AbathurLocustSwarm|Active",
+    "value": "Recupero: 75 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/AlexstraszaDragonqueen|AlexstraszaDragonqueen|Trait",
+    "value": "Recupero: 130 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/CrusaderBlessedShield|CrusaderBlessedShield|Heroic",
+    "value": "Recupero: 65 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/CrusaderShieldGlare|CrusaderShieldGlare|E",
+    "value": "Recupero: 13 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/FirebatBunkerDrop|FirebatBunkerDrop|Heroic",
+    "value": "Recupero: 85 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MeiOWSnowBlind|MeiOWSnowBlind|Q",
+    "value": "Recupero: 2 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagExplosiveRune|RagnarosBigRagExplosiveRune|E",
+    "value": "Recupero: 2.5 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagMeteorShower|RagnarosBigRagMeteorShower|W",
+    "value": "Recupero: 6 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagMoltenSwing|RagnarosBigRagMoltenSwing|Q",
+    "value": "Recupero: 9 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagSulfurasSmash|RagnarosSulfurasSmash|Heroic",
+    "value": "Recupero: 1 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosMoltenCore|RagnarosMoltenCore|Trait",
+    "value": "Recupero: 180 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosSulfurasSmash|RagnarosSulfurasSmash|Heroic",
+    "value": "Recupero: 1 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/WhitemaneIntercession|WhitemaneIntercession|Active",
+    "value": "Recupero: 60 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelDivinePurpose|YrelDivinePurpose|Trait",
+    "value": "Recupero: 16 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelHandOfFreedom|YrelHandOfFreedom|Active",
+    "value": "Recupero: 40 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelSeraphim|YrelSeraphim|Active",
+    "value": "Recupero: 20 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|WitchDoctorVoodooRitualTrait|Trait",
+    "value": "Gli attacchi e le abilità base di Nazeebo avvelenano i nemici non eroici, costringendoli a subire <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni aggiuntivi in <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> s. <n/><n/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missione: </c>Se un servitore muore sotto gli effetti di Rituale Vudù, Nazeebo ottiene <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> Salute e <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> Mana."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AbathurEvolveMonstrosity|AbathurEvolveMonstrosityHotbar|Heroic",
+    "value": "Trasforma un servitore o una Locusta alleati in una Mostruosità. Quando un servitore nemico vicino alla Mostruosità muore, essa ottiene un bonus del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c><c val=\"#ColorGray\">~~-0.038462~~</c> alla Salute e del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> ai danni degli attacchi base. Si accumula fino a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> volte. La Mostruosità può essere curata da Carapace e rintanarsi in una posizione visibile una volta ogni <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80</c> s.<n/><n/>Usare Simbionte sulla Mostruosità consente ad Abathur di controllarla, oltre a fornire i benefici di Simbionte. È possibile riattivare l'abilità per attivare automaticamente Simbionte sulla Mostruosità."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AbathurSpawnLocusts|AbathurLocustStrain|Q",
+    "value": "Genera una Locusta che attacca lungo la corsia più vicina ogni <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> s. Le Locuste durano <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c> s, hanno <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">225</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Salute e infliggono <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">58</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni con ogni attacco base. Infliggono il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> di danni aggiuntivi alle strutture nemiche."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AbathurSpawnLocusts|AbathurLocustStrain|Trait",
+    "value": "Genera una Locusta che attacca lungo la corsia più vicina ogni <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> s. Le Locuste durano <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c> s, hanno <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">225</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Salute e infliggono <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">58</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni con ogni attacco base. Infliggono il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> di danni aggiuntivi alle strutture nemiche."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaBreathOfLife|AlexstraszaBreathOfLife|Q",
+    "value": "Cura un eroe alleato del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> della Salute attuale di Alexstrasza."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaCleansingFlameDragonqueen|AlexstraszaCleansingFlameDragonqueen|Heroic",
+    "value": "Alexstrasza spicca il volo e fa piovere <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> sfere di fuoco in <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> s nella posizione del mouse. Le sfere infliggono <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">135</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni ai nemici e curano gli eroi alleati di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">300</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Salute.<n/><n/><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> s dopo il termine della pioggia infuocata, Alexstrasza atterra nella posizione del mouse."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaCleansingFlame|AlexstraszaCleansingFlame|Heroic",
+    "value": "Dopo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c> s, Alexstrasza spicca il volo e fa piovere <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> sfere di fuoco in <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> s nella posizione del mouse. Le sfere infliggono <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">135</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni ai nemici e curano gli eroi alleati di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">300</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Salute.<n/><n/><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> s dopo il termine della pioggia infuocata, Alexstrasza atterra nella posizione del mouse."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaPreservation|AlexstraszaPreservation|W",
+    "value": "Pianta un seme curativo che germoglia dopo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s, curando gli eroi alleati vicini del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> della loro Salute massima."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloFireStomp|DiabloFireStomp|W",
+    "value": "Scatena delle ondate di fuoco verso l'area selezionata, ciascuna delle quali infligge <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">11</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni. Quando raggiungono la portata massima, tornano verso Diablo, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">34</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni aggiuntivi. Diablo rigenera Salute pari al <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">130%</c> dei danni inflitti agli eroi."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloOverpower|DiabloOverpower|E",
+    "value": "Afferra il bersaglio e lo scaglia alle spalle di Diablo, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni e stordendolo per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloShadowCharge|DiabloShadowCharge|Q",
+    "value": "Carica un nemico, respingendolo, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni e aumentando la velocità di movimento del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s. Se il nemico colpisce un ostacolo, viene stordito per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s e subisce <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni aggiuntivi."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloTalentLordOfTerror|DiabloLordOfTerror|Active",
+    "value": "All'attivazione sottrae il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12%</c> della Salute massima agli eroi nemici vicini e fornisce <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> anime per eroe colpito."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/FirebatAdrenalineStimpack|FirebatAdrenalineStimpack|Active",
+    "value": "<c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Passiva:</c> Finché si trova al di sopra del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80%</c> di Salute, ottiene il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> di bonus alla velocità d'attacco e il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c> di bonus alla velocità di movimento.<n/><n/>All'attivazione aumenta del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85%</c> la velocità d'attacco e del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> la velocità di movimento per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/IllidanSweepingStrike|IllidanSweepingStrike|W",
+    "value": "Illidan scatta sul punto bersaglio, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">119</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni ai nemici sul percorso. Colpire un nemico aumenta i danni degli attacchi base del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/NexusHunterBloodRage|NexusHunterBloodRage|W",
+    "value": "<c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Passiva</c>: Gli attacchi e le abilità base fanno sanguinare i nemici, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">32</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni in <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s. Si accumula fino a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> volte.<n/><n/>Qhira infligge <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">32</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni e rigenera <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Salute per ogni eroe nemico colpito. Aumenta danni e cure del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> per ogni accumulo aggiuntivo sullo stesso eroe."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagExplosiveRune|RagnarosBigRagExplosiveRune|E",
+    "value": "Crea una runa che infligge <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">285</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni alle unità nemiche dopo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> s.<n/><n/>Infligge il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> di danni aggiuntivi a servitori, mercenari e mostri."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagMeteorShower|RagnarosBigRagMeteorShower|W",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">Puntamento vettoriale</c><n/>Evoca nel punto bersaglio  meteore che si spostano nella direzione selezionata. Ogni meteora infligge <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni e rallenta i nemici del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c> per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s.<n/><n/>Infligge il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> di danni aggiuntivi a servitori, mercenari e mostri.3"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagMoltenSwing|RagnarosBigRagMoltenSwing|Q",
+    "value": "Ragnaros attacca con Sulfuras in un ampio arco, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni e stordendo i nemici per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s.<n/><n/>Infligge il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> di danni aggiuntivi a servitori, mercenari e mostri."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBlastWave|RagnarosBlastWave|E",
+    "value": "Ragnaros incendia se stesso o un alleato, aumentando del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> la velocità di movimento del bersaglio per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> s e provocando un'esplosione che infligge <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">120</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni ai nemici vicini.<n/><n/><c val=\"D65CFF\" hlt-name=\"#ColorViolet\">Nucleo Ardente: Runa Esplosiva</c><n/>Dopo un breve ritardo, provoca un'esplosione in un'ampia area."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosMoltenCore|RagnarosMoltenCore|Trait",
+    "value": "Incanala l'abilità su forti o fortezze distrutti o alleati per sostituirli con la forma definitiva di Ragnaros, che dispone di nuove abilità e ha <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5000</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Salute che si esaurisce progressivamente in <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">23</c> s.<n/><n/>Quando la Salute di Nucleo Ardente si esaurisce, Ragnaros torna alla forma normale."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelAvengingWrathChannel|YrelAvengingWrath|E",
+    "value": "Yrel balza nel punto selezionato, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni ai nemici nell'area e rallentandoli del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s.<n/><n/>Caricare l'abilità ne estende la portata."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelAvengingWrathDivinePurpose|YrelAvengingWrath|E",
+    "value": "Yrel balza nel punto selezionato, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni ai nemici nell'area e rallentandoli del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s.<n/><n/>Caricare l'abilità ne estende la portata."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelAvengingWrath|YrelAvengingWrath|E",
+    "value": "Yrel balza nel punto selezionato, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni ai nemici nell'area e rallentandoli del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s.<n/><n/>Caricare l'abilità ne estende la portata."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelHandOfFreedom|YrelHandOfFreedom|Active",
+    "value": "Aumenta del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> la velocità di movimento di un eroe alleato per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s e rimuove tutti gli effetti di rallentamento e immobilizzazione."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelRighteousHammerChannel|YrelRighteousHammer|W",
+    "value": "Yrel rotea il suo martello, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni ai nemici di fronte a sé e respingendoli.<n/><n/>Caricare l'abilità estende la distanza di respinta e aumenta i danni fino a un massimo di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>. I nemici colpiti al massimo della carica sono storditi per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelRighteousHammerDivinePurpose|YrelRighteousHammer|W",
+    "value": "Yrel rotea il suo martello, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni ai nemici di fronte a sé e respingendoli.<n/><n/>Caricare l'abilità estende la distanza di respinta e aumenta i danni fino a un massimo di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>. I nemici colpiti al massimo della carica sono storditi per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelRighteousHammer|YrelRighteousHammer|W",
+    "value": "Yrel rotea il suo martello, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni ai nemici di fronte a sé e respingendoli.<n/><n/>Caricare l'abilità estende la distanza di respinta e aumenta i danni fino a un massimo di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>. I nemici colpiti al massimo della carica sono storditi per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelVindicationCast|YrelVindication|Q",
+    "value": "Libera energia sacra attorno a Yrel, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">48</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni ai nemici vicini e curandola di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">111</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Salute.<n/><n/>Caricare l'abilità aumenta i danni fino a un massimo di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>, e le cure fino a un massimo di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">370</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelVindication|YrelVindication|Q",
+    "value": "Libera energia sacra attorno a Yrel, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">48</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni ai nemici vicini e curandola di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">111</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Salute.<n/><n/>Caricare l'abilità aumenta i danni fino a un massimo di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>, e le cure fino a un massimo di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">370</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/ValeeraCancelStealth|ValeeraCancelStealth|Trait",
+    "value": "Annulla Occultamento."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/cooldownText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/CrusaderHeroicAbilityBlessedShield|CrusaderBlessedShield|Heroic|Level10",
+    "value": "Recupero: 65 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/FirebatHeroicAbilityBunkerDrop|FirebatBunkerDrop|Heroic|Level10",
+    "value": "Recupero: 85 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/RagnarosSulfurasSmash|RagnarosSulfurasSmash|Heroic|Level10",
+    "value": "Recupero: 1 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/WhitemaneIntercession|WhitemaneIntercession|Active|Level7",
+    "value": "Recupero: 60 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/YrelHandOfFreedom|YrelHandOfFreedom|Active|Level4",
+    "value": "Recupero: 40 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/YrelSeraphim|YrelSeraphim|Active|Level20",
+    "value": "Recupero: 20 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/cooldownText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "Recupero: 75 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurCombatStyleBombardStrain|AbathurLocustStrainBombardStrainTalent|Trait|Level13",
+    "value": "Gli attacchi base delle Locuste diventano attacchi da assedio a lunga distanza e la loro durata aumenta del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-0%</c>."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurHeroicAbilityEvolveMonstrosity|AbathurEvolveMonstrosityHotbar|Heroic|Level10",
+    "value": "Trasforma un servitore o una Locusta alleati in una Mostruosità. Quando un servitore nemico vicino alla Mostruosità muore, essa ottiene un bonus del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c><c val=\"#ColorGray\">~~-0.038462~~</c> alla Salute e del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> ai danni degli attacchi base. Si accumula fino a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> volte. La Mostruosità può essere curata da Carapace e rintanarsi in una posizione visibile una volta ogni <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80</c> s.<n/><n/>Usare Simbionte sulla Mostruosità consente ad Abathur di controllarla, oltre a fornire i benefici di Simbionte. È possibile riattivare l'abilità per attivare automaticamente Simbionte sulla Mostruosità."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurMasteryEnvenomedNestsToxicNest|AbathurToxicNestEnvenomedNestTalent|W|Level1",
+    "value": "Nido Tossico infligge il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c> di danni aggiuntivi in <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s e riduce di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> la Resistenza degli eroi nemici colpiti per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaCleansingFlame|AlexstraszaCleansingFlame|Heroic|Level10",
+    "value": "Dopo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c> s, Alexstrasza spicca il volo e fa piovere <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> sfere di fuoco in <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> s nella posizione del mouse. Le sfere infliggono <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">135</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni ai nemici e curano gli eroi alleati di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">300</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Salute.<n/><n/><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> s dopo il termine della pioggia infuocata, Alexstrasza atterra nella posizione del mouse."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaDraconicDisciplineDragonqueen|AlexstraszaDraconicDisciplineDragonqueen|Trait|Level16",
+    "value": "Aumenta la durata di Regina dei Draghi di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> s e le cure fornite dagli attacchi base del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "Riduce il costo in Mana di Folata delle Fiamme da <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missione:</c> Colpisci <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60</c> eroi incendiati con Folata delle Fiamme.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Ricompensa:</c> Colpire un eroe incendiato con Folata delle Fiamme riduce il tempo di recupero di Regina dei Draghi di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaOnRubyWingsCleansingFlame|AlexstraszaOnRubyWingsCleansingFlame|Heroic|Level20",
+    "value": "Curare o ferire eroi per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> o più volte con Fiamma Purificatrice attiva Regina dei Draghi per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> s all'atterraggio."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChoFirestarter|ChoFirestarter|W|Level7",
+    "value": "Gli attacchi base contro gli eroi in fiamme riducono il tempo di recupero di Fiamma Logorante di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Passiva:</c> Riduce il tempo di recupero di Fiamma Logorante di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s. "
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieDragonsBreathDeepBreathing|ChromieDragonsBreathDeepBreathing|W|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missione:</c> Ogni volta che Soffio del Drago colpisce un eroe, i suoi danni aumentano del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5%</c>, fino a un massimo del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Ricompensa:</c> Dopo aver colpito <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">9999</c> eroi, riduce il tempo di recupero di Soffio del Drago di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s e il suo costo in Mana da <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65</c> a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieSandBlastOnceAgainTheFirstTime|ChromieSandBlastOnceAgaintheFirstTime|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missione:</c> Colpisci <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> eroi con le Detonazioni di Sabbia di Cromie o delle Eco.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Ricompensa:</c> Aumenta il numero massimo di Eco attive a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> e aumenta i danni delle Eco al <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieTimeTrapChronicConditions|ChromieTimeTrapChronicConditions|E|Level4",
+    "value": "Al termine di Arresto Temporale, i nemici colpiti da Trappola Temporale sono rallentati del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s, e gli alleati ottengono un bonus del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> alla velocità di movimento per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DiabloDiabolicalMomentum|DiabloDiabolicalMomentum|Passive|Level7",
+    "value": "Quando gli attacchi base di Diablo infliggono danni ai nemici, il tempo di recupero di Carica dell'Ombra e Dominazione si riduce di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DiabloMasteryDyingBreathApocalypse|DiabloApocalypseDyingBreathTalent|Heroic|Level20",
+    "value": "Riduce il tempo di recupero di Apocalisse di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c> s per ogni eroe nemico colpito (con un minimo di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> s) e la attiva gratuitamente alla morte."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DiabloTalentLordOfTerror|DiabloLordOfTerror|Active|Level20",
+    "value": "All'attivazione sottrae il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12%</c> della Salute massima agli eroi nemici vicini e fornisce <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> anime per eroe colpito."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/FirebatAdrenalineStimpack|FirebatAdrenalineStimpack|Active|Level1",
+    "value": "<c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Passiva:</c> Finché si trova al di sopra del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80%</c> di Salute, ottiene il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> di bonus alla velocità d'attacco e il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c> di bonus alla velocità di movimento.<n/><n/>All'attivazione aumenta del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85%</c> la velocità d'attacco e del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> la velocità di movimento per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallBombsAway|GallBombsAwayTalent|E|Level4",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missione:</c> Danneggiare un eroe con Esplosione Runica aumenta i danni dell'abilità di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>, fino a un massimo di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Ricompensa:</c> Dopo aver danneggiato <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> eroi, aumenta del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> la velocità e la portata di Bomba Runica di Cho."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallLeadenOrb|GallLeadenOrb|W|Level16",
+    "value": "Globo del Terrore stordisce gli eroi nemici per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.6</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallRisingDread|GallRisingDreadTalent|W|Level4",
+    "value": "Ogni rimbalzo di Globo del Terrore ne estende l'area del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> e ne aumenta i danni del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>. Attivare Globo del Terrore prima del termine del secondo rimbalzo consente di invertire la direzione del terzo rimbalzo."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiCyberAgilityPathfinder|GenjiCyberAgilityPathfinder|Trait|Level1",
+    "value": "Superare ostacoli con Cyber-agilità aumenta del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> la velocità di movimento di Genji e lo occulta per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> s.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Passiva:</c> l'abilità eroica di Genji rigenera Salute pari al <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c> dei danni inflitti agli eroi nemici e l'effetto curativo aumenta fino a un massimo del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> man mano che la Salute di Genji cala."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiDeflectPerfectDefense|GenjiDeflectPerfectDefense|W|Level7",
+    "value": "I danni parati con Deviazione riducono il tempo di recupero dell'abilità di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s, fino a un massimo di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeFinalCut|GenjiSwiftStrikeFinalCut|E|Level16",
+    "value": "Dopo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s, Assalto Rapido infligge <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">115</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni aggiuntivi a tutti i nemici nell'area."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeFlowLikeWater|GenjiSwiftStrikeFlowLikeWater|E|Level13",
+    "value": "Ogni eroe nemico colpito da Assalto Rapido ne riduce il tempo di recupero di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeStrikeAtTheHeart|GenjiSwiftStrikeStrikeAtTheHeart|E|Level4",
+    "value": "I nemici colpiti all'estremità dell'area di Assalto Rapido subiscono <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">142</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni aggiuntivi dopo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeSwiftAsTheWind|GenjiSwiftStrikeSwiftAsTheWind|E|Level1",
+    "value": "Colpire un eroe nemico con Assalto Rapido aumenta del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c> la velocità di movimento di Genji per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/IllidanMasteryBatteredAssaultSweepingStrike|IllidanSweepingStrikeBatteredAssaultTalent|W|Level1",
+    "value": "Aumenta la durata del bonus ai danni degli attacchi base di Attacco Sferzante da <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> s. Se Attacco Sferzante colpisce <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> eroi, il bonus ai danni aumenta dal <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> al <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisFelClawsWillOfTichondrius|MalGanisFelClawsWillOfTichondrius|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missione:</c> Colpisci gli eroi con Vilartigli per aumentare permanentemente i danni di Vilartigli di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c>.<n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missione:</c> Colpisci <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> eroi con i primi 2 colpi per far sì che l'ultimo attacco infligga danni aumentati di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Ricompensa:</c> Al raggiungimento di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> danni aggiuntivi, lo stordimento finale aumenta di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c> s e l'attacco finale sottrae il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4%</c> della Salute dell'eroe nemico."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/NexusHunterFatalWounds|NexusHunterFatalWounds|W|Level1",
+    "value": "Finché gli accumuli sono al massimo, il sanguinamento di Rabbia Sanguinaria infligge il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> di danni aggiuntivi agli eroi nemici con meno del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> di Salute.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missione:</c> Infliggi danni agli eroi nemici col sanguinamento di Rabbia Sanguinaria.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Ricompensa:</c> Dopo aver danneggiato gli eroi nemici con Rabbia Sanguinaria per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">99999</c> volte, la durata di Rabbia Sanguinaria aumenta di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ProbiusGatherMineralsPhotonCannonQuest|ProbiusGatherMineralsPhotonCannonQuestTalent|E|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missione: </c>Raccogliere minerali aumenta la Salute dei Cannoni Fotonici di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>, fino a un massimo di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">560</c>. <n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Ricompensa:</c> Al raggiungimento di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70</c> minerali, i Cannoni Fotonici infliggono il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> di danni aggiuntivi."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosBlastWaveEngulfingFlame|RagnarosBlastWaveEngulfingFlame|E|Level1",
+    "value": "Aumenta del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> i danni di Ondata Esplosiva e ne estende il raggio del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosLavaWaveLavaSurge|RagnarosLavaWaveLavaSurge|Heroic|Level20",
+    "value": "Ondata Lavica ottiene una carica aggiuntiva e il suo tempo di recupero è ridotto di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-0</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "Aumenta del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> la Salute e i danni di Nucleo Ardente, e ne riduce il tempo di recupero di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-20</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WhitemaneZealPityTheFrail|WhitemaneZealPityTheFrail|W|Level1",
+    "value": "Ogni eroe colpito da Sferzata Ustionante riduce di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s il tempo di recupero di Inquisizione. Gli alleati con meno del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> di Salute ricevono il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> di cure in più da Biancachioma."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WhitemaneZealScarletWrath|WhitemaneZealScarletWrath|Trait|Level13",
+    "value": "Gli attacchi base contro gli eroi aumentano la durata di tutti gli <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">Zeli</c> attivi di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75</c> s, rigenerano il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">%</c> del Mana di tutti i bersagli di <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">Zelo</c> e riduce il tempo di recupero dell'attivazione degli <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">Zeli</c> di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WitchDoctorVileInfection|WitchDoctorVileInfection|Trait|Level20",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missione:</c> Ottieni <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175</c> accumuli di Rituale Vudù.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Ricompensa:</c> Al raggiungimento di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175</c> accumuli di Rituale Vudù, consente di applicarlo agli eroi e i suoi danni aumentano da <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">165</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> nell'arco di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelHandOfFreedom|YrelHandOfFreedom|Active|Level4",
+    "value": "Aumenta del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> la velocità di movimento di un eroe alleato per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s e rimuove tutti gli effetti di rallentamento e immobilizzazione."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "Genera <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> Locuste in una posizione vicina."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "Aumenta del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200%</c> la Salute delle Locuste e del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> i loro danni."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level1"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "Nugolo di Locuste"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "Istinto di Sopravvivenza"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level1"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "Genera un gruppo di Locuste."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "Aumenta la Salute e i danni delle Locuste."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/lifeType/AbathurEvolvedMonstrosity",
+    "value": "Salute"
+  }
+]

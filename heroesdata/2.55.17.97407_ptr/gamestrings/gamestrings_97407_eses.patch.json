@@ -1,0 +1,530 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97407_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/:PASSIVE:|YrelDivinePurposeActive|Trait",
+    "value": "Tiempo de reutilización: 16 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/AbathurLocustSwarm|AbathurLocustSwarm|Active",
+    "value": "Tiempo de reutilización: 75 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/AlexstraszaDragonqueen|AlexstraszaDragonqueen|Trait",
+    "value": "Tiempo de reutilización: 130 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/CrusaderBlessedShield|CrusaderBlessedShield|Heroic",
+    "value": "Tiempo de reutilización: 65 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/CrusaderShieldGlare|CrusaderShieldGlare|E",
+    "value": "Tiempo de reutilización: 13 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/FirebatBunkerDrop|FirebatBunkerDrop|Heroic",
+    "value": "Tiempo de reutilización: 85 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MeiOWSnowBlind|MeiOWSnowBlind|Q",
+    "value": "Tiempo de reutilización: 2 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagExplosiveRune|RagnarosBigRagExplosiveRune|E",
+    "value": "Tiempo de reutilización: 2.5 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagMeteorShower|RagnarosBigRagMeteorShower|W",
+    "value": "Tiempo de reutilización: 6 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagMoltenSwing|RagnarosBigRagMoltenSwing|Q",
+    "value": "Tiempo de reutilización: 9 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagSulfurasSmash|RagnarosSulfurasSmash|Heroic",
+    "value": "Tiempo de reutilización: 1 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosMoltenCore|RagnarosMoltenCore|Trait",
+    "value": "Tiempo de reutilización: 180 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosSulfurasSmash|RagnarosSulfurasSmash|Heroic",
+    "value": "Tiempo de reutilización: 1 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/WhitemaneIntercession|WhitemaneIntercession|Active",
+    "value": "Tiempo de reutilización: 60 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelDivinePurpose|YrelDivinePurpose|Trait",
+    "value": "Tiempo de reutilización: 16 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelHandOfFreedom|YrelHandOfFreedom|Active",
+    "value": "Tiempo de reutilización: 40 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelSeraphim|YrelSeraphim|Active",
+    "value": "Tiempo de reutilización: 20 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|WitchDoctorVoodooRitualTrait|Trait",
+    "value": "Tus ataques básicos y tus habilidades envenenan a los enemigos que no son héroes, lo que hace que sufran <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> más de daño durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> s. <n/><n/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Consigue que muera un enemigo envenenado por Ritual de vudú para obtener <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> de salud y <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> de maná de forma permanente."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AbathurEvolveMonstrosity|AbathurEvolveMonstrosityHotbar|Heroic",
+    "value": "Transformas a una langosta o esbirro aliados en una monstruosidad. Cuando mueren esbirros enemigos cerca de la monstruosidad, esta obtiene un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c><c val=\"#ColorGray\">~~-0.038462~~</c> de salud y un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> de daño de ataque básico. Se acumula hasta un máximo de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> veces. La monstruosidad, a la que se puede curar con Caparazón, tiene la habilidad de excavar un túnel hasta una ubicación visible cada <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80</c> s.<n/><n/>Si utilizas Simbionte sobre la monstruosidad podrás controlarla, además de disfrutar de los beneficios normales de Simbionte. Puedes reactivar la habilidad heroica para lanzar Simbionte de manera automática en tu monstruosidad."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AbathurSpawnLocusts|AbathurLocustStrain|Q",
+    "value": "Engendras una langosta para que ataque por el camino más cercano cada <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> s. Las langostas duran <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c> s, tienen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">225</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de salud e infligen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">58</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño con cada ataque básico. Infligen un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> de daño adicional a las estructuras enemigas."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AbathurSpawnLocusts|AbathurLocustStrain|Trait",
+    "value": "Engendras una langosta para que ataque por el camino más cercano cada <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> s. Las langostas duran <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c> s, tienen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">225</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de salud e infligen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">58</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño con cada ataque básico. Infligen un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> de daño adicional a las estructuras enemigas."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaBreathOfLife|AlexstraszaBreathOfLife|Q",
+    "value": "Curas a un héroe aliado un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> de tu salud actual."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaCleansingFlameDragonqueen|AlexstraszaCleansingFlameDragonqueen|Heroic",
+    "value": "Alzas el vuelo y lanzas <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> bolas de fuego en la ubicación de tu cursor en un espacio de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> s. Las bolas de fuego infligen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">135</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos y curan <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">300</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de vida a los héroes aliados.<n/><n/><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> s después de lanzar todas las bolas de fuego, aterrizas en la ubicación de tu cursor."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaCleansingFlame|AlexstraszaCleansingFlame|Heroic",
+    "value": "Después de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c> s, alzas el vuelo y lanzas <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> bolas de fuego en la ubicación de tu cursor durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> s. Las bolas de fuego infligen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">135</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos y curan <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">300</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de vida a los héroes aliados.<n/><n/><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> s después de lanzar todas las bolas de fuego, aterrizas en la ubicación de tu cursor."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaPreservation|AlexstraszaPreservation|W",
+    "value": "Plantas una semilla de curación que florece después de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s y cura a los héroes aliados cercanos un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> de su salud máxima."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloFireStomp|DiabloFireStomp|W",
+    "value": "Liberas olas de fuego hacia el área objetivo que infligen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">11</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño cada una. Una vez que recorren su alcance máximo, vuelven hasta ti e infligen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">34</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> más de daño. Te curas un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">130%</c> del daño que infliges a héroes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloOverpower|DiabloOverpower|E",
+    "value": "Agarras al objetivo y lo estampas detrás de ti, lo que le inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño y lo aturde durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloShadowCharge|DiabloShadowCharge|Q",
+    "value": "Cargas contra un enemigo, lo que lo repele, le inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño y te otorga un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> de velocidad de movimiento durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s. Si el enemigo choca contra algún elemento del terreno, queda aturdido durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s y sufre <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> más de daño."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloTalentLordOfTerror|DiabloLordOfTerror|Active",
+    "value": "Actívalo para robar un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12%</c> de la salud máxima de héroes enemigos cercanos y obtener <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> almas por cada héroe golpeado."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/FirebatAdrenalineStimpack|FirebatAdrenalineStimpack|Active",
+    "value": "<c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Pasiva:</c> Mientras tienes más de un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80%</c> de salud, obtienes un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> de velocidad de ataque adicional y un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c> de velocidad de movimiento adicional.<n/><n/>Actívalo para obtener un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85%</c> de velocidad de ataque y un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> de velocidad de movimiento durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/IllidanSweepingStrike|IllidanSweepingStrike|W",
+    "value": "Corres al punto seleccionado, lo que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">119</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos que hay en el camino. Golpear a un enemigo aumenta un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> el daño de tus ataques básicos durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/NexusHunterBloodRage|NexusHunterBloodRage|W",
+    "value": "<c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Pasivo:</c> El daño de los ataques básicos y de las habilidades hace que los enemigos sangren y sufran <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">32</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s. Se acumula <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> veces.<n/><n/>Infliges <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">32</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño y te curas <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de salud por héroe enemigo afectado. El daño y la curación aumentan un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> por cada acumulación adicional en ese héroe."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagExplosiveRune|RagnarosBigRagExplosiveRune|E",
+    "value": "Creas una runa que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">285</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos que no sean estructuras tras <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> s.<n/><n/>Daño aumentado un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> contra esbirros, mercenarios y monstruos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagMeteorShower|RagnarosBigRagMeteorShower|W",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">Lanzamiento vectorial</c><n/>Invocas <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> meteoritos en el punto seleccionado que caen hacia la dirección elegida. Cada meteorito inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño y ralentiza un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c> a los enemigos durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s.<n/><n/>Daño aumentado un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> contra esbirros, mercenarios y monstruos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagMoltenSwing|RagnarosBigRagMoltenSwing|Q",
+    "value": "Blandes a Sulfuras en un amplio arco, lo que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño y aturde a los enemigos durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s.<n/><n/>Daño aumentado un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> contra esbirros, mercenarios y monstruos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBlastWave|RagnarosBlastWave|E",
+    "value": "Te prendes fuego a ti mismo o a un aliado, lo que otorga un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> de velocidad de movimiento durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> s antes de explotar, lo que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">120</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos cercanos.<n/><n/><c val=\"D65CFF\" hlt-name=\"#ColorViolet\">Núcleo de magma: Runa explosiva</c><n/>Provocas una explosión con demora en una gran zona."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosMoltenCore|RagnarosMoltenCore|Trait",
+    "value": "Canalízalo en un fuerte o fortaleza aliados o destruidos para reemplazarlos con tu forma definitiva. Esto te otorga de forma temporal nuevas habilidades y <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5000</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de salud, que se va agotando durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">23</c> s.<n/><n/>Cuando pierdes toda la salud en Núcleo de magma, vuelves a tu forma original."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelAvengingWrathChannel|YrelAvengingWrath|E",
+    "value": "Saltas hacia una zona, infliges <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos golpeados y los ralentizas un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s.<n/><n/>Cargar esta habilidad hace que aumente su alcance."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelAvengingWrathDivinePurpose|YrelAvengingWrath|E",
+    "value": "Saltas hacia una zona, infliges <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos golpeados y los ralentizas un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s.<n/><n/>Cargar esta habilidad hace que aumente su alcance."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelAvengingWrath|YrelAvengingWrath|E",
+    "value": "Saltas hacia una zona, infliges <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos golpeados y los ralentizas un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s.<n/><n/>Cargar esta habilidad hace que aumente su alcance."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelHandOfFreedom|YrelHandOfFreedom|Active",
+    "value": "Otorgas a un héroe aliado un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> de velocidad de movimiento durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s, y eliminas todos los efectos de ralentización e inmovilización que le afecten."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelRighteousHammerChannel|YrelRighteousHammer|W",
+    "value": "Atacas en arco con tu martillo, lo que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos frente a ti y los repele.<n/><n/>Cargar esta habilidad hace que la distancia de repulsión sea mayor y aumenta el daño que inflige hasta un máximo de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>. Los enemigos golpeados con el martillo cargado al máximo quedan aturdidos durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelRighteousHammerDivinePurpose|YrelRighteousHammer|W",
+    "value": "Atacas en arco con tu martillo, lo que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos frente a ti y los repele.<n/><n/>Cargar esta habilidad hace que la distancia de repulsión sea mayor y aumenta el daño que inflige hasta un máximo de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>. Los enemigos golpeados con el martillo cargado al máximo quedan aturdidos durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelRighteousHammer|YrelRighteousHammer|W",
+    "value": "Atacas en arco con tu martillo, lo que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos frente a ti y los repele.<n/><n/>Cargar esta habilidad hace que la distancia de repulsión sea mayor y aumenta el daño que inflige hasta un máximo de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>. Los enemigos golpeados con el martillo cargado al máximo quedan aturdidos durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelVindicationCast|YrelVindication|Q",
+    "value": "Liberas una oleada de luz sagrada a tu alrededor, lo que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">48</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos cercanos y te cura <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">111</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de salud.<n/><n/>Cargar esta habilidad hace que su daño aumente a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>, y su curación hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">370</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de salud."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelVindication|YrelVindication|Q",
+    "value": "Liberas una oleada de luz sagrada a tu alrededor, lo que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">48</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos cercanos y te cura <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">111</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de salud.<n/><n/>Cargar esta habilidad hace que su daño aumente a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>, y su curación hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">370</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de salud."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/ValeeraCancelStealth|ValeeraCancelStealth|Trait",
+    "value": "Cancela el sigilo."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/cooldownText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/CrusaderHeroicAbilityBlessedShield|CrusaderBlessedShield|Heroic|Level10",
+    "value": "Tiempo de reutilización: 65 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/FirebatHeroicAbilityBunkerDrop|FirebatBunkerDrop|Heroic|Level10",
+    "value": "Tiempo de reutilización: 85 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/RagnarosSulfurasSmash|RagnarosSulfurasSmash|Heroic|Level10",
+    "value": "Tiempo de reutilización: 1 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/WhitemaneIntercession|WhitemaneIntercession|Active|Level7",
+    "value": "Tiempo de reutilización: 60 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/YrelHandOfFreedom|YrelHandOfFreedom|Active|Level4",
+    "value": "Tiempo de reutilización: 40 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/YrelSeraphim|YrelSeraphim|Active|Level20",
+    "value": "Tiempo de reutilización: 20 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/cooldownText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "Tiempo de reutilización: 75 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurCombatStyleBombardStrain|AbathurLocustStrainBombardStrainTalent|Trait|Level13",
+    "value": "Los ataques básicos de las langostas se convierten en ataques de asedio de largo alcance y su duración aumenta un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-0%</c>."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurHeroicAbilityEvolveMonstrosity|AbathurEvolveMonstrosityHotbar|Heroic|Level10",
+    "value": "Transformas a una langosta o esbirro aliados en una monstruosidad. Cuando mueren esbirros enemigos cerca de la monstruosidad, esta obtiene un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c><c val=\"#ColorGray\">~~-0.038462~~</c> de salud y un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> de daño de ataque básico. Se acumula hasta un máximo de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> veces. La monstruosidad, a la que se puede curar con Caparazón, tiene la habilidad de excavar un túnel hasta una ubicación visible cada <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80</c> s.<n/><n/>Si utilizas Simbionte sobre la monstruosidad podrás controlarla, además de disfrutar de los beneficios normales de Simbionte. Puedes reactivar la habilidad heroica para lanzar Simbionte de manera automática en tu monstruosidad."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurMasteryEnvenomedNestsToxicNest|AbathurToxicNestEnvenomedNestTalent|W|Level1",
+    "value": "Los nidos tóxicos infligen un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c> más de daño durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s y reducen en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> la armadura de los héroes enemigos golpeados durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaCleansingFlame|AlexstraszaCleansingFlame|Heroic|Level10",
+    "value": "Después de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c> s, alzas el vuelo y lanzas <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> bolas de fuego en la ubicación de tu cursor durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> s. Las bolas de fuego infligen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">135</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos y curan <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">300</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de vida a los héroes aliados.<n/><n/><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> s después de lanzar todas las bolas de fuego, aterrizas en la ubicación de tu cursor."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaDraconicDisciplineDragonqueen|AlexstraszaDraconicDisciplineDragonqueen|Trait|Level16",
+    "value": "Aumenta la duración de Reina dragón <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> s y la curación de los ataques básicos un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "Reduce el coste de maná de Sacudida de llamas de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Golpea a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60</c> héroes en llamas con Sacudida de llamas.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Golpear a un héroe en llamas con Sacudida de llamas reduce <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> s el tiempo de reutilización de Reina dragón."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaOnRubyWingsCleansingFlame|AlexstraszaOnRubyWingsCleansingFlame|Heroic|Level20",
+    "value": "Curar o dañar a héroes <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> o más veces con Llama purificadora activa Reina dragón durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> s tras aterrizar."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChoFirestarter|ChoFirestarter|W|Level7",
+    "value": "Los ataques básicos contra héroes en llamas reducen el tiempo de reutilización de Fuego devorador <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Pasiva:</c> Reduce <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s el tiempo de reutilización de Fuego devorador. "
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieDragonsBreathDeepBreathing|ChromieDragonsBreathDeepBreathing|W|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Golpea a héroes con Aliento de dragón para aumentar su daño un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5%</c> por héroe golpeado, hasta un máximo de un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Tras golpear a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">9999</c> héroes, reduce <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s el tiempo de reutilización de Aliento de dragón y su coste de maná de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65</c> a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieSandBlastOnceAgainTheFirstTime|ChromieSandBlastOnceAgaintheFirstTime|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Golpea a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> héroes con tu Explosión de arena o la de tus ecos.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Aumenta el número máximo de ecos activos a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> y aumenta el daño de los ecos al <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieTimeTrapChronicConditions|ChromieTimeTrapChronicConditions|E|Level4",
+    "value": "Cuando acaba la detención en el tiempo, los enemigos afectados por Trampa temporal quedan ralentizados un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s y los aliados obtienen un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> de velocidad de movimiento adicional durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DiabloDiabolicalMomentum|DiabloDiabolicalMomentum|Passive|Level7",
+    "value": "Cuando tus ataques básicos infligen daño a algún enemigo, se reduce el tiempo de reutilización de Carga de las sombras y Arrollar <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DiabloMasteryDyingBreathApocalypse|DiabloApocalypseDyingBreathTalent|Heroic|Level20",
+    "value": "El tiempo de reutilización de Apocalipsis se reduce <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c> s por cada héroe enemigo golpeado por Apocalipsis (hasta un mínimo de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> s) y se lanza sin coste al morir."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DiabloTalentLordOfTerror|DiabloLordOfTerror|Active|Level20",
+    "value": "Actívalo para robar un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12%</c> de la salud máxima de héroes enemigos cercanos y obtener <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> almas por cada héroe golpeado."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/FirebatAdrenalineStimpack|FirebatAdrenalineStimpack|Active|Level1",
+    "value": "<c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Pasiva:</c> Mientras tienes más de un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80%</c> de salud, obtienes un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> de velocidad de ataque adicional y un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c> de velocidad de movimiento adicional.<n/><n/>Actívalo para obtener un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85%</c> de velocidad de ataque y un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> de velocidad de movimiento durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallBombsAway|GallBombsAwayTalent|E|Level4",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Daña a un héroe con Explosión rúnica para aumentar su daño en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>, hasta un máximo de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Tras dañar a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> héroes, el alcance y la velocidad de la Bomba rúnica de Cho aumentan un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallLeadenOrb|GallLeadenOrb|W|Level16",
+    "value": "Orbe aterrador aturde a los héroes enemigos durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.6</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallRisingDread|GallRisingDreadTalent|W|Level4",
+    "value": "Cada rebote de Orbe aterrador aumenta su radio un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> y su daño un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>. Activa Orbe aterrador antes de que termine el segundo rebote para revertir la dirección del tercero."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiCyberAgilityPathfinder|GenjiCyberAgilityPathfinder|Trait|Level1",
+    "value": "Al saltar obstáculos del mapa con Ciberagilidad, tu velocidad de movimiento aumenta un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> y obtienes sigilo durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> s.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Pasivo:</c> Tu habilidad heroica te cura un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c> del daño infligido a héroes enemigos, lo que aumenta hasta un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> cuanto más baja sea tu salud."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiDeflectPerfectDefense|GenjiDeflectPerfectDefense|W|Level7",
+    "value": "Bloquear daño con Desvío hace que se reduzca el tiempo de reutilización de dicha habilidad en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s, hasta un máximo de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeFinalCut|GenjiSwiftStrikeFinalCut|E|Level16",
+    "value": "Tras <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s, Corte veloz inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">115</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> más de daño a todos los enemigos en el área."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeFlowLikeWater|GenjiSwiftStrikeFlowLikeWater|E|Level13",
+    "value": "El tiempo de reutilización de Corte veloz se reduce <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s por cada enemigo golpeado."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeStrikeAtTheHeart|GenjiSwiftStrikeStrikeAtTheHeart|E|Level4",
+    "value": "Los enemigos golpeados al final de Corte veloz sufren <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">142</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> más de daño tras <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeSwiftAsTheWind|GenjiSwiftStrikeSwiftAsTheWind|E|Level1",
+    "value": "Golpear a un héroe enemigo con Corte veloz aumenta tu velocidad de movimiento un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c> durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/IllidanMasteryBatteredAssaultSweepingStrike|IllidanSweepingStrikeBatteredAssaultTalent|W|Level1",
+    "value": "Aumenta la duración de la bonificación al daño que otorga Golpe de barrido a los ataques básicos de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> s. Si Golpe de barrido golpea a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> héroes, su bonificación al daño aumenta de un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> a un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisFelClawsWillOfTichondrius|MalGanisFelClawsWillOfTichondrius|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Golpea a héroes con Garras viles para aumentar su daño en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c> de forma permanente.<n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Golpea a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> héroes con los primeros 2\u00A0tajos para que el último golpe aumente su daño en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Al obtener <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> de bonificación de daño, el aturdimiento final aumenta su duración <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c> s y el golpe final roba un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4%</c> de la salud del héroe enemigo."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/NexusHunterFatalWounds|NexusHunterFatalWounds|W|Level1",
+    "value": "Con el máximo de acumulaciones, el sangrado de Ira sangrienta inflige un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> más de daño a los héroes enemigos con menos de un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> de salud.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Inflige daño de sangrado a los héroes enemigos con Ira sangrienta. <n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Después de haber infligido daño de sangrado a héroes con Ira sangrienta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">99999</c> veces, la duración de Ira sangrienta aumenta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ProbiusGatherMineralsPhotonCannonQuest|ProbiusGatherMineralsPhotonCannonQuestTalent|E|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión: </c>Recolecta minerales para aumentar la salud de los cañones de fotones en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>, hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">560</c>. <n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Tras recolectar <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70</c> minerales, los cañones de fotones infligen un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> más de daño."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosBlastWaveEngulfingFlame|RagnarosBlastWaveEngulfingFlame|E|Level1",
+    "value": "Aumenta un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> el daño de Ola explosiva y un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> su radio."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosLavaWaveLavaSurge|RagnarosLavaWaveLavaSurge|Heroic|Level20",
+    "value": "Ola de lava obtiene una carga adicional y su tiempo de reutilización se reduce <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-0</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "Núcleo de magma otorga un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> más de salud y daño, y su tiempo de reutilización se reduce en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-20</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WhitemaneZealPityTheFrail|WhitemaneZealPityTheFrail|W|Level1",
+    "value": "Por cada héroe golpeado con Latigazo abrasador se reduce el tiempo de reutilización de Inquisición <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s. Los aliados con menos de un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> de salud reciben un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> más de curación de ti."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WhitemaneZealScarletWrath|WhitemaneZealScarletWrath|Trait|Level13",
+    "value": "Los ataques básicos contra héroes aumentan la duración de todos los <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">Fervores</c> activos <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75</c> s, restauran un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">%</c> de maná a todos los objetivos de <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">Fervor</c> y reducen <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\"> s el tiempo de reutilización de la activación de 4Fervor</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WitchDoctorVileInfection|WitchDoctorVileInfection|Trait|Level20",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Consigue <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175</c> acumulaciones de Ritual de vudú.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Tras conseguir <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175</c> acumulaciones de Ritual de vudú, también puede aplicarse a héroes y su daño aumenta de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">165</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelHandOfFreedom|YrelHandOfFreedom|Active|Level4",
+    "value": "Otorgas a un héroe aliado un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> de velocidad de movimiento durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s, y eliminas todos los efectos de ralentización e inmovilización que le afecten."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "Actívalo para engendrar <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> langostas en una ubicación cercana."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "Aumenta la salud de las langostas un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200%</c> y su daño un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level1"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "Prole de langostas"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "Instinto de supervivencia"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level1"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "Engendra un grupo de langostas."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "Aumenta la salud y el daño de las langostas."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/lifeType/AbathurEvolvedMonstrosity",
+    "value": "Salud"
+  }
+]

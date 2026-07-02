@@ -1,0 +1,530 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97407_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/:PASSIVE:|YrelDivinePurposeActive|Trait",
+    "value": "Temps de recharge\u00A0:<sp/>16 secondes"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/AbathurLocustSwarm|AbathurLocustSwarm|Active",
+    "value": "Temps de recharge\u00A0: 75 secondes"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/AlexstraszaDragonqueen|AlexstraszaDragonqueen|Trait",
+    "value": "Temps de recharge\u00A0: 130 secondes"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/CrusaderBlessedShield|CrusaderBlessedShield|Heroic",
+    "value": "Temps de recharge\u00A0: 65 secondes"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/CrusaderShieldGlare|CrusaderShieldGlare|E",
+    "value": "Temps de recharge\u00A0:<sp/>13\u00A0secondes"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/FirebatBunkerDrop|FirebatBunkerDrop|Heroic",
+    "value": "Temps de recharge\u00A0: 85 secondes"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MeiOWSnowBlind|MeiOWSnowBlind|Q",
+    "value": "Temps de recharge\u00A0: 2 secondes"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagExplosiveRune|RagnarosBigRagExplosiveRune|E",
+    "value": "Temps de recharge\u00A0: 2.5 secondes"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagMeteorShower|RagnarosBigRagMeteorShower|W",
+    "value": "Temps de recharge\u00A0: 6 secondes"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagMoltenSwing|RagnarosBigRagMoltenSwing|Q",
+    "value": "Temps de recharge\u00A0: 9 secondes"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagSulfurasSmash|RagnarosSulfurasSmash|Heroic",
+    "value": "Temps de recharge\u00A0: 1 seconde"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosMoltenCore|RagnarosMoltenCore|Trait",
+    "value": "Temps de recharge\u00A0: 180 secondes"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosSulfurasSmash|RagnarosSulfurasSmash|Heroic",
+    "value": "Temps de recharge\u00A0: 1 seconde"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/WhitemaneIntercession|WhitemaneIntercession|Active",
+    "value": "Temps de recharge\u00A0: 60 secondes"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelDivinePurpose|YrelDivinePurpose|Trait",
+    "value": "Temps de recharge\u00A0: 16 secondes"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelHandOfFreedom|YrelHandOfFreedom|Active",
+    "value": "Temps de recharge\u00A0: 40 secondes"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelSeraphim|YrelSeraphim|Active",
+    "value": "Temps de recharge\u00A0: 20 secondes"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|WitchDoctorVoodooRitualTrait|Trait",
+    "value": "Les attaques et capacités de base empoisonnent les ennemis non héroïques, leur faisant subir <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts supplémentaires en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> secondes.<n/><n/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête\u00A0:</c> si un serviteur meurt alors qu’il est empoisonné par Rituel vaudou, augmente de façon permanente le maximum de points de vie de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> et celui de points de mana, de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AbathurEvolveMonstrosity|AbathurEvolveMonstrosityHotbar|Heroic",
+    "value": "Transforme un serviteur ou nuisible allié en monstruosité. Chaque serviteur adverse qui meurt à proximité augmente de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c><c val=\"#ColorGray\">~~-0.038462~~</c><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">\u00A0%</c> les points de vie et de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0\u00A0%</c> les dégâts des attaques de base de la monstruosité, cumulable jusqu’à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>\u00A0fois. Carapace peut rendre des points de vie à la monstruosité qui dispose en outre de la capacité à s’enfouir pour ressurgir à un emplacement visible une fois toutes les <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80</c>\u00A0secondes.<n/><n/>Utiliser Symbiote sur la monstruosité permet de la contrôler, en plus des avantages normaux du symbiote. Cette capacité peut être réactivée pour lancer automatiquement Symbiote sur la monstruosité."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AbathurSpawnLocusts|AbathurLocustStrain|Q",
+    "value": "Toutes les <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> secondes, crée un nuisible qui attaque dans la voie la plus proche. Les nuisibles ont une espérance de vie de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c> secondes, <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">225</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de vie et infligent <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">58</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts pour chaque attaque de base, qui inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> de dégâts supplémentaires aux bâtiments ennemis."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AbathurSpawnLocusts|AbathurLocustStrain|Trait",
+    "value": "Toutes les <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> secondes, crée un nuisible qui attaque dans la voie la plus proche. Les nuisibles ont une espérance de vie de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c> secondes, <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">225</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de vie et infligent <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">58</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts pour chaque attaque de base, qui inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> de dégâts supplémentaires aux bâtiments ennemis."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaBreathOfLife|AlexstraszaBreathOfLife|Q",
+    "value": "Rend à un héros allié un montant de points de vie équivalent à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> de ceux dont dispose Alexstrasza."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaCleansingFlameDragonqueen|AlexstraszaCleansingFlameDragonqueen|Heroic",
+    "value": "Alexstrasza s’envole dans les airs et projette <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> boules de feu à l’endroit ciblé en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> secondes. Chaque boule de feu inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">135</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts aux ennemis proches et rend <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">300</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de vie aux héros alliés proches.<n/><n/><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> secondes après avoir lancé sa dernière boule de feu, Alexstrasza se pose à l’endroit du pointeur."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaCleansingFlame|AlexstraszaCleansingFlame|Heroic",
+    "value": "Après <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c> seconde, Alexstrasza s’envole dans les airs et projette <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> boules de feu à l’endroit ciblé en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> secondes. Chaque boule de feu inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">135</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts aux ennemis proches et rend <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">300</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de vie aux héros alliés proches.<n/><n/><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> secondes après avoir lancé sa dernière boule de feu, Alexstrasza se pose à l’endroit du pointeur."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaPreservation|AlexstraszaPreservation|W",
+    "value": "Plante une graine de vie qui germe et fleurit après <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> secondes pour rendre aux héros alliés proches <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> de leur maximum de points de vie."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloFireStomp|DiabloFireStomp|W",
+    "value": "Lance vers l’emplacement ciblé des vagues de feu qui infligent <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">11</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts chacune. Une fois à distance maximale, elles reviennent à Diablo et infligent <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">34</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts supplémentaires. Elles rendent à Diablo un montant de points de vie équivalent à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">130%</c> des dégâts infligés aux héros."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloOverpower|DiabloOverpower|E",
+    "value": "Saisit la cible et l’écrase derrière Diablo, lui inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts et l’étourdit pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c> seconde."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloShadowCharge|DiabloShadowCharge|Q",
+    "value": "Charge sur un ennemi, le repousse, lui inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts et augmente la vitesse de déplacement de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> secondes. Si l’ennemi chargé percute un obstacle, il est étourdi pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> seconde et subit <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts supplémentaires."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloTalentLordOfTerror|DiabloLordOfTerror|Active",
+    "value": "Vole aux héros adverses proches <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12%</c> de leur maximum de points de vie et confère <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> âmes par héros affecté."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/FirebatAdrenalineStimpack|FirebatAdrenalineStimpack|Active",
+    "value": "<c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Effet passif\u00A0:</c> lorsque les points de vie sont supérieurs à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80%</c>, confère une augmentation de la vitesse d’attaque de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> et de la vitesse de déplacement de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c>.<n/><n/>À l'activation, augmente la vitesse d’attaque de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85%</c> et la vitesse de déplacement de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0secondes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/IllidanSweepingStrike|IllidanSweepingStrike|W",
+    "value": "Fonce vers l’endroit ciblé en infligeant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">119</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts aux ennemis sur le chemin. Toucher un ennemi augmente les dégâts des attaques de base de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> secondes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/NexusHunterBloodRage|NexusHunterBloodRage|W",
+    "value": "<c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Effet passif</c>\u00A0: les attaques et les capacités de base font saigner les ennemis, ce qui leur inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">32</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>\u00A0s. Se cumule jusqu’à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0fois.<n/><n/>Qhira inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">32</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts et récupère <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de vie par héros affecté par le saignement. Les dégâts infligés et les points de vie récupérés augmentent de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50\u00A0%</c> par charge présente sur ce héros."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagExplosiveRune|RagnarosBigRagExplosiveRune|E",
+    "value": "Crée une rune qui inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">285</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts aux ennemis autres que les bâtiments après <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> seconde.<n/><n/>Dégâts aux serviteurs, mercenaires et monstres augmentés de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagMeteorShower|RagnarosBigRagMeteorShower|W",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">Ciblage vectoriel</c><n/>Invoque <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0météores, qui s’abattent au point puis dans la direction ciblés. Chacun d’eux inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts et ralentit les ennemis de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35\u00A0%</c> pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0secondes.<n/><n/>Dégâts aux serviteurs, mercenaires et monstres augmentés de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0\u00A0%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagMoltenSwing|RagnarosBigRagMoltenSwing|Q",
+    "value": "Balaye une large zone d’un grand coup avec Sulfuras qui inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts et étourdit les ennemis pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> seconde.<n/><n/>Dégâts aux serviteurs, mercenaires et monstres augmentés de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBlastWave|RagnarosBlastWave|E",
+    "value": "Enveloppe Ragnaros ou un allié de flammes, ce qui augmente sa vitesse de déplacement de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> seconde, puis provoque une explosion qui inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">120</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts aux ennemis proches.<n/><n/><c val=\"D65CFF\" hlt-name=\"#ColorViolet\">Cœur du magma\u00A0: Rune explosive</c><n/>Provoque une explosion à retardement dans une large zone."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosMoltenCore|RagnarosMoltenCore|Trait",
+    "value": "Canalise la capacité sur un fort ou un bastion, allié ou détruit pour le remplacer temporairement par la forme ultime de Ragnaros, gagner de nouvelles capacités et disposer de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5000</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de vie qui se consument en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">23</c> secondes.<n/><n/>Quand ces points de vie sont épuisés, Ragnaros reprend sa forme initiale."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelAvengingWrathChannel|YrelAvengingWrath|E",
+    "value": "Bondit à l’emplacement ciblé et inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts aux ennemis dans la zone en plus de les ralentir de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> seconde.<n/><n/>Charger cette capacité en augmente la portée."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelAvengingWrathDivinePurpose|YrelAvengingWrath|E",
+    "value": "Bondit à l’emplacement ciblé et inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts aux ennemis dans la zone en plus de les ralentir de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> seconde.<n/><n/>Charger cette capacité en augmente la portée."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelAvengingWrath|YrelAvengingWrath|E",
+    "value": "Bondit à l’emplacement ciblé et inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts aux ennemis dans la zone en plus de les ralentir de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> seconde.<n/><n/>Charger cette capacité en augmente la portée."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelHandOfFreedom|YrelHandOfFreedom|Active",
+    "value": "Augmente la vitesse de déplacement d’un héros allié de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> secondes et dissipe les ralentissements et immobilisations qui l’affectent."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelRighteousHammerChannel|YrelRighteousHammer|W",
+    "value": "Donne un puissant coup de marteau qui inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts aux ennemis devant Yrel en plus de les repousser.<n/><n/>Charger cette capacité augmente la distance de repoussement, ainsi que les dégâts qu’elle inflige jusqu’à un maximum de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points. Les ennemis touchés à pleine charge sont étourdis pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> seconde."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelRighteousHammerDivinePurpose|YrelRighteousHammer|W",
+    "value": "Donne un puissant coup de marteau qui inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts aux ennemis devant Yrel en plus de les repousser.<n/><n/>Charger cette capacité augmente la distance de repoussement, ainsi que les dégâts qu’elle inflige jusqu’à un maximum de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points. Les ennemis touchés à pleine charge sont étourdis pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> seconde."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelRighteousHammer|YrelRighteousHammer|W",
+    "value": "Donne un puissant coup de marteau qui inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts aux ennemis devant Yrel en plus de les repousser.<n/><n/>Charger cette capacité augmente la distance de repoussement, ainsi que les dégâts qu’elle inflige jusqu’à un maximum de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points. Les ennemis touchés à pleine charge sont étourdis pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> seconde."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelVindicationCast|YrelVindication|Q",
+    "value": "Déchaîne autour d’Yrel de l’énergie sacrée qui inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">48</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts aux ennemis proches et qui lui rend <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">111</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de vie.<n/><n/>Charger cette capacité augmente ses dégâts jusqu’à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points et les points de vie qu’elle rend jusqu’à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">370</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelVindication|YrelVindication|Q",
+    "value": "Déchaîne autour d’Yrel de l’énergie sacrée qui inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">48</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts aux ennemis proches et qui lui rend <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">111</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de vie.<n/><n/>Charger cette capacité augmente ses dégâts jusqu’à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points et les points de vie qu’elle rend jusqu’à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">370</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/ValeeraCancelStealth|ValeeraCancelStealth|Trait",
+    "value": "Annule le mode camouflé."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/cooldownText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/CrusaderHeroicAbilityBlessedShield|CrusaderBlessedShield|Heroic|Level10",
+    "value": "Temps de recharge\u00A0: 65 secondes"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/FirebatHeroicAbilityBunkerDrop|FirebatBunkerDrop|Heroic|Level10",
+    "value": "Temps de recharge\u00A0: 85 secondes"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/RagnarosSulfurasSmash|RagnarosSulfurasSmash|Heroic|Level10",
+    "value": "Temps de recharge\u00A0: 1 seconde"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/WhitemaneIntercession|WhitemaneIntercession|Active|Level7",
+    "value": "Temps de recharge\u00A0: 60 secondes"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/YrelHandOfFreedom|YrelHandOfFreedom|Active|Level4",
+    "value": "Temps de recharge\u00A0: 40 secondes"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/YrelSeraphim|YrelSeraphim|Active|Level20",
+    "value": "Temps de recharge\u00A0: 20 secondes"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/cooldownText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "Temps de recharge\u00A0: 75 secondes"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurCombatStyleBombardStrain|AbathurLocustStrainBombardStrainTalent|Trait|Level13",
+    "value": "L’attaque de base des nuisibles devient une attaque de siège à longue portée et la durée de vie des nuisibles augmente de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-0%</c>."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurHeroicAbilityEvolveMonstrosity|AbathurEvolveMonstrosityHotbar|Heroic|Level10",
+    "value": "Transforme un serviteur ou nuisible allié en monstruosité. Chaque serviteur adverse qui meurt à proximité augmente de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c><c val=\"#ColorGray\">~~-0.038462~~</c><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">\u00A0%</c> les points de vie et de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0\u00A0%</c> les dégâts des attaques de base de la monstruosité, cumulable jusqu’à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>\u00A0fois. Carapace peut rendre des points de vie à la monstruosité qui dispose en outre de la capacité à s’enfouir pour ressurgir à un emplacement visible une fois toutes les <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80</c>\u00A0secondes.<n/><n/>Utiliser Symbiote sur la monstruosité permet de la contrôler, en plus des avantages normaux du symbiote. Cette capacité peut être réactivée pour lancer automatiquement Symbiote sur la monstruosité."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurMasteryEnvenomedNestsToxicNest|AbathurToxicNestEnvenomedNestTalent|W|Level1",
+    "value": "Nid toxique inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c> de dégâts supplémentaires en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> secondes. et réduit l’armure des héros ennemis touchés de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> secondes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaCleansingFlame|AlexstraszaCleansingFlame|Heroic|Level10",
+    "value": "Après <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c> seconde, Alexstrasza s’envole dans les airs et projette <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> boules de feu à l’endroit ciblé en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> secondes. Chaque boule de feu inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">135</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts aux ennemis proches et rend <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">300</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de vie aux héros alliés proches.<n/><n/><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> secondes après avoir lancé sa dernière boule de feu, Alexstrasza se pose à l’endroit du pointeur."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaDraconicDisciplineDragonqueen|AlexstraszaDraconicDisciplineDragonqueen|Trait|Level16",
+    "value": "Augmente la durée de Reine-dragon de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>\u00A0secondes et les points de vie rendus par les attaques de base de<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\"> 50\u00A0%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "Réduit le coût en mana de Rafale de flammes de<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête\u00A0:</c> toucher <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60</c> héros embrasés avec Rafale de flammes.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Récompense\u00A0:</c> toucher un héros embrasé avec Rafale de flammes réduit le temps de recharge de Reine-dragon de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> secondes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaOnRubyWingsCleansingFlame|AlexstraszaOnRubyWingsCleansingFlame|Heroic|Level20",
+    "value": "Rendre des points de vie ou infliger des dégâts à des héros au moins <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> fois avec Flammes rédemptrices active Reine-dragon pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> secondes à l’atterrissage."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChoFirestarter|ChoFirestarter|W|Level7",
+    "value": "Les attaques de base portées aux héros enflammés réduisent le temps de recharge de Flambée dévorante de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconde.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Effet passif\u00A0:</c> réduit le temps de recharge de Flambée dévorante de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> secondes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieDragonsBreathDeepBreathing|ChromieDragonsBreathDeepBreathing|W|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête\u00A0:</c> toucher des héros adverses avec Dragon de sable augmente ses dégâts de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5%</c>, jusqu’à un maximum de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Récompense\u00A0:</c> une fois <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">9999</c>\u00A0héros touchés, réduit le temps de recharge de Dragon de sable de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>\u00A0secondes et son coût en mana de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65</c> à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieSandBlastOnceAgainTheFirstTime|ChromieSandBlastOnceAgaintheFirstTime|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête\u00A0:</c> toucher <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0héros avec le souffle de sable de Chromie ou de ses échos.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Récompense\u00A0:</c> porte le maximum d’échos actifs à\u00A0<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> et augmente leurs dégâts de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieTimeTrapChronicConditions|ChromieTimeTrapChronicConditions|E|Level4",
+    "value": "À la fin de la stase, la vitesse de déplacement des ennemis affectés par le piège diminue de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> secondes et celle des alliés augmente de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> secondes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DiabloDiabolicalMomentum|DiabloDiabolicalMomentum|Passive|Level7",
+    "value": "Quand les attaques de base de Diablo infligent des dégâts aux ennemis, les temps de recharge de Charge d’ombre et Correction sont réduits de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0secondes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DiabloMasteryDyingBreathApocalypse|DiabloApocalypseDyingBreathTalent|Heroic|Level20",
+    "value": "Réduit le temps de recharge d’Apocalypse de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c> secondes pour chaque héros adverse touché, jusqu’à un minimum de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> secondes. De plus, Apocalypse se déclenche automatiquement quand Diablo meurt."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DiabloTalentLordOfTerror|DiabloLordOfTerror|Active|Level20",
+    "value": "Vole aux héros adverses proches <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12%</c> de leur maximum de points de vie et confère <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> âmes par héros affecté."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/FirebatAdrenalineStimpack|FirebatAdrenalineStimpack|Active|Level1",
+    "value": "<c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Effet passif\u00A0:</c> lorsque les points de vie sont supérieurs à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80%</c>, confère une augmentation de la vitesse d’attaque de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> et de la vitesse de déplacement de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c>.<n/><n/>À l'activation, augmente la vitesse d’attaque de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85%</c> et la vitesse de déplacement de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0secondes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallBombsAway|GallBombsAwayTalent|E|Level4",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête\u00A0:</c> toucher un héros avec Explosion runique augmente ses dégâts de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> points, jusqu’à un maximum de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> points.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Récompense\u00A0:</c> une fois <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> héros touchés, augmente les portée et vitesse de Bombe runique de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallLeadenOrb|GallLeadenOrb|W|Level16",
+    "value": "Orbe funeste étourdit les héros adverses pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.6</c>\u00A0secondes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallRisingDread|GallRisingDreadTalent|W|Level4",
+    "value": "Chaque rebond d’Orbe funeste augmente son aire d’effet de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> et ses dégâts de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>. Activer Orbe funeste avant la fin du second rebond inverse la trajectoire du troisième rebond."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiCyberAgilityPathfinder|GenjiCyberAgilityPathfinder|Trait|Level1",
+    "value": "Franchir un obstacle avec Agilité cybernétique augmente la vitesse de déplacement de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30\u00A0%</c> et confère camouflage pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0secondes.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\"> Effet passif\u00A0:</c> la capacité héroïque de Genji lui rend <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10\u00A0%</c> des dégâts infligés aux héros adverses et jusqu’à un maximum de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30\u00A0%</c> si les points de vie de Genji sont bas."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiDeflectPerfectDefense|GenjiDeflectPerfectDefense|W|Level7",
+    "value": "Chaque source de dégâts bloquée réduit le temps de recharge de Riposte de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> secondes, jusqu’à un maximum de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeFinalCut|GenjiSwiftStrikeFinalCut|E|Level16",
+    "value": "Après <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>\u00A0s, un écho de Frappe du vent inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">115</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts supplémentaires aux ennemis sur sa trajectoire."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeFlowLikeWater|GenjiSwiftStrikeFlowLikeWater|E|Level13",
+    "value": "Toucher des héros adverses avec Frappe du vent réduit son temps de recharge de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> secondes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeStrikeAtTheHeart|GenjiSwiftStrikeStrikeAtTheHeart|E|Level4",
+    "value": "En bout de trajectoire, Frappe du vent inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">142</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts supplémentaires après <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>\u00A0s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeSwiftAsTheWind|GenjiSwiftStrikeSwiftAsTheWind|E|Level1",
+    "value": "Toucher un héros adverse avec Frappe du vent augmente la vitesse de déplacement de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c> pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> secondes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/IllidanMasteryBatteredAssaultSweepingStrike|IllidanSweepingStrikeBatteredAssaultTalent|W|Level1",
+    "value": "Augmente la durée du bonus aux dégâts des attaque de base conféré par Voie des lames de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> secondes. Si Voie des lames touche au moins <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> héros, porte son bonus aux dégâts de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisFelClawsWillOfTichondrius|MalGanisFelClawsWillOfTichondrius|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête\u00A0:</c> frapper des héros avec Griffes gangrenées pour augmenter ses dégâts de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c>\u00A0points de manière permanente.<n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête\u00A0:</c> frapper <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>\u00A0héros lors des 2\u00A0premiers coups pour que le dernier coup augmente les dégâts de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>\u00A0points.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Récompense\u00A0:</c> au bout de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>\u00A0points de dégâts bonus, l’étourdissement final est prolongé de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c>\u00A0secondes et le coup final vole <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4%</c> des points de vie des héros adverses."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/NexusHunterFatalWounds|NexusHunterFatalWounds|W|Level1",
+    "value": "Au maximum de charges, le saignement de Soif de sang inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> de dégâts supplémentaires aux héros adverses disposant de moins de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> de leur maximum de points de vie.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête\u00A0:</c> infliger des dégâts de saignement aux héros adverses.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Récompense\u00A0:</c> une fois des dégâts de saignement de Soif de sang infligés à des héros à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">99999</c> reprises, la durée de Soif de sang augmente de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> secondes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ProbiusGatherMineralsPhotonCannonQuest|ProbiusGatherMineralsPhotonCannonQuestTalent|E|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête\u00A0:</c> récolter du minerai augmente la vie des canons à photons de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>\u00A0points, jusqu’à un maximum de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">560</c>. <n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Récompense\u00A0:</c> une fois <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70</c>\u00A0unités de minerai récoltées, les canons à photons infligent <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> de dégâts supplémentaires."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosBlastWaveEngulfingFlame|RagnarosBlastWaveEngulfingFlame|E|Level1",
+    "value": "Augmente les dégâts de Vague explosive de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> et son rayon de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosLavaWaveLavaSurge|RagnarosLavaWaveLavaSurge|Heroic|Level20",
+    "value": "Vague de lave obtient une seconde charge et son temps de recharge est réduit de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-0</c> secondes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "Augmente les points de vie et les dégâts infligés de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> pendant Cœur du Magma, et réduit son temps de recharge de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-20</c> secondes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WhitemaneZealPityTheFrail|WhitemaneZealPityTheFrail|W|Level1",
+    "value": "Le temps de recharge d’Inquisition est réduit de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> secondes pour chaque héros touché par Flagellation. Les points de vie rendus par Blanchetête augmentent de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> quand l’allié a moins de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> de son maximum de points de vie."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WhitemaneZealScarletWrath|WhitemaneZealScarletWrath|Trait|Level13",
+    "value": "Les attaques de base portées aux héros augmentent la durée de tous les <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">Zèles</c> actifs de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75</c>\u00A0secondes, restaurent <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">%</c> du mana de toutes les cibles de <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">Zèle</c> et réduisent le temps de recharge de l’activation de <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">Zèle</c> de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>\u00A0secondes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WitchDoctorVileInfection|WitchDoctorVileInfection|Trait|Level20",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête\u00A0:</c> atteindre <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175</c> cumuls de Rituel vaudou.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Récompense\u00A0:</c> une fois <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175</c> cumuls obtenus, augmente les dégâts de Rituel vaudou de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">165</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> secondes et le rend applicable aux héros."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelHandOfFreedom|YrelHandOfFreedom|Active|Level4",
+    "value": "Augmente la vitesse de déplacement d’un héros allié de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> secondes et dissipe les ralentissements et immobilisations qui l’affectent."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "Donne naissance à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> nuisibles à un endroit proche."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "Augmente les points de vie des nuisibles de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200%</c> et les dégâts qu’ils infligent de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level1"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "Couvée de nuisibles"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "Instinct de survie"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level1"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "Génère un groupe de nuisibles."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "Augmente les points de vie et les dégâts des nuisibles."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/lifeType/AbathurEvolvedMonstrosity",
+    "value": "Vie"
+  }
+]
