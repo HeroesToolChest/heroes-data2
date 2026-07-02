@@ -1,0 +1,530 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97407_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/:PASSIVE:|YrelDivinePurposeActive|Trait",
+    "value": "冷却时间：16 秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/AbathurLocustSwarm|AbathurLocustSwarm|Active",
+    "value": "冷却时间：75秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/AlexstraszaDragonqueen|AlexstraszaDragonqueen|Trait",
+    "value": "冷却时间：130秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/CrusaderBlessedShield|CrusaderBlessedShield|Heroic",
+    "value": "冷却时间：65秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/CrusaderShieldGlare|CrusaderShieldGlare|E",
+    "value": "冷却时间：13秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/FirebatBunkerDrop|FirebatBunkerDrop|Heroic",
+    "value": "冷却时间：85秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MeiOWSnowBlind|MeiOWSnowBlind|Q",
+    "value": "冷却时间：2秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagExplosiveRune|RagnarosBigRagExplosiveRune|E",
+    "value": "冷却时间：2.5秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagMeteorShower|RagnarosBigRagMeteorShower|W",
+    "value": "冷却时间：6秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagMoltenSwing|RagnarosBigRagMoltenSwing|Q",
+    "value": "冷却时间：9秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagSulfurasSmash|RagnarosSulfurasSmash|Heroic",
+    "value": "冷却时间：1秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosMoltenCore|RagnarosMoltenCore|Trait",
+    "value": "冷却时间：180秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosSulfurasSmash|RagnarosSulfurasSmash|Heroic",
+    "value": "冷却时间：1秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/WhitemaneIntercession|WhitemaneIntercession|Active",
+    "value": "冷却时间：60秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelDivinePurpose|YrelDivinePurpose|Trait",
+    "value": "冷却时间：16秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelHandOfFreedom|YrelHandOfFreedom|Active",
+    "value": "冷却时间：40秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelSeraphim|YrelSeraphim|Active",
+    "value": "冷却时间：20秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|WitchDoctorVoodooRitualTrait|Trait",
+    "value": "纳兹波的普通攻击和技能使非英雄敌人中毒，在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>秒内造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点额外伤害。<n/><n/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任务：</c>如果小兵在巫毒祭典效果期间死亡，纳兹波永久获得<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>点生命值和<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>点法力值。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AbathurEvolveMonstrosity|AbathurEvolveMonstrosityHotbar|Heroic",
+    "value": "将友方小兵或蝗虫变成一只畸兽。畸兽附近的敌方小兵或雇佣兵死亡时，它的生命值提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c><c val=\"#ColorGray\">~~-0.038462~~</c>，普通攻击伤害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>，最多提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>次。畸兽可享受甲壳硬化的治疗效果，并且每<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80</c>秒可以使用一次潜地，移动到一个可见位置。<n/><n/>阿巴瑟可以对畸兽使用共生体来控制它，并获得共生体通常的好处。重新使用该技能会自动对畸兽使用共生体。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AbathurSpawnLocusts|AbathurLocustStrain|Q",
+    "value": "每<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c>秒生成一只蝗虫攻击最近的线路。蝗虫持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c>秒，拥有<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">225</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点生命值，每次普通攻击造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">58</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害，对敌方建筑造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>加成伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AbathurSpawnLocusts|AbathurLocustStrain|Trait",
+    "value": "每<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c>秒生成一只蝗虫攻击最近的线路。蝗虫持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c>秒，拥有<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">225</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点生命值，每次普通攻击造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">58</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害，对敌方建筑造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>加成伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaBreathOfLife|AlexstraszaBreathOfLife|Q",
+    "value": "治疗一名友方英雄，数值相当于阿莱克丝塔萨当前生命值的<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaCleansingFlameDragonqueen|AlexstraszaCleansingFlameDragonqueen|Heroic",
+    "value": "飞上天空，在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>秒内向鼠标指针地点投下<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>颗火球。每颗火球对敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">135</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害并治疗友方英雄<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">300</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点生命值。<n/><n/>所有火球发射完毕的<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>秒后，阿莱克丝塔萨降落在鼠标指针地点。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaCleansingFlame|AlexstraszaCleansingFlame|Heroic",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c>秒后飞上天空，在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>秒内向鼠标指针地点投下<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>颗火球。每颗火球对敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">135</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害并治疗友方英雄<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">300</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点生命值。<n/><n/>所有火球投完的<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>秒后，阿莱克丝塔萨降落在鼠标指针地点。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaPreservation|AlexstraszaPreservation|W",
+    "value": "种下一颗治疗之种，在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>秒后绽放，为附近的友方英雄治疗<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>的最大生命值。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloFireStomp|DiabloFireStomp|W",
+    "value": "向目标区域释放出火焰波，每条火焰波造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">11</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害。火焰波达到最远距离后返回，造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">34</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点额外伤害。迪亚波罗获得治疗，数值相当于对英雄造成伤害的<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">130%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloOverpower|DiabloOverpower|E",
+    "value": "抓住目标并将其扔向背后，造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害，并使其昏迷<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloShadowCharge|DiabloShadowCharge|Q",
+    "value": "冲向一名敌人将其击退，造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害，并获得<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>移动速度，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>秒。如果敌人撞上地形，则昏迷<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>秒，并受到额外<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloTalentLordOfTerror|DiabloLordOfTerror|Active",
+    "value": "激活后偷取附近敌方英雄<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12%</c>的最大生命值，并且每击中一名英雄获得<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>个灵魂。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/FirebatAdrenalineStimpack|FirebatAdrenalineStimpack|Active",
+    "value": "<c val=\"00ff90\" hlt-name=\"#AbilityPassive\">被动：</c>当生命值高于<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80%</c>时，获得<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>的攻击速度加成和<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c>的移动速度加成。<n/><n/>激活后攻击速度提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85%</c>，移动速度提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/IllidanSweepingStrike|IllidanSweepingStrike|W",
+    "value": "冲向目标地点，对沿途的敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">119</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害。击中敌人使伊利丹的普通攻击伤害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/NexusHunterBloodRage|NexusHunterBloodRage|W",
+    "value": "<c val=\"00ff90\" hlt-name=\"#AbilityPassive\">被动：</c>普通攻击和技能伤害使敌人流血，在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>秒内造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">32</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害。可叠加<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>次。<n/><n/>琪拉对受影响的英雄造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">32</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害，每一名受影响的敌方英雄可以使琪拉恢复<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点生命值。 每多叠加一层血怒，该技能造成的伤害和治疗就提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagExplosiveRune|RagnarosBigRagExplosiveRune|E",
+    "value": "召唤一个符文，<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c>秒后对非建筑敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">285</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害。<n/><n/>对小兵、雇佣兵和怪物的伤害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagMeteorShower|RagnarosBigRagMeteorShower|W",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">选择方向</c><n/>在目标位置召唤<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>颗流星，并沿着指定方向坠落。每颗流星造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害，并使敌人减速<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c>，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>秒。<n/><n/>对小兵、雇佣兵和怪物的伤害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagMoltenSwing|RagnarosBigRagMoltenSwing|Q",
+    "value": "挥动萨弗拉斯，对大范围内的敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害并使其昏迷<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>秒。<n/><n/>对小兵、雇佣兵和怪物的伤害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBlastWave|RagnarosBlastWave|E",
+    "value": "点燃拉格纳罗斯或一个盟友，使其移动速度提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c>秒，随后引发爆炸对附近敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">120</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害。<n/><n/><c val=\"D65CFF\" hlt-name=\"#ColorViolet\">熔火之心：爆炸符文</c><n/>在大范围内引发延迟爆炸。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosMoltenCore|RagnarosMoltenCore|Trait",
+    "value": "对一座友方或被摧毁的堡垒或要塞引导来用拉格纳罗斯的终极形态将其取代，暂时获得新技能，并拥有<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5000</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点生命值，在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">23</c>秒内递减。<n/><n/>拉格纳罗斯失去所有生命值后回到普通形态。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelAvengingWrathChannel|YrelAvengingWrath|E",
+    "value": "跃向一个区域，对范围内的敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害，使其减速<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c>，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>秒。<n/><n/>充能该技能可以提高其射程。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelAvengingWrathDivinePurpose|YrelAvengingWrath|E",
+    "value": "跃向一个区域，对范围内的敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害，使其减速<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c>，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>秒。<n/><n/>充能该技能可以提高其射程。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelAvengingWrath|YrelAvengingWrath|E",
+    "value": "跃向一个区域，对范围内的敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害，使其减速<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c>，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>秒。<n/><n/>充能该技能可以提高其射程。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelHandOfFreedom|YrelHandOfFreedom|Active",
+    "value": "给予一名友方英雄<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>移动速度加成，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>秒，并且移除其减速和定身效果。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelRighteousHammerChannel|YrelRighteousHammer|W",
+    "value": "挥舞伊瑞尔的锤子，对前方的敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害并将其击退。<n/><n/>充能该技能可以增加击退的距离和伤害，伤害最高可达<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点。敌人若是被充满能量的该技能击中，将昏迷<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelRighteousHammerDivinePurpose|YrelRighteousHammer|W",
+    "value": "挥舞伊瑞尔的锤子，对前方的敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害并将其击退。<n/><n/>充能该技能可以增加击退的距离和伤害，伤害最高可达<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点。敌人若是被充满能量的该技能击中，将昏迷<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelRighteousHammer|YrelRighteousHammer|W",
+    "value": "挥舞伊瑞尔的锤子，对前方的敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害并将其击退。<n/><n/>充能该技能可以增加击退的距离和伤害，伤害最高可达<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点。敌人若是被充满能量的该技能击中，将昏迷<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelVindicationCast|YrelVindication|Q",
+    "value": "在伊瑞尔周围施放神圣的能量，对附近的敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">48</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害并为她恢复<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">111</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点生命值。<n/><n/>充能该技能可以使其伤害最高提高至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点，治疗效果最高提高至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">370</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelVindication|YrelVindication|Q",
+    "value": "在伊瑞尔周围施放神圣的能量，对附近的敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">48</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害并为她恢复<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">111</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点生命值。<n/><n/>充能该技能可以使其伤害最高提高至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点，治疗效果最高提高至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">370</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/ValeeraCancelStealth|ValeeraCancelStealth|Trait",
+    "value": "取消潜行。"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/cooldownText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/CrusaderHeroicAbilityBlessedShield|CrusaderBlessedShield|Heroic|Level10",
+    "value": "冷却时间：65秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/FirebatHeroicAbilityBunkerDrop|FirebatBunkerDrop|Heroic|Level10",
+    "value": "冷却时间：85秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/RagnarosSulfurasSmash|RagnarosSulfurasSmash|Heroic|Level10",
+    "value": "冷却时间：1秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/WhitemaneIntercession|WhitemaneIntercession|Active|Level7",
+    "value": "冷却时间：60秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/YrelHandOfFreedom|YrelHandOfFreedom|Active|Level4",
+    "value": "冷却时间：40秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/YrelSeraphim|YrelSeraphim|Active|Level20",
+    "value": "冷却时间：20秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/cooldownText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "冷却时间：75秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurCombatStyleBombardStrain|AbathurLocustStrainBombardStrainTalent|Trait|Level13",
+    "value": "蝗虫的普通攻击变为远程攻城攻击，并且持续时间延长<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-0%</c>。"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurHeroicAbilityEvolveMonstrosity|AbathurEvolveMonstrosityHotbar|Heroic|Level10",
+    "value": "将友方小兵或蝗虫变成一只畸兽。畸兽附近的敌方小兵或雇佣兵死亡时，它的生命值提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c><c val=\"#ColorGray\">~~-0.038462~~</c>，普通攻击伤害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>，最多提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>次。畸兽可享受甲壳硬化的治疗效果，并且每<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80</c>秒可以使用一次潜地，移动到一个可见位置。<n/><n/>阿巴瑟可以对畸兽使用共生体来控制它，并获得共生体通常的好处。重新使用该技能会自动对畸兽使用共生体。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurMasteryEnvenomedNestsToxicNest|AbathurToxicNestEnvenomedNestTalent|W|Level1",
+    "value": "剧毒巢穴在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>秒内额外造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c>伤害，削减被命中的敌方英雄<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c>点护甲，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaCleansingFlame|AlexstraszaCleansingFlame|Heroic|Level10",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c>秒后飞上天空，在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>秒内向鼠标指针地点投下<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>颗火球。每颗火球对敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">135</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害并治疗友方英雄<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">300</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点生命值。<n/><n/>所有火球投完的<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>秒后，阿莱克丝塔萨降落在鼠标指针地点。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaDraconicDisciplineDragonqueen|AlexstraszaDraconicDisciplineDragonqueen|Trait|Level16",
+    "value": "红龙女王的持续时间延长<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>秒，并且普通攻击的治疗效果提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\"> 50%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "烈焰打击的法力消耗从<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>降低至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任务：</c>用烈焰打击击中<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60</c>名燃烧的英雄。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">奖励：</c>用烈焰打击击中一名燃烧的英雄后，红龙女王的冷却时间缩短<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaOnRubyWingsCleansingFlame|AlexstraszaOnRubyWingsCleansingFlame|Heroic|Level20",
+    "value": "用净化烈焰治疗或伤害英雄至少<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>次后，着陆时激活红龙女王，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChoFirestarter|ChoFirestarter|W|Level7",
+    "value": "对被点燃的英雄进行普通攻击使吞噬耀光的冷却时间缩短<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>秒。<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">被动：</c>吞噬耀光的冷却时间缩短<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieDragonsBreathDeepBreathing|ChromieDragonsBreathDeepBreathing|W|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任务：</c>青铜龙息每次击中英雄使其伤害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5%</c>，最多提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">奖励：</c>击中<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">9999</c>名英雄后，青铜龙息的冷却时间缩短<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>秒，并且消耗的法力值从<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65</c>点减少至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>点。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieSandBlastOnceAgainTheFirstTime|ChromieSandBlastOnceAgaintheFirstTime|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任务：</c>克罗米及其回响用沙尘爆裂击中英雄<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>次。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">奖励：</c>回响的最大激活数提高至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>个，并且回响的伤害提高至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieTimeTrapChronicConditions|ChromieTimeTrapChronicConditions|E|Level4",
+    "value": "在时停结束后，受到时间陷阱影响的敌人移动速度降低<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>秒，受影响的盟友则移动速度提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DiabloDiabolicalMomentum|DiabloDiabolicalMomentum|Passive|Level7",
+    "value": "迪亚波罗的普通攻击对敌人造成伤害时，可以使暗影冲锋和压制的冷却时间缩短<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DiabloMasteryDyingBreathApocalypse|DiabloApocalypseDyingBreathTalent|Heroic|Level20",
+    "value": "末世浩劫每击中一名敌方英雄其冷却时间缩短<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c>秒，最多可缩短至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>秒，并且迪亚波罗死亡时该技能会自动施放。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DiabloTalentLordOfTerror|DiabloLordOfTerror|Active|Level20",
+    "value": "激活后偷取附近敌方英雄<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12%</c>的最大生命值，并且每击中一名英雄获得<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>个灵魂。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/FirebatAdrenalineStimpack|FirebatAdrenalineStimpack|Active|Level1",
+    "value": "<c val=\"00ff90\" hlt-name=\"#AbilityPassive\">被动：</c>当生命值高于<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80%</c>时，获得<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>的攻击速度加成和<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c>的移动速度加成。<n/><n/>激活后攻击速度提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85%</c>，移动速度提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallBombsAway|GallBombsAwayTalent|E|Level4",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任务：</c>用符文冲击对英雄造成伤害可使该技能的伤害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>点，最多<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>点。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">奖励：</c>对<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>个英雄造成伤害后，古的符文炸弹的射程和速度提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallLeadenOrb|GallLeadenOrb|W|Level16",
+    "value": "恐惧之球击晕敌方英雄<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.6</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallRisingDread|GallRisingDreadTalent|W|Level4",
+    "value": "恐惧之球每次弹跳使其范围扩大<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>，并且伤害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>。在第二次弹跳结束之前激活恐惧之球可以使第三次弹跳朝着相反的方向前进。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiCyberAgilityPathfinder|GenjiCyberAgilityPathfinder|Trait|Level1",
+    "value": "使用“灵”跃过地形使源氏的移动速度提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c>并获得潜行，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>秒。<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">被动：</c>源氏的终极技能为其恢复相当于对敌方英雄造成伤害量<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c>的生命值，源氏的生命值越低，治疗量越高，最多<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiDeflectPerfectDefense|GenjiDeflectPerfectDefense|W|Level7",
+    "value": "反弹伤害使“闪”的冷却时间缩短<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>秒，最多缩短<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeFinalCut|GenjiSwiftStrikeFinalCut|E|Level16",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>秒后，“影”对范围内的所有敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">115</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点额外伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeFlowLikeWater|GenjiSwiftStrikeFlowLikeWater|E|Level13",
+    "value": "“影”每击中一个敌方英雄使其冷却时间缩短<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeStrikeAtTheHeart|GenjiSwiftStrikeStrikeAtTheHeart|E|Level4",
+    "value": "在“影”的终点位置被击中的敌人在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">142</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>秒后受到<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>点额外伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeSwiftAsTheWind|GenjiSwiftStrikeSwiftAsTheWind|E|Level1",
+    "value": "“影”击中敌方英雄使源氏的移动速度提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c>，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/IllidanMasteryBatteredAssaultSweepingStrike|IllidanSweepingStrikeBatteredAssaultTalent|W|Level1",
+    "value": "扫荡打击的普通攻击伤害加成的持续时间从<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>秒延长至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>秒。如果扫荡打击击中<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>个英雄，伤害加成从<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>提高至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisFelClawsWillOfTichondrius|MalGanisFelClawsWillOfTichondrius|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任务：</c>用邪能之爪命中英雄，使邪能之爪的伤害永久提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c>点。<n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任务：</c>在前2次挥砍中命中<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>名英雄，使最后一击的伤害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>点。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">奖励：</c>获得<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>点额外伤害后，最后一击的昏迷时间延长<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c>秒，且最后一击会偷取敌方英雄<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4%</c>的生命值。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/NexusHunterFatalWounds|NexusHunterFatalWounds|W|Level1",
+    "value": "当层数叠满时，血怒对生命值低于<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>的敌方英雄造成的流血伤害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任务：</c>对敌方英雄造成流血伤害。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">奖励：</c>在血怒的流血效果对英雄造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">99999</c>次伤害后，血怒的持续时间增加<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ProbiusGatherMineralsPhotonCannonQuest|ProbiusGatherMineralsPhotonCannonQuestTalent|E|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任务：</c>采集晶体矿使光子炮台的生命值提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>点，最多提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">560</c>点。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">奖励：</c>收集<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70</c>个晶体矿后，光子炮台的伤害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosBlastWaveEngulfingFlame|RagnarosBlastWaveEngulfingFlame|E|Level1",
+    "value": "冲击波的伤害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>，范围扩大<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosLavaWaveLavaSurge|RagnarosLavaWaveLavaSurge|Heroic|Level20",
+    "value": "熔岩波浪获得额外一次使用次数，并且冷却时间缩短<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-0</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "熔火之心的生命值和伤害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>，并且冷却时间缩短<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-20</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WhitemaneZealPityTheFrail|WhitemaneZealPityTheFrail|W|Level1",
+    "value": "灼痛鞭笞每击中一名英雄，血色审讯的冷却时间就减少<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>秒。生命值低于<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c>的盟友可从怀特迈恩处获得<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>的额外治疗。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WhitemaneZealScarletWrath|WhitemaneZealScarletWrath|Trait|Level13",
+    "value": "对英雄进行普通攻击可以使所有激活的<c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">狂热</c>持续时间延长<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75</c>秒，为所有<c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">狂热</c>的目标回复<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">%</c>的法力值，并使激活<c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">狂热</c>的冷却时间缩短<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WitchDoctorVileInfection|WitchDoctorVileInfection|Trait|Level20",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任务：</c>获得<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175</c>层巫毒祭典。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">奖励：</c>获得<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175</c>层巫毒祭典后，该效果还可以对英雄生效，并且在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>秒内造成的伤害从<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>提高至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">165</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelHandOfFreedom|YrelHandOfFreedom|Active|Level4",
+    "value": "给予一名友方英雄<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>移动速度加成，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>秒，并且移除其减速和定身效果。"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "激活后在附近孵化<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>只蝗虫。"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "蝗虫的生命值提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200%</c>，伤害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c>。"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level1"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "蝗虫大军"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "生存本能"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level1"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "孵化一组蝗虫"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "提高蝗虫的生命值和伤害"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/lifeType/AbathurEvolvedMonstrosity",
+    "value": "生命值"
+  }
+]

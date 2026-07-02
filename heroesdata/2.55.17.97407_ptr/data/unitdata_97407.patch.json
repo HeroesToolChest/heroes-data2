@@ -1,0 +1,67 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97407_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/items/AbathurLocust/life/amount",
+    "value": 225
+  },
+  {
+    "op": "replace",
+    "path": "/items/AbathurLocust/life/regenRate",
+    "value": -13.2353
+  },
+  {
+    "op": "replace",
+    "path": "/items/AbathurLocustAssaultStrain/life/amount",
+    "value": 225
+  },
+  {
+    "op": "replace",
+    "path": "/items/AbathurLocustAssaultStrain/life/regenRate",
+    "value": -13.2353
+  },
+  {
+    "op": "replace",
+    "path": "/items/AbathurLocustAssaultStrain/life/regenScale",
+    "value": 0.04
+  },
+  {
+    "op": "replace",
+    "path": "/items/AbathurLocustBombardStrain/life/amount",
+    "value": 225
+  },
+  {
+    "op": "replace",
+    "path": "/items/AbathurLocustBombardStrain/life/regenRate",
+    "value": -6.6176
+  },
+  {
+    "op": "replace",
+    "path": "/items/AbathurLocustBombardStrain/life/regenScale",
+    "value": 0.04
+  },
+  {
+    "op": "replace",
+    "path": "/items/AbathurLocustNormal/life/amount",
+    "value": 225
+  },
+  {
+    "op": "replace",
+    "path": "/items/AbathurLocustNormal/life/regenRate",
+    "value": -13.2353
+  },
+  {
+    "op": "replace",
+    "path": "/items/AbathurLocustNormal/life/regenScale",
+    "value": 0.04
+  },
+  {
+    "op": "replace",
+    "path": "/items/ChromieTimeTrap/life/amount",
+    "value": 250
+  }
+]

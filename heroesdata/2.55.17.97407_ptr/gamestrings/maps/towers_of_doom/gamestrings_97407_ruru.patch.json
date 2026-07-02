@@ -1,0 +1,262 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Towers of Doom"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/L3MoonwellMorph|L3MoonwellMorph|Q",
+    "value": "Преобразование лунного колодца 3-го уровня"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/L3StandaloneTowerMorph|L3StandaloneTowerMorph|Q",
+    "value": "Преобразование отдельной башни 3-го уровня"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/L3TownMorph|L3TownMorph|Q",
+    "value": "Преобразование крепости 3-го уровня"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercGoblinSapperSuicide|MercGoblinSapperSuicide|Q",
+    "value": "Наемник - самоуничтожение гоблина-сапера"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostAltarDamage",
+    "value": "~AwardValue~% урона по цитадели"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostAltarDamage",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Канонир,Канонир</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostAltarDamage",
+    "value": "Урон по цитадели: ~TooltipAmount~ ед."
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostAltarDamage",
+    "value": "Наибольший объем урона, нанесенного с помощью алтарей"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseAvatarUnit",
+    "value": "База - аватара"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionCannonExtraHigh",
+    "value": "Base Protection Cannon Extra High"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionCannonHigh",
+    "value": "База - защитное орудие - верх"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionCannonLow",
+    "value": "База - защитное орудие - низ"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionCannonMid",
+    "value": "База - защитное орудие - середина"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionTowerGround",
+    "value": "База - защитная башня - площадка"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionTowerHigh",
+    "value": "База - защитная башня - верх"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionTowerMid",
+    "value": "База - защитная башня - середина"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionTowerMissile",
+    "value": "База - защитная башня - снаряд"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BombChest",
+    "value": "Сундук с бомбой"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BombStructureItem",
+    "value": "Подрыв строения: предмет"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BossMercCampCannonMissile",
+    "value": "Босс - лагерь наемников - снаряд орудия"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FortressArchwayCurvedDL",
+    "value": "Крепостная арка - прямая - изгиб влево вниз"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FortressArchwayCurvedDR",
+    "value": "Крепостная арка - прямая - изгиб вправо вниз"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FortressArchwayCurvedUL",
+    "value": "Крепостная арка - прямая - изгиб влево вверх"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FortressArchwayCurvedUR",
+    "value": "Крепостная арка - прямая - изгиб вправо вверх"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FortressArchwayVerticalLeft",
+    "value": "Крепостная арка - прямая - вертикальный изгиб влево"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FortressArchwayVerticalRight",
+    "value": "Крепостная арка - прямая - вертикальный изгиб вправо"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LandGrabCannonTower",
+    "value": "Захват области - артиллерийская башня"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MapEventNecromancerCannonMissile",
+    "value": "Событие - Некромант - орудийный снаряд"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MapEventRavenLordCannonMissile",
+    "value": "Событие - Повелитель воронов - орудийный снаряд"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderGoblinSapperAttackMissile",
+    "value": "Наемник - защитник - гоблин-сапер - снаряд (атака)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperDefender",
+    "value": "Сапер"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperLaner",
+    "value": "Сапер"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercHorsemanDefender",
+    "value": "Всадник без головы"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercHorsemanFlyingHead",
+    "value": "Голова Всадника"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercHorsemanFlyingHeadFireballMissile",
+    "value": "Наемник - всадник - летящая голова - огненный снаряд"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercHorsemanLaner",
+    "value": "Слуга Всадника"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercHorsemanReturningHeadMissile",
+    "value": "Наемник - всадник - возврат головы - снаряд"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerGoblinSapperAttackMissile",
+    "value": "Наемник - на линии - гоблин-сапер - снаряд (атака)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerGoblinSapperCoreMortarMissile",
+    "value": "Наемник - на линии - гоблин-сапер - подрывной снаряд"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerGoblinSapperMeleeAttackInvisibleMissile",
+    "value": "Наемник - на линии - гоблин-сапер - атака ближнего боя - невидимый снаряд"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercWinterCrestHorsemanEntrance",
+    "value": "Наемник - зимний герб - появление всадника"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/NecromancerAvatarUnit",
+    "value": "Аватара Некроманта - объект"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/NeutralTownCaptureBeacon",
+    "value": "Нейтральная крепость - точка захвата"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PathingBlockerToDWall",
+    "value": "Pathing Blocker (ToD Wall)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/RavenLordAvatarUnit",
+    "value": "Аватара Повелителя воронов - объект"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ScoringAltar",
+    "value": "Алтарь"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ScoringCaptureBeacon",
+    "value": "Маяк"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SpiritHealer",
+    "value": "Целитель душ"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WaygateEntrance",
+    "value": "Туннель"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WaygateEntranceMinimapIconActor",
+    "value": "Портал - вход - агент значка на мини-карте"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WaygateUnit",
+    "value": "Выход из туннеля"
+  }
+]

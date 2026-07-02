@@ -1,0 +1,530 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97407_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/:PASSIVE:|YrelDivinePurposeActive|Trait",
+    "value": "재사용 대기시간: 16초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/AbathurLocustSwarm|AbathurLocustSwarm|Active",
+    "value": "재사용 대기시간: 75초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/AlexstraszaDragonqueen|AlexstraszaDragonqueen|Trait",
+    "value": "재사용 대기시간: 130초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/CrusaderBlessedShield|CrusaderBlessedShield|Heroic",
+    "value": "재사용 대기시간: 65초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/CrusaderShieldGlare|CrusaderShieldGlare|E",
+    "value": "재사용 대기시간: 13초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/FirebatBunkerDrop|FirebatBunkerDrop|Heroic",
+    "value": "재사용 대기시간: 85초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MeiOWSnowBlind|MeiOWSnowBlind|Q",
+    "value": "재사용 대기시간: 2초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagExplosiveRune|RagnarosBigRagExplosiveRune|E",
+    "value": "재사용 대기시간: 2.5초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagMeteorShower|RagnarosBigRagMeteorShower|W",
+    "value": "재사용 대기시간: 6초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagMoltenSwing|RagnarosBigRagMoltenSwing|Q",
+    "value": "재사용 대기시간: 9초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagSulfurasSmash|RagnarosSulfurasSmash|Heroic",
+    "value": "재사용 대기시간: 1초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosMoltenCore|RagnarosMoltenCore|Trait",
+    "value": "재사용 대기시간: 180초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosSulfurasSmash|RagnarosSulfurasSmash|Heroic",
+    "value": "재사용 대기시간: 1초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/WhitemaneIntercession|WhitemaneIntercession|Active",
+    "value": "재사용 대기시간: 60초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelDivinePurpose|YrelDivinePurpose|Trait",
+    "value": "재사용 대기시간: 16초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelHandOfFreedom|YrelHandOfFreedom|Active",
+    "value": "재사용 대기시간: 40초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelSeraphim|YrelSeraphim|Active",
+    "value": "재사용 대기시간: 20초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|WitchDoctorVoodooRitualTrait|Trait",
+    "value": "일반 공격과 기술이 영웅이 아닌 적들을 중독시켜 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>초에 걸쳐 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 추가 피해를 줍니다.<n/><n/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">퀘스트:</c> 돌격병이 부두 의식에 중독된 상태로 죽으면 최대 생명력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>, 최대 마나가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> 영구히 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AbathurEvolveMonstrosity|AbathurEvolveMonstrosityHotbar|Heroic",
+    "value": "아군 돌격병이나 식충을 흉물로 진화시킵니다. 흉물 주위에서 적 돌격병이 죽으면 흉물의 생명력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c><c val=\"#ColorGray\">~~-0.038462~~</c> 증가하고 일반 공격력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> 증가합니다. 이 효과는 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>회 중첩됩니다. 흉물은 갑피로 생명력을 회복할 수 있으며, 시야가 확보된 곳으로 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80</c>초마다 굴 파기 기술을 사용할 수 있습니다.<n/><n/>흉물에 공생체를 사용하면, 공생체의 기술을 사용하면서 흉물을 조종할 수 있습니다. 흉물을 소환한 후 이 기술을 다시 사용하면 자동으로 흉물에게 공생체를 사용합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AbathurSpawnLocusts|AbathurLocustStrain|Q",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c>초마다 식충을 생성합니다. 식충은 가장 가까운 공격로에 합류하여 적을 공격합니다. 식충은 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c>초 동안 지속되며 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">58</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 일반 공격력과 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">225</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 생명력을 지닙니다. 구조물에는 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>의 추가 피해를 줍니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AbathurSpawnLocusts|AbathurLocustStrain|Trait",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c>초마다 식충을 생성합니다. 식충은 가장 가까운 공격로에 합류하여 적을 공격합니다. 식충은 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c>초 동안 지속되며 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">58</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 일반 공격력과 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">225</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 생명력을 지닙니다. 구조물에는 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>의 추가 피해를 줍니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaBreathOfLife|AlexstraszaBreathOfLife|Q",
+    "value": "자신의 현재 생명력의 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>만큼 아군 영웅의 생명력을 회복시킵니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaCleansingFlameDragonqueen|AlexstraszaCleansingFlameDragonqueen|Heroic",
+    "value": "하늘로 날아올라 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>초에 걸쳐 마우스 커서의 위치에 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>개의 화염구를 떨어뜨려 아군 영웅들의 생명력을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">300</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> 회복시키고 적에게는 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">135</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다.<n/><n/>모든 화염구를 떨어뜨리고 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>초 후에 마우스 커서 위치에 착지합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaCleansingFlame|AlexstraszaCleansingFlame|Heroic",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c>초 후, 하늘로 날아올라 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>초 동안 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>초마다 마우스 커서의 위치에 화염구를 떨어뜨려 아군 영웅들의 생명력을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">300</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> 회복시키고 적에게는 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">135</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다.<n/><n/>모든 화염구를 떨어뜨리고 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>초 후에 마우스 커서 위치에 착지합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaPreservation|AlexstraszaPreservation|W",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>초 후에 꽃을 피우는 생명의 씨앗을 심습니다. 씨앗이 꽃을 피우면 주위 아군 영웅들의 최대 생명력의 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>를 회복시킵니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloFireStomp|DiabloFireStomp|W",
+    "value": "대상 방향으로 화염의 파도를 내보내 각각 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">11</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다. 파도가 최대 사거리에 도달하면 되돌아오며 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">34</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다. 적 영웅에게 준 피해의 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">130%</c>만큼 생명력을 회복합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloOverpower|DiabloOverpower|E",
+    "value": "대상을 집어 들고 디아블로 뒤로 메쳐서, <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주고 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c>초 동안 기절시킵니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloShadowCharge|DiabloShadowCharge|Q",
+    "value": "적에게 돌진해 밀쳐내며 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주고 이동 속도가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>초 동안 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> 증가합니다. 대상이 지형에 부딪히면 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>초 동안 기절하고 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 추가로 받습니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/DiabloTalentLordOfTerror|DiabloLordOfTerror|Active",
+    "value": "사용하면 주위 적 영웅들의 최대 생명력의 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12%</c>를 흡수합니다. 적중한 적 영웅 하나당 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>개의 영혼을 얻습니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/FirebatAdrenalineStimpack|FirebatAdrenalineStimpack|Active",
+    "value": "<c val=\"00ff90\" hlt-name=\"#AbilityPassive\">지속 효과:</c> 생명력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80%</c> 이상일 때 공격 속도가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>, 이동 속도가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c> 증가합니다.<n/><n/>사용하면 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>초 동안 공격 속도가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85%</c>, 이동 속도가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/IllidanSweepingStrike|IllidanSweepingStrike|W",
+    "value": "대상 지점을 향해 질주하며 경로에 있는 모든 적에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">119</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다. 적에게 적중하면 일반 공격력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>초 동안 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/NexusHunterBloodRage|NexusHunterBloodRage|W",
+    "value": "<c val=\"00ff90\" hlt-name=\"#AbilityPassive\">지속 효과:</c> 일반 공격과 기술이 적에게 출혈을 일으켜 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>초에 걸쳐 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">32</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다. 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>회 중첩됩니다.<n/><n/>적 영웅에게 적용된 출혈 중첩당 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">32</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주고 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 생명력을 회복합니다. 공격력과 치유량은 대상 영웅의 출혈 중첩당 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>씩 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagExplosiveRune|RagnarosBigRagExplosiveRune|E",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c>초 후에 폭발하여 구조물이 아닌 적에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">285</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주는 룬을 소환합니다.<n/><n/>돌격병, 용병, 괴물에게는 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>의 추가 피해를 줍니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagMeteorShower|RagnarosBigRagMeteorShower|W",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">끌어서 사용</c><n/>대상 위치에 대상 방향으로 떨어지는 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>개의 유성을 소환합니다. 각 유성은 적에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주고 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>초 동안 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c> 느려지게 합니다.<n/><n/>돌격병, 용병, 괴물에게는 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>의 추가 피해를 줍니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagMoltenSwing|RagnarosBigRagMoltenSwing|Q",
+    "value": "설퍼라스를 휘둘러 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주고 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>초 동안 기절시킵니다.<n/><n/>돌격병, 용병, 괴물에게는 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>의 추가 피해를 줍니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBlastWave|RagnarosBlastWave|E",
+    "value": "자신 또는 아군을 불길로 감싸 이동 속도를 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c>초 동안 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> 증가시키고 지속 시간이 끝날 때 주위 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">120</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주게 합니다.<n/><n/><c val=\"D65CFF\" hlt-name=\"#ColorViolet\">화산 심장부: 폭발의 룬</c><n/>일정 시간 후에 넓은 지역에 폭발을 일으킵니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosMoltenCore|RagnarosMoltenCore|Trait",
+    "value": "아군 혹은 파괴된 요새나 성채에 정신을 집중하여 라그나로스의 진정한 모습으로 거듭납니다. 일시적으로 요새나 성채를 대신하게 되며, 새로운 능력을 얻고, <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">23</c>초에 걸쳐 잃는 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5000</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 생명력을 얻습니다.<n/><n/>화산 심장부 상태일 때 생명력이 전부 떨어지면 원래 모습으로 돌아갑니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelAvengingWrathChannel|YrelAvengingWrath|E",
+    "value": "대상 위치로 도약하여 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주고 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>초 동안 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> 느려지게 합니다.<n/><n/>강화할수록 사거리가 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelAvengingWrathDivinePurpose|YrelAvengingWrath|E",
+    "value": "대상 위치로 도약하여 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주고 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>초 동안 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> 느려지게 합니다.<n/><n/>강화할수록 사거리가 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelAvengingWrath|YrelAvengingWrath|E",
+    "value": "대상 위치로 도약하여 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주고 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>초 동안 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> 느려지게 합니다.<n/><n/>강화할수록 사거리가 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelHandOfFreedom|YrelHandOfFreedom|Active",
+    "value": "아군 영웅의 이동 속도를 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>초 동안 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> 증가시키고 대상의 모든 감속 및 이동 불가 효과를 제거합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelRighteousHammerChannel|YrelRighteousHammer|W",
+    "value": "망치를 휘둘러 전방의 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주고 밀쳐냅니다.<n/><n/>강화할수록 밀쳐내는 거리가 증가하고 피해량이 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>까지 증가합니다. 최대로 강화하면 적을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>초 동안 기절시킵니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelRighteousHammerDivinePurpose|YrelRighteousHammer|W",
+    "value": "망치를 휘둘러 전방의 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주고 밀쳐냅니다.<n/><n/>강화할수록 밀쳐내는 거리가 증가하고 피해량이 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>까지 증가합니다. 최대로 강화하면 적을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>초 동안 기절시킵니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelRighteousHammer|YrelRighteousHammer|W",
+    "value": "망치를 휘둘러 전방의 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주고 밀쳐냅니다.<n/><n/>강화할수록 밀쳐내는 거리가 증가하고 피해량이 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>까지 증가합니다. 최대로 강화하면 적을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>초 동안 기절시킵니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelVindicationCast|YrelVindication|Q",
+    "value": "주위에 신성한 힘을 내보내 적에게는 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">48</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주고 자신은 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">111</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 생명력을 회복합니다.<n/><n/>강화할수록 피해량이 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>까지 증가하고 치유량이 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">370</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>까지 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelVindication|YrelVindication|Q",
+    "value": "주위에 신성한 힘을 내보내 적에게는 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">48</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주고 자신은 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">111</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 생명력을 회복합니다.<n/><n/>강화할수록 피해량이 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>까지 증가하고 치유량이 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">370</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>까지 증가합니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/ValeeraCancelStealth|ValeeraCancelStealth|Trait",
+    "value": "은신을 취소합니다."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/cooldownText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/CrusaderHeroicAbilityBlessedShield|CrusaderBlessedShield|Heroic|Level10",
+    "value": "재사용 대기시간: 65초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/FirebatHeroicAbilityBunkerDrop|FirebatBunkerDrop|Heroic|Level10",
+    "value": "재사용 대기시간: 85초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/RagnarosSulfurasSmash|RagnarosSulfurasSmash|Heroic|Level10",
+    "value": "재사용 대기시간: 1초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/WhitemaneIntercession|WhitemaneIntercession|Active|Level7",
+    "value": "재사용 대기시간: 60초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/YrelHandOfFreedom|YrelHandOfFreedom|Active|Level4",
+    "value": "재사용 대기시간: 40초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/YrelSeraphim|YrelSeraphim|Active|Level20",
+    "value": "재사용 대기시간: 20초"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/cooldownText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "재사용 대기시간: 75초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurCombatStyleBombardStrain|AbathurLocustStrainBombardStrainTalent|Trait|Level13",
+    "value": "식충의 지속 시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-0%</c>초 증가하고 일반 공격이 장거리 공격이 됩니다."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurHeroicAbilityEvolveMonstrosity|AbathurEvolveMonstrosityHotbar|Heroic|Level10",
+    "value": "아군 돌격병이나 식충을 흉물로 진화시킵니다. 흉물 주위에서 적 돌격병이 죽으면 흉물의 생명력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c><c val=\"#ColorGray\">~~-0.038462~~</c> 증가하고 일반 공격력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> 증가합니다. 이 효과는 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>회 중첩됩니다. 흉물은 갑피로 생명력을 회복할 수 있으며, 시야가 확보된 곳으로 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80</c>초마다 굴 파기 기술을 사용할 수 있습니다.<n/><n/>흉물에 공생체를 사용하면, 공생체의 기술을 사용하면서 흉물을 조종할 수 있습니다. 흉물을 소환한 후 이 기술을 다시 사용하면 자동으로 흉물에게 공생체를 사용합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurMasteryEnvenomedNestsToxicNest|AbathurToxicNestEnvenomedNestTalent|W|Level1",
+    "value": "독성 둥지가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>초에 걸쳐 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c>의 추가 피해를 주고 적 영웅의 방어력을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>초 동안 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> 감소시킵니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaCleansingFlame|AlexstraszaCleansingFlame|Heroic|Level10",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c>초 후, 하늘로 날아올라 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>초 동안 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>초마다 마우스 커서의 위치에 화염구를 떨어뜨려 아군 영웅들의 생명력을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">300</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> 회복시키고 적에게는 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">135</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다.<n/><n/>모든 화염구를 떨어뜨리고 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>초 후에 마우스 커서 위치에 착지합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaDraconicDisciplineDragonqueen|AlexstraszaDraconicDisciplineDragonqueen|Trait|Level16",
+    "value": "용의 여왕의 지속 시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>초, 일반 공격 치유량이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\"> 50%</c> 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "용의 불씨의 마나 소모량이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>에서 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><lang rule=\"jongsung\">으로,로</lang> 감소합니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">퀘스트:</c> 용의 불씨가 불타는 적 영웅에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60</c>회 적중해야 합니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">보상:</c> 불타는 적 영웅에게 용의 불씨가 적중하면 용의 여왕의 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>초 감소합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaOnRubyWingsCleansingFlame|AlexstraszaOnRubyWingsCleansingFlame|Heroic|Level20",
+    "value": "정화의 불길이 아군 또는 적 영웅에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>번 이상 적중하면 착지 후에 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c>초 동안 용의 여왕이 활성화됩니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChoFirestarter|ChoFirestarter|W|Level7",
+    "value": "잠식하는 불길로 불태운 적 영웅을 일반 공격할 때마다 잠식하는 불길의 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>초 감소합니다.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">지속 효과:</c> 잠식하는 불길의 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>초 감소합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieDragonsBreathDeepBreathing|ChromieDragonsBreathDeepBreathing|W|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">퀘스트:</c> 용의 숨결이 적 영웅에게 적중할 때마다 용의 숨결의 공격력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5%</c> 증가하며 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>까지 증가합니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">보상:</c> 용의 숨결이 적 영웅에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">9999</c>회 적중하면 용의 숨결의 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>초 감소하고 마나 비용이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65</c>에서 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>로 감소합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieSandBlastOnceAgainTheFirstTime|ChromieSandBlastOnceAgaintheFirstTime|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">퀘스트:</c> 자신 또는 환영의 모래 강타가 적 영웅에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>회 적중해야 합니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">보상:</c> 환영을 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> 개까지 활성화할 수 있으며 환영의 공격력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45%</c>로 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieTimeTrapChronicConditions|ChromieTimeTrapChronicConditions|E|Level4",
+    "value": "시간의 덫의 시간 정지 상태가 끝나면 덫의 영향을 받은 적의 이동 속도가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>초 동안 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> 감소하고 아군의 이동 속도는 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>초 동안 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DiabloDiabolicalMomentum|DiabloDiabolicalMomentum|Passive|Level7",
+    "value": "일반 공격으로 적에게 피해를 줄 때마다 암흑의 돌진과 압도의 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>초 감소합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DiabloMasteryDyingBreathApocalypse|DiabloApocalypseDyingBreathTalent|Heroic|Level20",
+    "value": "종말이 적중한 적 영웅 하나당 종말의 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c>초 감소하여 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>초까지 감소합니다. 죽을 때 비용 없이 종말을 시전합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/DiabloTalentLordOfTerror|DiabloLordOfTerror|Active|Level20",
+    "value": "사용하면 주위 적 영웅들의 최대 생명력의 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12%</c>를 흡수합니다. 적중한 적 영웅 하나당 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>개의 영혼을 얻습니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/FirebatAdrenalineStimpack|FirebatAdrenalineStimpack|Active|Level1",
+    "value": "<c val=\"00ff90\" hlt-name=\"#AbilityPassive\">지속 효과:</c> 생명력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80%</c> 이상일 때 공격 속도가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>, 이동 속도가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c> 증가합니다.<n/><n/>사용하면 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>초 동안 공격 속도가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">85%</c>, 이동 속도가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallBombsAway|GallBombsAwayTalent|E|Level4",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">퀘스트:</c> 룬 폭발로 적 영웅에게 피해를 줄 때마다 룬 폭발의 공격력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> 증가하여 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> 증가합니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">보상:</c> 룬 폭발이 적 영웅에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>회 적중하면 초의 룬 폭탄의 사거리가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> 증가합니다.  "
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallLeadenOrb|GallLeadenOrb|W|Level16",
+    "value": "공포의 보주가 적 영웅을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.6</c>초 동안 기절시킵니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallRisingDread|GallRisingDreadTalent|W|Level4",
+    "value": "공포의 보주가 튈 때마다 반경이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> 증가하고 공격력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> 증가합니다. 공포의 보주가 두 번째로 튀기 전에 사용하면 보주가 세 번째로 튈 때 반대로 튑니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiCyberAgilityPathfinder|GenjiCyberAgilityPathfinder|Trait|Level1",
+    "value": "지형 너머로 도약하면 이동 속도가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> 증가하고 은신 상태가 됩니다. <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>초 동안 지속됩니다.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">지속 효과:</c> 궁극기 사용 시 적 영웅에게 입힌 피해의 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c>만큼 생명력을 회복합니다. 겐지의 생명력이 낮을수록 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c>까지 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiDeflectPerfectDefense|GenjiDeflectPerfectDefense|W|Level7",
+    "value": "공격을 튕겨낼 때마다 튕겨내기의 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>초 감소하여 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12</c>초 감소합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeFinalCut|GenjiSwiftStrikeFinalCut|E|Level16",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>초 후, 질풍참의 경로로 분신이 질풍참을 사용하여 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">115</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeFlowLikeWater|GenjiSwiftStrikeFlowLikeWater|E|Level13",
+    "value": "질풍참이 적중한 적 영웅 하나당 질풍참의 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>초 감소합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeStrikeAtTheHeart|GenjiSwiftStrikeStrikeAtTheHeart|E|Level4",
+    "value": "질풍참의 끝부분이 적에게 적중하면 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>초 뒤 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">142</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 추가 피해를 줍니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiSwiftStrikeSwiftAsTheWind|GenjiSwiftStrikeSwiftAsTheWind|E|Level1",
+    "value": "질풍참이 적 영웅에게 적중하면 이동 속도가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>초 동안 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c> 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/IllidanMasteryBatteredAssaultSweepingStrike|IllidanSweepingStrikeBatteredAssaultTalent|W|Level1",
+    "value": "휩쓸기의 일반 공격력 증가 효과의 지속 시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>초에서 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>초로 증가합니다. 휩쓸기가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>명 이상의 적 영웅에게 적중하면 공격력 증가량이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>에서 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65%</c>로 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisFelClawsWillOfTichondrius|MalGanisFelClawsWillOfTichondrius|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">퀘스트:</c> 지옥 발톱이 영웅에게 적중하면 지옥 발톱의 공격력이 영구적으로 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c> 증가합니다.<n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">퀘스트:</c> 처음 2번의 베기에 영웅 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>명이 적중하면 마지막 공격의 피해가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> 증가합니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">보상:</c> 추가 피해가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>으로 증가하면 마지막 기절 시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c>초 증가하고 마지막 공격이 적 영웅의 생명력을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4%</c> 흡수합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/NexusHunterFatalWounds|NexusHunterFatalWounds|W|Level1",
+    "value": "생명력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> 미만인 적 영웅에게 피의 분노가 최대로 중첩되면 대상 영웅에게 주는 출혈 피해가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> 증가합니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">퀘스트:</c> 피의 분노로 적 영웅에게 출혈 피해를 줘야 합니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">보상:</c> 피의 분노로 적 영웅에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">99999</c>회의 출혈 피해를 주면, 피의 분노의 지속 시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>초 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ProbiusGatherMineralsPhotonCannonQuest|ProbiusGatherMineralsPhotonCannonQuestTalent|E|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">퀘스트: </c>광물을 획득하면 광자포의 생명력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> 증가하여 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">560</c> 증가합니다. <n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">보상:</c> 광물을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70</c>개 획득하면 광자포의 공격력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosBlastWaveEngulfingFlame|RagnarosBlastWaveEngulfingFlame|E|Level1",
+    "value": "화염 폭풍의 공격력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> 증가하고 반경이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosLavaWaveLavaSurge|RagnarosLavaWaveLavaSurge|Heroic|Level20",
+    "value": "용암 파도의 충전 횟수가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>회 증가하고 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-0</c>초 감소합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "화산 심장부 상태일 때의 생명력과 공격력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> 증가하고 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-20</c>초 감소합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WhitemaneZealPityTheFrail|WhitemaneZealPityTheFrail|W|Level1",
+    "value": "이글거리는 채찍이 적 영웅에게 적중할 때마다 심문의 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>초 감소합니다. 생명력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> 미만인 아군은 화이트메인에게서 받는 치유량이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WhitemaneZealScarletWrath|WhitemaneZealScarletWrath|Trait|Level13",
+    "value": "적 영웅에게 일반 공격을 하면 활성화된 모든 <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">열의</c>의 지속 시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75</c>초 증가하고 모든 <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">열의</c> 대상의 마나가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">%</c> 회복됩니다. 또한 <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">열의</c> 사용 효과의 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>초 감소합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WitchDoctorVileInfection|WitchDoctorVileInfection|Trait|Level20",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">퀘스트:</c> 부두 의식을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175</c>중첩 이상 획득해야 합니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">보상:</c> 부두 의식을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175</c>중첩 이상 획득하면 부두 의식이 적 영웅에게도 적용되고 공격력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>초에 걸쳐 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>에서 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">165</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><lang rule=\"jongsung\">으로,로</lang> 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelHandOfFreedom|YrelHandOfFreedom|Active|Level4",
+    "value": "아군 영웅의 이동 속도를 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>초 동안 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> 증가시키고 대상의 모든 감속 및 이동 불가 효과를 제거합니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "사용하면 주위 대상 지역에서 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>마리의 식충이 생성됩니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "식충의 생명력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200%</c> 증가하고 공격력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> 증가합니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level1"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "식충 번식"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "생존 본능"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level1"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/AbathurCombatStyleLocustBrood|AbathurLocustSwarm|Active|Level1",
+    "value": "식충 떼 생성"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "식충 생명력 및 공격력 증가"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/lifeType/AbathurEvolvedMonstrosity",
+    "value": "생명력"
+  }
+]
