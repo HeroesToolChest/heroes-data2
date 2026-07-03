@@ -1,0 +1,372 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97449_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.0.1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Abathur/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Alarak/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Alexstrasza/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Amazon/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Ana/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Anduin/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Anubarak/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Artanis/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Arthas/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Auriel/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Azmodan/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Barbarian/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Butcher/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Chen/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Cho/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Chromie/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Crusader/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Deathwing/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Deckard/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Dehaka/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DemonHunter/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Diablo/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Dryad/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DVa/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/FaerieDragon/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Falstad/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Fenix/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Firebat/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Gall/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Garrosh/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Genji/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Greymane/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Guldan/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Hanzo/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Hogger/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Illidan/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Imperius/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Jaina/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Junkrat/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Kaelthas/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/KelThuzad/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Kerrigan/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/L90ETC/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Leoric/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LiLi/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/LostVikings/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Lucio/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Maiev/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Malfurion/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MalGanis/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Malthael/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Medic/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Medivh/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MeiOW/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Mephisto/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Monk/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Muradin/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Murky/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Necromancer/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/NexusHunter/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Nova/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Orphea/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Probius/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Ragnaros/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Raynor/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Rehgar/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Rexxar/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Samuro/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/SgtHammer/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Stitches/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Stukov/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Sylvanas/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Tassadar/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Thrall/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Tinker/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Tracer/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Tychus/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Tyrael/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Tyrande/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Uther/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Valeera/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Varian/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Whitemane/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/WitchDoctor/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Wizard/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Yrel/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Zagara/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Zarya/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Zeratul/roles"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Zuljin/roles"
+  }
+]

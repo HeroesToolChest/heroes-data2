@@ -1,0 +1,6432 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97449_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.0.1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abathur_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abathur_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abathur_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abathur_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abathur_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abathur_mecha_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abathur_mecha_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abathur_mecha_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abathur_mecha_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abathur_mecha_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abathur_mecha_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abathur_mecha_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abathur_mecha_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abathur_mecha_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abathur_mecha_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abathur_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abathur_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abathur_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abathur_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abathur_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abstract_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abstract_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abstract_cool_casesensitive/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abstract_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abstract_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abstract_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abstract_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abstract_rofl_casesensitive/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abstract_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abstract_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abstract_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/abstract_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/alarak_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/alarak_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/alarak_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/alarak_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/alarak_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/alarak_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/alarak_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/alarak_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/alarak_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/alarak_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/alexstrasza_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/alexstrasza_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/alexstrasza_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/alexstrasza_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/alexstrasza_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/alexstrasza_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/alexstrasza_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/alexstrasza_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/alexstrasza_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/alexstrasza_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/alteredfates_greed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/alteredfates_maiev/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/alteredfates_malfurion/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/alteredfates_owl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/alteredfates_tiger/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ana_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ana_army18_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ana_army18_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ana_army18_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ana_army18_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ana_army18_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ana_army18_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ana_army18_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ana_army18_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ana_army18_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ana_army18_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ana_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ana_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ana_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ana_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ana_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ana_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ana_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ana_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ana_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/anduin_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/anduin_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/anduin_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/anduin_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/anduin_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/anduin_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/anduin_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/anduin_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/anduin_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/anduin_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/anubarak_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/anubarak_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/anubarak_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/anubarak_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/anubarak_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/anubarak_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/anubarak_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/anubarak_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/anubarak_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/anubarak_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/artanis_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/artanis_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/artanis_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/artanis_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/artanis_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/artanis_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/artanis_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/artanis_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/artanis_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/artanis_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/arthas_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/arthas_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/arthas_crimsoncount_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/arthas_crimsoncount_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/arthas_crimsoncount_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/arthas_crimsoncount_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/arthas_crimsoncount_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/arthas_crimsoncount_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/arthas_crimsoncount_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/arthas_crimsoncount_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/arthas_crimsoncount_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/arthas_crimsoncount_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/arthas_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/arthas_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/arthas_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/arthas_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/arthas_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/arthas_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/arthas_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/arthas_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/auriel_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/auriel_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/auriel_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/auriel_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/auriel_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/auriel_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/auriel_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/auriel_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/auriel_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/auriel_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/azmodan_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/azmodan_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/azmodan_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/azmodan_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/azmodan_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/azmodan_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/azmodan_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/azmodan_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/azmodan_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/azmodan_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/balls_basketball/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/balls_eightball/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/balls_football/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/balls_soccerball/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/balls_volleyball/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/blaze_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/blaze_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/blaze_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/blaze_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/blaze_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/blaze_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/blaze_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/blaze_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/blaze_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/blaze_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/brightwing_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/brightwing_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/brightwing_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/brightwing_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/brightwing_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/brightwing_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/brightwing_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/brightwing_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/brightwing_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/brightwing_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/butcher_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/butcher_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/butcher_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/butcher_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/butcher_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/butcher_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/butcher_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/butcher_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/butcher_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/butcher_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/carbot_auriel/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/carbot_boom/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/carbot_cain/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/carbot_chromie/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/carbot_diablo/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/carbot_greymane/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/carbot_health_globe/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/carbot_johanna/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/carbot_kaelthas/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/carbot_lunara/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/carbot_minions/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/carbot_murky/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/carbot_nazeebo/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/carbot_orphea/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/carbot_ragnaros/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/carbot_stick_horse/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/carbot_thrall/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/carbot_uther/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/carbot_yrel/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/carbot_zuljin/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/cassia_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/cassia_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/cassia_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/cassia_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/cassia_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/cassia_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/cassia_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/cassia_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/cassia_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/cassia_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/cat_blink_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/cat_dealwithit_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/cat_gleam_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/cat_grumpy_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/cat_puke_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/celebrations_fireworks/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/celebrations_noisemaker/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/celebrations_popper/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/celebrations_present/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/celebrations_toast/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/chen_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/chen_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/chen_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/chen_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/chen_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/chen_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/chen_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/chen_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/chen_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/chen_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/chomp_growl_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/chomp_minion_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/chomp_paku_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/chomp_pet_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/chomp_wave_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/cho_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/cho_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/cho_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/cho_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/cho_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/cho_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/cho_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/cho_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/cho_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/cho_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/chromie_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/chromie_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/chromie_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/chromie_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/chromie_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/chromie_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/chromie_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/chromie_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/chromie_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/chromie_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/craft20_anduin_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/craft20_artanis_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/craft20_arthas_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/craft20_tinker_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/craft20_turret_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/darknexus_alarak/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/darknexus_beast/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/darknexus_deathwing/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/darknexus_dehaka/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/darknexus_fenix/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/darknexus_guldan/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/darknexus_hound/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/darknexus_nexagon/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/darknexus_ravenlord/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/darknexus_tassadar/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/deathwing_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/deathwing_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/deathwing_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/deathwing_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/deathwing_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/deathwing_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/deathwing_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/deathwing_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/deathwing_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/deathwing_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/death_bones/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/death_coffin/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/death_ghost/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/death_grave/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/death_tombstone/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/deckard_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/deckard_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/deckard_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/deckard_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/deckard_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/deckard_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/deckard_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/deckard_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/deckard_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/deckard_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dehaka_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dehaka_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dehaka_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dehaka_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dehaka_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dehaka_mecha_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dehaka_mecha_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dehaka_mecha_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dehaka_mecha_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dehaka_mecha_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dehaka_mecha_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dehaka_mecha_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dehaka_mecha_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dehaka_mecha_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dehaka_mecha_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dehaka_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dehaka_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dehaka_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dehaka_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dehaka_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/diablo_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/diablo_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/diablo_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/diablo_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/diablo_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/diablo_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/diablo_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/diablo_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/diablo_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/diablo_summer18_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/diablo_summer18_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/diablo_summer18_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/diablo_summer18_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/diablo_summer18_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/diablo_summer18_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/diablo_summer18_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/diablo_summer18_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/diablo_summer18_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/diablo_summer18_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/diablo_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dragonknight_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dragonknight_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dragonknight_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dragonknight_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dragonknight_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dragonknight_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dragonknight_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dragonknight_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dragonknight_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dragonknight_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/drink_brew/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/drink_chocomilk/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/drink_cola/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/drink_tea/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/drink_water/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dva_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dva_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dva_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dva_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dva_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dva_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dva_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dva_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dva_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/dva_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/etc_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/etc_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/etc_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/etc_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/etc_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/etc_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/etc_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/etc_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/etc_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/etc_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/eyeball_bloodlust_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/eyeball_cthun_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/eyeball_human_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/eyeball_kilrogg_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/eyeball_ravenlord_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/falstad_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/falstad_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/falstad_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/falstad_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/falstad_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/falstad_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/falstad_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/falstad_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/falstad_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/falstad_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/fenix_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/fenix_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/fenix_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/fenix_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/fenix_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/fenix_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/fenix_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/fenix_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/fenix_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/fenix_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/foodog_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/foodog_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/foodog_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/foodog_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/foodog_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/foodog_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/foodog_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/foodog_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/foodog_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/foodog_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/food_bbq/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/food_cheese/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/food_chips/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/food_ham/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/food_lollipop/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/food_meat/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/food_murkshimi/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/food_noodles/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/food_pineapplepizza/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/food_popcorn/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/food_potato/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/food_riceball/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/food_salt/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/food_sushi/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/food_tofu/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/gall_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/gall_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/gall_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/gall_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/gall_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/gall_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/gall_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/gall_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/gall_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/gall_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/garrosh_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/garrosh_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/garrosh_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/garrosh_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/garrosh_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/garrosh_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/garrosh_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/garrosh_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/garrosh_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/garrosh_summer18_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/garrosh_summer18_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/garrosh_summer18_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/garrosh_summer18_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/garrosh_summer18_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/garrosh_summer18_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/garrosh_summer18_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/garrosh_summer18_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/garrosh_summer18_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/garrosh_summer18_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/garrosh_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/gazlowe_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/gazlowe_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/gazlowe_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/gazlowe_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/gazlowe_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/gazlowe_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/gazlowe_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/gazlowe_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/gazlowe_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/gazlowe_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/genji_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/genji_army18_helmet/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/genji_army18_stars/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/genji_army18_viper/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/genji_army18_well/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/genji_army18_xstrike/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/genji_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/genji_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/genji_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/genji_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/genji_lunar_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/genji_lunar_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/genji_lunar_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/genji_lunar_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/genji_lunar_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/genji_lunar_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/genji_lunar_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/genji_lunar_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/genji_lunar_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/genji_lunar_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/genji_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/genji_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/genji_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/genji_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/genji_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ghost_boogie_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ghost_cheer_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ghost_golfclap_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ghost_rage_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ghost_worry_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/greymane_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/greymane_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/greymane_doctorwolfstein_worgen_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/greymane_doctorwolfstein_worgen_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/greymane_doctorwolfstein_worgen_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/greymane_doctorwolfstein_worgen_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/greymane_doctorwolfstein_worgen_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/greymane_doctorwolfstein_worgen_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/greymane_doctorwolfstein_worgen_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/greymane_doctorwolfstein_worgen_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/greymane_doctorwolfstein_worgen_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/greymane_doctorwolfstein_worgen_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/greymane_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/greymane_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/greymane_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/greymane_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/greymane_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/greymane_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/greymane_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/greymane_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/guldan_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/guldan_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/guldan_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/guldan_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/guldan_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/guldan_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/guldan_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/guldan_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/guldan_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/guldan_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hammer_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hammer_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hammer_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hammer_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hammer_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hammer_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hammer_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hammer_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hammer_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hammer_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_applause/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_applause_gauntlet/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_applause_orc/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_applause_skeletal/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_fingerscrossed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_fingerscrossed_gauntlet/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_fingerscrossed_orc/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_fingerscrossed_skeletal/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_fistbump/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_fistbump_gauntlet/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_fistbump_orc/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_fistbump_skeletal/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_flex/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_flex_gauntlet/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_flex_orc/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_flex_skeletal/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_handshake/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_handshake_gauntlet/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_handshake_orc/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_handshake_skeletal/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_hangloose/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_hangloose_gauntlet/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_hangloose_orc/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_hangloose_skeletal/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_paper/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_paper_gauntlet/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_paper_orc/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_paper_skeletal/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_point/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_point_gauntlet/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_point_orc/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_point_skeletal/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_rock/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_rockon/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_rockon_gauntlet/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_rockon_orc/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_rockon_skeletal/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_rock_gauntlet/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_rock_orc/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_rock_skeletal/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_scissors/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_scissors_gauntlet/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_scissors_orc/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_scissors_skeletal/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_tauren/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_tauren_gauntlet/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_tauren_orc/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_tauren_skeletal/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_thumbsdown/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_thumbsdown_gauntlet/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_thumbsdown_orc/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_thumbsdown_skeletal/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_thumbsup/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_thumbsup_gauntlet/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_thumbsup_orc/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_thumbsup_skeletal/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_zerg/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_zerg_gauntlet/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_zerg_orc/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hand_zerg_skeletal/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hanzo_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hanzo_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hanzo_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hanzo_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hanzo_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hanzo_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hanzo_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hanzo_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hanzo_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hanzo_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/heart/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/heart_broken/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/heart_protoss/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/heart_terran/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/heart_zerg/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hogger_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hogger_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hogger_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hogger_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hogger_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hogger_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hogger_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hogger_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hogger_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hogger_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hostemoji_anniversary_reghar1/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hostemoji_anniversary_reghar2/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hostemoji_anniversary_reghar3/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hostemoji_anniversary_reghar4/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hostemoji_anniversary_reghar5/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hostemoji_anniversary_reghar6/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_kerrigan1/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_kerrigan2/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_kerrigan3/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_kerrigan4/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_kerrigan5/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_kerrigan6/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_kerrigan7/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_kerrigan8/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_sorceress1/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_sorceress2/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_sorceress3/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_sorceress4/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_sorceress5/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_sorceress6/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_sorceress7/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_sorceress8/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_vikings1/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_vikings10/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_vikings11/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_vikings12/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_vikings2/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_vikings3/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_vikings4/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_vikings5/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_vikings6/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_vikings7/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_vikings8/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversary_vikings9/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversay_siliconsynapse1/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversay_siliconsynapse10/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversay_siliconsynapse11/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversay_siliconsynapse12/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversay_siliconsynapse13/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversay_siliconsynapse14/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversay_siliconsynapse15/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversay_siliconsynapse16/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversay_siliconsynapse2/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversay_siliconsynapse3/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversay_siliconsynapse4/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversay_siliconsynapse5/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversay_siliconsynapse6/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversay_siliconsynapse7/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversay_siliconsynapse8/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hotsemoji_anniversay_siliconsynapse9/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/illidan_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/illidan_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/illidan_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/illidan_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/illidan_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/illidan_lunar_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/illidan_lunar_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/illidan_lunar_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/illidan_lunar_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/illidan_lunar_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/illidan_lunar_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/illidan_lunar_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/illidan_lunar_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/illidan_lunar_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/illidan_lunar_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/illidan_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/illidan_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/illidan_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/illidan_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/illidan_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/imperius_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/imperius_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/imperius_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/imperius_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/imperius_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/imperius_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/imperius_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/imperius_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/imperius_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/imperius_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/jaina_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/jaina_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/jaina_dreadlord_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/jaina_dreadlord_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/jaina_dreadlord_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/jaina_dreadlord_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/jaina_dreadlord_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/jaina_dreadlord_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/jaina_dreadlord_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/jaina_dreadlord_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/jaina_dreadlord_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/jaina_dreadlord_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/jaina_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/jaina_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/jaina_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/jaina_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/jaina_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/jaina_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/jaina_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/jaina_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/johanna_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/johanna_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/johanna_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/johanna_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/johanna_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/johanna_owc20_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/johanna_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/johanna_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/johanna_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/johanna_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/johanna_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/junkrat_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/junkrat_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/junkrat_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/junkrat_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/junkrat_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/junkrat_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/junkrat_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/junkrat_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/junkrat_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/junkrat_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kaelthas_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kaelthas_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kaelthas_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kaelthas_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kaelthas_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kaelthas_lunar_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kaelthas_lunar_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kaelthas_lunar_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kaelthas_lunar_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kaelthas_lunar_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kaelthas_lunar_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kaelthas_lunar_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kaelthas_lunar_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kaelthas_lunar_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kaelthas_lunar_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kaelthas_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kaelthas_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kaelthas_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kaelthas_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kaelthas_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kelthuzad_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kelthuzad_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kelthuzad_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kelthuzad_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kelthuzad_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kelthuzad_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kelthuzad_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kelthuzad_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kelthuzad_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kelthuzad_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kerrigan_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kerrigan_classic21_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kerrigan_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kerrigan_countess_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kerrigan_countess_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kerrigan_countess_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kerrigan_countess_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kerrigan_countess_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kerrigan_countess_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kerrigan_countess_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kerrigan_countess_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kerrigan_countess_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kerrigan_countess_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kerrigan_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kerrigan_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kerrigan_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kerrigan_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kerrigan_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kerrigan_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kerrigan_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kerrigan_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kharazim_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kharazim_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kharazim_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kharazim_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kharazim_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kharazim_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kharazim_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kharazim_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kharazim_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/kharazim_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/leoric_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/leoric_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/leoric_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/leoric_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/leoric_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/leoric_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/leoric_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/leoric_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/leoric_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/leoric_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lili_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lili_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lili_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lili_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lili_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lili_lunar_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lili_lunar_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lili_lunar_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lili_lunar_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lili_lunar_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lili_lunar_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lili_lunar_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lili_lunar_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lili_lunar_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lili_lunar_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lili_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lili_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lili_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lili_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lili_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/liming_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/liming_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/liming_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/liming_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/liming_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/liming_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/liming_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/liming_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/liming_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/liming_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lostvikings_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lostvikings_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lostvikings_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lostvikings_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lostvikings_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lostvikings_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lostvikings_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lostvikings_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lostvikings_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lostvikings_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lostviking_classic21_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lucio_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lucio_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lucio_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lucio_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lucio_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lucio_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lucio_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lucio_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lucio_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lucio_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lunara_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lunara_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lunara_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lunara_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lunara_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lunara_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lunara_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lunara_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lunara_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lunara_summer18_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lunara_summer18_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lunara_summer18_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lunara_summer18_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lunara_summer18_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lunara_summer18_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lunara_summer18_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lunara_summer18_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lunara_summer18_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lunara_summer18_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/lunara_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/madaxe19_azmotank/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/madaxe19_bloodrage/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/madaxe19_deckardcans/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/madaxe19_garrrry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/madaxe19_madlad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/madaxe19_madrider/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/madaxe19_nazeebo/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/madaxe19_ripper/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/madaxe19_trashsniper/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/madaxe19_zombies/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/maiev_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/maiev_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/maiev_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/maiev_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/maiev_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/maiev_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/maiev_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/maiev_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/maiev_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/maiev_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malfurion_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malfurion_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malfurion_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malfurion_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malfurion_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malfurion_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malfurion_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malfurion_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malfurion_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malfurion_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malfurion_winterveil_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malfurion_winterveil_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malfurion_winterveil_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malfurion_winterveil_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malfurion_winterveil_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malfurion_winterveil_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malfurion_winterveil_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malfurion_winterveil_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malfurion_winterveil_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malfurion_winterveil_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malganis_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malganis_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malganis_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malganis_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malganis_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malganis_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malganis_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malganis_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malganis_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malganis_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malthael_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malthael_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malthael_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malthael_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malthael_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malthael_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malthael_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malthael_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malthael_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/malthael_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mecha_anduin_neo/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mecha_malthael_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mecha_pilotvalla_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mecha_pilotyrel_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mecha_valla_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mecha_yrel_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/medivh_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/medivh_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/medivh_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/medivh_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/medivh_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/medivh_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/medivh_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/medivh_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/medivh_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/medivh_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mei_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mei_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mei_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mei_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mei_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mei_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mei_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mei_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mei_snow1/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mei_snow2/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mei_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mei_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mephisto_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mephisto_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mephisto_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mephisto_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mephisto_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mephisto_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mephisto_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mephisto_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mephisto_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mephisto_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mobster_hammer_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mobster_junkrat_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mobster_orphea_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mobster_raccoon_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/mobster_whitemane_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/morales_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/morales_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/morales_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/morales_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/morales_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/morales_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/morales_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/morales_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/morales_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/morales_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/muradin_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/muradin_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/muradin_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/muradin_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/muradin_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/muradin_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/muradin_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/muradin_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/muradin_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/muradin_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/murky_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/murky_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/murky_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/murky_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/murky_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/murky_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/murky_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/murky_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/murky_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/murky_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/myth_cassia/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/myth_cerberus/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/myth_pegasus/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/myth_tracer/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/myth_tyrande/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nature_crater/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nature_droplets/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nature_fire/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nature_flower/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nature_gust/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nazeebo_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nazeebo_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nazeebo_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nazeebo_gingerdread_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nazeebo_gingerdread_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nazeebo_gingerdread_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nazeebo_gingerdread_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nazeebo_gingerdread_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nazeebo_gingerdread_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nazeebo_gingerdread_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nazeebo_gingerdread_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nazeebo_gingerdread_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nazeebo_gingerdread_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nazeebo_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nazeebo_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nazeebo_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nazeebo_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nazeebo_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nazeebo_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nazeebo_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexomania_diablo_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexomania_garrosh_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexomania_imperius_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexomania_lili_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexomania_malganis_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexushunter_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexushunter_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexushunter_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexushunter_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexushunter_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexushunter_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexushunter_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexushunter_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexushunter_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexushunter_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexus_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexus_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexus_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexus_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexus_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexus_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexus_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexus_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexus_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexus_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nexus_thinking/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nova_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nova_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nova_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nova_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nova_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nova_owc20_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nova_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nova_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nova_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nova_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/nova_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/orphea_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/orphea_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/orphea_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/orphea_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/orphea_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/orphea_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/orphea_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/orphea_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/orphea_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/orphea_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/pachimari_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/pachimari_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/pachimari_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/pachimari_gold/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/pachimari_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/pachimari_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/pachimari_owc20_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/pachimari_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/pachimari_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/pachimari_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/pachimari_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/pachimari_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_gg/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_gj/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_glhf/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_hallowsend_gg/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_hallowsend_gj/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_hallowsend_glhf/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_hallowsend_tt/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_hallowsend_zzz/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_lunar_gg/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_lunar_gj/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_lunar_glhf/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_lunar_tt/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_lunar_zzz/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_mecha_gg/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_mecha_gj/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_mecha_glhf/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_mecha_tt/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_mecha_zzz/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_spring19_1337/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_spring19_h4x/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_spring19_m8/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_spring19_pwn/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_spring19_woot/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_sweets_gg/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_sweets_gj/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_sweets_glhf/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_sweets_tt/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_sweets_zzz/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_tt/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_winterveil_gg/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_winterveil_gj/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_winterveil_glhf/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_winterveil_tt/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_winterveil_zzz/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/phrases_zzz/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/probius_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/probius_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/probius_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/probius_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/probius_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/probius_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/probius_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/probius_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/probius_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/probius_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ragnaros_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ragnaros_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ragnaros_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ragnaros_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ragnaros_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ragnaros_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ragnaros_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ragnaros_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ragnaros_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ragnaros_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/raynor_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/raynor_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/raynor_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/raynor_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/raynor_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/raynor_owc20_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/raynor_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/raynor_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/raynor_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/raynor_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/raynor_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_classic21_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_mecha_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_mecha_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_mecha_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_mecha_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_mecha_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_mecha_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_mecha_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_mecha_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_mecha_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_mecha_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_winterveil_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_winterveil_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_winterveil_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_winterveil_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_winterveil_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_winterveil_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_winterveil_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_winterveil_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_winterveil_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rehgar_winterveil_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rexxar_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rexxar_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rexxar_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rexxar_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rexxar_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rexxar_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rexxar_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rexxar_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rexxar_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/rexxar_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/samuro_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/samuro_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/samuro_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/samuro_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/samuro_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/samuro_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/samuro_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/samuro_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/samuro_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/samuro_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sapper_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sapper_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sapper_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sapper_googly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sapper_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sapper_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sapper_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sapper_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sapper_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sapper_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sapper_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/siliconsynapse_classic21_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_deathbringer_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_deathbringer_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_deathbringer_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_deathbringer_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_deathbringer_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_deathbringer_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_deathbringer_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_deathbringer_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_deathbringer_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_deathbringer_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_deathknight_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_deathknight_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_deathknight_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_deathknight_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_deathknight_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_deathknight_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_deathknight_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_deathknight_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_deathknight_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_deathknight_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_summer18_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_summer18_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_summer18_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_summer18_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_summer18_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_summer18_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_summer18_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_summer18_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_summer18_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_summer18_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sonya_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sorceress_classic21_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/spooky_potg_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/spooky_ravenlol_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/spooky_rip_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/spooky_spider_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/spooky_worm_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_psycho_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_psycho_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_psycho_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_psycho_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_psycho_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_psycho_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_psycho_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_psycho_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_psycho_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_psycho_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_winterveil_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_winterveil_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_winterveil_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_winterveil_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_winterveil_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_winterveil_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_winterveil_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_winterveil_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_winterveil_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stitches_winterveil_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stukov_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stukov_army18/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stukov_army18_lurking/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stukov_army18_pustule/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stukov_army18_shove_01/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stukov_army18_shove_02/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stukov_army18_shove_03/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stukov_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stukov_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stukov_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stukov_het/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stukov_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stukov_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stukov_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stukov_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stukov_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/stukov_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_lunar_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_lunar_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_lunar_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_lunar_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_lunar_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_lunar_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_lunar_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_lunar_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_lunar_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_lunar_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_winterveil_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_winterveil_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_winterveil_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_winterveil_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_winterveil_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_winterveil_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_winterveil_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_winterveil_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_winterveil_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/sylvanas_winterveil_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tassadar_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tassadar_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tassadar_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tassadar_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tassadar_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tassadar_mecha_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tassadar_mecha_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tassadar_mecha_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tassadar_mecha_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tassadar_mecha_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tassadar_mecha_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tassadar_mecha_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tassadar_mecha_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tassadar_mecha_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tassadar_mecha_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tassadar_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tassadar_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tassadar_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tassadar_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tassadar_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/thrall_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/thrall_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/thrall_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/thrall_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/thrall_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/thrall_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/thrall_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/thrall_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/thrall_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/thrall_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/toy2_army_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/toy2_horse_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/toy2_mephisto_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/toy2_qhira_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/toy2_train_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/toy_bear_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/toy_cosmicflurry_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/toy_dice_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/toy_dino_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/toy_herospinner_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/toy_minion_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/toy_nerfthis_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/toy_robots_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/toy_train_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/toy_turd_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tracer_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tracer_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tracer_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tracer_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tracer_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tracer_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tracer_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tracer_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tracer_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tracer_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tychus_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tychus_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tychus_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tychus_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tychus_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tychus_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tychus_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tychus_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tychus_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tychus_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrael_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrael_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrael_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrael_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrael_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrael_mecha_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrael_mecha_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrael_mecha_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrael_mecha_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrael_mecha_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrael_mecha_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrael_mecha_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrael_mecha_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrael_mecha_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrael_mecha_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrael_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrael_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrael_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrael_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrael_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrande_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrande_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrande_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrande_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrande_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrande_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrande_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrande_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrande_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/tyrande_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/uther_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/uther_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/uther_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/uther_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/uther_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/uther_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/uther_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/uther_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/uther_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/uther_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valeera_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valeera_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valeera_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valeera_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valeera_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valeera_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valeera_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valeera_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valeera_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valeera_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valeera_vampireslayerv_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valeera_vampireslayerv_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valeera_vampireslayerv_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valeera_vampireslayerv_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valeera_vampireslayerv_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valeera_vampireslayerv_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valeera_vampireslayerv_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valeera_vampireslayerv_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valeera_vampireslayerv_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valeera_vampireslayerv_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valla_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valla_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valla_deputy_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valla_deputy_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valla_deputy_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valla_deputy_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valla_deputy_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valla_deputy_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valla_deputy_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valla_deputy_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valla_deputy_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valla_deputy_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valla_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valla_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valla_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valla_owc20_anim/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valla_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valla_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valla_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valla_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/valla_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/varian_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/varian_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/varian_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/varian_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/varian_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/varian_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/varian_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/varian_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/varian_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/varian_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/whitemane_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/whitemane_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/whitemane_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/whitemane_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/whitemane_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/whitemane_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/whitemane_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/whitemane_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/whitemane_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/whitemane_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/winter_candle/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/winter_ornament/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/winter_snowflake/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/winter_snowman/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/winter_wreath/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/xul_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/xul_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/xul_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/xul_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/xul_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/xul_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/xul_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/xul_scarecrow_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/xul_scarecrow_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/xul_scarecrow_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/xul_scarecrow_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/xul_scarecrow_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/xul_scarecrow_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/xul_scarecrow_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/xul_scarecrow_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/xul_scarecrow_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/xul_scarecrow_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/xul_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/xul_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/xul_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/yrel_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/yrel_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/yrel_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/yrel_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/yrel_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/yrel_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/yrel_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/yrel_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/yrel_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/yrel_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zagara_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zagara_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zagara_cryptqueen_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zagara_cryptqueen_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zagara_cryptqueen_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zagara_cryptqueen_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zagara_cryptqueen_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zagara_cryptqueen_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zagara_cryptqueen_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zagara_cryptqueen_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zagara_cryptqueen_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zagara_cryptqueen_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zagara_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zagara_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zagara_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zagara_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zagara_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zagara_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zagara_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zagara_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zarya_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zarya_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zarya_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zarya_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zarya_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zarya_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zarya_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zarya_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zarya_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zarya_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zeratul_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zeratul_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zeratul_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zeratul_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zeratul_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zeratul_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zeratul_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zeratul_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zeratul_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zeratul_surprised/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zuljin_angry/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zuljin_cool/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zuljin_embarrassed/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zuljin_happy/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zuljin_inlove/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zuljin_rofl/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zuljin_sad/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zuljin_silly/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zuljin_speechless/localizedAliases"
+  },
+  {
+    "op": "remove",
+    "path": "/items/zuljin_surprised/localizedAliases"
+  }
+]
