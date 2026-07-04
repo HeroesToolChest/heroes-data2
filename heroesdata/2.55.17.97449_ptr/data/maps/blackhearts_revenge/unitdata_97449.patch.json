@@ -1,0 +1,372 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/totalItems",
+    "value": 928
+  },
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Blackheart's Revenge"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ItemCannonball/portraits/minimap",
+    "value": "storm_ui_minimapicon_cannonball.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/JungleCampIconUnitTeamColor/life/amount",
+    "value": 240
+  },
+  {
+    "op": "replace",
+    "path": "/items/KingsCore/attributes/1",
+    "value": "ImmuneToAOE"
+  },
+  {
+    "op": "add",
+    "path": "/items/KingsCore/attributes/2",
+    "value": "ImmuneToFriendlyAbilities"
+  },
+  {
+    "op": "add",
+    "path": "/items/KingsCore/attributes/3",
+    "value": "ImmuneToSkillshots"
+  },
+  {
+    "op": "add",
+    "path": "/items/KingsCore/attributes/4",
+    "value": "Structure"
+  },
+  {
+    "op": "replace",
+    "path": "/items/KingsCore/life/amount",
+    "value": 5
+  },
+  {
+    "op": "remove",
+    "path": "/items/KingsCore/shield"
+  },
+  {
+    "op": "add",
+    "path": "/items/KingsCore/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_bb_building_core.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownCannonTowerL3/sight",
+    "value": 9
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownMoonwellL3/life/amount",
+    "value": 3600
+  },
+  {
+    "op": "add",
+    "path": "/items/TownMoonwellL3/shield",
+    "value": {
+      "amount": 900,
+      "scale": 0,
+      "regenRate": 30,
+      "regenScale": 0,
+      "regenDelay": 8
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/AmmoCache",
+    "value": {
+      "radius": 0.875,
+      "innerRadius": 0.875,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_cannonball.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/AttackCoreMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/Boat",
+    "value": {
+      "damageType": "Structure",
+      "radius": 4,
+      "innerRadius": 0,
+      "sight": 11,
+      "speed": 0.6367,
+      "attributes": [
+        "AITargetableStructure",
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "Structure"
+      ],
+      "scalingLinkIds": [
+        "CoreScaling"
+      ],
+      "life": {
+        "amount": 5,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_ghostship.png"
+      },
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": "move|Move|W",
+            "abilityId": "move",
+            "buttonId": "Move",
+            "icon": "btn-command-move.png",
+            "abilityType": "W"
+          },
+          {
+            "linkId": "TowerMarkAttackTarget|TowerMarkAttackTarget|E",
+            "abilityId": "TowerMarkAttackTarget",
+            "buttonId": "TowerMarkAttackTarget",
+            "icon": "storm_temp_war3_btnrallypoint.png",
+            "abilityType": "E"
+          },
+          {
+            "linkId": "AttackCore|AttackCore|E",
+            "abilityId": "AttackCore",
+            "buttonId": "AttackCore",
+            "icon": "storm_temp_btn-building-protoss-phasecannon.png",
+            "abilityType": "E"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/Cannon",
+    "value": {
+      "radius": 1.5,
+      "innerRadius": 0.75,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToSkillshots"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_cannon.png"
+      },
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": "CannonAttack|CannonAttack|W",
+            "abilityId": "CannonAttack",
+            "buttonId": "CannonAttack",
+            "icon": "hud_minimap_bay_cannon.png",
+            "abilityType": "W"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/CannonAttackMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/CannonballMinimapIconUnit",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 5,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_cannon.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/CannonBarrageMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ClickableChestEasterEggUnit",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "User1"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TeleporterNeutral",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_sunshrine.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TeleporterTeam",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_teleporter.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/WheresWeirdo",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "User1"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  }
+]

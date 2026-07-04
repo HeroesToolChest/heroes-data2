@@ -1,0 +1,147 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Garden of Terror"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/PlantHorrorLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Recarga: 5 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/GardenCoreLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Recarga: 5 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/UnderworldBossStun|GraveGolemMegaStun|Q",
+    "value": "Recarga: 10 segundos"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/PlantHorrorLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Após <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s, transforma todos os Heróis inimigos na área em Trôpegos por <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">3</s> s, impedindo-os de atacar e usar Habilidades, além de desacelerá-los em <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">30%</s>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/PlantHorrorOvergrowthPlant|PlantHorrorOvergrowth|W",
+    "value": "Gera uma Exuberância que desativa Estruturas próximas. Você causa <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200%</c> de dano extra a Estruturas afetadas por Exuberância. Perde vida lentamente ao longo de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> s."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/GardenCoreLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Após <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s, transforma todos os Heróis inimigos na área em Trôpegos por <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">3</s> s, impedindo-os de atacar e usar Habilidades, além de desacelerá-los em <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">30%</s>."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/UnderworldBossStun|GraveGolemMegaStun|Q",
+    "value": "Atinge o chão, causando <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> de dano aos inimigos próximos, atordoando-os."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/GardenCoreLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Maldição da Rainha"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/UnderworldBossStun|GraveGolemMegaStun|Q",
+    "value": "Bordoada"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/UnderworldBossStun|GraveGolemMegaStun|Q",
+    "value": "Causa dano e atordoa os inimigos em uma grande área"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostDamageToPlants",
+    "value": "~AwardValue~ Sementes Coletadas"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostSeedsCollected",
+    "value": "~AwardValue~ Sementes Coletadas"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostDamageToPlants",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Colecionador de Sementes,Colecionadora de Sementes</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostSeedsCollected",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Colecionador de Sementes,Colecionadora de Sementes</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostDamageToPlants",
+    "value": "~TooltipAmount~ Sementes Coletadas"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostSeedsCollected",
+    "value": "~TooltipAmount~ Sementes Coletadas"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostDamageToPlants",
+    "value": "Maior quantidade de dano causado a Plantas"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/Seed",
+    "value": "Aproxime-se para coletar esta Semente. "
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/GardenTerror",
+    "value": "Terror do Jardim"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OvergrowthPlant",
+    "value": "Planta Exuberante"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OvergrowthPlantDummyUnit",
+    "value": "Planta Exuberante - Unidade Dummy"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OvergrowthVinesMissile",
+    "value": "Projétil de Gavinhas Exuberantes"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Seed",
+    "value": "Semente"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SeedSpawnPreview",
+    "value": "Prévia de surgimento de Semente"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Shambler",
+    "value": "Trôpego"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerMissile",
+    "value": "Projétil de Trôpego"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerRanged",
+    "value": "Trôpego"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerRangedWeaponMissile",
+    "value": "Trôpego - Longo Alcance - Projétil"
+  }
+]

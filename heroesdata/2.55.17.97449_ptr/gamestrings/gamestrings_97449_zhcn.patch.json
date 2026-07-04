@@ -1,0 +1,77 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97449_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.0.1"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelDivinePurpose|YrelDivinePurpose|Trait",
+    "value": "冷却时间：12秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelAvengingWrathChannel|YrelAvengingWrath|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">法力值：50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelAvengingWrathDivinePurpose|YrelAvengingWrath|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">法力值：50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelAvengingWrath|YrelAvengingWrath|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">法力值：50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelRighteousHammerChannel|YrelRighteousHammer|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">法力值：50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelRighteousHammerDivinePurpose|YrelRighteousHammer|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">法力值：50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelRighteousHammer|YrelRighteousHammer|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">法力值：50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelVindicationCast|YrelVindication|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">法力值：50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelVindication|YrelVindication|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">法力值：50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/IllidanSweepingStrike|IllidanSweepingStrike|W",
+    "value": "冲向目标地点，对沿途的敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">119</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害。击中敌人使伊利丹的普通攻击伤害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c>，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "烈焰打击的法力消耗从<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>降低至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任务：</c>用烈焰打击击中<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60</c>名燃烧的英雄。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">奖励：</c>用烈焰打击击中一名燃烧的英雄后，红龙女王的冷却时间缩短<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/IllidanMasteryBatteredAssaultSweepingStrike|IllidanSweepingStrikeBatteredAssaultTalent|W|Level1",
+    "value": "扫荡打击的普通攻击伤害加成的持续时间从<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>秒延长至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>秒。如果扫荡打击击中<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>个英雄，伤害加成从<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c>提高至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">125%</c>。"
+  }
+]

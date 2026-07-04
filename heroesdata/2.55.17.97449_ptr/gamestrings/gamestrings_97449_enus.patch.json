@@ -1,0 +1,97 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97449_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.0.1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelDivinePurpose|YrelDivinePurpose|Trait",
+    "value": "Cooldown: 12 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelAvengingWrathChannel|YrelAvengingWrath|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelAvengingWrathDivinePurpose|YrelAvengingWrath|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelAvengingWrath|YrelAvengingWrath|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelRighteousHammerChannel|YrelRighteousHammer|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelRighteousHammerDivinePurpose|YrelRighteousHammer|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelRighteousHammer|YrelRighteousHammer|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelVindicationCast|YrelVindication|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelVindication|YrelVindication|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/IllidanSweepingStrike|IllidanSweepingStrike|W",
+    "value": "Dash towards target point, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">119</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to enemies along the way. Hitting an enemy increases Illidan's Basic Attack damage by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c> for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": "Abathur’s Basic Attacks deal <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500%</c> additional damage and Stun non-Elite enemies and disable Structures for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds.<n/><n/>This effect has an <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> second cooldown against Heroes and Structures."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "Reduce the Mana cost of Flame Buffet from <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Hit Burning enemy Heroes with Flame Buffet. <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> hits unlocks a Mythic Quest.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> After hitting <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> Heroes, hitting a Burning enemy Hero with Flame Buffet reduces Dragonqueen's cooldown by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> seconds.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Mythic Quest:</c> After hitting <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> more Heroes without dying, Dragonqueen damage against Heroes refreshes its duration."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChoCallousedHide|ChoCallousedHide|Trait|Level1",
+    "value": "While under <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> maximum Health, Cho gains <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> increased Movement Speed and healing received."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/IllidanMasteryBatteredAssaultSweepingStrike|IllidanSweepingStrikeBatteredAssaultTalent|W|Level1",
+    "value": "Increase Sweeping Strike's Basic Attack damage bonus duration from <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> seconds. If Sweeping Strike hits <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> Heroes its damage bonus is increased from <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c> to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">125%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelRighteousHammerRighteousMomentum|YrelRighteousHammerRighteousMomentum|W|Level7",
+    "value": "Gain <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c> Movement Speed. Yrel is no longer Slowed while Channeling Righteous Hammer, and instead this bonus is quadrupled."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationAldorPeacekeeper|YrelVindicationAldorPeacekeeper|Q|Level13",
+    "value": "Enemy Heroes hit by Vindication at maximum charge deal <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c> less damage for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationLightOfKarabor|YrelVindicationLightOfKarabor|Q|Level1",
+    "value": "Increase Vindication's radius by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>. Hitting an enemy Hero increases Vindication's healing by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45%</c>. If more than one Hero is hit, the bonus is increased to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90%</c>."
+  }
+]

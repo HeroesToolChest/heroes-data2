@@ -1,0 +1,77 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97449_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.0.1"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelDivinePurpose|YrelDivinePurpose|Trait",
+    "value": "Время восстановления: 12 сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelAvengingWrathChannel|YrelAvengingWrath|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Мана: 50 ед.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelAvengingWrathDivinePurpose|YrelAvengingWrath|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Мана: 50 ед.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelAvengingWrath|YrelAvengingWrath|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Мана: 50 ед.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelRighteousHammerChannel|YrelRighteousHammer|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Мана: 50 ед.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelRighteousHammerDivinePurpose|YrelRighteousHammer|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Мана: 50 ед.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelRighteousHammer|YrelRighteousHammer|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Мана: 50 ед.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelVindicationCast|YrelVindication|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Мана: 50 ед.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/YrelVindication|YrelVindication|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Мана: 50 ед.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/IllidanSweepingStrike|IllidanSweepingStrike|W",
+    "value": "Иллидан устремляется к указанной точке, нанося <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">119</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед. урона противникам на своем пути. Если он поражает противника, его автоатаки в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> сек. наносят на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c> больше урона."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "Снижает стоимость «Огненного удара» с <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> ед. маны.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> поразите «Огненным ударом» <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60</c> подожженных героев.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Награда:</c> каждое попадание «Огненным ударом» по подожженному герою будет сокращать время восстановления «Королевы драконов» на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/IllidanMasteryBatteredAssaultSweepingStrike|IllidanSweepingStrikeBatteredAssaultTalent|W|Level1",
+    "value": "Увеличивает время действия бонуса к урону автоатак от «Размашистого удара» с <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> сек. Если «Размашистый удар» поражает <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> или более героев, бонус к урону увеличивается с <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c> до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">125%</c>."
+  }
+]

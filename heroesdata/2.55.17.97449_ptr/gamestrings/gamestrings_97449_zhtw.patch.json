@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97449_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.0.1"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelDivinePurpose|YrelDivinePurpose|Trait",
+    "value": "冷卻時間：12秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/IllidanSweepingStrike|IllidanSweepingStrike|W",
+    "value": "衝向目標地點，對路徑上的敵人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">119</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害。擊中敵人時，伊利丹的基本攻擊傷害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c>，持續<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "烈焰衝擊的法力消耗從<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>點降低為<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>點。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任務：</c>以烈焰衝擊命中<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60</c>名燃燒的英雄。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">獎勵：</c>以烈焰衝擊命中燃燒的英雄，會使「龍后」特性的冷卻時間降低<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/IllidanMasteryBatteredAssaultSweepingStrike|IllidanSweepingStrikeBatteredAssaultTalent|W|Level1",
+    "value": "衝襲的基本攻擊傷害加成持續時間從<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>秒提高至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>秒。命中<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>名以上的英雄時，其傷害加成從<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c>提高至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">125%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/LiLiHinderingWinds|LiLiHinderingWinds|E|Level13",
+    "value": "提高目盲之風的緩速效果至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c>，持續時間提高至<2</c>秒。"
+  }
+]
