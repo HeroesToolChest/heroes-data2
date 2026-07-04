@@ -1,0 +1,27 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Sandbox (Cursed Hollow)"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/CursedHollowCoreCurse|CursedHollowCoreCurse|Q",
+    "value": "Recupero: 3 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/CursedHollowCoreCurse|CursedHollowCoreCurse|Q",
+    "value": "Dopo un breve ritardo, infligge agli eroi in un'area danni pari al <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c> della loro Salute massima e ne riduce la Resistenza di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75</c> per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/CursedHollowCoreCurse|CursedHollowCoreCurse|Q",
+    "value": "Maledizione"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/CursedHollowCoreCurse|CursedHollowCoreCurse|Q",
+    "value": "Danneggia un eroe e ne riduce notevolmente la Resistenza."
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Garden of Terror"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/PlantHorrorLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Abklingzeit: 5 Sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/GardenCoreLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Abklingzeit: 5 Sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/UnderworldBossStun|GraveGolemMegaStun|Q",
+    "value": "Abklingzeit: 10 Sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/PlantHorrorLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Verwandelt nach <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> Sek. alle gegnerischen Helden im Wirkungsbereich <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">3</s> Sek. lang in Unkrautler, wodurch sie weder angreifen noch Fähigkeiten einsetzen können. Ihre Bewegungsgeschwindigkeit wird außerdem um <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">30%</s> verringert."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/PlantHorrorOvergrowthPlant|PlantHorrorOvergrowth|W",
+    "value": "Erschafft eine Würgepflanze, die Gebäude in der Nähe außer Gefecht setzt. Das Gartenungeheuer fügt betroffenen Gebäuden <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200%</c> mehr Schaden zu. Die Lebenspunkte der Würgepflanze schwinden im Verlauf von <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> Sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/GardenCoreLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Verwandelt nach <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> Sek. alle gegnerischen Helden im Wirkungsbereich <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">3</s> Sek. lang in Unkrautler, wodurch sie weder angreifen noch Fähigkeiten einsetzen können. Ihre Bewegungsgeschwindigkeit wird außerdem um <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">30%</s> verringert."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/UnderworldBossStun|GraveGolemMegaStun|Q",
+    "value": "Schmettert auf den Boden, fügt Gegnern in der Nähe <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> Schaden zu und betäubt sie."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/GardenCoreLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Fluch der Königin"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/UnderworldBossStun|GraveGolemMegaStun|Q",
+    "value": "Megaschlag"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/UnderworldBossStun|GraveGolemMegaStun|Q",
+    "value": "Fügt Gegnern in einem großen Wirkungsbereich Schaden zu und macht sie bewegungsunfähig."
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostDamageToPlants",
+    "value": "~AwardValue~ Samen eingesammelt"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostSeedsCollected",
+    "value": "~AwardValue~ Samen eingesammelt"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostDamageToPlants",
+    "value": "Gärtner"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostSeedsCollected",
+    "value": "Gärtner"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostDamageToPlants",
+    "value": "~TooltipAmount~ Samen eingesammelt"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostSeedsCollected",
+    "value": "~TooltipAmount~ Samen eingesammelt"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostDamageToPlants",
+    "value": "Höchster Unkrautlern zugefügter Schaden"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/Seed",
+    "value": "Begib dich in die Nähe, um diesen Samen einzusammeln."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/GardenTerror",
+    "value": "Gartenungeheuer"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OvergrowthPlant",
+    "value": "Würgepflanze"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OvergrowthPlantDummyUnit",
+    "value": "Wildes Wachstum - Pflanzenattrappe, Einheit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OvergrowthVinesMissile",
+    "value": "Wildes Wachstum - Ranken, Geschoss"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Seed",
+    "value": "Samenkorn"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SeedSpawnPreview",
+    "value": "Samen, erscheinen - Vorschau"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Shambler",
+    "value": "Unkrautler"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerMissile",
+    "value": "Unkrautlergeschoss"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerRanged",
+    "value": "Unkrautler"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerRangedWeaponMissile",
+    "value": "Unkrautler - Distanzwaffe, Geschoss"
+  }
+]
