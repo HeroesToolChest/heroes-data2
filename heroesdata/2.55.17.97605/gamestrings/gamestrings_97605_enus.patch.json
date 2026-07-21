@@ -1,0 +1,177 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97605"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.0.2"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagSulfurasSmash|RagnarosSulfurasSmash|Heroic",
+    "value": "Cooldown: 60 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosSulfurasSmash|RagnarosSulfurasSmash|Heroic",
+    "value": "Cooldown: 60 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|YrelDivinePurposeActive|Trait",
+    "value": "Activate to instantly charge Yrel's next Basic Ability at no mana cost. Divine Purpose's cooldown is reduced by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds if Stunned or Silenced while charging her skills.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Passive:</c> Yrel's Basic Abilities charge up over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> seconds, increasing in effectiveness, but reducing Yrel's Movement Speed by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AbathurSpawnLocusts|AbathurLocustStrain|Q",
+    "value": "Spawns a Locust to attack down the nearest lane every <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> seconds.  Locusts heal for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> of the damage they deal, and regain <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> of their Maximum health when a nearby minion dies.<n/><n/>Locusts lose health over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">17</c> seconds, have <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">225</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> health and deal <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">36</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage with each Basic Attack, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> bonus damage to enemy non-Heroes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AbathurSpawnLocusts|AbathurLocustStrain|Trait",
+    "value": "Spawns a Locust to attack down the nearest lane every <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> seconds.  Locusts heal for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> of the damage they deal, and regain <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> of their Maximum health when a nearby minion dies.<n/><n/>Locusts lose health over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">17</c> seconds, have <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">225</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> health and deal <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">36</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage with each Basic Attack, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> bonus damage to enemy non-Heroes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/HoggerOnTheProwl|HoggerOnTheProwl|Active",
+    "value": "Activate to gain <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> Rage over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> seconds.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Passive:</c> You heal for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">7</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Health every second, increased by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c> per point of Rage. "
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/SgtHammerBluntForceGun|SgtHammerBluntForceGun|Heroic",
+    "value": "Fire a missile across the battlefield, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.03~~</c><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\"> </c>damage to enemies in its path.  Deals <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> damage to Structures."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/SgtHammerBluntForceGun|SgtHammerBluntForceGun|Q",
+    "value": "Fire a missile across the battlefield, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.03~~</c><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\"> </c>damage to enemies in its path.  Deals <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> damage to Structures."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelDivinePurpose|YrelDivinePurpose|Trait",
+    "value": "Activate to instantly charge Yrel's next Basic Ability at no mana cost. Divine Purpose's cooldown is reduced by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds if Stunned or Silenced while charging her skills.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Passive:</c> Yrel's Basic Abilities charge up over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> seconds, increasing in effectiveness, but reducing Yrel's Movement Speed by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/LucioToon20",
+    "value": "No stranger to experimental style, Lúcio has always been something of a maverick. This Chromesthesia armor brings a blend of sound, color, and light."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/LucioToon20Var1",
+    "value": "No stranger to experimental style, Lúcio has always been something of a maverick. This Chromesthesia armor brings a blend of sound, color, and light."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/LucioToon20Var2",
+    "value": "No stranger to experimental style, Lúcio has always been something of a maverick. This Chromesthesia armor brings a blend of sound, color, and light."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/LucioToon20Var3",
+    "value": "No stranger to experimental style, Lúcio has always been something of a maverick. This Chromesthesia armor brings a blend of sound, color, and light."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/LucioToon20Var4",
+    "value": "No stranger to experimental style, Lúcio has always been something of a maverick. This Chromesthesia armor brings a blend of sound, color, and light."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/LucioToon20",
+    "value": "Chromesthesia Lucio"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/LucioToon20Var1",
+    "value": "Ruby Chromesthesia Lucio"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/LucioToon20Var2",
+    "value": "Amber Chromesthesia Lucio"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/LucioToon20Var3",
+    "value": "Classic Chromesthesia Lucio"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/LucioToon20Var4",
+    "value": "Royal Chromesthesia Lucio"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/sortName/ThrallToon20Var4",
+    "value": "ThrallToon20Var4"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/RagnarosSulfurasSmash|RagnarosSulfurasSmash|Heroic|Level10",
+    "value": "Cooldown: 60 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "Increases Locust's Health by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> and damage by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": "Abathur’s Basic Attacks deal <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500%</c> additional damage and Stun non-Elite enemies and disable Structures for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> seconds.<n/><n/>The same Hero or Structure can only be Stunned or disabled once every <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaAncientFlameFlameBuffet|AlexstraszaAncientFlameFlameBuffet|Trait|Level20",
+    "value": "While Dragonqueen is active, Alexstrasza's Basic Attacks apply Flame Buffet. This does not grant Quest stacks.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Passive:</c> Dragonqueen grants <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> more maxium Health."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "Reduce the Mana cost of Flame Buffet from <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Hit Burning enemy Heroes with Flame Buffet. <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> hits unlocks a Mythic Quest.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> After hitting <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> Heroes, hitting a Burning enemy Hero with Flame Buffet reduces Dragonqueen's cooldown by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> seconds.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Mythic Quest:</c> After hitting <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> more Heroes without dying, Dragonqueen damage against Heroes refreshes its duration."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChoConsumingFire|ChoConsumingFire|W|Level1",
+    "value": "Consuming Blaze restores <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> more Health when a Hero is Ignited."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieTimeTrapChronicConditions|ChromieTimeTrapChronicConditions|E|Level4",
+    "value": "Time Trap will activate on enemy Heroes automatically.<n/><n/>After its Time Stop ends, enemies affected by Time Trap are Slowed by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds and allies gain <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> Movement Speed for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/HoggerHoggersJoggers|HoggerHoggersJoggers|Passive|Level4",
+    "value": "While above <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35</c>Rage, gain <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c> increased Movement Speed and healing received. <n/><n/>When at or above <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50 </c>Rage, increase these bonuses to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/HoggerOnTheProwl|HoggerOnTheProwl|Active|Level1",
+    "value": "Activate to gain <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> Rage over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> seconds.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Passive:</c> You heal for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">7</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Health every second, increased by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c> per point of Rage. "
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosLavaWaveLavaSurge|RagnarosLavaWaveLavaSurge|Heroic|Level20",
+    "value": "Lava Wave gains an additional charge and causes allied Minions and non-Boss Mercenaries to be carried with it."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/SgtHammerHeroicAbilityBluntForceGun|SgtHammerBluntForceGun|Heroic|Level10",
+    "value": "Fire a missile across the battlefield, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.03~~</c><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\"> </c>damage to enemies in its path.  Deals <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> damage to Structures."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WhitemaneInquisitorsPrayer|WhitemaneInquisitor'sPrayer|E|Level1",
+    "value": "Searing Lash restores <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> Mana for each Hero it hits, and <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">Zeal</c> lasts <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> additional seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/WhitemaneInquisitorsPrayer|WhitemaneInquisitor'sPrayer|E|Level1",
+    "value": "Searing Lash restores Mana, bonus <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">Zeal</c> duration"
+  }
+]

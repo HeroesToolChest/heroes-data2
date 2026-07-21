@@ -1,0 +1,177 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Sky Temple"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TempleChampionTornado|SkyTempleCoreSandstorm|Q",
+    "value": "Abklingzeit: 10 Sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TempleCoreTornado|GraveGolemBindingRootsSkyTemple|Q",
+    "value": "Abklingzeit: 23 Sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TempleGuardianMightySwing|TempleGuardianMightySwing|Q",
+    "value": "Abklingzeit: 8 Sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/LuxoriaTempleFinalBlast|LuxoriaTempleFinalBlast|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 1</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/LuxoriaTempleFinalBlast|LuxoriaTempleFinalBlast|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Abklingzeit: 0.1 Sek.</s><n/><n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">Feuert einen gewaltigen Strahl geballter Energie auf das Ziel, der </s><s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">2500</s><s val=\"8783e6\" hlt-name=\"StandardTooltip\"> Schaden verursacht.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/LuxoriaTempleTurretHold|LuxoriaTempleHoldTurret|W",
+    "value": "Richtet das Geschütz auf eine Einheit oder visiert sie an. Haltet das Geschütz dann ausgerichtet."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/LuxoriaTempleTurretRelease|LuxoriaTempleReleaseTurret|E",
+    "value": "Richtet das Geschütz auf eine Einheit oder visiert sie an. Lasst dann den Feuerknopf los."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TempleChampionTornado|SkyTempleCoreSandstorm|Q",
+    "value": "Fügt gegnerischen Helden Schaden zu und stößt sie zurück."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TempleCoreTornado|GraveGolemBindingRootsSkyTemple|Q",
+    "value": "Verursacht in einem kleinen Bereich Schaden und stößt Gegner zurück."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TempleGuardianMightySwing|TempleGuardianMightySwing|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Abklingzeit: 8 Sek.</s><n/><n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">Schlägt mit der Waffe nach unten, was Gegnern in der Nähe </s><s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">280</s><s val=\"8783e6\" hlt-name=\"StandardTooltip\"> Schaden zufügt und sie aus dem Bereich schleudert.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/LuxoriaTempleFinalBlast|LuxoriaTempleFinalBlast|Q",
+    "value": "Finale Salve"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/LuxoriaTempleTurretHold|LuxoriaTempleHoldTurret|W",
+    "value": "Geschütz stoppen"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/LuxoriaTempleTurretRelease|LuxoriaTempleReleaseTurret|E",
+    "value": "Geschütz freigeben"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/stop|Stop|Heroic",
+    "value": "Stopp"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TempleChampionTornado|SkyTempleCoreSandstorm|Q",
+    "value": "Sandsturm"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TempleCoreTornado|GraveGolemBindingRootsSkyTemple|Q",
+    "value": "Sandwirbel"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TempleGuardianMightySwing|TempleGuardianMightySwing|Q",
+    "value": "Mächtiger Hieb"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TempleChampionTornado|SkyTempleCoreSandstorm|Q",
+    "value": "Fügt gegnerischen Helden Schaden zu und stößt sie zurück."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TempleCoreTornado|GraveGolemBindingRootsSkyTemple|Q",
+    "value": "Verursacht in einem kleinen Bereich Schaden und stößt Gegner zurück."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TempleGuardianMightySwing|TempleGuardianMightySwing|Q",
+    "value": "Schlägt mit der Waffe nach unten, fügt Gegnern in der Nähe Schaden zu und stößt sie zurück."
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostTimeInTemple",
+    "value": "~AwardValue~% der Tempeleroberung"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostTimeInTemple",
+    "value": "Hohepriester"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostTimeInTemple",
+    "value": "~TooltipAmount~ Sek. lang Schreine gehalten"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostTimeInTemple",
+    "value": "Längste Zeit im Tempel"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/JungleGraveGolemLaner",
+    "value": "Sandgolem"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HarrisonJonesWell",
+    "value": "Harrison Jones' Brunnen"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LuxoriaCoreTornado",
+    "value": "Tornado"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LuxoriaTemple",
+    "value": "Tempel von Luxoria"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LuxoriaTempleCaptureBeacon",
+    "value": "Eroberungssignal des Tempels von Luxoria"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TempleChampionBoss",
+    "value": "Tempelverteidiger"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TempleDefenderMelee",
+    "value": "Tempelverteidiger"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TempleDefenderPathingBlocker",
+    "value": "Verteidiger - Wegfindungsblockierung"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TempleDefenderRanged",
+    "value": "Verteidiger"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TempleGuardianBoss",
+    "value": "Verteidiger"
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Industrial District"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/LeaveVehicle|DragonKnightLeaveDragon|Trait",
+    "value": "冷卻時間：10秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/LeaveVehicle|LeavePlantHorror|Trait",
+    "value": "冷卻時間：10秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/LeaveVehicle|VolskayaVehicleLeaveVehicle|Trait",
+    "value": "冷卻時間：10秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/DragonsDinner|DragonsDinner|Q",
+    "value": "冷卻時間：12秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/MercDefenderHealingPulse|MercDefenderHealingPulse|Z",
+    "value": "冷卻時間：10秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/RingOfFire|RingOfFire|W",
+    "value": "冷卻時間：5秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneBrew|B",
+    "value": "引導<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>秒後，傳送回風暴祭壇。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneNoMana|B",
+    "value": "引導<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>秒後，傳送回風暴祭壇。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|Hearthstone|B",
+    "value": "引導<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>秒後，傳送回風暴祭壇。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/LeaveVehicle|DragonKnightLeaveDragon|Trait",
+    "value": "離開載具。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleActivateParticleCannon|VolskayaVehicleActivateParticleCannon|Q",
+    "value": "發射粒子砲，對目標區域造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">190</c>點傷害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "朝一名目標衝鋒，並且對範圍內造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c>點傷害。<n/><n/>對非英雄單位額外造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500%</c>傷害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleCharge|VolskayaVehicleCharge|Q",
+    "value": "朝一名目標衝鋒，並且對範圍內造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c>點傷害。<n/><n/>對非英雄單位額外造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500%</c>傷害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleCoreChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "朝一名目標衝鋒，並且對範圍內造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c>點傷害。<n/><n/>對非英雄單位額外造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500%</c>傷害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleInitiateParticleCannon|VolskayaVehicleInitiateParticleCannon|Q",
+    "value": "啟動後延伸粒子砲的射程。重新啟動即可發射粒子砲，對目標區域造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">190</c>點傷害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleRocketFist|VolskayaVehicleRocketFist|W",
+    "value": "發射火箭拳，對路徑上的第一名英雄或建築造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">150</c>點傷害。火箭拳會擊退英雄最多<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>秒，並且使建築癱瘓<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>秒。<n/><n/>火箭拳會立即殺死路徑上的小兵。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleSkyLaser|VolskayaVehicleSkyLaser|E",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">方位指定技能</c><n/>在地面上劃一道直線，造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60</c>點傷害，並且在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>秒後爆炸，額外造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">380</c>點傷害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleStructureChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "朝一名目標衝鋒，並且對範圍內造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c>點傷害。<n/><n/>對非英雄單位額外造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500%</c>傷害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleTacticalStrikes|VolskayaVehicleTacticalStrikes|W",
+    "value": "啟用時可朝游標的所在位置發射砲火。每發砲火可造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">38</c>點傷害，但是會耗費<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>點能量。再次啟動可停止射擊。<n/><n/>對建築造成的傷害降低<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleTShield|VolskayaVehicleTShield|E",
+    "value": "獲得<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c>點護甲，並且使附近的友方英雄獲得<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500</c>點護盾，持續<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/name/LeaveVehicle|DragonKnightLeaveDragon|Trait",
+    "value": "離開載具"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/DragonsDinner|DragonsDinner|Q",
+    "value": "禁錮"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercDefenderHealingPulse|MercDefenderHealingPulse|Z",
+    "value": "哨衛 - 脈衝治療"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/OverwatchMechanicRepair|OverwatchMechanicRepair|Z",
+    "value": "智械工程師 - 修理"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/RingOfFire|RingOfFire|W",
+    "value": "能量之環"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/RingOfFire|RingOfFire|W",
+    "value": "產生一道能量之環，對範圍內的目標造成傷害"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleActivateParticleCannon|VolskayaVehicleActivateParticleCannon|Q",
+    "value": "對目標區域造成傷害"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "衝向目標，並且造成範圍傷害"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleCharge|VolskayaVehicleCharge|Q",
+    "value": "衝向目標，並且造成範圍傷害"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleCoreChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "衝向目標，並且造成範圍傷害"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleInitiateParticleCannon|VolskayaVehicleInitiateParticleCannon|Q",
+    "value": "讓粒子砲充能"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleRocketFist|VolskayaVehicleRocketFist|W",
+    "value": "發射火箭拳造成傷害，使英雄定身，並且癱瘓防禦塔"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleSkyLaser|VolskayaVehicleSkyLaser|E",
+    "value": "延遲後對直線範圍造成傷害"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleStructureChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "衝向目標，並且造成範圍傷害"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleTacticalStrikesDeactivate|VolskayaVehicleGatlingCannonCancel|W",
+    "value": "停止射擊"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleTacticalStrikes|VolskayaVehicleTacticalStrikes|W",
+    "value": "發射密集的炮火"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleTShield|VolskayaVehicleTShield|E",
+    "value": "賦予保衛者護甲，並且給予附近盟友護盾，持續一小段時間"
+  },
+  {
+    "op": "replace",
+    "path": "/items/hero/expandedRole/Varian",
+    "value": "肉盾"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/BioticEmitter",
+    "value": "製造一個生化放射器，在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c>秒內使附近友方英雄恢復最大生命值和最大法力值的<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c>。"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">生命值高的強悍傭兵，使用近戰攻擊，專門負責承受敵方陣地的砲火。</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser2",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">生命值高的強悍傭兵，使用近戰攻擊，專門負責承受敵方陣地的砲火。</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser3",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">生命值高的強悍傭兵，使用近戰攻擊，專門負責承受敵方陣地的砲火。</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeIndividual",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">生命值高的強悍傭兵，使用近戰攻擊，專門負責承受敵方陣地的砲火。</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/energyType/VolskayaVehicle",
+    "value": "能量"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/energyType/VolskayaVehicleGunner",
+    "value": "能量"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/lifeType/VolskayaVehicle",
+    "value": "生命值"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/lifeType/VolskayaVehicleGunner",
+    "value": "生命值"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/HeroChenEarth",
+    "value": "英雄老陳大地"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/HeroChenFire",
+    "value": "英雄老陳烈火"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/HeroChenStorm",
+    "value": "英雄老陳風暴"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/JungleGraveGolemDefender",
+    "value": "巨神機甲兵"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/RegenGlobe",
+    "value": "治療包"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BioticEmitter",
+    "value": "生化放射器"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DragonSpiritsPickup",
+    "value": "龍魂"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HealingPulsePickup",
+    "value": "脈衝治療"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser",
+    "value": "幫派嘍囉"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser2",
+    "value": "幫派嘍囉"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser3",
+    "value": "幫派嘍囉"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeIndividual",
+    "value": "哨衛"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperLaner",
+    "value": "砲彈兵"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperDefender",
+    "value": "突擊兵"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperDefenderAttackMissile",
+    "value": "傭兵標槍兵（防禦者飛彈）"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperLaner",
+    "value": "突擊兵"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperLanerAttackMissile",
+    "value": "Merc Impaler (Laner Missile)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchBossImprisonMissile",
+    "value": "鬥陣特攻頭目囚禁飛彈"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchBossImprisonMissileDummy",
+    "value": "鬥陣特攻頭目囚禁飛彈（模型）"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchMechanic",
+    "value": "智械工程師"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchTurret",
+    "value": "砲塔"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchTurretPlayer",
+    "value": "砲塔（玩家）"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TurretPickup",
+    "value": "砲塔（拾取）"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/VolskayaMercCaptureSlab",
+    "value": "Volskaya Merc Capture Slab"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/VolskayaVehicleParticleCannonMissile",
+    "value": "粒子砲飛彈"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/VolskayaVehicleRocketFistMissile",
+    "value": "火箭拳飛彈"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/VolskayaVehicleSkyLaserMoverUnit",
+    "value": "Sky Laser Mover Unit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/VolskayaVehicleTacticalStrikesMissile",
+    "value": "戰略攻擊飛彈"
+  }
+]
