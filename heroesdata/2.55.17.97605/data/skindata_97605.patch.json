@@ -1,0 +1,83 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97605"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.0.2"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/totalItems",
+    "value": 1763
+  },
+  {
+    "op": "replace",
+    "path": "/items/ThrallToon20Var4/releaseDate",
+    "value": "2026-07-03"
+  },
+  {
+    "op": "add",
+    "path": "/items/LucioToon20",
+    "value": {
+      "hyperlinkId": "LucioToon20",
+      "attributeId": "LucA",
+      "franchise": "Overwatch",
+      "rarity": "Legendary",
+      "releaseDate": "2026-10-20",
+      "variationSkinIds": [
+        "LucioToon20Var1",
+        "LucioToon20Var2",
+        "LucioToon20Var3",
+        "LucioToon20Var4"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/LucioToon20Var1",
+    "value": {
+      "hyperlinkId": "LucioToon20Var1",
+      "attributeId": "LucB",
+      "franchise": "Overwatch",
+      "rarity": "Legendary",
+      "releaseDate": "2026-07-20"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/LucioToon20Var2",
+    "value": {
+      "hyperlinkId": "LucioToon20Var2",
+      "attributeId": "LucC",
+      "franchise": "Overwatch",
+      "rarity": "Legendary",
+      "releaseDate": "2026-10-20"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/LucioToon20Var3",
+    "value": {
+      "hyperlinkId": "LucioToon20Var3",
+      "attributeId": "LucD",
+      "franchise": "Overwatch",
+      "rarity": "Legendary",
+      "releaseDate": "2026-10-20"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/LucioToon20Var4",
+    "value": {
+      "hyperlinkId": "LucioToon20Var4",
+      "attributeId": "LucE",
+      "franchise": "Overwatch",
+      "rarity": "Legendary",
+      "releaseDate": "2026-10-20"
+    }
+  }
+]

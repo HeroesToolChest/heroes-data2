@@ -1,0 +1,157 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Infernal Shrines"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/MercPunisherLanerFixate|MercPunisherLanerFixate|W",
+    "value": "재사용 대기시간: 10초"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/MercPunisherLanerLeap|MercPunisherLanerLeap|Q",
+    "value": "재사용 대기시간: 15초"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/:PASSIVE:|ShrineAuraMinionAura|Q",
+    "value": "주위 영웅, 돌격병, 용병을 강화해 일반 공격력, 기술 피해, 치유량을 <s val=\"8783e6\" hlt-name=\"StandardTooltip\">20%</s> 증가시킵니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/CursedShrineSpawn|CursedShrineSpawn|Q",
+    "value": "대상 위치에 저주받은 돌격병을 생성합니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/MercPunisherLanerFixate|MercPunisherLanerFixate|W",
+    "value": "대상에게 시선을 고정합니다. 4초 동안 격분 상태가 되어 이동 속도가 100% , 공격 속도가 0%  증가합니다. 이 시간 동안에는 응징자에게 어떤 명령도 내리지 못합니다.<n/><n/>효과가 끝날 때 응징자가 1초 동안 기절합니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/MercPunisherLanerLeap|MercPunisherLanerLeap|Q",
+    "value": "대상 위치로 도약하여, 충격 지점에 있는 적들에게 1의 피해를 주고 1초 동안 기절시킵니다<n/><n/><'( ^o ^ c)</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/MercSummonerDefenderSummonMinions|MercSummonerDefenderSummonMinions|W",
+    "value": "아군을 위해 싸울 돌격병을 소환합니다!"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/:PASSIVE:|ShrineAuraMinionAura|Q",
+    "value": "신단 돌격병 오라"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/CursedShrineSpawn|CursedShrineSpawn|Q",
+    "value": "저주받은 돌격병 생성"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercPunisherLanerFixate|MercPunisherLanerFixate|W",
+    "value": "시선 고정"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercPunisherLanerLeap|MercPunisherLanerLeap|Q",
+    "value": "응징"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/MercPunisherLanerLeap|MercPunisherLanerLeap|Q",
+    "value": "일정 지역 안의 적을 기절시킴"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostDamageToMinions",
+    "value": "신단 수호자에게 준 피해의 ~AwardValue~%"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostDamageToMinions",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">수호자 사냥꾼</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostDamageToMinions",
+    "value": "신단 수호자에게 준 피해: ~TooltipAmount~"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostDamageToMinions",
+    "value": "최고 수호자 피해"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/ParalyzeStructure",
+    "value": "대상 구조물을 무력화시킵니다. 대상 최대 생명력의 1%만큼 피해를 주고 10초 동안 초당 1의 에너지를 흡수합니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/CursedShrineMinion",
+    "value": "해골"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DiabloArcaneUnit",
+    "value": "비전"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DiabloShrine",
+    "value": "신단"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DiabloShrineWarningUnit",
+    "value": "디아블로 신단 경고 유닛"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercPunisherLaner",
+    "value": "응징자"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperDefender",
+    "value": "투창병"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperLaner",
+    "value": "투창병"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerDefender",
+    "value": "몰락자 영매"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerDefenderMinion",
+    "value": "몰락자 사냥개"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerLaner",
+    "value": "몰락자 영매"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerLanerMinion",
+    "value": "몰락자 사냥개"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WeaponRackSpecialHeaven",
+    "value": "무기 걸이 특별 (천상)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WeaponRackSpecialHell",
+    "value": "무기 걸이 특별 (지옥)"
+  }
+]

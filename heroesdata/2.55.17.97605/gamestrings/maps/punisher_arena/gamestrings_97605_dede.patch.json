@@ -1,0 +1,207 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Punisher Arena"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/MercPunisherLanerFixate|MercPunisherLanerFixate|W",
+    "value": "Abklingzeit: 10 Sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/MercPunisherLanerLeap|MercPunisherLanerLeap|Q",
+    "value": "Abklingzeit: 15 Sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|DeathwingHearthstone|B",
+    "value": "Teleportiert den Helden nach <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4.5</c> Sek. Kanalisieren zum Altar der Stürme."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneBrew|B",
+    "value": "Teleportiert den Helden zurück zum Altar und stellt sofort sämtliche Lebenspunkte und sämtliches Gebräu wieder her."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneNoMana|B",
+    "value": "Teleportiert den Helden zurück zum Altar und stellt sofort sämtliche Lebenspunkte wieder her."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|Hearthstone|B",
+    "value": "Teleportiert den Helden zurück zum Altar und stellt sofort sämtliche Lebenspunkte und sämtliches Mana wieder her."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/:PASSIVE:|ShrineAuraMinionAura|Q",
+    "value": "Verstärkt Helden, Diener und Söldner in der Nähe und erhöht ihren Angriffsschaden, ihren Fähigkeitsschaden und ihre Heilung um <s val=\"8783e6\" hlt-name=\"StandardTooltip\">20%.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/CursedShrineSpawn|CursedShrineSpawn|Q",
+    "value": "Lässt am Zielort einen verfluchten Diener entstehen."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/MercPunisherLanerFixate|MercPunisherLanerFixate|W",
+    "value": "Fokussiert auf das Ziel, wird wütend und erhöht 20 Sek. lang die Bewegungsgeschwindigkeit um 100%  sowie die Angriffsgeschwindigkeit um 0% . In diesem Zeitraum kann der Bestrafer keine Anweisungen erhalten.<n/><n/>Betäubt den Bestrafer 1 Sek. lang, sobald der Effekt abklingt."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/MercPunisherLanerLeap|MercPunisherLanerLeap|Q",
+    "value": "Springt zum Zielgebiet, verursacht 1 Schaden und betäubt Ziele im Wirkungsbereich 1 Sek. lang.<n/><n/><'( ^o ^ c)</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/:PASSIVE:|ShrineAuraMinionAura|Q",
+    "value": "Schreindiener - Aura"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/CursedShrineSpawn|CursedShrineSpawn|Q",
+    "value": "Verfluchten Diener erschaffen"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercPunisherLanerFixate|MercPunisherLanerFixate|W",
+    "value": "Fixieren"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercPunisherLanerLeap|MercPunisherLanerLeap|Q",
+    "value": "Bestrafen"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/MercPunisherLanerLeap|MercPunisherLanerLeap|Q",
+    "value": "Betäubt Gegner im Wirkungsbereich."
+  },
+  {
+    "op": "add",
+    "path": "/items/announcerPack/name/CommodoreFord",
+    "value": "Kommodore Ford"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/ParalyzeStructure",
+    "value": "Setzt das anvisierte Gebäude außer Gefecht, fügt ihm Schaden in Höhe von 1% seiner maximalen Lebenspunkte zu und entzieht ihm 10 Sek. lang 1 Energie pro Sekunde."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/VehiclePlantHorror",
+    "value": "Pflanzenungeheuer"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/CursedShrineMinion",
+    "value": "Skelett"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DiabloArcaneUnit",
+    "value": "Arkanbestrafer"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DiabloShrine",
+    "value": "Schrein"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DiabloShrineWarningUnit",
+    "value": "Diabloschrein - Warneinheit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercPunisherLaner",
+    "value": "Bestrafer"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperDefender",
+    "value": "Pfähler"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperLaner",
+    "value": "Pfähler"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerDefender",
+    "value": "Schamane der Gefallenen"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerDefenderMinion",
+    "value": "Jagdhund der Gefallenen"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerLaner",
+    "value": "Schamane der Gefallenen"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerLanerMinion",
+    "value": "Jagdhund der Gefallenen"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BLURBRVisionBlockedHeaven",
+    "value": "Tor"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BLURBRVisionBlockedHell",
+    "value": "Tor"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BLURTLVisionBlockedHeaven",
+    "value": "Tor"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BLURTLVisionBlockedHell",
+    "value": "Tor"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BRULBLVisionBlockedHeaven",
+    "value": "Tor"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BRULBLVisionBlockedHell",
+    "value": "Tor"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BRULTRVisionBlockedHeaven",
+    "value": "Tor"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BRULTRVisionBlockedHell",
+    "value": "Tor"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WeaponRackSpecialHeaven",
+    "value": "Spezialwaffenständer (Himmel)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WeaponRackSpecialHell",
+    "value": "Spezialwaffenständer (Hölle)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WheresWeirdo",
+    "value": "Such den Spinner"
+  }
+]

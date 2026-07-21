@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97605"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.0.2"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Abathur/speed",
+    "value": 4.75
+  },
+  {
+    "op": "replace",
+    "path": "/items/Lucio/skinIds/2",
+    "value": "LucioToon20"
+  },
+  {
+    "op": "add",
+    "path": "/items/Lucio/skinIds/3",
+    "value": "LucioUltimate"
+  }
+]

@@ -1,0 +1,477 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97605"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.0.2"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosBigRagSulfurasSmash|RagnarosSulfurasSmash|Heroic",
+    "value": "Время восстановления: 60\u00A0сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/RagnarosSulfurasSmash|RagnarosSulfurasSmash|Heroic",
+    "value": "Время восстановления: 60\u00A0сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|YrelDivinePurposeActive|Trait",
+    "value": "При использовании позволяет мгновенно применить следующую базовую способность с максимальной подготовкой и без затрат маны. Время восстановления «Божественного замысла» сокращается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0сек., если на Ирель накладывается оглушение или немота при подготовке способностей.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Пассивный эффект:</c> способности можно готовить к использованию в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c>\u00A0сек. При этом они усиливаются, но скорость передвижения Ирель снижается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AbathurEvolveMonstrosity|AbathurEvolveMonstrosityHotbar|Heroic",
+    "value": "Превращает союзного воина или саранчида в монстра. Когда рядом с монстром погибает воин противника, он получает бонус в <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c> к запасу здоровья и <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c> к урону от автоатак. Бонус суммируется до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>\u00A0раз. Монстр может получать исцеление от «Панциря» симбионта и перемещаться под землей в видимую точку раз в <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80</c>\u00A0сек.<n/><n/>Используя на монстре «Симбионта», Абатур может им управлять, а также использовать способности симбионта. При повторном использовании автоматически помещает на монстра симбионта."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AbathurSpawnLocusts|AbathurLocustStrain|Q",
+    "value": "Раз в <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c>\u00A0сек. порождает саранчида, атакующего ближайшую линию. Саранчиды восполняют здоровье в объеме <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> от наносимого ими урона, а также восполняют <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> максимального запаса здоровья, когда рядом с ними погибает воин.<n/><n/>Саранчиды постепенно теряют здоровье в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">17</c>\u00A0сек., их запас здоровья равен <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">225</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед., и они наносят <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">36</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона с каждой автоатакой, при этом нанося на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> больше урона всем, кроме героев."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AbathurSpawnLocusts|AbathurLocustStrain|Trait",
+    "value": "Раз в <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c>\u00A0сек. порождает саранчида, атакующего ближайшую линию. Саранчиды восполняют здоровье в объеме <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> от наносимого ими урона, а также восполняют <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> максимального запаса здоровья, когда рядом с ними погибает воин.<n/><n/>Саранчиды постепенно теряют здоровье в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">17</c>\u00A0сек., их запас здоровья равен <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">225</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед., и они наносят <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">36</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона с каждой автоатакой, при этом нанося на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> больше урона всем, кроме героев."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaBreathOfLife|AlexstraszaBreathOfLife|Q",
+    "value": "Восполняет здоровье союзного героя в объеме <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> от текущего запаса здоровья Алекстразы.<n/><n/>Таланты «Дара жизни» также усиливают «Дыхание жизни»."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaCleansingFlameDragonqueen|AlexstraszaCleansingFlameDragonqueen|Heroic",
+    "value": "Взлетает в небо и в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0сек. запускает <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0огненных шаров в точку, где находится указатель мыши. Каждый шар наносит противникам <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">135</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона и восполняет союзным героям <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">300</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. здоровья.<n/><n/>Спустя <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0сек. после окончания обстрела Алекстраза приземляется в точке, где находится указатель мыши."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaCleansingFlame|AlexstraszaCleansingFlame|Heroic",
+    "value": "После паузы в <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c>\u00A0сек. Алекстраза взмывает в небо и в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0сек. запускает <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0огненных шаров в точку, где находится указатель мыши. Каждый шар наносит противникам <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">135</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона и восполняет союзным героям <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">300</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. здоровья.<n/><n/>Спустя <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0сек. после окончания обстрела Алекстраза приземляется в точке, где находится указатель мыши."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/AlexstraszaPreservation|AlexstraszaPreservation|W",
+    "value": "Высаживает зерно исцеления, которое прорастает через <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0сек., восполняя <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> максимального запаса здоровья союзным героям поблизости.<n/><n/>Таланты «Изобилия» также усиливают «Сохранение»."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasFrostmourneHungers|ArthasFrostmourneHungers|Trait",
+    "value": "При активации следующая автоатака Артаса станет мгновенной, дополнительно нанесет <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">71</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона и восполнит ему <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>\u00A0ед. маны при попадании.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> убийства воинов или попадания по героям «Жаждой Ледяной Скорби» до конца матча увеличивают дополнительный урон от способности на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0ед., а урон от автоатак Артаса\u00A0— на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75</c>\u00A0ед."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasIceboundFortitude|ArthasIceboundFortitudeTalent|Active",
+    "value": "При использовании мгновенно снимает эффекты обездвиживания и замедления. Дает <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c>\u00A0ед. брони и сокращает длительность эффектов оглушения, замедления и обездвиживания на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c> на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0сек.<n/><n/>Время восстановления «Воющего ветра» сокращается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0сек. за каждого обездвиженного этой способностью героя."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasPathofFrost|ArthasPathofFrost|Active",
+    "value": "Позволяет мгновенно призвать транспорт, минимальная скорость которого\u00A0— <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140%</c>. При получении урона действие транспорта не отменяется. Максимальная длительность\u00A0— <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0сек.<n/><n/>Когда Артас спешивается, все враги поблизости замедляются на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0сек. и получают <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/HoggerOnTheProwl|HoggerOnTheProwl|Active",
+    "value": "При использовании дает <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> ед. ярости за <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> сек.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Пассивный эффект:</c> восполняет <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">7</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед. здоровья в секунду. Этот объем увеличивается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c> за каждую накопленную единицу ярости."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/NexusHunterBloodRage|NexusHunterBloodRage|W",
+    "value": "Кахира наносит <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">32</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона и восполняет <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. здоровья за каждого пораженного героя. Урон и восполняемое здоровье увеличиваются на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> за каждый дополнительный эффект, наложенный на героя противника.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Пассивный эффект:</c> автоатаки и урон от способностей вызывают у противников кровотечение, наносящее <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">32</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>\u00A0сек. Эффект суммируется до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0раз.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> наносите героям урон от кровотечения «Кровавой яростью», чтобы до конца матча увеличить ее урон на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.24%</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Награда:</c> после того, как «Кровавая ярость» нанесет героям урон от кровотечения <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">150</c>\u00A0раз, ее время действия увеличится на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagExplosiveRune|RagnarosBigRagExplosiveRune|E",
+    "value": "Создает руну, которая взрывается через <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c>\u00A0сек. и поджигает врагов, нанося <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">22</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона каждую секунду в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagMeteorShower|RagnarosBigRagMeteorShower|W",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">Векторное действие</c><n/>Призывает <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0<lang rule=\"plural\" val=\"\">метеорит,метеорита,метеоритов</lang>, которые падают по прямой линии в указанном направлении. Каждый метеорит наносит <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона и замедляет противников на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c> на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagMoltenSwing|RagnarosBigRagMoltenSwing|Q",
+    "value": "Совершает широкий взмах Сульфурасом, нанося противникам <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона и оглушая их на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>\u00A0сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosBigRagSulfurasSmash|RagnarosSulfurasSmash|Heroic",
+    "value": "Рагнарос бросает Сульфурас в указанную область. Спустя <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75</c>\u00A0сек. Сульфурас падает на землю, нанося <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона. Противники в центре области поражения получают <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">594</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона и оглушаются на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c>\u00A0сек.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> поразите <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>\u00A0вражеских героев в центре.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Эпохальная награда:</c> «Удар Сульфураса» получает еще один заряд."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosMoltenCore|RagnarosMoltenCore|Trait",
+    "value": "При поддержании на союзном или уничтоженном форте или крепости принимает свой истинный облик, временно получая новые способности и <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5000</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. здоровья, которое будет постепенно тратиться в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">23</c>\u00A0сек. Пока действуют «Огненные Недра», дальность способностей Рагнароса увеличивается.<n/><n/>Потеряв все здоровье во время действия «Огненных Недр», Рагнарос вернется к своему обычному облику, получив при этом оглушение на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>\u00A0сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/RagnarosSulfurasSmash|RagnarosSulfurasSmash|Heroic",
+    "value": "Рагнарос бросает Сульфурас в указанную область. Спустя <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75</c>\u00A0сек. Сульфурас падает на землю, нанося <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона. Противники в центре области поражения получают <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">594</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона и оглушаются на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c>\u00A0сек.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> поразите <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>\u00A0вражеских героев в центре.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Эпохальная награда:</c> «Удар Сульфураса» получает еще один заряд."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/SgtHammerBluntForceGun|SgtHammerBluntForceGun|Heroic",
+    "value": "Выпускает снаряд, который летит через все поле боя и наносит противникам, оказавшимся на пути, <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.03~~</c>\u00A0ед. урона. Наносит <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> урона строениям."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/SgtHammerBluntForceGun|SgtHammerBluntForceGun|Q",
+    "value": "Выпускает снаряд, который летит через все поле боя и наносит противникам, оказавшимся на пути, <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.03~~</c>\u00A0ед. урона. Наносит <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> урона строениям."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/TychusDrakkenLaserDrill|TychusDrakkenLaserDrill|Heroic",
+    "value": "Вызывает лазерную установку, атакующую находящихся рядом противников и наносящую <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">142</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона в секунду. При повторном использовании позволяет выбрать новую цель. Установка постепенно теряет здоровье в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c>\u00A0сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/WhitemaneGuidingLight|WhitemaneGuidingLight|Active",
+    "value": "При использовании применяет к союзному герою постоянный эффект <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">«Рвения»</c>, который не расходует ману и не дает эффект <c val=\"FF8B8B\" hlt-name=\"#WhitemaneDesperation\">«Отчаяния»</c>. Дальность действия не ограничена. Одновременно может быть активен только один такой эффект.<n/><n/>Бонус к силе способностей от таланта Вайтмейн усиливается на 15%."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/WhitemaneSearingLash|WhitemaneSearingLash|E",
+    "value": "Через <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c>\u00A0сек. вы покараете противников на прямой линии, нанеся <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">82</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона.<n/><n/>Если первым ударом вы поразите вражеского героя, то после небольшой задержки нанесете еще один удар.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Постоянная задача:</c> поразите героев «Пылающим хлыстом».<n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Постоянная задача:</c> поразите <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0<lang rule=\"plural\" val=\"\">героя,героев,героев</lang> автоатаками.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Награда:</c> максимальный запас здоровья Вайтмейн навсегда увеличивается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0ед., а запас маны\u00A0— на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0ед. При поражении героя вторым ударом «Пылающего хлыста» засчитывается <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0<lang rule=\"plural\" val=\"\">попадание,попадания,попаданий</lang>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/YrelDivinePurpose|YrelDivinePurpose|Trait",
+    "value": "При использовании позволяет мгновенно применить следующую базовую способность с максимальной подготовкой и без затрат маны. Время восстановления «Божественного замысла» сокращается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0сек., если на Ирель накладывается оглушение или немота при подготовке способностей.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Пассивный эффект:</c> способности можно готовить к использованию в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c>\u00A0сек. При этом они усиливаются, но скорость передвижения Ирель снижается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ZagaraInfestToggle|ZagaraInfestItem|Active",
+    "value": "Увеличивает урон находящихся рядом воинов дальнего боя на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c>. Можно активировать по желанию.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Постоянная задача:</c> каждые <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1000</c>\u00A0ед. осадного урона увеличивают этот бонус еще на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1%</c>.<n/><n/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Текущий бонус от осадного урона:</c> <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ZagaraInfestToggle|ZagaraInfestToggleOff|Active",
+    "value": "Увеличивает урон находящихся рядом воинов дальнего боя на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c>. Можно активировать по желанию.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Постоянная задача:</c> каждые <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1000</c>\u00A0ед. осадного урона увеличивают этот бонус еще на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1%</c>.<n/><n/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Текущий бонус от осадного урона:</c> <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/infoText/MountMonoWheelMadAxe19",
+    "value": "Эта развалина уже пару раз прокатилась по Арене пустошей. До сих пор держится молодцом... только не опирайтесь на выступающие детали."
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/infoText/MountMonoWheelMadAxe19Var1",
+    "value": "Эта развалина уже пару раз прокатилась по Арене пустошей. До сих пор держится молодцом... только не опирайтесь на выступающие детали."
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/infoText/MountMonoWheelMadAxe19Var2",
+    "value": "Эта развалина уже пару раз прокатилась по Арене пустошей. До сих пор держится молодцом... только не опирайтесь на выступающие детали."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/LucioToon20",
+    "value": "Лусио обожает экспериментировать и пробовать что-то неординарное. В этой броне слились воедино звуки, краски и свет."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/LucioToon20Var1",
+    "value": "Лусио обожает экспериментировать и пробовать что-то неординарное. В этой броне слились воедино звуки, краски и свет."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/LucioToon20Var2",
+    "value": "Лусио обожает экспериментировать и пробовать что-то неординарное. В этой броне слились воедино звуки, краски и свет."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/LucioToon20Var3",
+    "value": "Лусио обожает экспериментировать и пробовать что-то неординарное. В этой броне слились воедино звуки, краски и свет."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/LucioToon20Var4",
+    "value": "Лусио обожает экспериментировать и пробовать что-то неординарное. В этой броне слились воедино звуки, краски и свет."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/LucioToon20",
+    "value": "Лусио-синестет"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/LucioToon20Var1",
+    "value": "Рубиновый Лусио-синестет"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/LucioToon20Var2",
+    "value": "Янтарный Лусио-синестет"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/LucioToon20Var3",
+    "value": "Классический Лусио-синестет"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/LucioToon20Var4",
+    "value": "Королевский Лусио-синестет"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/sortName/ThrallToon20Var4",
+    "value": "ThrallToon20Var4"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/RagnarosSulfurasSmash|RagnarosSulfurasSmash|Heroic|Level10",
+    "value": "Время восстановления: 60\u00A0сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurCombatStyleBombardStrain|AbathurLocustStrainBombardStrainTalent|Trait|Level13",
+    "value": "Саранчиды атакуют с большого расстояния и теряют здоровье на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> медленнее."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "Увеличивает запас здоровья саранчидов на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c>, а их урон – на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurHeroicAbilityEvolveMonstrosity|AbathurEvolveMonstrosityHotbar|Heroic|Level10",
+    "value": "Превращает союзного воина или саранчида в монстра. Когда рядом с монстром погибает воин противника, он получает бонус в <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c> к запасу здоровья и <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c> к урону от автоатак. Бонус суммируется до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>\u00A0раз. Монстр может получать исцеление от «Панциря» симбионта и перемещаться под землей в видимую точку раз в <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80</c>\u00A0сек.<n/><n/>Используя на монстре «Симбионта», Абатур может им управлять, а также использовать способности симбионта. При повторном использовании автоматически помещает на монстра симбионта."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": "Автоатаки Абатура наносят на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500%</c> больше урона, оглушают неэлитных врагов и обезвреживают постройки на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c>\u00A0сек.<n/><n/>Одну и ту же цель можно оглушить или обезвредить не чаще раза в <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaAncientFlameFlameBuffet|AlexstraszaAncientFlameFlameBuffet|Trait|Level20",
+    "value": "Пока действует «Королева драконов», автоатаки Алекстразы применяют «Огненный удар». Не идет в счет задачи.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Пассивный эффект:</c> «Королева драконов» увеличивает максимальный запас здоровья на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaCleansingFlame|AlexstraszaCleansingFlame|Heroic|Level10",
+    "value": "После паузы в <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c>\u00A0сек. Алекстраза взмывает в небо и в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0сек. запускает <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0огненных шаров в точку, где находится указатель мыши. Каждый шар наносит противникам <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">135</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона и восполняет союзным героям <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">300</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. здоровья.<n/><n/>Спустя <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0сек. после окончания обстрела Алекстраза приземляется в точке, где находится указатель мыши."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaDraconicDisciplineDragonqueen|AlexstraszaDraconicDisciplineDragonqueen|Trait|Level16",
+    "value": "Автоатаки «Королевы драконов» восполняют на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> больше здоровья. Время восстановления «Сохранения» сокращается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c>\u00A0сек. за каждого союзного героя, чье здоровье было восполнено автоатаками «Королевы драконов»."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "\"Уменьшает расход маны «Огненного удара» с <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0ед. до <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0ед.<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Задача:</c> нанесите «Огненный удар» по горящим вражеским героям. После <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0ударов вы получите эпохальную задачу.<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Награда:</c> нанесите урон <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0героям, чтобы попадания «Огненным ударом» по горящим вражеским героям сокращали время восстановления «Королевы драконов» на <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0сек.<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Эпохальная задача:</c> нанесите урон еще <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0героям, при этом не погибнув, чтобы урон, наносимый «Королевой драконов» героям, продлевал действие способности.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaLifeblossomGiftOfLife|AlexstraszaLifeblossomeGiftOfLife|Q|Level7",
+    "value": "Если уровень здоровья превышает <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c>, «Дар жизни» создает цветок жизни в точке, где находится цель, а «Дыхание жизни» снимает эффекты замедления и обездвиживания.<n/><n/>Подберите цветок, чтобы использовать следующий «Дар жизни» без затрат здоровья.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Пассивный эффект:</c> снижает стоимость «Дара жизни» до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c> текущего запаса здоровья Алекстразы."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaLiveAndLetLiveGiftOfLife|AlexstraszaLiveAndLetLiveGiftOfLife|Q|Level1",
+    "value": "Если уровень здоровья превышает <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c>, «Дар жизни» восстанавливается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">125%</c> быстрее.<n/><n/><c val=\"D65CFF\" hlt-name=\"#ColorViolet\">Королева драконов:</c> если уровень здоровья превышает <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c>, «Дыхание жизни» восстанавливается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> быстрее."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaOnRubyWingsCleansingFlame|AlexstraszaOnRubyWingsCleansingFlame|Heroic|Level20",
+    "value": "Огненный шар «Очищающего пламени», который нанесет урон или восполнит здоровье хотя бы <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0героям, не будет потрачен."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AnubarakMasteryLeechingScarabs|AnubarakLeechingMandiblesTalent|Trait|Level7",
+    "value": "Атаки жуков наносят на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> больше урона. Если Ануб'арак находится рядом, его здоровье восполняется в объеме <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> от нанесенного урона."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArthasIceboundFortitude|ArthasIceboundFortitudeTalent|Active|Level7",
+    "value": "При использовании мгновенно снимает эффекты обездвиживания и замедления. Дает <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c>\u00A0ед. брони и сокращает длительность эффектов оглушения, замедления и обездвиживания на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c> на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0сек.<n/><n/>Время восстановления «Воющего ветра» сокращается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0сек. за каждого обездвиженного этой способностью героя."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArthasPathofFrost|ArthasPathofFrost|Active|Level20",
+    "value": "Позволяет мгновенно призвать транспорт, минимальная скорость которого\u00A0— <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140%</c>. При получении урона действие транспорта не отменяется. Максимальная длительность\u00A0— <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0сек.<n/><n/>Когда Артас спешивается, все враги поблизости замедляются на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0сек. и получают <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">66</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChenAccumulatingFlame|ChenAccumulatingFlame|W|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Награда:</c> наносите урон вражеским героям «Пламенным дыханием», чтобы до конца матча увеличить периодический урон на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c>\u00A0ед. При убийстве урон увеличивается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0ед.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Награда:</c> после увеличения урона на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c>\u00A0ед. дальность «Удара бочонком» увеличится.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Эпохальная награда:</c> после увеличения урона на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80</c>\u00A0ед. «Пламенное дыхание» будет ослаблять броню врагов на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0ед., а его длительность будет увеличиваться на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75</c>\u00A0сек. за каждую атаку Чэня по герою."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChoCallousedHide|ChoCallousedHide|Trait|Level1",
+    "value": "Когда у Чо остается менее <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> максимального запаса здоровья, он получает бонус к скорости передвижения и эффективности получаемого исцеления в <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChoConsumingFire|ChoConsumingFire|W|Level1",
+    "value": "При попадании по герою «Всепоглощающий жар» восполняет Чо на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. больше здоровья."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChoFirestarter|ChoFirestarter|W|Level7",
+    "value": "Автоатаки, направленные против пораженных «Всепоглощающим жаром» героев, сокращают время его восстановления на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c>\u00A0сек.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Пассивный эффект:</c> сокращает время восстановления «Всепоглощающего жара» на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0сек. "
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieDragonsBreathDeepBreathing|ChromieDragonsBreathDeepBreathing|W|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> каждое попадание «Дыханием дракона» по герою увеличивает урон от него на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5%</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Награда:</c> после <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0попаданий по героям время восстановления «Дыхания дракона» уменьшится на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>\u00A0сек., а стоимость снизится с <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65</c> до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>\u00A0ед. маны."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieSandBlastOnceAgainTheFirstTime|ChromieSandBlastOnceAgaintheFirstTime|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> поразите героев «Песчаным вихрем» Хроми или ее копий <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0<lang rule=\"plural\" val=\"\">раз,раза,раз</lang>, при этом не погибнув.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Награда:</c> максимальное количество активных копий будет увеличено до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>, а наносимый ими урон\u00A0— до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieTimeTrapChronicConditions|ChromieTimeTrapChronicConditions|E|Level4",
+    "value": "\"«Темпоральная ловушка» поражает вражеских героев автоматически.<n/><n/>По истечении остановки времени замедляет пораженных «Темпоральной ловушкой» противников на <c val=\"\"#TooltipNumbers\"\">0%</c> на <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0сек. и повышает скорость передвижения попавших под ее воздействие союзников на <c val=\"\"#TooltipNumbers\"\">0%</c> на <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0сек.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallBombsAway|GallBombsAwayTalent|E|Level4",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> каждый раз, когда «Рунный взрыв» попадает по герою, урон от него увеличивается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>\u00A0ед.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Награда:</c> после <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0попаданий по героям дальность действия и скорость «Рунной бомбы» Чо увеличатся на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/HoggerHoggersJoggers|HoggerHoggersJoggers|Passive|Level4",
+    "value": "Пока у Дробителя не менее <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35</c>\u00A0ед. ярости, его скорость передвижения и эффективность получаемого исцеления повышаются на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c>.<n/><n/>Если у Дробителя не менее <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>\u00A0ед. ярости, бонус увеличивается до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/HoggerOnTheProwl|HoggerOnTheProwl|Active|Level1",
+    "value": "При использовании дает <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> ед. ярости за <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> сек.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Пассивный эффект:</c> восполняет <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">7</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед. здоровья в секунду. Этот объем увеличивается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c> за каждую накопленную единицу ярости."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MalGanisFelClawsWillOfTichondrius|MalGanisFelClawsWillOfTichondrius|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> поражайте героев «Когтями Скверны», чтобы до конца матча увеличить их урон на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c>\u00A0ед.<n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> при поражении <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>\u00A0героев первыми двумя ударами «Когтей Скверны» урон последнего удара увеличивается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>\u00A0ед.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Награда:</c> когда показатель дополнительного урона достигнет <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0ед., последний удар будет похищать <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4%</c> здоровья вражеских героев, а время действия оглушения увеличится на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c>\u00A0сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/NexusHunterFatalWounds|NexusHunterFatalWounds|W|Level1",
+    "value": "При максимуме эффектов «Кровавой ярости» урон от кровотечения по героям, у которых осталось менее <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> здоровья, увеличивается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ProbiusGatherMineralsPhotonCannonQuest|ProbiusGatherMineralsPhotonCannonQuestTalent|E|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> собирайте минералы, чтобы увеличить запас прочности фотонных пушек на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>\u00A0ед., вплоть до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">560</c>\u00A0ед.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Награда:</c> после сбора <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70</c>\u00A0ед. минералов фотонные пушки будут наносить на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c> больше урона."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosLavaWaveLavaSurge|RagnarosLavaWaveLavaSurge|Heroic|Level20",
+    "value": "«Волна лавы» получает еще один заряд, а также забирает с собой союзных воинов и наемников (кроме боссов)."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "При активации «Огненных Недр» дальность увеличивается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c>. Кроме того, время восстановления «Огненных Недр» сокращается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">110</c>\u00A0сек., если способность применяется на уничтоженный форт или крепость."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosSulfurasSmash|RagnarosSulfurasSmash|Heroic|Level10",
+    "value": "Рагнарос бросает Сульфурас в указанную область. Спустя <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75</c>\u00A0сек. Сульфурас падает на землю, нанося <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона. Противники в центре области поражения получают <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">594</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона и оглушаются на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c>\u00A0сек.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> поразите <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>\u00A0вражеских героев в центре.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Эпохальная награда:</c> «Удар Сульфураса» получает еще один заряд."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/SgtHammerHeroicAbilityBluntForceGun|SgtHammerBluntForceGun|Heroic|Level10",
+    "value": "Выпускает снаряд, который летит через все поле боя и наносит противникам, оказавшимся на пути, <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.03~~</c>\u00A0ед. урона. Наносит <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> урона строениям."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/TychusHeroicAbilityDrakkenLaserDrill|TychusDrakkenLaserDrill|Heroic|Level10",
+    "value": "Вызывает лазерную установку, атакующую находящихся рядом противников и наносящую <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">142</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона в секунду. При повторном использовании позволяет выбрать новую цель. Установка постепенно теряет здоровье в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c>\u00A0сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WhitemaneGuidingLight|WhitemaneGuidingLight|Active|Level20",
+    "value": "При использовании применяет к союзному герою постоянный эффект <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">«Рвения»</c>, который не расходует ману и не дает эффект <c val=\"FF8B8B\" hlt-name=\"#WhitemaneDesperation\">«Отчаяния»</c>. Дальность действия не ограничена. Одновременно может быть активен только один такой эффект.<n/><n/>Бонус к силе способностей от таланта Вайтмейн усиливается на 15%."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WhitemaneInquisitorsPrayer|WhitemaneInquisitor'sPrayer|E|Level1",
+    "value": "«Пылающий хлыст» восполняет <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c>\u00A0ед. маны каждому пораженному герою, а время действия <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">«Рвения»</c> увеличивается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationAldorPeacekeeper|YrelVindicationAldorPeacekeeper|Q|Level13",
+    "value": "Герои, пораженные «Оправданием» после максимальной подготовки, в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0сек. наносят на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c> меньше урона."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ZagaraMasteryInfest|ZagaraInfest|Active|Level1",
+    "value": "Увеличивает урон находящихся рядом воинов дальнего боя на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c>. Можно активировать по желанию.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Постоянная задача:</c> каждые <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1000</c>\u00A0ед. осадного урона увеличивают этот бонус еще на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ZagaraMasteryMutalisk|ZagaraHunterKillerMutaliskTalent|W|Level16",
+    "value": "Уменьшает время восстановления «Охотника-убийцы» на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>\u00A0сек. Вместо гидралиска призывает муталиска, атаки которого рикошетят. Муталиск постепенно теряет здоровье в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c>\u00A0сек. Запас здоровья\u00A0— <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">420</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.045~~</c>\u00A0ед."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": "Шмякотур"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": "Автоатаки оглушают цель и наносят больше урона"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/AlexstraszaDraconicDisciplineDragonqueen|AlexstraszaDraconicDisciplineDragonqueen|Trait|Level16",
+    "value": "Атаки «Королевы драконов» восполняют больше здоровья."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "<c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> сокращайте время восстановления «Королевы драконов»\u00A0— время действия не ограничено."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/AlexstraszaOnRubyWingsCleansingFlame|AlexstraszaOnRubyWingsCleansingFlame|Heroic|Level20",
+    "value": "Попадание по нескольким героям продлевает «Очищающее пламя»."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/ChromieTimeTrapChronicConditions|ChromieTimeTrapChronicConditions|E|Level4",
+    "value": "«Темпоральная ловушка» срабатывает автоматически, изменяет скорость передвижения врагов и союзников."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/NexusHunterFatalWounds|NexusHunterFatalWounds|W|Level1",
+    "value": "«Кровавая ярость» наносит больше урона врагам с низким уровнем здоровья."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/RagnarosLavaWaveLavaSurge|RagnarosLavaWaveLavaSurge|Heroic|Level20",
+    "value": "«Волна лавы» получает второй заряд, волны ускоряются."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "Увеличивает дальность и время восстановления «Огненных Недр»."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/WhitemaneInquisitorsPrayer|WhitemaneInquisitor'sPrayer|E|Level1",
+    "value": "«Пылающий хлыст» восполняет ману, время действия <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">«Рвения»</c> увеличено."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/ZagaraMasteryInfest|ZagaraInfest|Active|Level1",
+    "value": "<c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> увеличьте урон находящихся рядом воинов дальнего боя."
+  }
+]
