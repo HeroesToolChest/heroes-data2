@@ -10,7 +10,7 @@ In the `data` and `gamestring` directories, the immediate json files, referred t
 
 There can be multiple "patch" versions in a row. Creating the "full" JSON file requires that the [json patch apply](https://github.com/HeroesToolChest/HeroesDataParser#json-patch-apply) command be run multiple times, starting from the `root-version`.
 
-The `map` directories contain directories of the battlegrounds, each with JSON files in the "patch" form. The JSON patch is created from the "full" base JSON files of the same version (not a previous version). These patch files represent the differences between that battleground and the base JSON files.
+The `maps` directories contain directories of the battlegrounds, each with JSON files in the "patch" form. The JSON patch is created from the "full" base JSON files of the same version (not a previous version). These patch files represent the differences between that battleground and the base JSON files.
 
 For each base JSON file, there should be a battleground patch file, except for the `gamestrings_mapdata_*.json` files. If there is no patch file, there are no differences. If a battleground directory contains no patches then that battleground directory will not exist. Battleground directory names are derived from the `normalizedId` property in the `mapdata_*.json` data files.
 
@@ -55,7 +55,7 @@ In the version directories, a `.hdp.json` file contains the following:
 ```
 
 > [!NOTE]
-> For how often a version will be in "full" form is up to discretion. If a version was skipped, meaing that `extracted` is `false`, there will *might* be a "full" version after, otherwise maybe around 10 "patch" form versions.
+> For how often a version will be in "full" form is up to discretion. If a version was skipped, meaning that `extracted` is `false`, there *might* be a "full" version after, otherwise maybe around 10 "patch" form versions.
 
 ## Data Extraction
 The following options was used for extraction of data and images:
