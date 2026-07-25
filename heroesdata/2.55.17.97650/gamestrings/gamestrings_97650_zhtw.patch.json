@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97650"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AbathurSymbioteCarapace|AbathurSymbioteCarapace|E",
+    "value": "獲得護盾"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "烈焰衝擊的法力消耗從<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>點降低至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>點。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任務：</c>以烈焰衝擊命中燃燒的敵方英雄。命中<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>次可解鎖傳奇任務。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">獎勵：</c>命中<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>名英雄後，以烈焰衝擊命中燃燒的敵方英雄，會使龍后的冷卻時間降低<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>秒。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">傳奇任務：</c>在未死亡情況下再次命中<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>名英雄後，龍后對英雄造成傷害會重置其持續時間。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChenMasteryKegSmashATouchOfHoney|ChenKegSmashATouchOfHoneyTalent|W|Level13",
+    "value": "酒桶破的緩速效果提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>，持續時間提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieTimeTrapChronicConditions|ChromieTimeTrapChronicConditions|E|Level4",
+    "value": "時光陷阱會自動對敵方英雄啟動。<n/><n/>時光陷阱的時光停滯效果結束後，受影響的敵人會緩速<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>，持續<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>秒，受影響的盟友移動速度會提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>，持續<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任務：</c>以暗影之焰命中受到丘的噬魂烈焰影響的敵方英雄，可使暗影之焰的冷卻時間降低<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c>秒。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">獎勵：</c>以暗影之焰命中<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>名英雄後，暗影之焰的冷卻時間永久降低<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/LiLiHinderingWinds|LiLiHinderingWinds|E|Level13",
+    "value": "提高目盲之風的緩速效果至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c>，持續時間提高至<2</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationLightOfKarabor|YrelVindicationLightOfKarabor|Q|Level1",
+    "value": "神聖辯護的半徑提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>。神聖辯護若命中一名敵方英雄可使其治療量提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c>，若命中超過一名以上的英雄時，此加成會提高至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80%</c>。"
+  }
+]

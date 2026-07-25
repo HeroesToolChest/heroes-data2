@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97650"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AbathurSymbioteCarapace|AbathurSymbioteCarapace|E",
+    "value": "Genera uno Scudo."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "Riduce il costo in Mana di Folata delle Fiamme da <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missione:</c> Colpisci gli eroi nemici incendiati con Folata delle Fiamme. Se ne colpisci <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> sblocchi una Missione mitica.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Ricompensa:</c> Dopo aver colpito <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> eroi, colpire un eroe nemico incendiato con Folata delle Fiamme riduce il tempo di recupero di Regina dei Draghi di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> s.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missione mitica:</c> Dopo aver colpito altri <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> eroi senza morire, i danni di Regina dei Draghi contro gli eroi ne rinnovano la durata."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChenMasteryKegSmashATouchOfHoney|ChenKegSmashATouchOfHoneyTalent|W|Level13",
+    "value": "Aumenta l'effetto di rallentamento di Colpo di Botte del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>, e la sua durata di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieTimeTrapChronicConditions|ChromieTimeTrapChronicConditions|E|Level4",
+    "value": "Trappola Temporale si attiva automaticamente sugli eroi nemici.<n/><n/>Al termine di Arresto Temporale, i nemici colpiti da Trappola Temporale sono rallentati del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s, e gli alleati ottengono un bonus del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> alla velocità di movimento per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missione:</c> Se Ombrofuoco colpisce un eroe nemico sotto gli effetti di Fiamma Logorante di Cho, il suo tempo di recupero è ridotto di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> s.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Ricompensa:</c> Dopo aver colpito <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> eroi con Ombrofuoco, riduce permanentemente il suo tempo di recupero di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationLightOfKarabor|YrelVindicationLightOfKarabor|Q|Level1",
+    "value": "Estende del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> il raggio di Rivendicazione. Colpire un eroe nemico aumenta del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c> le cure di Rivendicazione. Se si colpisce più di un eroe, il bonus aumenta al <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80%</c>."
+  }
+]

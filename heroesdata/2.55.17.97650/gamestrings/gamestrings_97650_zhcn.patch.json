@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97650"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AbathurSymbioteCarapace|AbathurSymbioteCarapace|E",
+    "value": "获得护盾"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "烈焰打击的法力消耗从<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>降低至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任务：</c>用烈焰打击击中处于燃烧状态的敌方英雄。击中<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>次将解锁一个神话任务。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">奖励：</c>在击中<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>名英雄后，用烈焰打击击中一名处于燃烧状态的英雄时，红龙女王的冷却时间缩短<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>秒。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">神话任务：</c>击中<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>名英雄且不死亡时，红龙女王对英雄造成伤害会刷新其持续时间。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChenMasteryKegSmashATouchOfHoney|ChenKegSmashATouchOfHoneyTalent|W|Level13",
+    "value": "醉酿投的减速效果提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>，持续时间延长<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieTimeTrapChronicConditions|ChromieTimeTrapChronicConditions|E|Level4",
+    "value": "时间陷阱会自动对敌方英雄触发。<n/><n/>在时停结束后，受时间陷阱影响的敌人移动速度降低<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>秒，受影响的盟友则移动速度提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任务：</c>如果暗影烈焰击中一个受到古的吞噬耀光影响的敌方英雄，其冷却时间则会缩短<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c>秒。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">奖励：</c>击中<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>个英雄后，暗影烈焰的冷却时间永久缩短<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationLightOfKarabor|YrelVindicationLightOfKarabor|Q|Level1",
+    "value": "辩护之光的范围扩大<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>。击中一名敌方英雄，则辩护之光的治疗量提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c>。若击中多名英雄，则治疗量提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80%</c>。"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97650"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AbathurSymbioteCarapace|AbathurSymbioteCarapace|E",
+    "value": "Otorga un escudo."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "Reduce el coste de maná de Sacudida de llamas de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Golpea a héroes enemigos en llamas con Sacudida de llamas. Tras <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> golpes, se desbloquea una misión mítica.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Tras golpear a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> héroes, al atacar a un héroe enemigo en llamas con Sacudida de llamas, se reduce en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0s el tiempo de reutilización de Reina dragón.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión mítica:</c> Tras golpear a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> héroes más sin morir, el daño de Reina dragón contra héroes reinicia su duración."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChenMasteryKegSmashATouchOfHoney|ChenKegSmashATouchOfHoneyTalent|W|Level13",
+    "value": "Aumenta las ralentizaciones de Estampar barril un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> y su duración en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieTimeTrapChronicConditions|ChromieTimeTrapChronicConditions|E|Level4",
+    "value": "Trampa temporal se activará contra héroes enemigos de forma automática.<n/><n/>Cuando acaba la detención en el tiempo, los enemigos afectados por Trampa temporal quedan ralentizados un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>,\u00A0s y los aliados obtienen un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> de velocidad de movimiento adicional durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Haz que Llama de las sombras golpee a un héroe enemigo afectado por Fuego devorador de Cho para que su tiempo de reutilización se reduzca <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> s.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Tras golpear a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> héroes, el tiempo de reutilización de Llama de las sombras se reduce <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s de forma permanente."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationLightOfKarabor|YrelVindicationLightOfKarabor|Q|Level1",
+    "value": "Aumenta el radio de Vindicación un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>. Golpear a un héroe enemigo aumenta la curación de Vindicación un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c>. Si se golpea a más de un héroe, la bonificación aumenta a un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80%</c>."
+  }
+]

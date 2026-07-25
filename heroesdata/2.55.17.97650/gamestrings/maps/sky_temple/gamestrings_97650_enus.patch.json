@@ -1,0 +1,177 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Sky Temple"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TempleChampionTornado|SkyTempleCoreSandstorm|Q",
+    "value": "Cooldown: 10 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TempleCoreTornado|GraveGolemBindingRootsSkyTemple|Q",
+    "value": "Cooldown: 23 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TempleGuardianMightySwing|TempleGuardianMightySwing|Q",
+    "value": "Cooldown: 8 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/LuxoriaTempleFinalBlast|LuxoriaTempleFinalBlast|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 1</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/LuxoriaTempleFinalBlast|LuxoriaTempleFinalBlast|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Cooldown: 0.1 seconds</s><n/><n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">Unlease a massive final blast of energy, dealing </s><s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">2500</s><s val=\"8783e6\" hlt-name=\"StandardTooltip\"> damage to the target.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/LuxoriaTempleTurretHold|LuxoriaTempleHoldTurret|W",
+    "value": "Face the turret towards the targeted unit or point and hold it there."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/LuxoriaTempleTurretRelease|LuxoriaTempleReleaseTurret|E",
+    "value": "Face the turret towards the targeted unit or point and release it."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TempleChampionTornado|SkyTempleCoreSandstorm|Q",
+    "value": "Damage and push enemy Heroes"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TempleCoreTornado|GraveGolemBindingRootsSkyTemple|Q",
+    "value": "Damage and push enemies in a small area"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TempleGuardianMightySwing|TempleGuardianMightySwing|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Cooldown: 8 seconds</s><n/><n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">Slams down your weapon, dealing </s><s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">280</s><s val=\"8783e6\" hlt-name=\"StandardTooltip\"> damage to all nearby enemies and knock them away from the area.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/LuxoriaTempleFinalBlast|LuxoriaTempleFinalBlast|Q",
+    "value": "Final Blast"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/LuxoriaTempleTurretHold|LuxoriaTempleHoldTurret|W",
+    "value": "Hold Turret"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/LuxoriaTempleTurretRelease|LuxoriaTempleReleaseTurret|E",
+    "value": "Release Turret"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/stop|Stop|Heroic",
+    "value": "Stop"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TempleChampionTornado|SkyTempleCoreSandstorm|Q",
+    "value": "Sandstorm"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TempleCoreTornado|GraveGolemBindingRootsSkyTemple|Q",
+    "value": "Whirling Sands"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TempleGuardianMightySwing|TempleGuardianMightySwing|Q",
+    "value": "Mighty Swing"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TempleChampionTornado|SkyTempleCoreSandstorm|Q",
+    "value": "Damage and push enemy Heroes"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TempleCoreTornado|GraveGolemBindingRootsSkyTemple|Q",
+    "value": "Damage and push enemies in a small area"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TempleGuardianMightySwing|TempleGuardianMightySwing|Q",
+    "value": "Slam down your weapon damaging and knocking away all nearby enemies."
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostTimeInTemple",
+    "value": "~AwardValue~% Temple Occupation"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostTimeInTemple",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Temple Master</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostTimeInTemple",
+    "value": "~TooltipAmount~ Seconds Occupying Shrines"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostTimeInTemple",
+    "value": "Most Time In Temple"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/JungleGraveGolemLaner",
+    "value": "Sand Golem"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HarrisonJonesWell",
+    "value": "Harrison Jones Well"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LuxoriaCoreTornado",
+    "value": "Tornado"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LuxoriaTemple",
+    "value": "Luxoria Temple"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LuxoriaTempleCaptureBeacon",
+    "value": "Luxoria Temple Capture Beacon"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TempleChampionBoss",
+    "value": "Temple Defender"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TempleDefenderMelee",
+    "value": "Temple Defender"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TempleDefenderPathingBlocker",
+    "value": "Defender Pathing Blocker"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TempleDefenderRanged",
+    "value": "Defender"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TempleGuardianBoss",
+    "value": "Defender"
+  }
+]
