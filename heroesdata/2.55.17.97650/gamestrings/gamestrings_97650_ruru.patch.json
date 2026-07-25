@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97650"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AbathurSymbioteCarapace|AbathurSymbioteCarapace|E",
+    "value": "Дает щит."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "Уменьшает расход маны «Огненного удара» с <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>\u00A0ед. до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>\u00A0ед.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> нанесите «Огненный удар» по горящим вражеским героям. После <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0ударов вы получите эпохальную задачу.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Награда:</c> нанесите урон <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0героям, чтобы попадания «Огненным ударом» по горящим вражеским героям сокращали время восстановления «Королевы драконов» на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0сек.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Эпохальная задача:</c> нанесите урон еще <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>\u00A0героям, при этом не погибнув, чтобы урон, наносимый «Королевой драконов» героям, продлевал действие способности."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChenMasteryKegSmashATouchOfHoney|ChenKegSmashATouchOfHoneyTalent|W|Level13",
+    "value": "Усиливает эффект замедления от «Удара бочонком» на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> и увеличивает время его действия на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieTimeTrapChronicConditions|ChromieTimeTrapChronicConditions|E|Level4",
+    "value": "«Темпоральная ловушка» поражает вражеских героев автоматически.<n/><n/>По истечении остановки времени замедляет пораженных «Темпоральной ловушкой» противников на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0сек. и повышает скорость передвижения попавших под ее воздействие союзников на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> при попадании «Пламени Тьмы» по подожженным «Всепоглощающим жаром» Чо героям время восстановления «Пламени Тьмы» сокращается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> сек.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Награда:</c> после <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> попаданий по героям время восстановления «Пламени Тьмы» вместо этого уменьшится на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> сек. до конца матча."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationLightOfKarabor|YrelVindicationLightOfKarabor|Q|Level1",
+    "value": "Увеличивает радиус действия «Оправдания» на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>. Восполняет на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c> больше здоровья, если «Оправдание» поражает героя. При поражении более чем одного героя этот бонус увеличивается до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80%</c>."
+  }
+]

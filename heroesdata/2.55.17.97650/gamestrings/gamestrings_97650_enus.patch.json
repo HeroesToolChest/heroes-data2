@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97650"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AbathurSymbioteCarapace|AbathurSymbioteCarapace|E",
+    "value": "Gain a Shield"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": "Abathur’s Basic Attacks deal <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">350%</c> additional damage and Stun non-Elite enemies and disable Structures for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> seconds.<n/><n/>The same Hero or Structure can only be Stunned or disabled once every <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChenMasteryKegSmashATouchOfHoney|ChenKegSmashATouchOfHoneyTalent|W|Level13",
+    "value": "Increase the Slows from Keg Smash by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> and its duration by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieTimeTrapChronicConditions|ChromieTimeTrapChronicConditions|E|Level4",
+    "value": "Time Trap will activate on enemy Heroes automatically.<n/><n/>After its Time Stop ends, enemies affected by Time Trap are Slowed by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds and allies gain <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> Movement Speed for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> If Shadowflame hits an enemy Hero that is afflicted by Cho's Consuming Blaze, its cooldown is reduced by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> seconds.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> After hitting <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> Heroes, Shadowflame's cooldown is instead permanently reduced by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> second."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiDeflectPerfectDefense|GenjiDeflectPerfectDefense|W|Level7",
+    "value": "Deflected damage reduces the cooldown of Deflect by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c> seconds, up to a maximum of <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12.5</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "Molten Core's range is increased by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> at the start of its duration.  In addition, the cooldown of Molten Core is reduced by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c> seconds when used on a destroyed Fort or Keep."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationLightOfKarabor|YrelVindicationLightOfKarabor|Q|Level1",
+    "value": "Increase Vindication's radius by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>. Hitting an enemy Hero increases Vindication's healing by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c>. If more than one Hero is hit, the bonus is increased to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80%</c>."
+  }
+]

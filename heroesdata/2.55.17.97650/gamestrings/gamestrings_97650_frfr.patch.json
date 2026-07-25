@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97650"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AbathurSymbioteCarapace|AbathurSymbioteCarapace|E",
+    "value": "Confère un bouclier."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "Réduit le coût en mana de Rafale de flammes de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête\u00A0:</c> toucher les héros adverses embrasés avec Rafale de flammes. Touchez <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>\u00A0fois pour débloquer une quête mythique.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Récompense\u00A0:</c> après avoir touché <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0héros, toucher un héros adverse embrasé avec Rafale de flammes réduit le temps de recharge de Reine-dragon de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0secondes.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête mythique\u00A0:</c> si vous touchez <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>\u00A0héros supplémentaires sans mourir, les dégâts de Reine-dragon infligés aux héros réinitialisent sa durée."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChenMasteryKegSmashATouchOfHoney|ChenKegSmashATouchOfHoneyTalent|W|Level13",
+    "value": "Augmente le ralentissement de Fracasse-tonneau de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> et sa durée de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> seconde."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieTimeTrapChronicConditions|ChromieTimeTrapChronicConditions|E|Level4",
+    "value": "Piège temporel s’active automatiquement sur les héros adverses.<n/><n/>À la fin de la stase, la vitesse de déplacement des personnages adverses affectés par le piège diminue de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0secondes et celle des alliés augmente de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0secondes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête\u00A0:</c> si Ombreflamme touche un héros adverse affecté par Flambée dévorante de Cho, réduit son temps de recharge de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> seconde.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Récompense\u00A0:</c> une fois <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> héros touchés, réduit de manière permanente le temps de recharge d’Ombreflamme de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> seconde."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationLightOfKarabor|YrelVindicationLightOfKarabor|Q|Level1",
+    "value": "Augmente le rayon de Rémission de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15\u00A0%</c>. Toucher un héros adverse augmente les points de vie rendus par Rémission de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40\u00A0%</c>. Si plus d’un héros est touché, le bonus est porté à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80\u00A0%</c>."
+  }
+]

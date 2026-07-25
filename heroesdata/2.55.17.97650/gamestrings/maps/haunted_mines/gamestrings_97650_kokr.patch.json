@@ -1,0 +1,49 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Haunted Mines"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/StormBossAttack|Attack|Hidden"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/StormBossAttack|Attack|Hidden"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/StormBossAttack|Attack|Hidden"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostSkullsCollected",
+    "value": "팀이 수집한 해골의 ~AwardValue~%"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostSkullsCollected",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">해골 수집가</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostSkullsCollected",
+    "value": "수집한 해골: ~TooltipAmount~개"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BossHoleSharedVisionUnit",
+    "value": "Boss Hole Shared Vision Unit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperDefender",
+    "value": "폭격수"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperLaner",
+    "value": "폭격수"
+  }
+]

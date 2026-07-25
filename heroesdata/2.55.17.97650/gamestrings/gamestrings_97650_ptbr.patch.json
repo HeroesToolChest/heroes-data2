@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97650"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AbathurSymbioteCarapace|AbathurSymbioteCarapace|E",
+    "value": "Ganha um Escudo"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "Reduz o custo de mana de Bofetada Flamejante de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> para <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missão:</c> Atingir Heróis inimigos incendiados com Bofetada Flamejante. <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> . acertos desbloqueiam uma Missão Mítica.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Após atingir <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> Heróis, atingir Heróis inimigos incendiados com Bofetada Flamejante reduz a recarga da Rainha dos Dragões em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> s.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missão Mítica:</c> Após atingir <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> mais Heróis sem morrer, o dano da Rainha dos Dragões contra Heróis atualiza a duração."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChenMasteryKegSmashATouchOfHoney|ChenKegSmashATouchOfHoneyTalent|W|Level13",
+    "value": "Aumenta em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> a desaceleração da Pancada de Barril e em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> s a duração dela."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieTimeTrapChronicConditions|ChromieTimeTrapChronicConditions|E|Level4",
+    "value": "A Armadilha Temporal será ativada sobre Heróis inimigos automaticamente.<n/><n/>Quando Parar o Tempo termina, os inimigos afetados pela Armadilha Temporal são desacelerados em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> por <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s e os aliados ganham <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> de Velocidade de Movimento por <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missão:</c> Se a Chama Sombria atingir um Herói inimigo afetado pelas Chamas Devoradoras de Cho, a recarga será reduzida em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> s.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Após atingir <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> Heróis, a recarga da Chama Sombria será reduzida em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s permanentemente."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/TyraelStalwartAngel|TyraelStalwartAngel|Q|Level4",
+    "value": "Recebe <25</c> de Armadura enquanto o Poder de El'druin estiver ativo e por <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s após se teleportar."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationLightOfKarabor|YrelVindicationLightOfKarabor|Q|Level1",
+    "value": "Aumenta o raio da Vindicação em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>. Atingir Heróis inimigos aumenta a cura de Vindicação em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c>. Se mais de um Herói for atingido, o bônus de cura aumenta para <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80%</c>."
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Sky Temple"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TempleChampionTornado|SkyTempleCoreSandstorm|Q",
+    "value": "冷卻時間：10秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TempleCoreTornado|GraveGolemBindingRootsSkyTemple|Q",
+    "value": "冷卻時間：23秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TempleGuardianMightySwing|TempleGuardianMightySwing|Q",
+    "value": "冷卻時間：8秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/LuxoriaTempleFinalBlast|LuxoriaTempleFinalBlast|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">法力：1點</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/LuxoriaTempleFinalBlast|LuxoriaTempleFinalBlast|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">冷卻時間：0.1秒</s><n/><n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">釋放巨大的終極能量轟炸目標，造成</s><s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">2500</s><s val=\"8783e6\" hlt-name=\"StandardTooltip\">點傷害。</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/LuxoriaTempleTurretHold|LuxoriaTempleHoldTurret|W",
+    "value": "將砲台面向目標單位或地點，然後拿著不動。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/LuxoriaTempleTurretRelease|LuxoriaTempleReleaseTurret|E",
+    "value": "將砲台面向目標單位或方向，然後放下。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TempleChampionTornado|SkyTempleCoreSandstorm|Q",
+    "value": "對敵方英雄造成傷害並推開他們"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TempleCoreTornado|GraveGolemBindingRootsSkyTemple|Q",
+    "value": "對小範圍區域內的敵人造成傷害，並且推開敵人"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TempleGuardianMightySwing|TempleGuardianMightySwing|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">冷卻時間：8秒</s><n/><n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">猛力縱劈你的武器，對周遭敵人造成</s><s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">280</s><s val=\"8783e6\" hlt-name=\"StandardTooltip\">點傷害並擊退他們。</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/LuxoriaTempleFinalBlast|LuxoriaTempleFinalBlast|Q",
+    "value": "終極爆轟"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/LuxoriaTempleTurretHold|LuxoriaTempleHoldTurret|W",
+    "value": "占領砲台"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/LuxoriaTempleTurretRelease|LuxoriaTempleReleaseTurret|E",
+    "value": "釋放砲台"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/stop|Stop|Heroic",
+    "value": "停止"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TempleChampionTornado|SkyTempleCoreSandstorm|Q",
+    "value": "沙塵風暴"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TempleCoreTornado|GraveGolemBindingRootsSkyTemple|Q",
+    "value": "狂沙飛旋"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TempleGuardianMightySwing|TempleGuardianMightySwing|Q",
+    "value": "巨力揮擊"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TempleChampionTornado|SkyTempleCoreSandstorm|Q",
+    "value": "對敵方英雄造成傷害並推開他們"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TempleCoreTornado|GraveGolemBindingRootsSkyTemple|Q",
+    "value": "對小範圍區域內的敵人造成傷害，並且推開敵人"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TempleGuardianMightySwing|TempleGuardianMightySwing|Q",
+    "value": "猛力揮下武器，造成傷害並擊退周圍所有的敵人。"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostTimeInTemple",
+    "value": "佔領神殿時間達~AwardValue~%"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostTimeInTemple",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">神殿大師</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostTimeInTemple",
+    "value": "神殿佔領時間達~TooltipAmount~秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostTimeInTemple",
+    "value": "位於神殿時間最久"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/JungleGraveGolemLaner",
+    "value": "沙塵魔像"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HarrisonJonesWell",
+    "value": "哈里遜‧瓊斯之井"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LuxoriaCoreTornado",
+    "value": "龍捲風"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LuxoriaTemple",
+    "value": "盧索里亞神殿"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LuxoriaTempleCaptureBeacon",
+    "value": "盧索里亞神殿佔領信標"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TempleChampionBoss",
+    "value": "神殿防禦者"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TempleDefenderMelee",
+    "value": "神殿防禦者"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TempleDefenderPathingBlocker",
+    "value": "防禦者路徑障礙物"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TempleDefenderRanged",
+    "value": "神殿防禦者"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TempleGuardianBoss",
+    "value": "神殿防禦者"
+  }
+]

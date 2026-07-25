@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97650"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AbathurSymbioteCarapace|AbathurSymbioteCarapace|E",
+    "value": "보호막 획득"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "용의 불씨의 마나 소모량이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>에서 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c><lang rule=\"jongsung\">으로,로</lang> 감소합니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">퀘스트:</c> 용의 불씨가 불타는 적 영웅에게 적중해야 합니다. <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>회 적중 시 신화 퀘스트를 해제합니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> 영웅 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>명 적중 시, 불타는 적 영웅에게 용의 불씨가 적중하면 용의 여왕의 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>초 감소합니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Mythic Quest:</c> 죽지 않고 영웅 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>명에게 추가 적중 시, 영웅에게 용의 여왕 피해를 주면 지속시간이 갱신됩니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChenMasteryKegSmashATouchOfHoney|ChenKegSmashATouchOfHoneyTalent|W|Level13",
+    "value": "술통 부수기의 감속 효과가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> 증가하고 감속 효과의 지속 시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> 초 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieTimeTrapChronicConditions|ChromieTimeTrapChronicConditions|E|Level4",
+    "value": "시간의 덫이 적 영웅에게 자동으로 사용됩니다.<n/><n/>시간의 덫의 시간 정지 상태가 끝나면 덫의 영향을 받은 적의 이동 속도가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>초 동안 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> 감소하고 아군의 이동 속도는 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>초 동안 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">퀘스트:</c> 초의 잠식하는 불길로 불타는 영웅에게 암흑불길이 적중할 때마다 암흑불길의 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c>초 감소합니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">보상:</c> 불타는 영웅에게 암흑불길이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>회 적중하면 암흑불길의 재사용 대기시간이 영구히 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>초 감소합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationLightOfKarabor|YrelVindicationLightOfKarabor|Q|Level1",
+    "value": "비호의 반경이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> 증가합니다. 비호가 적 영웅에게 적중하면 치유량이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c> 증가합니다. 비호가 2명 이상의 적 영웅에게 적중하면 치유량이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">80%</c> 증가합니다."
+  }
+]
