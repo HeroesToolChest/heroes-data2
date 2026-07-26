@@ -1205,7 +1205,36 @@
         "y": 248
       },
       "replayPreviewImage": "replayspreviewimage_warheadjunction.png",
-      "loadingScreenImage": "storm_ui_homescreenbackground_warhead.png"
+      "loadingScreenImage": "storm_ui_homescreenbackground_warhead.png",
+      "mapObjectives": [
+        {
+          "icons": [
+            {
+              "image": "ui_ingame_mapmechanic_loadscreen_warhead_icon1.png",
+              "height": 150,
+              "scaleWidth": true
+            }
+          ]
+        },
+        {
+          "icons": [
+            {
+              "image": "ui_ingame_mapmechanic_loadscreen_warhead_icon2.png",
+              "height": 150,
+              "scaleWidth": true
+            }
+          ]
+        },
+        {
+          "icons": [
+            {
+              "image": "ui_ingame_mapmechanic_loadscreen_warhead_icon3.png",
+              "height": 155,
+              "scaleWidth": true
+            }
+          ]
+        }
+      ]
     }
   }
 }
