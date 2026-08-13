@@ -198,6 +198,11 @@
           "Des points de contrôle s’activent régulièrement. Placez-vous à l’intérieur pour les capturer et prendre les commandes d’un méca géant.",
           "Le protecteur Triglav a besoin de deux opérateurs\u00A0: un pilote et un artilleur. Pensez à vous coordonner\u00A0!",
           "Les capacités du protecteur infligent des dégâts colossaux aux bâtiments et aux héros. Utilisez-les pour anéantir vos adversaires."
+        ],
+        "Warhead Junction": [
+          "Plusieurs ogives apparaissent périodiquement sur le champ de bataille.",
+          "Emparez-vous d’une ogive pour activer votre frappe. Utilisez-la rapidement car vous la perdrez à votre mort\u00A0!",
+          "Déclenchez des frappes nucléaires qui brûleront les fortifications de l’équipe adverse. Attaquez leurs bâtiments pour prolonger l’incendie\u00A0!"
         ]
       },
       "objectiveTitle": {
@@ -340,6 +345,11 @@
           "Capturez les points",
           "Contrôlez le protecteur",
           "Semez la destruction"
+        ],
+        "Warhead Junction": [
+          "Déploiement d’ogives",
+          "Collecte des ogives",
+          "Que pleuve l’enfer"
         ]
       }
     }

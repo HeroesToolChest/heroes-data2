@@ -198,6 +198,11 @@
           "Se habilitan puntos de control esporádicamente. Quedaos en ellos para capturarlos. Capturar un punto os dará el control de un meca gigante.",
           "El protector Triglav se controla con dos jugadores: un piloto y un artillero. ¡Trabajad en equipo!",
           "Las habilidades del protector infligen mucho daño tanto a estructuras como a héroes. Usadlo para erradicar a vuestros enemigos."
+        ],
+        "Warhead Junction": [
+          "Varias cabezas nucleares aparecerán periódicamente por el campo de batalla.",
+          "Recoged una cabeza nuclear para activar vuestra bomba. ¡Usadla rápido o la perderéis al morir!",
+          "Lanzad bombas nucleares para incendiar las fortificaciones del enemigo. ¡Atacad sus estructuras para ampliar el efecto!"
         ]
       },
       "objectiveTitle": {
@@ -340,6 +345,11 @@
           "Capturad los puntos",
           "Controlad al protector",
           "Destrucción total"
+        ],
+        "Warhead Junction": [
+          "Despliegue de cabezas nucleares",
+          "Recoged cabezas nucleares",
+          "Invocad la furia del cielo"
         ]
       }
     }

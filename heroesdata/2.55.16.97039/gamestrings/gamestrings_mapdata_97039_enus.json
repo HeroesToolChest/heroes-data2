@@ -198,6 +198,11 @@
           "Control points activate occasionally. Stand within them to capture them. Fully capturing a point grants you control of a giant mech.",
           "The Triglav Protector mech is controlled by two players: one pilot and one gunner. Work together!",
           "The Protector's Abilities deal incredible damage to Structures and Heroes alike. Use it to lay waste to your enemy."
+        ],
+        "Warhead Junction": [
+          "Periodically multiple Warheads will spawn across the battleground.",
+          "Collect a Warhead to activate your Nuke. Use it quick or you will drop it when you die!",
+          "Launch Nukes to burn enemy team's fortifications.  Attack their structures to extend the burn!"
         ]
       },
       "objectiveTitle": {
@@ -340,6 +345,11 @@
           "Capture Points",
           "Control the Protector",
           "Destroy Everything"
+        ],
+        "Warhead Junction": [
+          "Warhead Deployment",
+          "Collect Warheads",
+          "Call Down the Thunder"
         ]
       }
     }

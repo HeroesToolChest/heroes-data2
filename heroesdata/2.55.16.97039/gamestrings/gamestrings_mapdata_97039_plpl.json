@@ -198,6 +198,11 @@
           "Punkty kontrolne aktywują się okresowo. Stań na punkcie i przejmij go w pełni, aby uzyskać kontrolę nad ogromnym mechem.",
           "Do sterowania mechem Protektor Trygław potrzeba dwóch graczy: pilota i strzelca. Musicie współpracować!",
           "Protektor zadaje ogromne obrażenia budowlom i bohaterom. Wykorzystaj jego zdolności, aby siać spustoszenie wśród wrogów."
+        ],
+        "Warhead Junction": [
+          "Na polu bitwy co jakiś czas pojawia się kilka głowic.",
+          "Zbierz głowicę, aby aktywować pocisk nuklearny. Wykorzystaj ją szybko, bo kiedy zginiesz, upuścisz ją!",
+          "Wystrzel pocisk nuklearny, aby podpalić fortyfikacje wroga. Atakuj płonące budowle, aby przedłużyć czas podpalenia!"
         ]
       },
       "objectiveTitle": {
@@ -340,6 +345,11 @@
           "Przechwytuj punkty",
           "Steruj Protektorem",
           "Zniszcz wszystko"
+        ],
+        "Warhead Junction": [
+          "Walcz o głowice",
+          "Zbierz głowice",
+          "Rozpętaj wojenną nawałnicę"
         ]
       }
     }
