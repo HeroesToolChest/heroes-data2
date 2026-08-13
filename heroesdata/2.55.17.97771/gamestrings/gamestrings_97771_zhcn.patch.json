@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97771"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.0.4"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieSandBlastOnceAgainTheFirstTime|ChromieSandBlastOnceAgaintheFirstTime|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任务：</c>在不死亡的情况下，克罗米及其回响用沙尘爆裂击中英雄<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>次。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">奖励：</c>回响的最大激活数提高至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>个，并且回响的伤害提高至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>。"
+  }
+]

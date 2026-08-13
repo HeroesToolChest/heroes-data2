@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97771"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.0.4"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieSandBlastOnceAgainTheFirstTime|ChromieSandBlastOnceAgaintheFirstTime|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Hit <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> Heroes with Sand Blast from Chromie or her Echoes without dying.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> Increase the maximum number of active Echoes to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>, and increase Echo damage to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>."
+  }
+]
