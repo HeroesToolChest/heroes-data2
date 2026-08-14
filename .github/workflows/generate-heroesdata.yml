@@ -191,6 +191,7 @@ jobs:
         if: ${{ inputs.create-image-pr && steps.hi-check-changes.outputs.hi_changes == 'true' }}
         uses: peter-evans/create-pull-request@v8
         with:
+          token: ${{ secrets.HEROES_IMAGES_TOKEN }}
           path: ${{ env.HI_PATH }}
           title: 'Add images for patch ${{ steps.read-version.outputs.latest }}'
           body: 'Automated heroesimages update for patch `${{ steps.read-version.outputs.latest }}`.'
