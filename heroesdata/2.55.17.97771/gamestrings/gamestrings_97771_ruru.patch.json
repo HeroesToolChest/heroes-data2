@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97771"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.0.4"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieSandBlastOnceAgainTheFirstTime|ChromieSandBlastOnceAgaintheFirstTime|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> поразите героев «Песчаным вихрем» Хроми или ее копий <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0<lang rule=\"plural\" val=\"\">раз,раза,раз</lang>, при этом не погибнув.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Награда:</c> максимальное количество активных копий будет увеличено до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>, а наносимый ими урон\u00A0— до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>."
+  }
+]

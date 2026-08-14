@@ -1,0 +1,207 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Punisher Arena"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/MercPunisherLanerFixate|MercPunisherLanerFixate|W",
+    "value": "Время восстановления: 10 сек."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/MercPunisherLanerLeap|MercPunisherLanerLeap|Q",
+    "value": "Время восстановления: 15 сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|DeathwingHearthstone|B",
+    "value": "После поддержания в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4.5</c> сек. телепортирует вашего героя в Зал Штормов."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneBrew|B",
+    "value": "Телепортирует вашего героя к алтарю, моментально восполняя весь запас здоровья и отвара."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneNoMana|B",
+    "value": "Телепортирует вашего героя к алтарю, моментально восполняя весь запас здоровья."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|Hearthstone|B",
+    "value": "Телепортирует героя к алтарю, моментально восполняя весь запас здоровья и маны."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/:PASSIVE:|ShrineAuraMinionAura|Q",
+    "value": "Усиливает находящихся рядом героев, воинов и наемников, увеличивая их урон от автоатак и способностей, а также эффективность их исцеления на <s val=\"8783e6\" hlt-name=\"StandardTooltip\">20%.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/CursedShrineSpawn|CursedShrineSpawn|Q",
+    "value": "Призывает в выбранное место проклятого воина."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/MercPunisherLanerFixate|MercPunisherLanerFixate|W",
+    "value": "Фиксирует внимание на цели, входя в исступление и получая прибавку к скорости передвижения на 100% , а к скорости атаки –  0% . Время действия – 20 сек. Пока действует этот эффект, Карателю нельзя отдавать приказы.<n/><n/>Когда действие эффекта кончается, Каратель оглушается на 1 сек."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/MercPunisherLanerLeap|MercPunisherLanerLeap|Q",
+    "value": "Прыгает в выбранную область, нанося 1 ед. урона и оглушая пораженных противников на 1 сек.<n/><n/><'( ^o ^ c)</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/:PASSIVE:|ShrineAuraMinionAura|Q",
+    "value": "Shrine Minion Aura"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/CursedShrineSpawn|CursedShrineSpawn|Q",
+    "value": "Призыв проклятого воина"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercPunisherLanerFixate|MercPunisherLanerFixate|W",
+    "value": "Преследование"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercPunisherLanerLeap|MercPunisherLanerLeap|Q",
+    "value": "Кара"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/MercPunisherLanerLeap|MercPunisherLanerLeap|Q",
+    "value": "Оглушает противников в области действия."
+  },
+  {
+    "op": "add",
+    "path": "/items/announcerPack/name/CommodoreFord",
+    "value": "Командор Форд"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/ParalyzeStructure",
+    "value": "Обезвреживает выбранное строение, нанося ему урон в объеме 1% от его максимального запаса прочности и похищая 1 ед. энергии в секунду в течение 10 сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/VehiclePlantHorror",
+    "value": "Растительный ужас"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/CursedShrineMinion",
+    "value": "Скелет"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DiabloArcaneUnit",
+    "value": "Каратель-чародей"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DiabloShrine",
+    "value": "Святилище"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DiabloShrineWarningUnit",
+    "value": "Diablo Shrine Warning Unit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercPunisherLaner",
+    "value": "Каратель"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperDefender",
+    "value": "Копейщик"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperLaner",
+    "value": "Копейщик"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerDefender",
+    "value": "Падший-шаман"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerDefenderMinion",
+    "value": "Пес падших"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerLaner",
+    "value": "Падший-шаман"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerLanerMinion",
+    "value": "Пес падших"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BLURBRVisionBlockedHeaven",
+    "value": "Ворота"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BLURBRVisionBlockedHell",
+    "value": "Ворота"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BLURTLVisionBlockedHeaven",
+    "value": "Ворота"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BLURTLVisionBlockedHell",
+    "value": "Ворота"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BRULBLVisionBlockedHeaven",
+    "value": "Ворота"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BRULBLVisionBlockedHell",
+    "value": "Ворота"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BRULTRVisionBlockedHeaven",
+    "value": "Ворота"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BRULTRVisionBlockedHell",
+    "value": "Ворота"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WeaponRackSpecialHeaven",
+    "value": "Weapon Rack Special (Heaven)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WeaponRackSpecialHell",
+    "value": "Weapon Rack Special (Hell)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WheresWeirdo",
+    "value": "Where's Weirdo"
+  }
+]

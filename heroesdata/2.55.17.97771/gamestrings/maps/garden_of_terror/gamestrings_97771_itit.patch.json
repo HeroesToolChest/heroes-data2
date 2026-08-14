@@ -1,0 +1,147 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Garden of Terror"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/PlantHorrorLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Recupero: 5 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/GardenCoreLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Recupero: 5 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/UnderworldBossStun|GraveGolemMegaStun|Q",
+    "value": "Recupero: 10 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/PlantHorrorLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Dopo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s, trasforma gli eroi nemici in un'area in Mutanti per <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">3</s> s, impedendo loro di attaccare o usare abilità e rallentandoli del <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">30%</s>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/PlantHorrorOvergrowthPlant|PlantHorrorOvergrowth|W",
+    "value": "Genera una Crescita Infestante che disabilita le strutture vicine. Consente di infliggere il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200%</c> di danni aggiuntivi alle strutture colpite da Crescita Infestante. Esaurisce la Salute in <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> s."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/GardenCoreLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Dopo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s, trasforma gli eroi nemici in un'area in Mutanti per <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">3</s> s, impedendo loro di attaccare o usare abilità e rallentandoli del <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">30%</s>."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/UnderworldBossStun|GraveGolemMegaStun|Q",
+    "value": "Colpisce il terreno, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> danni ai nemici vicini e stordendoli."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/GardenCoreLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Maledizione della Regina"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/UnderworldBossStun|GraveGolemMegaStun|Q",
+    "value": "Colpo Smodato"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/UnderworldBossStun|GraveGolemMegaStun|Q",
+    "value": "Danneggia e stordisce i nemici in un'ampia area."
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostDamageToPlants",
+    "value": "~AwardValue~ semi raccolti"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostSeedsCollected",
+    "value": "~AwardValue~ semi raccolti"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostDamageToPlants",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Collezionista di semi,Collezionista di semi</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostSeedsCollected",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Collezionista di semi,Collezionista di semi</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostDamageToPlants",
+    "value": "~TooltipAmount~ semi raccolti"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostSeedsCollected",
+    "value": "~TooltipAmount~ semi raccolti"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostDamageToPlants",
+    "value": "Più danni inflitti alle piante"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/Seed",
+    "value": "Avvicinati per raccogliere questo seme. "
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/GardenTerror",
+    "value": "Terrore Arboreo"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OvergrowthPlant",
+    "value": "Pianta della Crescita Infestante"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OvergrowthPlantDummyUnit",
+    "value": "Pianta della Crescita Infestante - Manichino"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OvergrowthVinesMissile",
+    "value": "Viticci Ipertrofici - Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Seed",
+    "value": "Seme"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SeedSpawnPreview",
+    "value": "Anteprima generazione seme"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Shambler",
+    "value": "Mutante"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerMissile",
+    "value": "Mutante - Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerRanged",
+    "value": "Mutante"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerRangedWeaponMissile",
+    "value": "Mutante - Arma a distanza - Missile"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97771"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.0.4"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieSandBlastOnceAgainTheFirstTime|ChromieSandBlastOnceAgaintheFirstTime|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任務：</c>在未死亡的情況下，克羅米或她的殘影以沙塵衝擊命中<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>名英雄。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">獎勵：</c>可同時啟用的殘影數提高至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>個，殘影的傷害提高至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/LiLiHinderingWinds|LiLiHinderingWinds|E|Level13",
+    "value": "提高目盲之風的緩速效果至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c>，持續時間提高至<2</c>秒。"
+  }
+]

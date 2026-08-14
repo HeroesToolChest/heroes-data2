@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.97771"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.0.4"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieSandBlastOnceAgainTheFirstTime|ChromieSandBlastOnceAgaintheFirstTime|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missão:</c> Acerte <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> Heróis com Impacto de Areia de Crona ou os Ecos dela sem morrer.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Aumenta o número máximo de Ecos ativos para <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> e aumenta em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> o dano do Eco."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/TyraelStalwartAngel|TyraelStalwartAngel|Q|Level4",
+    "value": "Recebe <25</c> de Armadura enquanto o Poder de El'druin estiver ativo e por <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s após se teleportar."
+  }
+]
