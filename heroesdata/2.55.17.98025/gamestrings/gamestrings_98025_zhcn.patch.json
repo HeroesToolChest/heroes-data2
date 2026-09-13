@@ -1,0 +1,77 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.98025"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/infoText/MountDirewolfThreeTails",
+    "value": "沉寂多年的时空枢纽已经苏醒，全新的生灵从中涌现，新的时代就此开启。2026暴雪嘉年华纪念坐骑。"
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountDirewolfThreeTails",
+    "value": "时空枢纽恐狼"
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/searchText/MountDirewolfThreeTails",
+    "value": "时空枢纽恐狼暴雪嘉年华"
+  },
+  {
+    "op": "add",
+    "path": "/items/portraitPack/name/Blizzcon2026Giveaway",
+    "value": "2026暴雪嘉年华赠礼头像"
+  },
+  {
+    "op": "add",
+    "path": "/items/portraitPack/name/Blizzcon2026Logo",
+    "value": "2026暴雪嘉年华标志头像"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/description/Blizzcon2026Giveaway",
+    "value": "《风暴英雄》制作团队诚挚感谢！"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/description/Blizzcon2026Logo",
+    "value": "《风暴英雄》制作团队诚挚感谢！"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/name/Blizzcon2026Giveaway",
+    "value": "2026暴雪嘉年华赠礼头像"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/name/Blizzcon2026Logo",
+    "value": "2026暴雪嘉年华标志头像"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": "阿巴瑟的普通攻击造成的伤害提高<c val=#TooltipNumbers>350%</c>，并且使非精英敌人昏迷，使建筑瘫痪<c val=#TooltipNumbers>0</c>秒。<n/><n/>同一个英雄或建筑每<c val=#TooltipNumbers>0</c>秒只能昏迷或瘫痪一次。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>任务：</c>如果暗影烈焰击中一个受到古的吞噬耀光影响的敌方英雄，其冷却时间则会缩短<c val=#TooltipNumbers>0</c>秒。<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>奖励：</c>击中<c val=#TooltipNumbers>0</c>个英雄后，暗影烈焰的冷却时间永久缩短<c val=#TooltipNumbers>0</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiDeflectPerfectDefense|GenjiDeflectPerfectDefense|W|Level7",
+    "value": "反弹伤害使“闪”的冷却时间缩短<c val=#TooltipNumbers>0</c>秒，最多缩短<c val=#TooltipNumbers>0</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "熔火之心在持续时间开始时，范围扩大<c val=#TooltipNumbers>100%</c>。此外，当对一座已被摧毁的堡垒或要塞使用时，熔火之心的冷却时间缩短<c val=#TooltipNumbers>90</c>秒。"
+  }
+]

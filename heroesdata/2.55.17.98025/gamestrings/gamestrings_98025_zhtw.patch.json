@@ -1,0 +1,82 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.98025"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/infoText/MountDirewolfThreeTails",
+    "value": "眾人認為沉睡已久的萬象界域終於再次甦醒，新的生物也從中誕生，象徵著新紀元的到來。為紀念BlizzCon 2026而推出。"
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountDirewolfThreeTails",
+    "value": "萬象界域恐狼"
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/searchText/MountDirewolfThreeTails",
+    "value": "萬象界域恐狼BlizzCon"
+  },
+  {
+    "op": "add",
+    "path": "/items/portraitPack/name/Blizzcon2026Giveaway",
+    "value": "BlizzCon 2026贈禮頭像"
+  },
+  {
+    "op": "add",
+    "path": "/items/portraitPack/name/Blizzcon2026Logo",
+    "value": "BlizzCon 2026標誌頭像"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/description/Blizzcon2026Giveaway",
+    "value": "《暴雪英霸》團隊由衷感激！"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/description/Blizzcon2026Logo",
+    "value": "《暴雪英霸》團隊由衷感激！"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/name/Blizzcon2026Giveaway",
+    "value": "BlizzCon 2026贈禮頭像"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/name/Blizzcon2026Logo",
+    "value": "BlizzCon 2026標誌頭像"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": "阿巴瑟的基本攻擊額外造成<c val=#TooltipNumbers>350%</c>傷害，並擊暈非精英敵人和癱瘓建築物<c val=#TooltipNumbers>0</c>秒。<n/><n/>相同的英雄或建築物每<c val=#TooltipNumbers>0</c>秒只會被擊暈或癱瘓一次。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>任務：</c>以暗影之焰命中受到丘的噬魂烈焰影響的敵方英雄，可使暗影之焰的冷卻時間降低<c val=#TooltipNumbers>0</c>秒。<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>獎勵：</c>以暗影之焰命中<c val=#TooltipNumbers>0</c>名英雄後，暗影之焰的冷卻時間永久降低<c val=#TooltipNumbers>0</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiDeflectPerfectDefense|GenjiDeflectPerfectDefense|W|Level7",
+    "value": "招架傷害可使招架的冷卻時間降低<c val=#TooltipNumbers>0</c>秒，最多可降低<c val=#TooltipNumbers>0</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/LiLiHinderingWinds|LiLiHinderingWinds|E|Level13",
+    "value": "提高目盲之風的緩速效果至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c>，持續時間提高至<2</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "啟動熔火之心時，距離提高<c val=#TooltipNumbers>100%</c>。此外，摧毀堡壘或要塞時，熔火之心的冷卻時間降低<c val=#TooltipNumbers>90</c>秒。"
+  }
+]

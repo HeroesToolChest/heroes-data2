@@ -1,0 +1,77 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.98025"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/infoText/MountDirewolfThreeTails",
+    "value": "El Nexo, que por muchos años se creía inactivo, vuelve a la vida y nuevas criaturas emergen de él dando inicio a una nueva era. Publicado con motivo de las celebraciones de la BlizzCon 2026."
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountDirewolfThreeTails",
+    "value": "Lobo temible del Nexo"
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/searchText/MountDirewolfThreeTails",
+    "value": "Lobo temible del Nexo BlizzCon"
+  },
+  {
+    "op": "add",
+    "path": "/items/portraitPack/name/Blizzcon2026Giveaway",
+    "value": "Retrato de regalo de la BlizzCon 2026"
+  },
+  {
+    "op": "add",
+    "path": "/items/portraitPack/name/Blizzcon2026Logo",
+    "value": "Retrato del logotipo de la BlizzCon 2026"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/description/Blizzcon2026Giveaway",
+    "value": "¡Gracias de parte del equipo de Heroes of the Storm!"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/description/Blizzcon2026Logo",
+    "value": "¡Gracias de parte del equipo de Heroes of the Storm!"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/name/Blizzcon2026Giveaway",
+    "value": "Retrato de regalo de la BlizzCon 2026"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/name/Blizzcon2026Logo",
+    "value": "Retrato del logotipo de la BlizzCon 2026"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": "Los ataques básicos de Abathur infligen un <c val=#TooltipNumbers>350%</c> más de daño, aturden a los enemigos que no sean de élite y deshabilitan las estructuras durante <c val=#TooltipNumbers>0</c> segundos.<n/><n/>El mismo héroe o estructura se puede aturdir o deshabilitar solo una vez cada <c val=#TooltipNumbers>0</c> segundos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Misión:</c> Si Llama de las sombras golpea a un héroe enemigo que está bajo los efectos de Llamarada corruptora de Cho, su tiempo de reutilización se reduce <c val=#TooltipNumbers>0</c> segundos.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Recompensa:</c> Después de golpear a <c val=#TooltipNumbers>0</c> héroes, el tiempo de reutilización de Llama de las sombras se reduce <c val=#TooltipNumbers>0</c> segundo de forma permanente."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiDeflectPerfectDefense|GenjiDeflectPerfectDefense|W|Level7",
+    "value": "El daño desviado reduce <c val=#TooltipNumbers>0</c> segundos el tiempo de reutilización de Desviar, hasta un máximo de <c val=#TooltipNumbers>0</c> segundos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "El alcance de Núcleo de magma aumenta un <c val=#TooltipNumbers>100%</c> al comienzo de su duración. Además, el tiempo de reutilización de Núcleo de magma se reduce en <c val=#TooltipNumbers>90</c> segundos al usarse sobre un fuerte o una fortaleza destruidos."
+  }
+]

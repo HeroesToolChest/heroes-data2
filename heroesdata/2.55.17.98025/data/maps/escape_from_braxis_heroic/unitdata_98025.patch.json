@@ -1,0 +1,5069 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/totalItems",
+    "value": 1058
+  },
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Escape From Braxis (Heroic)"
+  },
+  {
+    "op": "add",
+    "path": "/items/CatapultMinion/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_minion_catapult.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/FootmanMinion/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_minion_melee.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/KingsCore/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_core.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/KingsCore/weapons/0/damageFactors/MapCreature",
+    "value": 0.75
+  },
+  {
+    "op": "replace",
+    "path": "/items/KingsCore/abilities/Basic/0/linkId",
+    "value": "BraxisCoreMissileStorm|BraxisCoreMissileStorm|Q"
+  },
+  {
+    "op": "replace",
+    "path": "/items/KingsCore/abilities/Basic/0/abilityId",
+    "value": "BraxisCoreMissileStorm"
+  },
+  {
+    "op": "replace",
+    "path": "/items/KingsCore/abilities/Basic/0/buttonId",
+    "value": "BraxisCoreMissileStorm"
+  },
+  {
+    "op": "replace",
+    "path": "/items/KingsCore/abilities/Basic/0/icon",
+    "value": "storm_ui_icon_tychus_ragnarokmissiles.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/KingsCore/abilities/Basic/0/abilityType",
+    "value": "Q"
+  },
+  {
+    "op": "add",
+    "path": "/items/KingsCore/abilities/Basic/1",
+    "value": {
+      "linkId": "TowerMarkAttackTarget|TowerMarkAttackTarget|E",
+      "abilityId": "TowerMarkAttackTarget",
+      "buttonId": "TowerMarkAttackTarget",
+      "icon": "storm_temp_war3_btnrallypoint.png",
+      "abilityType": "E"
+    }
+  },
+  {
+    "op": "remove",
+    "path": "/items/RangedMinion/scalingLinkIds"
+  },
+  {
+    "op": "add",
+    "path": "/items/RangedMinion/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_minion_ranged.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/RangedMinion/weapons/0/period",
+    "value": 0.5
+  },
+  {
+    "op": "replace",
+    "path": "/items/RangedMinion/weapons/0/damage",
+    "value": 15
+  },
+  {
+    "op": "replace",
+    "path": "/items/TerranHellbat/speed",
+    "value": 4.3984
+  },
+  {
+    "op": "replace",
+    "path": "/items/TerranHellbat/life/amount",
+    "value": 1000
+  },
+  {
+    "op": "add",
+    "path": "/items/TerranHellbat/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_warheadjunction_merc_siege.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/TerranHellbat/weapons/0/damage",
+    "value": 120
+  },
+  {
+    "op": "add",
+    "path": "/items/TerranHellbatDefender/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_merc_siege.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownCannonTowerL2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_tower_0.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownCannonTowerL2/weapons/0/damageFactors/MapCreature",
+    "value": 0.75
+  },
+  {
+    "op": "add",
+    "path": "/items/TownCannonTowerL2Standalone/weapons/0/damageFactors/MapCreature",
+    "value": 0.75
+  },
+  {
+    "op": "add",
+    "path": "/items/TownCannonTowerL3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_tower_1.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownCannonTowerL3/weapons/0/damageFactors/MapCreature",
+    "value": 0.75
+  },
+  {
+    "op": "add",
+    "path": "/items/TownCannonTowerL3/weapons/0/vitalCost",
+    "value": {
+      "Energy": 0
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TownCannonTowerL3Standalone/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_warheadjunction_building_tower_1.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownCannonTowerL3Standalone/weapons/0/damageFactors/MapCreature",
+    "value": 0.75
+  },
+  {
+    "op": "add",
+    "path": "/items/TownCannonTowerL3Standalone/weapons/0/vitalCost",
+    "value": {
+      "Energy": 0
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL215BLURBRVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_gate.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL215BRUL/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_gate.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL215BRULBLVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_gate.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL215BRULTRVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_gate.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL2VerticalLeftVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_gate.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL2VerticalRightVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_gate.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL315BRULBLVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_gate.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL315BRULTRVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_gate.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL3BLURBRVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_gate.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL3BLURTLVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_gate.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL3BRULBLVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_gate.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownGateL3BRULTRVisionBlocked/life/amount",
+    "value": 1500
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL3BRULTRVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_gate.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownGateL3HorizontalBotVisionBlocked/life/amount",
+    "value": 1500
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownGateL3HorizontalTopVisionBlocked/life/amount",
+    "value": 1500
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL3VerticalLeftVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_gate.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL3VerticalRightVisionBlocked/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_gate.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownMoonwellL2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_moonwell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownMoonwellL3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_moonwell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownTownHallL2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_fort.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownTownHallL2/weapons/0/damageFactors/MapCreature",
+    "value": 0.75
+  },
+  {
+    "op": "add",
+    "path": "/items/TownTownHallL3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_keep.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownTownHallL3/weapons/0/range",
+    "value": 15
+  },
+  {
+    "op": "add",
+    "path": "/items/TownTownHallL3/weapons/0/damageFactors/MapCreature",
+    "value": 0.75
+  },
+  {
+    "op": "remove",
+    "path": "/items/TownWallRadial0L3/attributes/2"
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownWallRadial0L3/attributes/1",
+    "value": "Structure"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TownWallRadial11L3/attributes/2"
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownWallRadial11L3/attributes/1",
+    "value": "Structure"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TownWallRadial12L3/attributes/2"
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownWallRadial12L3/attributes/1",
+    "value": "Structure"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial14L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial15L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial16L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial16L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial17L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial17L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial18L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_warheadjunction_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial18L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial19L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial20L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial21L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_wall.png"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TownWallRadial23L3/attributes/2"
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownWallRadial23L3/attributes/1",
+    "value": "Structure"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TownWallRadial2L3/attributes/2"
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownWallRadial2L3/attributes/1",
+    "value": "Structure"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial2L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_wall.png"
+  },
+  {
+    "op": "remove",
+    "path": "/items/TownWallRadial3L3/attributes/2"
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownWallRadial3L3/attributes/1",
+    "value": "Structure"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial3L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial4L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial4L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial5L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial5L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial6L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_warheadjunction_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial6L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial7L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial7L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_warheadjunction_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial8L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial9L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial9L3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_warheadjunction_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/WizardMinion/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_braxis_minion_wizard.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/WizardMinion/abilities/Basic",
+    "value": [
+      {
+        "linkId": "MedicMinionHeal|MedicMinionHeal|Q",
+        "abilityId": "MedicMinionHeal",
+        "buttonId": "MedicMinionHeal",
+        "icon": "storm_ui_icon_medic_healingbeam.png",
+        "toggleCooldown": 0.5,
+        "abilityType": "Q"
+      }
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/items/ArcadeMachine",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "User1"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ArchangelAutoTurret",
+    "value": {
+      "damageType": "Summon",
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 0.1015,
+      "attributes": [
+        "Summoned"
+      ],
+      "life": {
+        "amount": 10000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {},
+      "abilities": {
+        "Hidden": [
+          {
+            "linkId": "move|:NONE:|Hidden",
+            "abilityId": "move",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ArchangelBileLauncherMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ArchangelCableWrap",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 0,
+      "attributes": [
+        "IgnoredByTowerAI",
+        "ImmuneToFriendlyAbilities",
+        "NoMinionAggro",
+        "Summoned"
+      ],
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": -1,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ArchangelChaserBaneling",
+    "value": {
+      "damageType": "Monster",
+      "radius": 0.5,
+      "innerRadius": 0.5,
+      "sight": 2,
+      "speed": 3.5,
+      "scalingLinkIds": [
+        "ZergBanelingScaling"
+      ],
+      "life": {
+        "amount": 2000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {},
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": "ArchangelSuperBanelingChase|ArchangelSuperBanelingChase|Q",
+            "abilityId": "ArchangelSuperBanelingChase",
+            "buttonId": "ArchangelSuperBanelingChase",
+            "icon": "storm_temp_btn-upgrade-zerg-centrifugalhooks.png",
+            "abilityType": "Q"
+          },
+          {
+            "linkId": "ArchangelSuperBanelingChase|ArchangelSuperBanelingChaseCancel|W",
+            "abilityId": "ArchangelSuperBanelingChase",
+            "buttonId": "ArchangelSuperBanelingChaseCancel",
+            "icon": "hud_btn_bg_ability_cancel.png",
+            "abilityType": "W"
+          },
+          {
+            "linkId": "stop|Stop|E",
+            "abilityId": "stop",
+            "buttonId": "Stop",
+            "abilityType": "E"
+          }
+        ],
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ArchangelDropUltraliskUltraliskCocoon",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 12,
+      "speed": 4.8398,
+      "attributes": [
+        "Heroic"
+      ],
+      "scalingLinkIds": [
+        "HeroDummyVeterancy"
+      ],
+      "life": {
+        "amount": 6000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "energy": {
+        "amount": 500,
+        "regenRate": 3
+      },
+      "portraits": {},
+      "abilities": {
+        "Hidden": [
+          {
+            "linkId": "HoldFire|:NONE:|Hidden",
+            "abilityId": "HoldFire",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "move|:NONE:|Hidden",
+            "abilityId": "move",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "Hearthstone|Hearthstone|Hidden",
+            "abilityId": "Hearthstone",
+            "buttonId": "Hearthstone",
+            "icon": "storm_ui_icon_miscrune_1.png",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "UseVehicle|UseVehicle|Hidden",
+            "abilityId": "UseVehicle",
+            "buttonId": "UseVehicle",
+            "icon": "storm_temp_war3_btnloaddwarf.png",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "FountainDrink|MoonwellDrink|Hidden",
+            "abilityId": "FountainDrink",
+            "buttonId": "MoonwellDrink",
+            "icon": "storm_temp_war3_btnmoonwell.png",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "FountainDrinkOnCooldown|MoonwellDrink|Hidden",
+            "abilityId": "FountainDrinkOnCooldown",
+            "buttonId": "MoonwellDrink",
+            "icon": "storm_temp_war3_btnmoonwell.png",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "CaptureMacGuffin|CaptureMacGuffin|Hidden",
+            "abilityId": "CaptureMacGuffin",
+            "buttonId": "CaptureMacGuffin",
+            "icon": "storm_temp_btn-ability-protoss-prismaticbeam-color.png",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "CaptureMacGuffinTwo|CaptureMacGuffinTwo|Hidden",
+            "abilityId": "CaptureMacGuffinTwo",
+            "buttonId": "CaptureMacGuffinTwo",
+            "icon": "storm_temp_btn-ability-protoss-prismaticbeam-color.png",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "SmartCommandUnitInteraction|SmartCommandUnitInteraction|Hidden",
+            "abilityId": "SmartCommandUnitInteraction",
+            "buttonId": "SmartCommandUnitInteraction",
+            "icon": "storm_ui_temp_icon_cheatdeath.png",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "MountCabooseSmartCommandUnitInteraction|MountCabooseSmartCommandUnitInteraction|Hidden",
+            "abilityId": "MountCabooseSmartCommandUnitInteraction",
+            "buttonId": "MountCabooseSmartCommandUnitInteraction",
+            "icon": "storm_ui_temp_icon_cheatdeath.png",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "LootSpray|LootSpray|Hidden",
+            "abilityId": "LootSpray",
+            "buttonId": "LootSpray",
+            "icon": "storm_temp_war3_btnhealingspray.png",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "LootYellVoiceLine|LootYellVoiceLine|Hidden",
+            "abilityId": "LootYellVoiceLine",
+            "buttonId": "LootYellVoiceLine",
+            "icon": "storm_btn_d3_barbarian_threateningshout.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ArchangelElevatorPathingBlocker",
+    "value": {
+      "radius": 1,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "User1"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ArchangelEMPBlocker",
+    "value": {
+      "radius": 1.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "Tower"
+      ],
+      "life": {
+        "amount": 12100,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ArchangelHellfireMissilesMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ArchangelLobBanelingMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ArchangelMinefieldMine",
+    "value": {
+      "damageType": "Minion",
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 3.25,
+      "attributes": [
+        "Minion"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {},
+      "abilities": {
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ArchangelRepairBotEmergencyRepairs",
+    "value": {
+      "damageType": "Minion",
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 2,
+      "attributes": [
+        "Minion"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {},
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": "ArchangelEmergencyRepairsRepair|ArchangelEmergencyRepairsRepair|Q",
+            "abilityId": "ArchangelEmergencyRepairsRepair",
+            "buttonId": "ArchangelEmergencyRepairsRepair",
+            "icon": "storm_temp_war3_btnheal.png",
+            "abilityType": "Q"
+          }
+        ],
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ArchangelShieldGeneratorShieldMatrix",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 500,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ArchangelTerrazineHallucinationVentTerrazine",
+    "value": {
+      "damageType": "Minion",
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 3.25,
+      "attributes": [
+        "Minion"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {},
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": "ArchangelVentTerrazineHallucinationSuicide|ArchangelVentTerrazineHallucinationSuicide|Q",
+            "abilityId": "ArchangelVentTerrazineHallucinationSuicide",
+            "buttonId": "ArchangelVentTerrazineHallucinationSuicide",
+            "icon": "storm_ui_temp_icon_explosivekill.png",
+            "abilityType": "Q"
+          }
+        ],
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ArchangelToxicSludgling",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 1,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {},
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": "move|Move|Q",
+            "abilityId": "move",
+            "buttonId": "Move",
+            "icon": "btn-command-move.png",
+            "abilityType": "Q"
+          },
+          {
+            "linkId": "stop|Stop|W",
+            "abilityId": "stop",
+            "buttonId": "Stop",
+            "abilityType": "W"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ArchangelVileTumor",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 3.25,
+      "attributes": [
+        "Structure"
+      ],
+      "life": {
+        "amount": 1000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/BraxisCoreMissileStormMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/BraxisHoldoutSCV",
+    "value": {
+      "damageType": "Minion",
+      "radius": 1,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 4,
+      "attributes": [
+        "IgnoredByTowerAI",
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "User1"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {},
+      "abilities": {
+        "Trait": [
+          {
+            "linkId": "BraxisHoldoutSCVChannel|BraxisHoldoutSCVChannel|Trait",
+            "abilityId": "BraxisHoldoutSCVChannel",
+            "buttonId": "BraxisHoldoutSCVChannel",
+            "abilityType": "Trait"
+          }
+        ],
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          },
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/BroadcastingRelay",
+    "value": {
+      "damageType": "Structure",
+      "radius": 1.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "AITargetableStructure",
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "User1"
+      ],
+      "life": {
+        "amount": 1500,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "targetInfo": "ui_targetportrait_buildings_ravenscourt_manawell.png"
+      },
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": "PsiRelay|PsiRelay|Q",
+            "abilityId": "PsiRelay",
+            "buttonId": "PsiRelay",
+            "icon": "storm_temp_btn-ability-terran-huntermissile-color.png",
+            "abilityType": "Q"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/CoopNydusWorm",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 10,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToFriendlyAbilities",
+        "Summoned"
+      ],
+      "life": {
+        "amount": 2000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_nydusworm.png",
+        "targetInfo": "storm_ui_ingame_hero_icon_placeholder.png"
+      },
+      "abilities": {
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/DeadHeroResurrectSpirit",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "Heroic",
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_mercenary.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/Hatchery",
+    "value": {
+      "radius": 3,
+      "innerRadius": 0,
+      "sight": 12,
+      "speed": 0,
+      "killXP": 400,
+      "attributes": [
+        "AITargetableStructure",
+        "Structure",
+        "Tower"
+      ],
+      "life": {
+        "amount": 10000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/HoldingPenPathingBlocker",
+    "value": {
+      "radius": 1,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "User1"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/InvisibleBossPathingLine",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 30,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 100,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/InvisibleHelperUnit",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MapArrowInvisibleMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MapMechanicNuke",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 2.5,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MapMechanicNukeSilo",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 3,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "User1"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MeleeMinionMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/NukeTargetMinimapIconUnit",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "blank.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/NukeTargetMinimapPreviewIconUnit",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_nuke_symbol_small.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/Overlord",
+    "value": {
+      "radius": 0.6875,
+      "innerRadius": 0.6875,
+      "sight": 11,
+      "speed": 0.5,
+      "killXP": 50,
+      "attributes": [
+        "Minion"
+      ],
+      "life": {
+        "amount": 2000,
+        "scale": 0,
+        "regenRate": 5,
+        "regenScale": 0
+      },
+      "portraits": {},
+      "abilities": {
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PapaCosplay",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PathingBlocker2x2Cliff",
+    "value": {
+      "radius": 1,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PathingBlocker2x2PVE",
+    "value": {
+      "radius": 1,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PathingBlocker4x4",
+    "value": {
+      "radius": 1,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PathingBlocker4x4Cliff",
+    "value": {
+      "radius": 1,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PathingBlocker4x4CliffDiagonal",
+    "value": {
+      "radius": 1,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PathingBlocker4x4Diagonal",
+    "value": {
+      "radius": 1,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PathingBlocker8x8Cliff",
+    "value": {
+      "radius": 1,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PathingBlocker8x8CliffDiagonal",
+    "value": {
+      "radius": 1,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PsiReceiver",
+    "value": {
+      "damageType": "Structure",
+      "radius": 1.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "AITargetableStructure",
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "User1"
+      ],
+      "life": {
+        "amount": 1500,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "targetInfo": "ui_targetportrait_buildings_ravenscourt_manawell.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PsiRelay",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 5,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVEAdrenalGlandsMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVEAdrenalGlandsPickup",
+    "value": {
+      "radius": 0.25,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVEBunker",
+    "value": {
+      "damageType": "Structure",
+      "radius": 2,
+      "innerRadius": 0,
+      "sight": 12,
+      "speed": 0,
+      "killXP": 800,
+      "attributes": [
+        "AITargetableStructure",
+        "Structure",
+        "Tower"
+      ],
+      "life": {
+        "amount": 11250,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_hud_minimap_hanamura_turret_icon.png",
+        "targetInfo": "ui_targetportrait_buildings_ravenscourt_castle_normal_blue.png"
+      },
+      "weapons": [
+        {
+          "nameId": "PVEBunkerBunkerWeapon",
+          "isDisabled": false,
+          "range": 10,
+          "minimumRange": 0,
+          "period": 0.25,
+          "damage": 15,
+          "damageScale": 0
+        }
+      ],
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": "attack|Attack|W",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "W"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVEBunkerBunkerWeaponMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVECombatShieldMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVECombatShieldPickup",
+    "value": {
+      "radius": 0.25,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVECoreUltimateCoreWeaponMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVECoreUpgradedCoreWeaponMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVEHardModeCaptureSlab",
+    "value": {
+      "radius": 2.75,
+      "innerRadius": 0.125,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVEHeroAbathurAIDummy",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVEHeroAnubarakAIDummy",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVEHeroButcherAIDummy",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVEHeroDehakaAIDummy",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVEHeroDiabloAIDummy",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVEHeroKerriganAIDummy",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVEHeroMurkyAIDummy",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVEHeroStitchesAIDummy",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVEHeroStukovAIDummy",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVEHeroTychusAIDummy",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVEHeroZagaraAIDummy",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVELootChest",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 3.25,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {},
+      "weapons": [
+        {
+          "nameId": "PVELootChestPickupWeapon",
+          "isDisabled": false,
+          "range": 2,
+          "minimumRange": 0,
+          "period": 0.8332,
+          "damage": 0,
+          "damageScale": 0
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVEMiniNukePickup",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_nuke_symbol_small.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVEPathingBlocker8x8",
+    "value": {
+      "radius": 1,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVEPathingBlockerDiagonal8x8",
+    "value": {
+      "radius": 1,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PvEPsiEmitterMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 2.5,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVEPsiEmitterPickup",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_psiemitter.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PvEPsiEmitterUnit",
+    "value": {
+      "radius": 0.125,
+      "innerRadius": 0,
+      "sight": 4,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToFriendlyAbilities",
+        "Tower"
+      ],
+      "life": {
+        "amount": 100000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVEReinforcementsPickup",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_reinforcements.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVERejuvenationPulsePickup",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_rejuvinationpulse.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVESecondChancePickup",
+    "value": {
+      "radius": 0.25,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVESpecialAbilityPickupUnit",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_teleporter.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PVETeamStimpackPickup",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_stimpack.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/SamuroShowdownMachine",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "User1"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/SlimeBossDefender",
+    "value": {
+      "damageType": "Merc",
+      "radius": 2,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 3.75,
+      "killXP": 750,
+      "attributes": [
+        "Creep",
+        "MapBoss"
+      ],
+      "scalingLinkIds": [
+        "SlimeBossDefenderScaling"
+      ],
+      "life": {
+        "amount": 18000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "targetInfo": "storm_ui_ingame_targetinfopanel_unit_warheadjunction_boss.png"
+      },
+      "weapons": [
+        {
+          "nameId": "SlimeBossDefender",
+          "isDisabled": false,
+          "range": 2.5,
+          "minimumRange": 0,
+          "period": 1,
+          "damage": 240,
+          "damageScale": 0,
+          "damageFactors": {
+            "Summoned": 1
+          }
+        }
+      ],
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": "SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+            "abilityId": "SlimeBossSlimeSpit",
+            "buttonId": "SlimeBossSlimeSpit",
+            "icon": "storm_temp_war3_btncorrosivebreath.png",
+            "abilityType": "Q"
+          },
+          {
+            "linkId": "SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+            "abilityId": "SlimeBossSpawnPods",
+            "buttonId": "SlimeBossSpawnPods",
+            "icon": "storm_temp_btn-ability-zerg-fungalgrowth-color.png",
+            "abilityType": "W"
+          }
+        ],
+        "Mount": [
+          {
+            "linkId": "WallCrush|GraveGolemWallCrush|Z",
+            "abilityId": "WallCrush",
+            "buttonId": "GraveGolemWallCrush",
+            "icon": "storm_btn_d3_wizard_waveofforce.png",
+            "toggleCooldown": 0.5,
+            "abilityType": "Z"
+          }
+        ],
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "StormVehicleAttack|Attack|Hidden",
+            "abilityId": "StormVehicleAttack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/SlimeBossLaner",
+    "value": {
+      "damageType": "Merc",
+      "radius": 1.25,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 3.75,
+      "attributes": [
+        "ImmuneToFriendlyAbilities",
+        "MapBoss",
+        "Merc"
+      ],
+      "scalingLinkIds": [
+        "SlimeBossLanerScaling"
+      ],
+      "life": {
+        "amount": 16000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_minesgolem.png",
+        "targetInfo": "storm_ui_ingame_targetinfopanel_unit_warheadjunction_boss.png"
+      },
+      "weapons": [
+        {
+          "nameId": "SlimeBossLaner",
+          "isDisabled": false,
+          "range": 2.5,
+          "minimumRange": 0,
+          "period": 1,
+          "damage": 320,
+          "damageScale": 0,
+          "damageFactors": {
+            "Structure": 0.5,
+            "Summoned": 1
+          }
+        }
+      ],
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": "SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+            "abilityId": "SlimeBossSlimeSpit",
+            "buttonId": "SlimeBossSlimeSpit",
+            "icon": "storm_temp_war3_btncorrosivebreath.png",
+            "abilityType": "Q"
+          },
+          {
+            "linkId": "SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+            "abilityId": "SlimeBossSpawnPods",
+            "buttonId": "SlimeBossSpawnPods",
+            "icon": "storm_temp_btn-ability-zerg-fungalgrowth-color.png",
+            "abilityType": "W"
+          }
+        ],
+        "Mount": [
+          {
+            "linkId": "WallCrush|GraveGolemWallCrush|Z",
+            "abilityId": "WallCrush",
+            "buttonId": "GraveGolemWallCrush",
+            "icon": "storm_btn_d3_wizard_waveofforce.png",
+            "toggleCooldown": 0.5,
+            "abilityType": "Z"
+          }
+        ],
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "StormVehicleAttack|Attack|Hidden",
+            "abilityId": "StormVehicleAttack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/SlimeBossPodlingDefender",
+    "value": {
+      "damageType": "Minion",
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 4,
+      "attributes": [
+        "Creep"
+      ],
+      "scalingLinkIds": [
+        "SlimePodDefenderScaling"
+      ],
+      "life": {
+        "amount": 300,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "targetInfo": "storm_ui_ingame_targetinfopanel_unit_warheadjunction_boss_locust.png"
+      },
+      "weapons": [
+        {
+          "nameId": "SlimeBossDefenderPodling",
+          "isDisabled": false,
+          "range": 0.5,
+          "minimumRange": 0,
+          "period": 1,
+          "damage": 150,
+          "damageScale": 0
+        }
+      ],
+      "abilities": {
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/SlimeBossPodlingLaner",
+    "value": {
+      "damageType": "Minion",
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 4,
+      "attributes": [
+        "ImmuneToFriendlyAbilities",
+        "Merc"
+      ],
+      "scalingLinkIds": [
+        "SlimePodLanerScaling"
+      ],
+      "life": {
+        "amount": 400,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "targetInfo": "storm_ui_ingame_targetinfopanel_unit_warheadjunction_boss_locust.png"
+      },
+      "weapons": [
+        {
+          "nameId": "SlimeBossLanerPodling",
+          "isDisabled": false,
+          "range": 0.5,
+          "minimumRange": 0,
+          "period": 1,
+          "damage": 150,
+          "damageScale": 0,
+          "damageFactors": {
+            "Structure": 1
+          }
+        }
+      ],
+      "abilities": {
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/SlimeBossSlimeSpitMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/SlimeBossSpawnPodsMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/SlivanBoss",
+    "value": {
+      "damageType": "Monster",
+      "radius": 2.625,
+      "innerRadius": 2.625,
+      "sight": 25,
+      "speed": 4.8398,
+      "attributes": [
+        "Heroic",
+        "MapBoss"
+      ],
+      "life": {
+        "amount": 120000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_minesgolem.png"
+      },
+      "weapons": [
+        {
+          "nameId": "SlivanBoss",
+          "isDisabled": false,
+          "range": 2.5,
+          "minimumRange": 0,
+          "period": 1,
+          "damage": 400,
+          "damageScale": 0
+        }
+      ],
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": "SlivanBossSlimeSpit|SlivanBossSlimeSpit|Q",
+            "abilityId": "SlivanBossSlimeSpit",
+            "buttonId": "SlivanBossSlimeSpit",
+            "icon": "storm_temp_war3_btncorrosivebreath.png",
+            "abilityType": "Q"
+          },
+          {
+            "linkId": "SlivanBossSpawnPods|SlivanBossSpawnPods|W",
+            "abilityId": "SlivanBossSpawnPods",
+            "buttonId": "SlivanBossSpawnPods",
+            "icon": "storm_temp_btn-ability-zerg-fungalgrowth-color.png",
+            "abilityType": "W"
+          },
+          {
+            "linkId": "SlivanBossDrawIn|SlivanBossDrawIn|E",
+            "abilityId": "SlivanBossDrawIn",
+            "buttonId": "SlivanBossDrawIn",
+            "icon": "storm_ui_icon_kerrigan_primalgrasp.png",
+            "abilityType": "E"
+          }
+        ],
+        "Heroic": [
+          {
+            "linkId": "SlivanImpale|SlivanImpale|Heroic",
+            "abilityId": "SlivanImpale",
+            "buttonId": "SlivanImpale",
+            "icon": "storm_ui_icon_anubarak_impale.png",
+            "abilityType": "Heroic"
+          }
+        ],
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/SlivanBossPod",
+    "value": {
+      "damageType": "Monster",
+      "radius": 0.5,
+      "innerRadius": 0.5,
+      "sight": 25,
+      "speed": 4,
+      "attributes": [
+        "MapCreature"
+      ],
+      "life": {
+        "amount": 175,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {},
+      "weapons": [
+        {
+          "nameId": "SlivanBossPod",
+          "isDisabled": false,
+          "range": 0.75,
+          "minimumRange": 0,
+          "period": 1,
+          "damage": 0,
+          "damageScale": 0
+        }
+      ],
+      "abilities": {
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/SlivanBossSlimeSpitMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/SlivanBossSpawnPodsMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/SpineCrawler",
+    "value": {
+      "damageType": "Monster",
+      "radius": 1,
+      "innerRadius": 0,
+      "sight": 9,
+      "speed": 0,
+      "killXP": 150,
+      "attributes": [
+        "AITargetableStructure",
+        "Structure",
+        "Tower"
+      ],
+      "life": {
+        "amount": 3000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {},
+      "weapons": [
+        {
+          "nameId": "SpineCrawler",
+          "isDisabled": false,
+          "range": 7.75,
+          "minimumRange": 0,
+          "period": 1.32,
+          "damage": 0,
+          "damageScale": 0
+        }
+      ],
+      "abilities": {
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/SpineCrawlerWeapon",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/StormSCBraxisCaptureAntenna",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 10000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/StormSCBraxisCaptureCage",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 10000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/SwampMonsterEasterEggUnit",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "User1"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TerranArchangelDefender",
+    "value": {
+      "damageType": "Merc",
+      "radius": 2,
+      "innerRadius": 0,
+      "sight": 16,
+      "speed": 3.75,
+      "killXP": 750,
+      "attributes": [
+        "Heroic",
+        "MapBoss"
+      ],
+      "scalingLinkIds": [
+        "TerranArchangelDefenderScaling"
+      ],
+      "life": {
+        "amount": 50675,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "targetInfo": "storm_ui_ingame_targetinfopanel_unit_braxis_boss.png"
+      },
+      "summonedUnitIds": [
+        "ArchangelCableWrap"
+      ],
+      "weapons": [
+        {
+          "nameId": "TerranArchangelDefenderRanged",
+          "isDisabled": false,
+          "range": 5.5,
+          "minimumRange": 0,
+          "period": 0.0625,
+          "damage": 15,
+          "damageScale": 0,
+          "damageFactors": {
+            "MapCreature": 1.5,
+            "Merc": 1.5,
+            "Minion": 1.5,
+            "Structure": 0.5
+          }
+        }
+      ],
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": "ArchangelLoadout1|ArchangelLoadout1|Q",
+            "abilityId": "ArchangelLoadout1",
+            "buttonId": "ArchangelLoadout1",
+            "icon": "terrainsetnumber_01.png",
+            "abilityType": "Q"
+          },
+          {
+            "linkId": "ArchangelToxicSludgling|ArchangelToxicSludgling|Q",
+            "abilityId": "ArchangelToxicSludgling",
+            "buttonId": "ArchangelToxicSludgling",
+            "icon": "ui_targetportrait_hero_retchlingred.png",
+            "abilityType": "Q"
+          },
+          {
+            "linkId": "ArchangelLobBaneling|ArchangelLobBaneling|Q",
+            "abilityId": "ArchangelLobBaneling",
+            "buttonId": "ArchangelLobBaneling",
+            "icon": "storm_ui_icon_zagara_banelingbarrage.png",
+            "abilityType": "Q"
+          },
+          {
+            "linkId": "ArchangelChaserBanelings|ArchangelChaserBanelings|Q",
+            "abilityId": "ArchangelChaserBanelings",
+            "buttonId": "ArchangelChaserBanelings",
+            "icon": "storm_temp_btn-upgrade-zerg-centrifugalhooks.png",
+            "abilityType": "Q"
+          },
+          {
+            "linkId": "ArchangelCableWrap|ArchangelCableWrap|Q",
+            "abilityId": "ArchangelCableWrap",
+            "buttonId": "ArchangelCableWrap",
+            "icon": "storm_ui_icon_anubarak_webblast.png",
+            "abilityType": "Q"
+          },
+          {
+            "linkId": "TerranArchangelDefenderBulletstorm|TerranArchangelBulletstorm|Q",
+            "abilityId": "TerranArchangelDefenderBulletstorm",
+            "buttonId": "TerranArchangelBulletstorm",
+            "icon": "storm_temp_btn-ability-terran-bombardmentstrike-color.png",
+            "abilityType": "Q"
+          },
+          {
+            "linkId": "ArchangelLoadout2|ArchangelLoadout2|W",
+            "abilityId": "ArchangelLoadout2",
+            "buttonId": "ArchangelLoadout2",
+            "icon": "terrainsetnumber_02.png",
+            "abilityType": "W"
+          },
+          {
+            "linkId": "ArchangelVileTumor|ArchangelVileTumor|W",
+            "abilityId": "ArchangelVileTumor",
+            "buttonId": "ArchangelVileTumor",
+            "icon": "storm_temp_btn-building-zerg-creeptumor.png",
+            "abilityType": "W"
+          },
+          {
+            "linkId": "ArchangelHellfireMissiles|ArchangelHellfireMissiles|W",
+            "abilityId": "ArchangelHellfireMissiles",
+            "buttonId": "ArchangelHellfireMissiles",
+            "icon": "storm_temp_btn-techupgrade-terran-seekermissile.png",
+            "abilityType": "W"
+          },
+          {
+            "linkId": "ArchangelEMP|ArchangelEMP|W",
+            "abilityId": "ArchangelEMP",
+            "buttonId": "ArchangelEMP",
+            "icon": "storm_temp_btn-tips-terran-energynova.png",
+            "abilityType": "W"
+          },
+          {
+            "linkId": "ArchangelAnnihilate|ArchangelAnnihilate|W",
+            "abilityId": "ArchangelAnnihilate",
+            "buttonId": "ArchangelAnnihilate",
+            "icon": "storm_btn_d3_wizard_disintegrate.png",
+            "abilityType": "W"
+          },
+          {
+            "linkId": "ArchangelLoadout3|ArchangelLoadout3|E",
+            "abilityId": "ArchangelLoadout3",
+            "buttonId": "ArchangelLoadout3",
+            "icon": "terrainsetnumber_03.png",
+            "abilityType": "E"
+          },
+          {
+            "linkId": "ArchangelBileLauncher|ArchangelBileLauncher|E",
+            "abilityId": "ArchangelBileLauncher",
+            "buttonId": "ArchangelBileLauncher",
+            "icon": "storm_ui_icon_stitches_putridbile.png",
+            "abilityType": "E"
+          },
+          {
+            "linkId": "ArchangelPlaceAutoTurret|ArchangelPlaceAutoTurret|E",
+            "abilityId": "ArchangelPlaceAutoTurret",
+            "buttonId": "ArchangelPlaceAutoTurret",
+            "icon": "storm_ui_icon_nodeturret.png",
+            "abilityType": "E"
+          },
+          {
+            "linkId": "ArchangelBarrage|ArchangelBarrage|E",
+            "abilityId": "ArchangelBarrage",
+            "buttonId": "ArchangelBarrage",
+            "icon": "storm_temp_btn-upgrade-terran-vehicleweaponslevel3.png",
+            "abilityType": "E"
+          },
+          {
+            "linkId": "ArchangelDropUltralisk|ArchangelDropUltralisk|E",
+            "abilityId": "ArchangelDropUltralisk",
+            "buttonId": "ArchangelDropUltralisk",
+            "icon": "storm_ui_icon_kerrigan_ultralisk.png",
+            "abilityType": "E"
+          }
+        ],
+        "Heroic": [
+          {
+            "linkId": "ArchangelLoadout4|ArchangelLoadout4|Heroic",
+            "abilityId": "ArchangelLoadout4",
+            "buttonId": "ArchangelLoadout4",
+            "icon": "terrainsetnumber_04.png",
+            "abilityType": "Heroic"
+          },
+          {
+            "linkId": "ArchangelClearLoadout|ArchangelClearLoadout|Heroic",
+            "abilityId": "ArchangelClearLoadout",
+            "buttonId": "ArchangelClearLoadout",
+            "icon": "storm_ui_homescreenbackground_towers_shutter2.png",
+            "abilityType": "Heroic"
+          }
+        ],
+        "Mount": [
+          {
+            "linkId": "ArchangelReposition|ArchangelReposition|Z",
+            "abilityId": "ArchangelReposition",
+            "buttonId": "ArchangelReposition",
+            "icon": "storm_temp_btn-upgrade-terran-jotunboosters.png",
+            "abilityType": "Z"
+          },
+          {
+            "linkId": "WallCrush|GraveGolemWallCrush|Z",
+            "abilityId": "WallCrush",
+            "buttonId": "GraveGolemWallCrush",
+            "icon": "storm_btn_d3_wizard_waveofforce.png",
+            "toggleCooldown": 0.5,
+            "abilityType": "Z"
+          }
+        ],
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "StormVehicleAttack|Attack|Hidden",
+            "abilityId": "StormVehicleAttack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TerranArchangelDefenderBulletstormVisualDummy",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 2,
+      "speed": 2.5,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 50000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TerranArchangelDefenderBulletstormVisualMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TerranArchangelDefenderMortar",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TerranArchangelDefenderRangedWeapon",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TerranArchangelLaner",
+    "value": {
+      "damageType": "Merc",
+      "radius": 2,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 3.75,
+      "attributes": [
+        "ImmuneToFriendlyAbilities",
+        "MapBoss",
+        "Merc"
+      ],
+      "scalingLinkIds": [
+        "TerranArchangelLanerScaling"
+      ],
+      "life": {
+        "amount": 15500,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_minesgolem.png",
+        "targetInfo": "storm_ui_ingame_targetinfopanel_unit_braxis_boss.png"
+      },
+      "weapons": [
+        {
+          "nameId": "TerranArchangelLanerRangedAITargetStructure",
+          "isDisabled": false,
+          "range": 4,
+          "minimumRange": 0,
+          "period": 0.0625,
+          "damage": 25,
+          "damageScale": 0,
+          "damageFactors": {
+            "MapCreature": 1,
+            "Merc": 1,
+            "Minion": 1
+          }
+        },
+        {
+          "nameId": "TerranArchangelLanerRanged",
+          "isDisabled": false,
+          "range": 4,
+          "minimumRange": 0,
+          "period": 0.0625,
+          "damage": 25,
+          "damageScale": 0,
+          "damageFactors": {
+            "MapCreature": 1,
+            "Merc": 1,
+            "Minion": 1
+          }
+        }
+      ],
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": "TerranArchangelLanerBulletstorm|TerranArchangelBulletstorm|Q",
+            "abilityId": "TerranArchangelLanerBulletstorm",
+            "buttonId": "TerranArchangelBulletstorm",
+            "icon": "storm_temp_btn-ability-terran-bombardmentstrike-color.png",
+            "abilityType": "Q"
+          }
+        ],
+        "Mount": [
+          {
+            "linkId": "WallCrush|GraveGolemWallCrush|Z",
+            "abilityId": "WallCrush",
+            "buttonId": "GraveGolemWallCrush",
+            "icon": "storm_btn_d3_wizard_waveofforce.png",
+            "toggleCooldown": 0.5,
+            "abilityType": "Z"
+          }
+        ],
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "StormVehicleAttack|Attack|Hidden",
+            "abilityId": "StormVehicleAttack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TerranAutoTurret",
+    "value": {
+      "damageType": "Summon",
+      "radius": 0.5,
+      "innerRadius": 0.5,
+      "sight": 7,
+      "speed": 0,
+      "attributes": [
+        "Summoned"
+      ],
+      "scalingLinkIds": [
+        "TerranAutoTurretScaling"
+      ],
+      "life": {
+        "amount": 450,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "targetInfo": "ui_targetportrait_hero_turretblue.png"
+      },
+      "weapons": [
+        {
+          "nameId": "TerranAutoTurretWeapon",
+          "isDisabled": false,
+          "range": 5,
+          "minimumRange": 0,
+          "period": 0.8608,
+          "damage": 55,
+          "damageScale": 0
+        }
+      ],
+      "abilities": {
+        "Hidden": [
+          {
+            "linkId": "BuildInProgress|:NONE:|Hidden",
+            "abilityId": "BuildInProgress",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TerranAutoTurretMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TerranBunker",
+    "value": {
+      "radius": 1.25,
+      "innerRadius": 0,
+      "sight": 10,
+      "speed": 0,
+      "attributes": [
+        "AITargetableStructure",
+        "Structure",
+        "Tower"
+      ],
+      "life": {
+        "amount": 4000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {},
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": "StopRedirect|Stop|W",
+            "abilityId": "StopRedirect",
+            "buttonId": "Stop",
+            "abilityType": "W"
+          }
+        ],
+        "Mount": [
+          {
+            "linkId": "AttackRedirect|AttackRedirect|Z",
+            "abilityId": "AttackRedirect",
+            "buttonId": "AttackRedirect",
+            "abilityType": "Z"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "TerranBunkerTransport|:NONE:|Hidden",
+            "abilityId": "TerranBunkerTransport",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "Rally|:NONE:|Hidden",
+            "abilityId": "Rally",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TerranBunkerUpgraded",
+    "value": {
+      "radius": 1.25,
+      "innerRadius": 0,
+      "sight": 10,
+      "speed": 0,
+      "attributes": [
+        "AITargetableStructure",
+        "Structure",
+        "Tower"
+      ],
+      "life": {
+        "amount": 3500,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {},
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": "StopRedirect|Stop|W",
+            "abilityId": "StopRedirect",
+            "buttonId": "Stop",
+            "abilityType": "W"
+          }
+        ],
+        "Mount": [
+          {
+            "linkId": "AttackRedirect|AttackRedirect|Z",
+            "abilityId": "AttackRedirect",
+            "buttonId": "AttackRedirect",
+            "abilityType": "Z"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "TerranBunkerTransport|:NONE:|Hidden",
+            "abilityId": "TerranBunkerTransport",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "Rally|:NONE:|Hidden",
+            "abilityId": "Rally",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TerranGoliath",
+    "value": {
+      "damageType": "Merc",
+      "radius": 0.75,
+      "innerRadius": 0.75,
+      "sight": 9,
+      "speed": 4.3984,
+      "attributes": [
+        "Merc"
+      ],
+      "scalingLinkIds": [
+        "TerranGoliathScaling"
+      ],
+      "life": {
+        "amount": 550,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "targetInfo": "storm_ui_ingame_targetinfopanel_unit_warheadjunction_merc_bruiser_goliath.png"
+      },
+      "weapons": [
+        {
+          "nameId": "TerranGoliathGroundWeapon",
+          "isDisabled": false,
+          "range": 8,
+          "minimumRange": 0,
+          "period": 0.25,
+          "damage": 90,
+          "damageScale": 0
+        }
+      ],
+      "abilities": {
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TerranGoliathDefender",
+    "value": {
+      "damageType": "Merc",
+      "radius": 0.6875,
+      "innerRadius": 0,
+      "sight": 9,
+      "speed": 2,
+      "killXP": 60,
+      "attributes": [
+        "Creep"
+      ],
+      "scalingLinkIds": [
+        "TerranGoliathDefenderScaling"
+      ],
+      "life": {
+        "amount": 2700,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "targetInfo": "storm_ui_ingame_targetinfopanel_unit_braxis_merc_bruiser_goliath.png"
+      },
+      "weapons": [
+        {
+          "nameId": "TerranGoliathDefenderGroundWeapon",
+          "isDisabled": false,
+          "range": 6,
+          "minimumRange": 0,
+          "period": 0.25,
+          "damage": 10,
+          "damageScale": 0
+        }
+      ],
+      "abilities": {
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TerranMarine",
+    "value": {
+      "radius": 0.6875,
+      "innerRadius": 0.375,
+      "sight": 9,
+      "speed": 3.25,
+      "killXP": 10,
+      "attributes": [
+        "Merc"
+      ],
+      "scalingLinkIds": [
+        "TerranMarineScaling"
+      ],
+      "life": {
+        "amount": 250,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {},
+      "weapons": [
+        {
+          "nameId": "TerranMarineWeapon",
+          "isDisabled": false,
+          "range": 5,
+          "minimumRange": 0,
+          "period": 0.8608,
+          "damage": 50,
+          "damageScale": 0
+        }
+      ],
+      "abilities": {
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "move|:NONE:|Hidden",
+            "abilityId": "move",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TerranMarineMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TerranRaven",
+    "value": {
+      "damageType": "Merc",
+      "radius": 0.625,
+      "innerRadius": 0,
+      "sight": 11,
+      "speed": 3.5,
+      "attributes": [
+        "Merc"
+      ],
+      "scalingLinkIds": [
+        "TerranRavenScaling"
+      ],
+      "life": {
+        "amount": 1500,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "targetInfo": "storm_ui_ingame_targetinfopanel_unit_warheadjunction_merc_bruiser_raven.png"
+      },
+      "summonedUnitIds": [
+        "TerranAutoTurret"
+      ],
+      "weapons": [
+        {
+          "nameId": "TerranRavenDummyWeapon",
+          "isDisabled": false,
+          "range": 11,
+          "minimumRange": 0,
+          "period": 5,
+          "damage": 0,
+          "damageScale": 0
+        }
+      ],
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": "TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|Q",
+            "abilityId": "TerranRavenDeployAutoTurret",
+            "buttonId": "TerranRavenDeployAutoTurret",
+            "icon": "storm_temp_btn-building-terran-autoturret.png",
+            "abilityType": "Q"
+          },
+          {
+            "linkId": "TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+            "abilityId": "TerranRavenSeekerMissile",
+            "buttonId": "TerranRavenSeekerMissile",
+            "icon": "storm_temp_btn-ability-terran-huntermissile-color.png",
+            "abilityType": "W"
+          }
+        ],
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TerranRavenDefender",
+    "value": {
+      "damageType": "Merc",
+      "radius": 0.625,
+      "innerRadius": 0,
+      "sight": 11,
+      "speed": 3.5,
+      "killXP": 90,
+      "attributes": [
+        "Creep"
+      ],
+      "scalingLinkIds": [
+        "TerranRavenDefenderScaling"
+      ],
+      "life": {
+        "amount": 1500,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "targetInfo": "storm_ui_ingame_targetinfopanel_unit_braxis_merc_bruiser_raven.png"
+      },
+      "summonedUnitIds": [
+        "TerranAutoTurret"
+      ],
+      "weapons": [
+        {
+          "nameId": "TerranRavenDefenderDummyWeapon",
+          "isDisabled": false,
+          "range": 11,
+          "minimumRange": 0,
+          "period": 5,
+          "damage": 0,
+          "damageScale": 0
+        }
+      ],
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": "TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+            "abilityId": "TerranRavenSeekerMissile",
+            "buttonId": "TerranRavenSeekerMissile",
+            "icon": "storm_temp_btn-ability-terran-huntermissile-color.png",
+            "abilityType": "Q"
+          },
+          {
+            "linkId": "TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|W",
+            "abilityId": "TerranRavenDeployAutoTurret",
+            "buttonId": "TerranRavenDeployAutoTurret",
+            "icon": "storm_temp_btn-building-terran-autoturret.png",
+            "abilityType": "W"
+          }
+        ],
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TerranRavenDeployAutoTurretMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TerranRavenSeekerMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 5,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TerrazineGasVein",
+    "value": {
+      "radius": 0.875,
+      "innerRadius": 0.875,
+      "sight": 4,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_tod_altar_inactive.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TerrazineRageAoEMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/VisionBlocker2x2",
+    "value": {
+      "radius": 1,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/WarheadDouble",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0.5,
+      "sight": 4,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_spiderqueen_turnin.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/WarheadDropped",
+    "value": {
+      "radius": 0.25,
+      "innerRadius": 0.5,
+      "sight": 4,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_hud_minimap_warhead_nukesymbol_icon.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/WarheadDroppedMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/WarheadSingle",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0.5,
+      "sight": 4,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_hud_minimap_warhead_nukesymbol_icon.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/WarheadTriple",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0.5,
+      "sight": 4,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_spiderqueen_turnin.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/WaygateEntrance",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/WaygateEntranceMinimapIconActor",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_tod_waygate_in.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ZergBaneling",
+    "value": {
+      "damageType": "Monster",
+      "radius": 0.5,
+      "innerRadius": 0.5,
+      "sight": 2,
+      "speed": 4.25,
+      "scalingLinkIds": [
+        "ZergBanelingScaling"
+      ],
+      "life": {
+        "amount": 450,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "icons-circle-large-mask.png",
+        "targetInfo": "storm_ui_ingame_targetinfopanel_unit_braxis_monsters_baneling.png"
+      },
+      "weapons": [
+        {
+          "nameId": "ZergBanelingWeapon",
+          "isDisabled": false,
+          "range": 0.5,
+          "minimumRange": 0,
+          "period": 0.5,
+          "damage": 200,
+          "damageScale": 0,
+          "damageFactors": {
+            "Heroic": 0
+          }
+        }
+      ],
+      "abilities": {
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ZergCocoon",
+    "value": {
+      "radius": 0.375,
+      "innerRadius": 0.375,
+      "sight": 8,
+      "speed": 0,
+      "life": {
+        "amount": 150,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "icons-circle-large-mask.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ZergCocoonLocust",
+    "value": {
+      "damageType": "Summon",
+      "radius": 0.375,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 3.25,
+      "life": {
+        "amount": 200,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "targetInfo": "ui_targetportrait_hero_locustblue.png"
+      },
+      "weapons": [
+        {
+          "nameId": "ZergCocoonLocustWeapon",
+          "isDisabled": false,
+          "range": 1.5,
+          "minimumRange": 0,
+          "period": 1,
+          "damage": 34,
+          "damageScale": 0
+        }
+      ],
+      "abilities": {
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ZergCocoonLocustWeaponMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ZergedTownGateL3HorizontalTopVisionBlocked",
+    "value": {
+      "radius": 0.75,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 0,
+      "attributes": [
+        "AITargetableStructure",
+        "Structure"
+      ],
+      "life": {
+        "amount": 1500,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ZergGuardian",
+    "value": {
+      "damageType": "Monster",
+      "radius": 1,
+      "innerRadius": 0.75,
+      "sight": 11,
+      "speed": 4,
+      "scalingLinkIds": [
+        "ZergGuardianScaling"
+      ],
+      "life": {
+        "amount": 800,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "icons-circle-large-mask.png",
+        "targetInfo": "storm_ui_ingame_targetinfopanel_unit_braxis_monsters_guardian.png"
+      },
+      "weapons": [
+        {
+          "nameId": "ZergGuardianWeapon",
+          "isDisabled": false,
+          "range": 10,
+          "minimumRange": 0,
+          "period": 2,
+          "damage": 90,
+          "damageScale": 0,
+          "damageFactors": {
+            "Heroic": 0
+          }
+        }
+      ],
+      "abilities": {
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ZergGuardianMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ZergHive",
+    "value": {
+      "damageType": "Structure",
+      "radius": 1.5,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 0,
+      "attributes": [
+        "AITargetableStructure",
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "User1"
+      ],
+      "life": {
+        "amount": 1500,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "targetInfo": "ui_targetportrait_buildings_ravenscourt_manawell.png"
+      },
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": "CursedShrineSpawn|CursedShrineSpawn|Q",
+            "abilityId": "CursedShrineSpawn",
+            "buttonId": "CursedShrineSpawn",
+            "abilityType": "Q"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ZergHiveControlBeacon",
+    "value": {
+      "radius": 4,
+      "innerRadius": 0,
+      "sight": 4,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ZergHydralisk",
+    "value": {
+      "damageType": "Monster",
+      "radius": 0.6875,
+      "innerRadius": 0.6875,
+      "sight": 9,
+      "speed": 4.5,
+      "scalingLinkIds": [
+        "ZergHydraliskScaling"
+      ],
+      "life": {
+        "amount": 680,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "icons-circle-large-mask.png",
+        "targetInfo": "storm_ui_ingame_targetinfopanel_unit_braxis_monsters_hydralisk.png"
+      },
+      "weapons": [
+        {
+          "nameId": "ZergHydraliskMelee",
+          "isDisabled": false,
+          "range": 0.5,
+          "minimumRange": 0,
+          "period": 1.2,
+          "damage": 70,
+          "damageScale": 0,
+          "damageFactors": {
+            "Heroic": 0
+          }
+        },
+        {
+          "nameId": "ZergHydraliskRanged",
+          "isDisabled": false,
+          "range": 6,
+          "minimumRange": 0.5,
+          "period": 1.2,
+          "damage": 70,
+          "damageScale": 0,
+          "damageFactors": {
+            "Heroic": 0
+          }
+        }
+      ],
+      "abilities": {
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ZergHydraliskRangedWeapon",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ZergMutalisk",
+    "value": {
+      "damageType": "Monster",
+      "radius": 0.5,
+      "innerRadius": 0.375,
+      "sight": 9,
+      "speed": 6.5,
+      "life": {
+        "amount": 700,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "icons-circle-large-mask.png"
+      },
+      "weapons": [
+        {
+          "nameId": "ZergMutaliskWeapon",
+          "isDisabled": false,
+          "range": 5,
+          "minimumRange": 0,
+          "period": 1,
+          "damage": 27,
+          "damageScale": 0,
+          "damageFactors": {
+            "MapCreature": 0.5,
+            "Merc": 0.5,
+            "Minion": 0
+          }
+        }
+      ],
+      "abilities": {
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ZergMutaliskMissile1",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ZergMutaliskMissile2",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ZergMutaliskMissile3",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ZergNydusWorm",
+    "value": {
+      "damageType": "Structure",
+      "radius": 1.5,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 0,
+      "attributes": [
+        "AITargetableStructure",
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "User1"
+      ],
+      "life": {
+        "amount": 1500,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "targetInfo": "ui_targetportrait_buildings_ravenscourt_manawell.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ZergPathDummy",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ZergRoach",
+    "value": {
+      "damageType": "Monster",
+      "radius": 0.6875,
+      "innerRadius": 0.6875,
+      "sight": 9,
+      "speed": 4,
+      "life": {
+        "amount": 1800,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "icons-circle-large-mask.png"
+      },
+      "weapons": [
+        {
+          "nameId": "ZergRoachMeleeWeapon",
+          "isDisabled": false,
+          "range": 1.25,
+          "minimumRange": 0,
+          "period": 1.5,
+          "damage": 10,
+          "damageScale": 0,
+          "damageFactors": {
+            "MapCreature": 1,
+            "Merc": 1,
+            "Minion": 0
+          }
+        },
+        {
+          "nameId": "ZergRoachRangedWeapon",
+          "isDisabled": false,
+          "range": 2,
+          "minimumRange": 0,
+          "period": 1.5,
+          "damage": 10,
+          "damageScale": 0,
+          "damageFactors": {
+            "MapCreature": 1,
+            "Merc": 1,
+            "Minion": 0
+          }
+        }
+      ],
+      "abilities": {
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ZergRoachRangedWeapon",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ZergUltralisk",
+    "value": {
+      "damageType": "Monster",
+      "radius": 1.5,
+      "innerRadius": 1,
+      "sight": 9,
+      "speed": 4,
+      "attributes": [
+        "Heroic"
+      ],
+      "scalingLinkIds": [
+        "ZergUltraliskScaling"
+      ],
+      "life": {
+        "amount": 3000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "icons-circle-large-mask.png",
+        "targetInfo": "storm_ui_ingame_targetinfopanel_unit_braxis_monsters_ultralisk.png"
+      },
+      "weapons": [
+        {
+          "nameId": "ZergUltraliskWeaponPvE",
+          "isDisabled": false,
+          "range": 1.5,
+          "minimumRange": 0,
+          "period": 1.5,
+          "damage": 180,
+          "damageScale": 0
+        }
+      ],
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": "UltraliskCharge|UltraliskCharge|Q",
+            "abilityId": "UltraliskCharge",
+            "buttonId": "UltraliskCharge",
+            "icon": "storm_ui_icon_anubarak_burrowcharge.png",
+            "abilityType": "Q"
+          }
+        ],
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ZergZergling",
+    "value": {
+      "damageType": "Monster",
+      "radius": 0.5625,
+      "innerRadius": 0.5,
+      "sight": 6,
+      "speed": 5.75,
+      "scalingLinkIds": [
+        "ZergZerglingScaling"
+      ],
+      "life": {
+        "amount": 360,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "icons-circle-large-mask.png",
+        "targetInfo": "storm_ui_ingame_targetinfopanel_unit_braxis_monsters_zergling.png"
+      },
+      "weapons": [
+        {
+          "nameId": "ZergZerglingWeapon",
+          "isDisabled": false,
+          "range": 0.5,
+          "minimumRange": 0,
+          "period": 0.33,
+          "damage": 10,
+          "damageScale": 0,
+          "damageFactors": {
+            "Heroic": 0
+          }
+        }
+      ],
+      "abilities": {
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ZergZerglingNotMinion",
+    "value": {
+      "damageType": "Monster",
+      "radius": 0.5625,
+      "innerRadius": 0.5,
+      "sight": 6,
+      "speed": 5.75,
+      "attributes": [
+        "MapCreature"
+      ],
+      "scalingLinkIds": [
+        "ZergZerglingScaling"
+      ],
+      "life": {
+        "amount": 360,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "icons-circle-large-mask.png"
+      },
+      "weapons": [
+        {
+          "nameId": "ZergZerglingWeapon",
+          "isDisabled": false,
+          "range": 0.5,
+          "minimumRange": 0,
+          "period": 0.33,
+          "damage": 10,
+          "damageScale": 0,
+          "damageFactors": {
+            "Heroic": 0
+          }
+        }
+      ],
+      "abilities": {
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  }
+]

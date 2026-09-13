@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.98025"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/totalItems",
+    "value": 1571
+  },
+  {
+    "op": "add",
+    "path": "/items/Blizzcon2026Giveaway",
+    "value": {
+      "hyperlinkId": "Blizzcon2026Giveaway",
+      "rarity": "Common",
+      "category": "PortraitAchievements1",
+      "iconSlot": 27,
+      "image": "storm_portrait_blizzcon2026giveaway.png",
+      "textureSheet": {
+        "image": "ui_heroes_portraits_sheet44.png",
+        "rows": 6,
+        "columns": 6
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/Blizzcon2026Logo",
+    "value": {
+      "hyperlinkId": "Blizzcon2026Logo",
+      "rarity": "Common",
+      "category": "PortraitAchievements1",
+      "iconSlot": 26,
+      "image": "storm_portrait_blizzcon2026logo.png",
+      "textureSheet": {
+        "image": "ui_heroes_portraits_sheet44.png",
+        "rows": 6,
+        "columns": 6
+      }
+    }
+  }
+]

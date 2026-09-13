@@ -1,0 +1,82 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.98025"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/infoText/MountDirewolfThreeTails",
+    "value": "Acreditavam que o Nexus estava adormecido há anos, mas ele despertou novamente, e novas criaturas começaram a surgir, acendendo a chama de uma nova era. Lançado em comemoração à BlizzCon 2026."
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountDirewolfThreeTails",
+    "value": "Lobo Atroz do Nexus"
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/searchText/MountDirewolfThreeTails",
+    "value": "Lobo Atroz do Nexus da BlizzCon"
+  },
+  {
+    "op": "add",
+    "path": "/items/portraitPack/name/Blizzcon2026Giveaway",
+    "value": "Retrato Distribuído da BlizzCon 2026"
+  },
+  {
+    "op": "add",
+    "path": "/items/portraitPack/name/Blizzcon2026Logo",
+    "value": "Retrato com Logo da BlizzCon 2026"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/description/Blizzcon2026Giveaway",
+    "value": "Obrigado da Equipe do Heroes of the Storm!"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/description/Blizzcon2026Logo",
+    "value": "Obrigado da Equipe do Heroes of the Storm!"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/name/Blizzcon2026Giveaway",
+    "value": "Retrato Distribuído da BlizzCon 2026"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/name/Blizzcon2026Logo",
+    "value": "Retrato com Logo da BlizzCon 2026"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": "Os Ataques Básicos de Abathur causam <c val=#TooltipNumbers>350%</c> de dano adicional, atordoam inimigos que não são elite e desabilitam estruturas por <c val=#TooltipNumbers>0</c> s.<n/><n/>O mesmo herói ou estrutura só pode sofrer atordoamento ou desabilitação uma vez a cada <c val=#TooltipNumbers>0</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Missão:</c> Se Chama Sombria atingir um Herói inimigo afetado pelas Chamas Devoradoras de Cho, a recarga será reduzida em <c val=#TooltipNumbers>0</c> s.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Recompensa:</c> Após atingir <c val=#TooltipNumbers>0</c> Heróis, a recarga da Chama Sombria será reduzida em <c val=#TooltipNumbers>0</c> s permanentemente."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiDeflectPerfectDefense|GenjiDeflectPerfectDefense|W|Level7",
+    "value": "O dano bloqueado reduz a recarga de Desviar em <c val=#TooltipNumbers>0</c> s, até um máximo de <c val=#TooltipNumbers>0</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "O alcance de Núcleo Derretido aumenta em <c val=#TooltipNumbers>100%</c> no início da duração. Além disso, a recarga de Núcleo Derretido reduz em <c val=#TooltipNumbers>90</c> s ao ser usada em um Forte ou Bastilha destruídos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/TyraelStalwartAngel|TyraelStalwartAngel|Q|Level4",
+    "value": "Recebe <25</c> de Armadura enquanto o Poder de El'druin estiver ativo e por <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s após se teleportar."
+  }
+]

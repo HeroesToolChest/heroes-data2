@@ -1,0 +1,77 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.98025"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/infoText/MountDirewolfThreeTails",
+    "value": "Il Nexus, ritenuto inattivo per molti anni, ha ripreso vita ancora una volta e nuove creature iniziano a emergere, dando inizio a una nuova era. Realizzato per celebrare la Blizzcon 2026"
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountDirewolfThreeTails",
+    "value": "Metalupo Nexus"
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/searchText/MountDirewolfThreeTails",
+    "value": "Metalupo Nexus della BlizzCon"
+  },
+  {
+    "op": "add",
+    "path": "/items/portraitPack/name/Blizzcon2026Giveaway",
+    "value": "Ritratto promozionale della BlizzCon 2026"
+  },
+  {
+    "op": "add",
+    "path": "/items/portraitPack/name/Blizzcon2026Logo",
+    "value": "Ritratto con il logo della BlizzCon 2026"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/description/Blizzcon2026Giveaway",
+    "value": "Grazie dal team di Heroes of the Storm!"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/description/Blizzcon2026Logo",
+    "value": "Grazie dal team di Heroes of the Storm!"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/name/Blizzcon2026Giveaway",
+    "value": "Ritratto promozionale della BlizzCon 2026"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/name/Blizzcon2026Logo",
+    "value": "Ritratto con il logo della BlizzCon 2026"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": "Gli attacchi base di Abathur infliggono il <c val=#TooltipNumbers>350%</c> di danni aggiuntivi, stordiscono i nemici non élite e disattivano le strutture per <c val=#TooltipNumbers>0</c> s.<n/><n/>È possibile stordire o disattivare lo stesso eroe o la stessa struttura solo una volta ogni <c val=#TooltipNumbers>0</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Missione:</c> Se Ombrofuoco colpisce un eroe nemico affetto da Fiamma Logorante di Cho, il suo tempo di recupero si riduce di <c val=#TooltipNumbers>0</c> s.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Ricompensa:</c> Dopo aver colpito <c val=#TooltipNumbers>0</c> eroi, il tempo di recupero di Ombrofuoco si riduce in modo permanente di <c val=#TooltipNumbers>0</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiDeflectPerfectDefense|GenjiDeflectPerfectDefense|W|Level7",
+    "value": "I danni parati con Deviazione riducono il tempo di recupero dell'abilità di <c val=#TooltipNumbers>0</c> s, fino a un massimo di <c val=#TooltipNumbers>0</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "Aumenta la portata di Nucleo Ardente del <c val=#TooltipNumbers>100%</c> all'inizio della sua durata. Inoltre, riduce il tempo di recupero di Nucleo Ardente di <c val=#TooltipNumbers>90</c> s quando usato su forti o fortezze distrutti."
+  }
+]

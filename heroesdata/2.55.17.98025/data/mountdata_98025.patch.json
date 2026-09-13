@@ -1,0 +1,25 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.98025"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/totalItems",
+    "value": 672
+  },
+  {
+    "op": "add",
+    "path": "/items/MountDirewolfThreeTails",
+    "value": {
+      "hyperlinkId": "MountDirewolfThreeTails",
+      "attributeId": "DIL4",
+      "franchise": "Nexus",
+      "rarity": "Common",
+      "releaseDate": "2026-01-01",
+      "category": "Beast",
+      "type": "Ride"
+    }
+  }
+]

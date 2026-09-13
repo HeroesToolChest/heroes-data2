@@ -1,0 +1,77 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.98025"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/infoText/MountDirewolfThreeTails",
+    "value": "Дремавший долгие годы Нексус вновь ожил, и из него явились существа, которые дали начало новой эпохе. Предмет выпущен в честь фестиваля BlizzCon\u00A02026."
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountDirewolfThreeTails",
+    "value": "Лютый волк Нексуса"
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/searchText/MountDirewolfThreeTails",
+    "value": "Лютый волк Нексуса в честь BlizzCon"
+  },
+  {
+    "op": "add",
+    "path": "/items/portraitPack/name/Blizzcon2026Giveaway",
+    "value": "Портрет в честь BlizzCon\u00A02026"
+  },
+  {
+    "op": "add",
+    "path": "/items/portraitPack/name/Blizzcon2026Logo",
+    "value": "Портрет с логотипом BlizzCon\u00A02026"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/description/Blizzcon2026Giveaway",
+    "value": "С благодарностью от команды разработчиков Heroes of the Storm!"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/description/Blizzcon2026Logo",
+    "value": "С благодарностью от команды разработчиков Heroes of the Storm!"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/name/Blizzcon2026Giveaway",
+    "value": "Портрет в честь BlizzCon\u00A02026"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/name/Blizzcon2026Logo",
+    "value": "Портрет с логотипом BlizzCon\u00A02026"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": "Автоатаки Абатура наносят на <c val=#TooltipNumbers>350%</c> больше урона, оглушают неэлитных врагов и обезвреживают постройки на <c val=#TooltipNumbers>0</c>\u00A0сек.<n/><n/>Одну и ту же цель можно оглушить или обезвредить не чаще раза в <c val=#TooltipNumbers>0</c>\u00A0сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Задача:</c> при попадании «Пламени Тьмы» по подожженным «Всепоглощающим жаром» Чо героям время восстановления «Пламени Тьмы» сокращается на <c val=#TooltipNumbers>0</c> сек.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Награда:</c> после <c val=#TooltipNumbers>0</c> попаданий по героям время восстановления «Пламени Тьмы» вместо этого уменьшится на <c val=#TooltipNumbers>0</c> сек. до конца матча."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiDeflectPerfectDefense|GenjiDeflectPerfectDefense|W|Level7",
+    "value": "При отражении урона сокращает время восстановления «Отражения атак» на <c val=#TooltipNumbers>0</c> сек., вплоть до <c val=#TooltipNumbers>0</c> сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "При активации «Огненных Недр» дальность увеличивается на <c val=#TooltipNumbers>100%</c>. Кроме того, время восстановления «Огненных Недр» сокращается на <c val=#TooltipNumbers>90</c>\u00A0сек., если способность применяется на уничтоженный форт или крепость."
+  }
+]
