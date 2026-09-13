@@ -1,0 +1,77 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.98025"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/infoText/MountDirewolfThreeTails",
+    "value": "Le Nexus, que l’on croyait inactif depuis de nombreuses années, s’est de nouveau réveillé, et de nouvelles créatures en émergent, marquant ainsi le début d’une nouvelle ère. Proposée à l’occasion de la BlizzCon\u00A02026."
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountDirewolfThreeTails",
+    "value": "Loup redoutable du Nexus"
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/searchText/MountDirewolfThreeTails",
+    "value": "Loup redoutable du Nexus de la BlizzCon"
+  },
+  {
+    "op": "add",
+    "path": "/items/portraitPack/name/Blizzcon2026Giveaway",
+    "value": "Portrait Loterie de la BlizzCon\u00A02026"
+  },
+  {
+    "op": "add",
+    "path": "/items/portraitPack/name/Blizzcon2026Logo",
+    "value": "Portrait Logo de la BlizzCon\u00A02026."
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/description/Blizzcon2026Giveaway",
+    "value": "Un grand merci de la part de l’équipe de Heroes of the Storm\u00A0!"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/description/Blizzcon2026Logo",
+    "value": "Un grand merci de la part de l’équipe de Heroes of the Storm\u00A0!"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/name/Blizzcon2026Giveaway",
+    "value": "Portrait Loterie de la BlizzCon\u00A02026"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/name/Blizzcon2026Logo",
+    "value": "Portrait Logo de la BlizzCon\u00A02026."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": "Les attaques de base d’Abathur infligent <c val=#TooltipNumbers>350\u00A0%</c> de dégâts supplémentaires, étourdissent les adversaires non élites et neutralisent les bâtiments pendant <c val=#TooltipNumbers>0</c>\u00A0s.<n/><n/>Le même héros ou bâtiment ne peut être étourdi ou neutralisé qu’une seule fois toutes les <c val=#TooltipNumbers>0</c>\u00A0s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Quête\u00A0:</c> si Ombreflamme touche un héros adverse affecté par Flambée dévorante de Cho, réduit son temps de recharge de <c val=#TooltipNumbers>0</c>\u00A0s.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Récompense\u00A0:</c> une fois <c val=#TooltipNumbers>0</c>\u00A0héros touchés, réduit de manière permanente le temps de recharge d’Ombreflamme de <c val=#TooltipNumbers>0</c>\u00A0s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiDeflectPerfectDefense|GenjiDeflectPerfectDefense|W|Level7",
+    "value": "Chaque source de dégâts bloquée réduit le temps de recharge de Riposte de <c val=#TooltipNumbers>0</c>\u00A0s, jusqu’à un maximum de <c val=#TooltipNumbers>0</c>\u00A0s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "La portée de Cœur du Magma augmente de <c val=#TooltipNumbers>100\u00A0%</c> au début de sa durée. De plus, le temps de recharge de Cœur du Magma est réduit de <c val=#TooltipNumbers>90</c>\u00A0s lorsqu’il est utilisé sur un fort ou un bastion détruit."
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.55.17.98025"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/totalItems",
+    "value": 1091
+  },
+  {
+    "op": "add",
+    "path": "/items/Blizzcon2026Giveaway",
+    "value": {
+      "hyperlinkId": "Blizzcon2026Giveaway",
+      "rarity": "Common",
+      "rewardPortraitIds": [
+        "Blizzcon2026Giveaway"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/Blizzcon2026Logo",
+    "value": {
+      "hyperlinkId": "Blizzcon2026Logo",
+      "rarity": "Common",
+      "rewardPortraitIds": [
+        "Blizzcon2026Logo"
+      ]
+    }
+  }
+]

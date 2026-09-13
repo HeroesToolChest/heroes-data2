@@ -1,0 +1,117 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Tomb of the Spider Queen"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SoulEaterDeathWave|SoulEaterDeathWave|W",
+    "value": "Abklingzeit: 7 Sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SoulEaterSpawnMinions|SoulEaterSpawnMinions|Q",
+    "value": "Abklingzeit: 20 Sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TombCoreDeathWave|TombCoreDeathWave|Q",
+    "value": "Abklingzeit: 5 Sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/LostSoulTeleport|LostSoulTeleport|Q",
+    "value": "Fliegt zum Zielort und ist während des Fluges unverwundbar."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SoulEaterSpawnMinions|SoulEaterSpawnMinions|Q",
+    "value": "Erschafft 3 Diener für den Seelenfresser."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TombCoreDeathWave|TombCoreDeathWave|Q",
+    "value": "Entfesselt eine Welle von Schattenenergie in Richtung eines Helden, die Schaden in Höhe von <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c> der maximalen Lebenspunkte verursacht und <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c> Sek. lang um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70%</c> verlangsamt."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/LostSoulTeleport|LostSoulTeleport|Q",
+    "value": "Verlorene Seelen teleportieren"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SoulEaterDeathWave|SoulEaterDeathWave|W",
+    "value": "Todeswelle"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SoulEaterSpawnMinions|SoulEaterSpawnMinions|Q",
+    "value": "Diener erschaffen"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TombCoreDeathWave|TombCoreDeathWave|Q",
+    "value": "Todeswelle"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/SoulEaterDeathWave|SoulEaterDeathWave|W",
+    "value": "Entfesselt eine Welle, die Gegnern in einer Linie Schaden zufügt."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TombCoreDeathWave|TombCoreDeathWave|Q",
+    "value": "Fügt Helden in einem großen Bereich Schaden zu und verlangsamt sie."
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostGemsTurnedIn",
+    "value": "~AwardValue~% der Juwelen abgegeben"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostGemsTurnedIn",
+    "value": "Grabräuber"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostGemsTurnedIn",
+    "value": "~TooltipAmount~ Juwelen abgegeben"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostGemsTurnedIn",
+    "value": "Meiste Juwelen abgegeben"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/JungleGraveGolemLaner",
+    "value": "Sandgolem"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HarrisonJones",
+    "value": "Harrison Jones"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ItemSoulPickupPrecursor",
+    "value": "Gegenstand - Seele, aufsammeln - Vorgänger"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SoulCage",
+    "value": "Spinnenaltar"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SoulEater",
+    "value": "Netzweber"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SoulEaterMinion",
+    "value": "Spinne"
+  }
+]

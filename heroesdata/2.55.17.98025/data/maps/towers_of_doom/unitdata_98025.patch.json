@@ -1,0 +1,1562 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/totalItems",
+    "value": 955
+  },
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Towers of Doom"
+  },
+  {
+    "op": "replace",
+    "path": "/items/CatapultMinion/life/amount",
+    "value": 400
+  },
+  {
+    "op": "add",
+    "path": "/items/FootmanMinion/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_bb_minion_melee.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/KingsCore/sight",
+    "value": 0
+  },
+  {
+    "op": "replace",
+    "path": "/items/KingsCore/attributes/1",
+    "value": "ImmuneToFriendlyAbilities"
+  },
+  {
+    "op": "add",
+    "path": "/items/KingsCore/attributes/2",
+    "value": "Structure"
+  },
+  {
+    "op": "replace",
+    "path": "/items/KingsCore/life/amount",
+    "value": 40
+  },
+  {
+    "op": "remove",
+    "path": "/items/KingsCore/shield"
+  },
+  {
+    "op": "add",
+    "path": "/items/KingsCore/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_towersofdoom_building_core_necro.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/RangedMinion/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_bb_minion_ranged.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownCannonTowerL2/killXP",
+    "value": 250
+  },
+  {
+    "op": "add",
+    "path": "/items/TownCannonTowerL2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_bb_building_tower_0.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownCannonTowerL2Standalone/abilities/Basic/0/linkId",
+    "value": "L3StandaloneTowerMorph|L3StandaloneTowerMorph|Q"
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownCannonTowerL2Standalone/abilities/Basic/0/abilityId",
+    "value": "L3StandaloneTowerMorph"
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownCannonTowerL2Standalone/abilities/Basic/0/buttonId",
+    "value": "L3StandaloneTowerMorph"
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownCannonTowerL2Standalone/abilities/Basic/0/icon",
+    "value": "storm_temp_btn-ability-zerg-root.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownCannonTowerL2Standalone/abilities/Basic/0/abilityType",
+    "value": "Q"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownCannonTowerL2Standalone/abilities/Basic/1",
+    "value": {
+      "linkId": "TowerMarkAttackTarget|TowerMarkAttackTarget|E",
+      "abilityId": "TowerMarkAttackTarget",
+      "buttonId": "TowerMarkAttackTarget",
+      "icon": "storm_temp_war3_btnrallypoint.png",
+      "abilityType": "E"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownCannonTowerL3/killXP",
+    "value": 800
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL215BLUR/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_towersofdoom_building_gate.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownGateL215BRUL/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_towersofdoom_building_gate.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownMoonwellL2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_bb_building_moonwell.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownMoonwellL2/abilities",
+    "value": {
+      "Basic": [
+        {
+          "linkId": "L3MoonwellMorph|L3MoonwellMorph|Q",
+          "abilityId": "L3MoonwellMorph",
+          "buttonId": "L3MoonwellMorph",
+          "icon": "storm_temp_btn-ability-zerg-root.png",
+          "abilityType": "Q"
+        }
+      ]
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownTownHallL2/portraits/minimap",
+    "value": "storm_ui_minimapicon_tod_town_fill.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownTownHallL2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_towersofdoom_building_fort_necro.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownTownHallL2/abilities/Basic/0/linkId",
+    "value": "L3TownMorph|L3TownMorph|Q"
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownTownHallL2/abilities/Basic/0/abilityId",
+    "value": "L3TownMorph"
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownTownHallL2/abilities/Basic/0/buttonId",
+    "value": "L3TownMorph"
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownTownHallL2/abilities/Basic/0/icon",
+    "value": "storm_temp_btn-ability-zerg-root.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownTownHallL2/abilities/Basic/0/abilityType",
+    "value": "Q"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownTownHallL2/abilities/Basic/1",
+    "value": {
+      "linkId": "TowerMarkAttackTarget|TowerMarkAttackTarget|E",
+      "abilityId": "TowerMarkAttackTarget",
+      "buttonId": "TowerMarkAttackTarget",
+      "icon": "storm_temp_war3_btnrallypoint.png",
+      "abilityType": "E"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TownTownHallL2/killXP",
+    "value": 1200
+  },
+  {
+    "op": "replace",
+    "path": "/items/TownTownHallL3/portraits/minimap",
+    "value": "storm_ui_minimapicon_tod_town_fill.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownTownHallL3/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_towersofdoom_building_fort_necro.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownTownHallL3/killXP",
+    "value": 2050
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial16L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_towersofdoom_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial17L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_towersofdoom_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial18L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_towersofdoom_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial19L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_towersofdoom_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial4L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_towersofdoom_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial5L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_towersofdoom_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial6L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_towersofdoom_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/TownWallRadial7L2/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_towersofdoom_building_wall.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/WizardMinion/portraits/targetInfo",
+    "value": "storm_ui_ingame_targetinfopanel_unit_bb_minion_wizard.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/XelNagaWatchTower/sight",
+    "value": 14
+  },
+  {
+    "op": "add",
+    "path": "/items/BaseAvatarUnit",
+    "value": {
+      "radius": 0.0625,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {},
+      "abilities": {
+        "Mount": [
+          {
+            "linkId": "stop|Stop|Z",
+            "abilityId": "stop",
+            "buttonId": "Stop",
+            "abilityType": "Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/BaseProtectionCannonExtraHigh",
+    "value": {
+      "damageType": "Structure",
+      "radius": 1,
+      "innerRadius": 0,
+      "sight": 15,
+      "speed": 0,
+      "attributes": [
+        "AITargetableStructure",
+        "Structure"
+      ],
+      "life": {
+        "amount": 4750,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "energy": {
+        "amount": 20,
+        "regenRate": 0
+      },
+      "portraits": {},
+      "abilities": {
+        "Heroic": [
+          {
+            "linkId": "AbathurAssumingDirectControlCancel|AbathurSymbioteCancel|Heroic",
+            "abilityId": "AbathurAssumingDirectControlCancel",
+            "buttonId": "AbathurSymbioteCancel",
+            "icon": "hud_btn_bg_ability_cancel.png",
+            "abilityType": "Heroic"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "Queue5Storm|:NONE:|Hidden",
+            "abilityId": "Queue5Storm",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/BaseProtectionCannonHigh",
+    "value": {
+      "damageType": "Structure",
+      "radius": 1,
+      "innerRadius": 0,
+      "sight": 15,
+      "speed": 0,
+      "attributes": [
+        "AITargetableStructure",
+        "Structure"
+      ],
+      "life": {
+        "amount": 4750,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "energy": {
+        "amount": 20,
+        "regenRate": 0
+      },
+      "portraits": {},
+      "abilities": {
+        "Heroic": [
+          {
+            "linkId": "AbathurAssumingDirectControlCancel|AbathurSymbioteCancel|Heroic",
+            "abilityId": "AbathurAssumingDirectControlCancel",
+            "buttonId": "AbathurSymbioteCancel",
+            "icon": "hud_btn_bg_ability_cancel.png",
+            "abilityType": "Heroic"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "Queue5Storm|:NONE:|Hidden",
+            "abilityId": "Queue5Storm",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/BaseProtectionCannonLow",
+    "value": {
+      "damageType": "Structure",
+      "radius": 1,
+      "innerRadius": 0,
+      "sight": 15,
+      "speed": 0,
+      "attributes": [
+        "AITargetableStructure",
+        "Structure"
+      ],
+      "life": {
+        "amount": 4750,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "energy": {
+        "amount": 20,
+        "regenRate": 0
+      },
+      "portraits": {},
+      "abilities": {
+        "Heroic": [
+          {
+            "linkId": "AbathurAssumingDirectControlCancel|AbathurSymbioteCancel|Heroic",
+            "abilityId": "AbathurAssumingDirectControlCancel",
+            "buttonId": "AbathurSymbioteCancel",
+            "icon": "hud_btn_bg_ability_cancel.png",
+            "abilityType": "Heroic"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "Queue5Storm|:NONE:|Hidden",
+            "abilityId": "Queue5Storm",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/BaseProtectionCannonMid",
+    "value": {
+      "damageType": "Structure",
+      "radius": 1,
+      "innerRadius": 0,
+      "sight": 15,
+      "speed": 0,
+      "attributes": [
+        "AITargetableStructure",
+        "Structure"
+      ],
+      "life": {
+        "amount": 4750,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "energy": {
+        "amount": 20,
+        "regenRate": 0
+      },
+      "portraits": {},
+      "abilities": {
+        "Heroic": [
+          {
+            "linkId": "AbathurAssumingDirectControlCancel|AbathurSymbioteCancel|Heroic",
+            "abilityId": "AbathurAssumingDirectControlCancel",
+            "buttonId": "AbathurSymbioteCancel",
+            "icon": "hud_btn_bg_ability_cancel.png",
+            "abilityType": "Heroic"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "Queue5Storm|:NONE:|Hidden",
+            "abilityId": "Queue5Storm",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/BaseProtectionTowerGround",
+    "value": {
+      "damageType": "Structure",
+      "radius": 1,
+      "innerRadius": 0,
+      "sight": 15,
+      "speed": 0,
+      "attributes": [
+        "AITargetableStructure",
+        "Structure"
+      ],
+      "life": {
+        "amount": 4750,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "energy": {
+        "amount": 20,
+        "regenRate": 0
+      },
+      "portraits": {},
+      "weapons": [
+        {
+          "nameId": "BaseProtectionTowerWeaponForTurretRotation",
+          "isDisabled": false,
+          "range": 15,
+          "minimumRange": 0,
+          "period": 0.1,
+          "damage": 0,
+          "damageScale": 0
+        }
+      ],
+      "abilities": {
+        "Heroic": [
+          {
+            "linkId": "AbathurAssumingDirectControlCancel|AbathurSymbioteCancel|Heroic",
+            "abilityId": "AbathurAssumingDirectControlCancel",
+            "buttonId": "AbathurSymbioteCancel",
+            "icon": "hud_btn_bg_ability_cancel.png",
+            "abilityType": "Heroic"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "Queue5Storm|:NONE:|Hidden",
+            "abilityId": "Queue5Storm",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/BaseProtectionTowerHigh",
+    "value": {
+      "damageType": "Structure",
+      "radius": 1,
+      "innerRadius": 0,
+      "sight": 15,
+      "speed": 0,
+      "attributes": [
+        "AITargetableStructure",
+        "Structure"
+      ],
+      "life": {
+        "amount": 4750,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "energy": {
+        "amount": 20,
+        "regenRate": 0
+      },
+      "portraits": {},
+      "weapons": [
+        {
+          "nameId": "BaseProtectionTowerWeaponForTurretRotation",
+          "isDisabled": false,
+          "range": 15,
+          "minimumRange": 0,
+          "period": 0.1,
+          "damage": 0,
+          "damageScale": 0
+        }
+      ],
+      "abilities": {
+        "Heroic": [
+          {
+            "linkId": "AbathurAssumingDirectControlCancel|AbathurSymbioteCancel|Heroic",
+            "abilityId": "AbathurAssumingDirectControlCancel",
+            "buttonId": "AbathurSymbioteCancel",
+            "icon": "hud_btn_bg_ability_cancel.png",
+            "abilityType": "Heroic"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "Queue5Storm|:NONE:|Hidden",
+            "abilityId": "Queue5Storm",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/BaseProtectionTowerMid",
+    "value": {
+      "damageType": "Structure",
+      "radius": 1,
+      "innerRadius": 0,
+      "sight": 15,
+      "speed": 0,
+      "attributes": [
+        "AITargetableStructure",
+        "Structure"
+      ],
+      "life": {
+        "amount": 4750,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "energy": {
+        "amount": 20,
+        "regenRate": 0
+      },
+      "portraits": {},
+      "weapons": [
+        {
+          "nameId": "BaseProtectionTowerWeaponForTurretRotation",
+          "isDisabled": false,
+          "range": 15,
+          "minimumRange": 0,
+          "period": 0.1,
+          "damage": 0,
+          "damageScale": 0
+        }
+      ],
+      "abilities": {
+        "Heroic": [
+          {
+            "linkId": "AbathurAssumingDirectControlCancel|AbathurSymbioteCancel|Heroic",
+            "abilityId": "AbathurAssumingDirectControlCancel",
+            "buttonId": "AbathurSymbioteCancel",
+            "icon": "hud_btn_bg_ability_cancel.png",
+            "abilityType": "Heroic"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "Queue5Storm|:NONE:|Hidden",
+            "abilityId": "Queue5Storm",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/BaseProtectionTowerMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/BombChest",
+    "value": {
+      "radius": 1,
+      "innerRadius": 1,
+      "sight": 0,
+      "speed": 3.5,
+      "attributes": [
+        "Creep",
+        "ImmuneToFriendlyAbilities",
+        "NoMinionAggro",
+        "User1"
+      ],
+      "life": {
+        "amount": 15,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_treasurechest.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/BombStructureItem",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 2.5,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/BossMercCampCannonMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_mercenary.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/FortressArchwayCurvedDL",
+    "value": {
+      "radius": 0.75,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 0,
+      "attributes": [
+        "Structure"
+      ],
+      "life": {
+        "amount": 3700,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/FortressArchwayCurvedDR",
+    "value": {
+      "radius": 0.75,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 0,
+      "attributes": [
+        "Structure"
+      ],
+      "life": {
+        "amount": 3700,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/FortressArchwayCurvedUL",
+    "value": {
+      "radius": 0.75,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 0,
+      "attributes": [
+        "Structure"
+      ],
+      "life": {
+        "amount": 3700,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/FortressArchwayCurvedUR",
+    "value": {
+      "radius": 0.75,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 0,
+      "attributes": [
+        "Structure"
+      ],
+      "life": {
+        "amount": 3700,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/FortressArchwayVerticalLeft",
+    "value": {
+      "radius": 0.75,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 0,
+      "attributes": [
+        "Structure"
+      ],
+      "life": {
+        "amount": 3700,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/FortressArchwayVerticalRight",
+    "value": {
+      "radius": 0.75,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 0,
+      "attributes": [
+        "Structure"
+      ],
+      "life": {
+        "amount": 3700,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/LandGrabCannonTower",
+    "value": {
+      "damageType": "Structure",
+      "radius": 1,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 0,
+      "killXP": 650,
+      "attributes": [
+        "AITargetableStructure",
+        "Structure",
+        "Tower"
+      ],
+      "life": {
+        "amount": 4750,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "energy": {
+        "amount": 20,
+        "regenRate": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_tod_town_fill.png"
+      },
+      "weapons": [
+        {
+          "nameId": "GuardTowerL3Weapon",
+          "isDisabled": false,
+          "range": 7.75,
+          "minimumRange": 0,
+          "period": 1,
+          "damage": 330,
+          "damageScale": 0,
+          "damageFactors": {
+            "Structure": 1
+          }
+        }
+      ],
+      "abilities": {
+        "Heroic": [
+          {
+            "linkId": "AbathurAssumingDirectControlCancel|AbathurSymbioteCancel|Heroic",
+            "abilityId": "AbathurAssumingDirectControlCancel",
+            "buttonId": "AbathurSymbioteCancel",
+            "icon": "hud_btn_bg_ability_cancel.png",
+            "abilityType": "Heroic"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "Queue5Storm|:NONE:|Hidden",
+            "abilityId": "Queue5Storm",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "TowerDeadMorph|TowerDeadMorph|Hidden",
+            "abilityId": "TowerDeadMorph",
+            "buttonId": "TowerDeadMorph",
+            "icon": "storm_temp_btn-ability-zerg-root.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/LandGrabCaptureBeacon",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MapEventNecromancerCannonMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_mercenary.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MapEventRavenLordCannonMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_mercenary.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MercHorsemanDefender",
+    "value": {
+      "damageType": "Merc",
+      "radius": 1.5,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 3.75,
+      "killXP": 375,
+      "attributes": [
+        "Creep",
+        "MapBoss"
+      ],
+      "scalingLinkIds": [
+        "HorsemanDefenderScaling"
+      ],
+      "life": {
+        "amount": 13000,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "targetInfo": "storm_ui_ingame_targetinfopanel_unit_towersofdoom_boss.png"
+      },
+      "weapons": [
+        {
+          "nameId": "MercHorsemanDefenderWeapon",
+          "isDisabled": false,
+          "range": 2,
+          "minimumRange": 0,
+          "period": 1,
+          "damage": 180,
+          "damageScale": 0,
+          "damageFactors": {
+            "Summoned": 1
+          }
+        }
+      ],
+      "abilities": {
+        "Mount": [
+          {
+            "linkId": "WallCrush|GraveGolemWallCrush|Z",
+            "abilityId": "WallCrush",
+            "buttonId": "GraveGolemWallCrush",
+            "icon": "storm_btn_d3_wizard_waveofforce.png",
+            "toggleCooldown": 0.5,
+            "abilityType": "Z"
+          }
+        ],
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "StormVehicleAttack|Attack|Hidden",
+            "abilityId": "StormVehicleAttack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MercHorsemanFlyingHead",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 2,
+      "speed": 12,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {},
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": "move|Move|Q",
+            "abilityId": "move",
+            "buttonId": "Move",
+            "icon": "btn-command-move.png",
+            "abilityType": "Q"
+          },
+          {
+            "linkId": "stop|Stop|W",
+            "abilityId": "stop",
+            "buttonId": "Stop",
+            "abilityType": "W"
+          },
+          {
+            "linkId": "move|MoveHoldPosition|E",
+            "abilityId": "move",
+            "buttonId": "MoveHoldPosition",
+            "icon": "btn-command-holdposition.png",
+            "abilityType": "E"
+          }
+        ],
+        "Heroic": [
+          {
+            "linkId": "move|MovePatrol|Heroic",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "Heroic"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MercHorsemanFlyingHeadFireballMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MercHorsemanLaner",
+    "value": {
+      "damageType": "Monster",
+      "radius": 1.5,
+      "innerRadius": 0,
+      "sight": 8,
+      "speed": 3.75,
+      "killXP": 375,
+      "attributes": [
+        "ImmuneToFriendlyAbilities",
+        "MapBoss",
+        "MapCreature"
+      ],
+      "scalingLinkIds": [
+        "HorsemanLanerScaling"
+      ],
+      "life": {
+        "amount": 7500,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_minesgolem.png"
+      },
+      "weapons": [
+        {
+          "nameId": "MercHorsemanLanerWeapon",
+          "isDisabled": false,
+          "range": 2,
+          "minimumRange": 0,
+          "period": 1,
+          "damage": 210,
+          "damageScale": 0
+        }
+      ],
+      "abilities": {
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MercHorsemanReturningHeadMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MercWinterCrestHorsemanEntrance",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/NecromancerAvatarUnit",
+    "value": {
+      "radius": 0.0625,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {},
+      "abilities": {
+        "Mount": [
+          {
+            "linkId": "stop|Stop|Z",
+            "abilityId": "stop",
+            "buttonId": "Stop",
+            "abilityType": "Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/NeutralTownCaptureBeacon",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/PathingBlockerToDWall",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/RavenLordAvatarUnit",
+    "value": {
+      "radius": 0.0625,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {},
+      "abilities": {
+        "Mount": [
+          {
+            "linkId": "stop|Stop|Z",
+            "abilityId": "stop",
+            "buttonId": "Stop",
+            "abilityType": "Z"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ScoringAltar",
+    "value": {
+      "radius": 0.875,
+      "innerRadius": 0.875,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_tod_altar_inactive.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ScoringCaptureBeacon",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_spiderqueen_turnin.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/SpiritHealer",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "User1"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/WaygateEntrance",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/WaygateEntranceMinimapIconActor",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_tod_waygate_in.png"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/WaygateUnit",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToAOE",
+        "ImmuneToSkillshots",
+        "NoMinionAggro"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_tod_waygate_out.png"
+      }
+    }
+  }
+]
