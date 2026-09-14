@@ -1,0 +1,148 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98126_ptr"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CrusaderOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CrusaderOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/CrusaderOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DemonHunterOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DemonHunterOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DemonHunterOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/RaynorOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/RaynorOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/RaynorOWC20Var5"
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVar1",
+    "value": {
+      "hyperlinkId": "XalatathVar1",
+      "attributeId": "XAL1",
+      "franchise": "Warcraft",
+      "rarity": "Rare",
+      "releaseDate": "2020-12-01"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVar2",
+    "value": {
+      "hyperlinkId": "XalatathVar2",
+      "attributeId": "XAL2",
+      "franchise": "Warcraft",
+      "rarity": "Rare",
+      "releaseDate": "2020-12-01"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVar3",
+    "value": {
+      "hyperlinkId": "XalatathVar3",
+      "attributeId": "XAL3",
+      "franchise": "Warcraft",
+      "rarity": "Rare",
+      "releaseDate": "2020-12-01"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVar4",
+    "value": {
+      "hyperlinkId": "XalatathVar4",
+      "attributeId": "XAL4",
+      "franchise": "Warcraft",
+      "rarity": "Rare",
+      "releaseDate": "2020-12-01"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidflame",
+    "value": {
+      "hyperlinkId": "VoidflameXalatath",
+      "attributeId": "XVF1",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2021-01-02",
+      "variationSkinIds": [
+        "XalatathVoidflameVar1",
+        "XalatathVoidflameVar2",
+        "XalatathVoidflameVar3",
+        "XalatathVoidflameVar4"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidflameVar1",
+    "value": {
+      "hyperlinkId": "XalatathVoidflameVar1",
+      "attributeId": "XVF2",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2021-02-02"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidflameVar2",
+    "value": {
+      "hyperlinkId": "XalatathVoidflameVar2",
+      "attributeId": "XVF3",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2021-02-02"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidflameVar3",
+    "value": {
+      "hyperlinkId": "XalatathVoidflameVar3",
+      "attributeId": "XVF4",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2021-02-02"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidflameVar4",
+    "value": {
+      "hyperlinkId": "XalatathVoidflameVar4",
+      "attributeId": "XVF5",
+      "franchise": "Warcraft",
+      "rarity": "Epic",
+      "releaseDate": "2021-02-02"
+    }
+  }
+]

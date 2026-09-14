@@ -1,0 +1,37 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Blackheart's Bay"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/BlackheartsCoreBombardment|BlackheartsCoreBombardment|Hidden",
+    "value": "Dispara una bola de cañón gigante a un héroe enemigo, lo que inflige un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c> de la salud máxima como daño y repele del punto de impacto."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/BlackheartsCoreBombardment|BlackheartsCoreBombardment|Hidden",
+    "value": "Bombardeo "
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/BlackheartsCoreBombardment|BlackheartsCoreBombardment|Hidden",
+    "value": "Inflige daño y repele a los héroes en una gran zona."
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostCoinsPaid",
+    "value": "~AwardValue~% de las monedas pagadas"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostCoinsPaid",
+    "value": "Millonetis"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostCoinsPaid",
+    "value": "Monedas entregadas: ~TooltipAmount~"
+  }
+]

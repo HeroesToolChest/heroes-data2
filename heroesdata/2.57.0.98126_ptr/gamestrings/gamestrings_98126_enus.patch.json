@@ -1,0 +1,998 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98126_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/WhitemaneIntercession|WhitemaneIntercession|Active",
+    "value": "Cooldown: 75 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelSeraphim|YrelSeraphim|Active",
+    "value": "Cooldown: 30 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E",
+    "value": "Cooldown: 15 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Cooldown: 7 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "Cooldown: 90 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidEruptionCancel|XalatathVoidEruptionCancel|Heroic",
+    "value": "Cooldown: 1.5 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Cooldown: 75 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidStep|XalatathVoidStep|W",
+    "value": "Cooldown: 15 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/WhitemaneDesperatePlea|WhitemaneDesperatePlea|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 45</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 50</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 45</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 75</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 80</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidStep|XalatathVoidStep|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 50</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 75</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|MalGanisVampiricTouch|Trait",
+    "value": "Mal'Ganis heals for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> of damage dealt to enemy Heroes and <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> of damage dealt to non-Heroes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|SylvanasBlackArrowsPassive|Trait",
+    "value": "Basic Attacks infect enemies with Black Arrows for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds, stacking up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> times. Sylvanas deals <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> more damage to enemies with <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> stacks.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Damage Heroes and Structures with <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> stacks of Black Arrows.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> Upon damaging enemies <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c> times, increase the damage bonus provided by Black Arrows to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Mythic Reward:</c> Upon damaging enemies <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c> times, Black Arrows now heals Sylvanas for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> of damage dealt at <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> stacks, doubled against Heroes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/GarroshArmorUpDoubleUp|GarroshArmorUpDoubleUp|Trait",
+    "value": "Armor Up can be activated to increase its Armor bonus by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/MalGanisNightRush|MalGanisNightRush|E",
+    "value": "After <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.62</c> seconds, gain <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> Movement Speed for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds. While active, Mal'Ganis can move through enemy Heroes and put them to Sleep for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/MuradinStormBolt|MuradinStormbolt|Q",
+    "value": "Throw a hammer, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">110</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to the first enemy hit and Stunning them for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c> seconds<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Basic Attack Heroes affected by Stuns, Slows, or Roots. Slowed or Rooted enemies grant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> stack. Stunned enemies provide <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> stacks.  If the Hero dies within <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds, gain <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> stacks.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> Upon hitting <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c> targets, Storm Bolt pierces to hit an additional target, and Muradin's Basic Attacks reduce the cooldown of Storm Bolt by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> seconds and restore <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> Mana.<n/><<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Mythic Reward:</c> Upon hitting <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c> targets, Storm Bolt's range is increased by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>, width increased by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c>, and now pierces all targets."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/NexusHunterBloodRage|NexusHunterBloodRage|W",
+    "value": "Qhira deals <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">32</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage and heals for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Health per enemy Hero affected. Damage and healing is increased by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> per each additional stack on that Hero.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Passive:</c> Basic Attack and Ability damage cause enemies to bleed for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">28</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> seconds. Stacks <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> times.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Damage enemy Heroes with Blood Rage's bleed damage to permanently increase its damage by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.2%</c>. <n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> After damaging Heroes with Blood Rage's bleed damage <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">150</c> times, Blood Rage's duration is increased by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/WhitemaneDesperatePlea|WhitemaneDesperatePlea|Q",
+    "value": "Heal an allied Hero for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> and gain <c val=\"FF8B8B\" hlt-name=\"#WhitemaneDesperation\">Desperation</c> for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> seconds.<n/><n/><c val=\"FF8B8B\" hlt-name=\"#WhitemaneDesperation\">Desperation</c> increases Desperate Plea's Mana cost by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>, and stacks up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> times.<n/><n/><c val=\"ffff8a\">Current Mana Cost:</c> <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ZagaraSummonHydralisk|ZagaraHunterKiller|W",
+    "value": "Summon a Hydralisk to attack a single target, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">71</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.05~~</c> damage per second. The Hydralisk loses Health over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> seconds, and has <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.045~~</c> Health."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E",
+    "value": "Summon the Dark Heart, which pulses for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage per second to nearby enemies for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> seconds.<n/><n/>The Dark Heart moves to Shadow Mark's impact location.<n/><n/>The Dark Heart will pursue Marked Heroes and detonate on impact, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">120</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to nearby enemies and <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">+60</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to the Marked target."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Shoot a single Void Orb that deals <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to enemies hit. Enemies hit by the center take an additional <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage.<n/><n/>Enemy Heroes directly hit are Marked for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> seconds.<n/><n/>Marked Heroes are Revealed and draw the Dark Heart and Void Minions toward them."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "After channeling for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds, summon a Void Portal that spawns up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> Void Minions to attack nearby enemies.<n/><n/>Enemies near the Void Portal are Slowed by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>.<n/><n/>Void Minions are attracted to Shadow Marked Heroes.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">The Portal loses health over 20 seconds.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Channel a single powerful Void Orb that grows over time until reaching maximum size after <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds. Recast to launch the Orb early.<n/><n/>Enemies that come into contact with the Orb take up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage and are Blinded for <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s> second.<n/><n/>When the Orb reaches the end of its path, it detonates in a large explosion, dealing up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Contact damage is dealt every 0.125 seconds.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidStepCancel|XalatathVoidStepCancel|W",
+    "value": "Cancel ability early to stop where you are."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|W",
+    "value": "Cast to teleport Xal'atath <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> times in a triangular pattern.<n/><n/>Each time Xal'atath teleports her Basic Attack does <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">+25%</s> more damage while the ability is active.<n/><n/>Reactivate to end Void Step early and remain at your current location."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Void Volley is charged by Xal'atath's Basic Attacks. Unleash a barrage of Void Orbs at a target location, each dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">99</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage on impact.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Hit enemy Heroes with Void Volley; each Hero hit grants <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> stack and increases all Void damage by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.1%</c>. Xal'atath loses all stacks when killed.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward (30 Stacks):</c><n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c> Void Volley Range<n/><n/>Upon death, Xal’atath now only loses 6 stacks, but cannot fall below her current milestone minimum.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/>.<c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward (55 Stacks):</c><n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">-1</c> Basic Attack Required to Charge Void Volley<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Mythic Reward (90 Stacks):</c><n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+50%</c> Void Attack and Ability Damage<n/>Void Volley projectiles Pierce all targets."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E",
+    "value": "Dark Heart Ritual"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Shadow Mark"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "Void Convergence"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Void Eruption"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidStepCancel|XalatathVoidStepCancel|W",
+    "value": "Cancel Void Step"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidStep|XalatathVoidStep|W",
+    "value": "Void Step"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Void Volley"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E",
+    "value": "Summon the Dark Heart."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Launch a single large Void Orb"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "Summon a Portal that will spawn Void Minions."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Channel a growing orb that deals damage in its path."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidStep|XalatathVoidStep|W",
+    "value": "Cast to teleport Xal'atath around in a trianglular pattern."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Unleash a barrage of Void Missiles at a target location."
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/description/Xalatath",
+    "value": "A ranged damage dealer who manipulates void energy to overwhelm enemies and control the battlefield."
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/difficulty/Xalatath",
+    "value": "Medium"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/energyType/Xalatath",
+    "value": "Mana"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/expandedRole/Xalatath",
+    "value": "Ranged Assassin"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/infoText/Xalatath",
+    "value": "For eons, Xal'atath has manipulated gods and mortals alike to ascend the cosmic ladder. Once a servant of Dimensius the All-Devouring, and then a prisoner of the Old Gods, Xal'atath has now attained her freedom and set her own plans in motion—starting with the destruction of Dalaran and the transformation of the Sunwell."
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/lifeType/Xalatath",
+    "value": "Health"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/name/Xalatath",
+    "value": "Xal'atath"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/roles/Xalatath",
+    "value": [
+      "Assassin"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/searchText/Xalatath",
+    "value": "World of Warcraft Mage Void"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/title/Xalatath",
+    "value": "The Harbinger of the Void"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/infoText/MountDirewolfThreeTails",
+    "value": "The Nexus, believed to be dormant for many years, has come alive yet again and new creatures begin to emerge from it, sparking a new age. Released in commemorations of Blizzcon 2026."
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/infoText/MountPhoenix",
+    "value": "A proud symbol of Quel'Thalas, the phoenixes of Eversong embody the undying spirit of the elven people. Though exceedingly few in number, their eternal rebirth from the ashes defies the threat of extinction."
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountPhoenix",
+    "value": "Sin'dorei Phoenix"
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountPhoenixVar1",
+    "value": "Radiant Sin'dorei Phoenix"
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountPhoenixVar2",
+    "value": "Azure Sin'dorei Phoenix"
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountPhoenixVar3",
+    "value": "Void Sin'dorei Phoenix"
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountPhoenixVar4",
+    "value": "Arcane Sin'dorei Phoenix"
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountPhoenixVar5",
+    "value": "Umbral Sin'dorei Phoenix"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/CrusaderOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/CrusaderOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/CrusaderOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/RaynorOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/RaynorOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/RaynorOWC20Var5"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVar1",
+    "value": "For eons, Xal'atath has manipulated gods and mortals alike to ascend the cosmic ladder. Once a servant of Dimensius the All-Devouring, and then a prisoner of the Old Gods, Xal'atath has now attained her freedom and set her own plans in motion—starting with the destruction of Dalaran and the transformation of the Sunwell."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVar2",
+    "value": "For eons, Xal'atath has manipulated gods and mortals alike to ascend the cosmic ladder. Once a servant of Dimensius the All-Devouring, and then a prisoner of the Old Gods, Xal'atath has now attained her freedom and set her own plans in motion—starting with the destruction of Dalaran and the transformation of the Sunwell."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVar3",
+    "value": "For eons, Xal'atath has manipulated gods and mortals alike to ascend the cosmic ladder. Once a servant of Dimensius the All-Devouring, and then a prisoner of the Old Gods, Xal'atath has now attained her freedom and set her own plans in motion—starting with the destruction of Dalaran and the transformation of the Sunwell."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVar4",
+    "value": "For eons, Xal'atath has manipulated gods and mortals alike to ascend the cosmic ladder. Once a servant of Dimensius the All-Devouring, and then a prisoner of the Old Gods, Xal'atath has now attained her freedom and set her own plans in motion—starting with the destruction of Dalaran and the transformation of the Sunwell."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVoidflame",
+    "value": "As the Black Empire crumbled, the Old Gods freed Xal'atath in a desperate bid for survival. She instead consumed their power to become the fifth and final Old God. Now empress of the Twilight's Blade, Xal'atath stands poised to devour the entire cosmos."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVoidflameVar1",
+    "value": "As the Black Empire crumbled, the Old Gods freed Xal'atath in a desperate bid for survival. She instead consumed their power to become the fifth and final Old God. Now empress of the Twilight's Blade, Xal'atath stands poised to devour the entire cosmos."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVoidflameVar2",
+    "value": "As the Black Empire crumbled, the Old Gods freed Xal'atath in a desperate bid for survival. She instead consumed their power to become the fifth and final Old God. Now empress of the Twilight's Blade, Xal'atath stands poised to devour the entire cosmos."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVoidflameVar3",
+    "value": "As the Black Empire crumbled, the Old Gods freed Xal'atath in a desperate bid for survival. She instead consumed their power to become the fifth and final Old God. Now empress of the Twilight's Blade, Xal'atath stands poised to devour the entire cosmos."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVoidflameVar4",
+    "value": "As the Black Empire crumbled, the Old Gods freed Xal'atath in a desperate bid for survival. She instead consumed their power to become the fifth and final Old God. Now empress of the Twilight's Blade, Xal'atath stands poised to devour the entire cosmos."
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/CrusaderOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/CrusaderOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/CrusaderOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/DemonHunterOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/DemonHunterOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/DemonHunterOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/RaynorOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/RaynorOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/RaynorOWC20Var5"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVar1",
+    "value": "Sin'dorei Xal'atath"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVar2",
+    "value": "Forsaken Xal'atath"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVar3",
+    "value": "Kaldorei Xal'atath"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVar4",
+    "value": "Heartseeker Xal'atath"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVoidflame",
+    "value": "Twilight Xal'atath"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVoidflameVar1",
+    "value": "Fel Twilight Xal'atath"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVoidflameVar2",
+    "value": "Flame Twilight Xal'atath"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVoidflameVar3",
+    "value": "Frost Twilight Xal'atath"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVoidflameVar4",
+    "value": "Primal Twilight Xal'atath"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/CrusaderOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/CrusaderOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/CrusaderOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/RaynorOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/RaynorOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/RaynorOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/CrusaderOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/CrusaderOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/CrusaderOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/RaynorOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/RaynorOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/RaynorOWC20Var5"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/XalatathVoidflame",
+    "value": "XalatathVoidflameVar0"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/WhitemaneIntercession|WhitemaneIntercession|Active|Level7",
+    "value": "Cooldown: 75 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/YrelSeraphim|YrelSeraphim|Active|Level20",
+    "value": "Cooldown: 30 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "Reduce damage taken by Locusts from non-Heroes by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> and increase their damage by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GarroshArmorUpDoubleUp|GarroshArmorUpDoubleUp|Trait|Level13",
+    "value": "Armor Up can be activated to increase its Armor bonus by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GarroshBloodthirstBloodcraze|GarroshBloodthirstBloodcraze|W|Level13",
+    "value": "When hitting a Hero, Bloodthirst heals for an additional <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> of Garrosh's maximum Health over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GarroshBloodthirstInFortheKill|GarroshBloodthirstInFortheKill|W|Level4",
+    "value": "Increase Bloodthirst's damage against non-Heroes by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c>. Killing enemies with Bloodthirst resets its cooldown and refunds its Mana cost."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GarroshOppressor|GarroshOppressor|W|Level7",
+    "value": "Basic Attacks and Bloodthirst against Heroes reduce the target's Spell Power by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GarroshWreckingBallUnrivaledStrength|GarroshWreckingBallUnrivaledStrength|E|Level1",
+    "value": "Increase Wrecking Ball's throw range by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> and its damage by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/NexusHunterFatalWounds|NexusHunterFatalWounds|W|Level1",
+    "value": "While at maximum stacks, Blood Rage's bleed deals <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70%</c> additional damage to enemy Heroes under <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> Health."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/NexusHunterPulsingPain|NexusHunterPulsingPain|E|Level13",
+    "value": "Each additional enemy Hero hit by Revolving Sweep causes the primary target to take an additional <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">150</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/NexusHunterRevolvingSweepLingeringAilment|NexusHunterRevolvingSweepLingeringAilment|E|Level16",
+    "value": "Enemy Heroes hit by Revolving Sweep or by Grappling Hook have their Armor reduced by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WhitemaneDesperatePleaRadiance|WhitemaneDesperatePleaRadiance|Q|Level16",
+    "value": "Reaching <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> stacks of <c val=\"FF8B8B\" hlt-name=\"#WhitemaneDesperation\">Desperation</c> heals for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">190</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> and reapplies <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">Zeal</c> to allies with <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">Zeal</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVelensChosen|YrelVelensChosen|Passive|Level13",
+    "value": "Hitting an enemy Hero with a Basic Ability at maximum charge grants <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8%</c> Spell Power for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> seconds, up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">24%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationAldorPeacekeeper|YrelVindicationAldorPeacekeeper|Q|Level13",
+    "value": "Enemy Heroes hit by Vindication at maximum charge deal <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> less damage for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ZagaraMasteryMutalisk|ZagaraHunterKillerMutaliskTalent|W|Level16",
+    "value": "Reduce the cooldown of Hunter Killer by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> seconds. Hunter Killer now spawns a Mutalisk. Mutalisks have a bounce attack, lose Health over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c> seconds, and have <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">450</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.045~~</c> Health."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|E|Level1",
+    "value": "Dark Heart:<n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+50%</c> Radius<n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+50%</c> Duration<n/><n/>Dark Heart damage bounces <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> times from the primary target to nearby enemies, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">18</c> damage."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathCloakOfShadows|XalatathCloakOfShadows|W|Level1",
+    "value": "Activating Void Step grants <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">50%</s> Movement Speed and <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> Spell Armor for <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">2</s> seconds. This bonus refreshes each time Xal'atath teleports."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": "Enemies hit by Void Volley are Slowed by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-6%</c> for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds per projectile, up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|E|Level4",
+    "value": "Each time Dark Heart damages an enemy, Xal'atath gains a Shield equal to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c> of her maximum Health, up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|E|Level13",
+    "value": "Casting Dark Heart Silences enemies inside its radius for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> second.<n/><n/>Xal'atath and allied Heroes gain <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c> Spell Armor while inside Dark Heart's radius."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": "<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+1</c> Shadow Mark Charge<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Shadow Mark has a 3 second cooldown between uses.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": "<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+25%</c> Void Volley Projectile Damage<n/><n/>Void Volley projectiles leave a trail of fire along their path for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c> damage over time.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">The trail deals damage every 1 second.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+1s</c> Shadow Mark Duration<n/><n/>Marked enemies have their Movement Speed Slowed by <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">-25%</s>."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "After channeling for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds, summon a Void Portal that spawns up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> Void Minions to attack nearby enemies.<n/><n/>Enemies near the Void Portal are Slowed by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>.<n/><n/>Void Minions are attracted to Shadow Marked Heroes.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">The Portal loses health over 20 seconds.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Channel a single powerful Void Orb that grows over time until reaching maximum size after <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds. Recast to launch the Orb early.<n/><n/>Enemies that come into contact with the Orb take up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage and are Blinded for <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s> second.<n/><n/>When the Orb reaches the end of its path, it detonates in a large explosion, dealing up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Contact damage is dealt every 0.125 seconds.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "Basic Attacks against Marked Heroes grant a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">480</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> point Shield that rapidly decays."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": "Xal'atath's Void Eruption splits into <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> orbiting Void Orbs.  Cancelling the ability early causes the orbs to travel faster."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|W|Level20",
+    "value": "After completing Void Step, Xal'atath immediately performs a second Void Step in the opposite direction. Added effects are triggered again."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|E|Level16",
+    "value": "Linked enemies are Slowed by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c> of their Movement Speed for each pulse, stacking up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> times and decaying over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathPummelingStep|XalatathPummelingStep|W|Level13",
+    "value": "While Void Step is active, Xal'atath's Basic Attack rate is increased by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200%</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "Void Convergence's Portal no longer loses health over time and can spawn and sustain up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> Void Minions."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|W|Level7",
+    "value": "Activating Void Step summons a seal of void magic on the ground. When the seal completes, it deals <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">99</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to enemies inside and Silences them for <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">2</s> seconds."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathToxicMark|XalatathToxicMark|Q|Level1",
+    "value": "<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+1s</c> Shadow Mark Duration<n/><n/>The damage over time against Marked Heroes is increased to deal damage equal to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1%</c> of the target's maximum Health. Marked enemies have <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">-15</s> Armor while Marked. "
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathUnstableCore|XalatathUnstableCore|E|Level20",
+    "value": "When the Dark Heart expires or it detonates on a Marked Hero, it leaves behind a pool of void flames for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> seconds. Enemies in the flames take <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage over time.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">The flames deal damage every 1 second.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|W|Level4",
+    "value": "Completing Void Step fully charges Void Volley.<n/><n/>The next Void Volley deals <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> increased damage and costs no Mana."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidAdept|XalatathVoidAdept|Q|Level7",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Detonate the Dark Heart on Marked enemy Heroes to increase the damage of Shadow Mark by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> each time a target is hit, up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100</c> damage."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|W|Level7",
+    "value": "Activating Void Step summons a single Void Minion in its center. Void Minions are attracted to Shadow Marked Heroes.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Void Minion Basic Attacks deal 95</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\"> damage per hit. Void Minions lose health over 30 seconds.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathAnchoredCore|XalatathAnchoredCore|E|Level1",
+    "value": "Anchored Core"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathCloakOfShadows|XalatathCloakOfShadows|W|Level1",
+    "value": "Cloak Of Shadows"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": "Crushing Cascade"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDarkBarrier|XalatathDarkBarrier|E|Level4",
+    "value": "Dark Barrier"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|E|Level13",
+    "value": "Dark Heart's Protection"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": "Dueling Orbs"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": "Fractured Reality"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "Cold Feet"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "Void Convergence"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Void Eruption"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "Marked Resilience"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": "Harbinger's Consumption"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathParadoxLoop|XalatathParadoxLoop|W|Level20",
+    "value": "Paradox Loop"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|E|Level16",
+    "value": "Pull of the Dark Heart"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathPummelingStep|XalatathPummelingStep|W|Level13",
+    "value": "Relentless Whispers"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "Rift Invasion"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|W|Level7",
+    "value": "Silence of the Lamb"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathToxicMark|XalatathToxicMark|Q|Level1",
+    "value": "Toxic Mark"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathUnstableCore|XalatathUnstableCore|E|Level20",
+    "value": "Unstable Core"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidAcolyte|XalatathVoidAcolyte|W|Level4",
+    "value": "Void Acolyte"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidAdept|XalatathVoidAdept|Q|Level7",
+    "value": "Void Adept"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidSummoner|XalatathVoidSummoner|W|Level7",
+    "value": "Void Summoner"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathAnchoredCore|XalatathAnchoredCore|E|Level1",
+    "value": "Increase duration and radius of the Dark Heart."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathCloakOfShadows|XalatathCloakOfShadows|W|Level1",
+    "value": "Void Step grants Spell Armor and Movement Speed."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": "Void Volley hits Slow enemies."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDarkBarrier|XalatathDarkBarrier|E|Level4",
+    "value": "Gain a Shield whenever the Dark Heart damages an enemy."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|E|Level13",
+    "value": "Xal'atath and Allies receive Spell Armor while near the Dark Heart."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": "Shadow Mark gains an additional charge."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": "Void Volley leaves a trail of fire along its path."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "Marked enemies are slowed, Mark duration is increased."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "Summon a Portal that will spawn Void Minions."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Channel a growing orb that deals damage in its path."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "Basic Attacks on Marked Heroes grant Shields."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": "Grow and launch three Void Orbs."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathParadoxLoop|XalatathParadoxLoop|W|Level20",
+    "value": "After completing Void Step, reverse the pattern."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|E|Level16",
+    "value": "Slow enemies near the Dark Heart."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathPummelingStep|XalatathPummelingStep|W|Level13",
+    "value": "While Void Step is active, increase Void Orb rate of fire."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "Portal no longer has a lifetime and spawns more Void Minions"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|W|Level7",
+    "value": "After completing Void Step, silence Heroes within pattern"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathToxicMark|XalatathToxicMark|Q|Level1",
+    "value": "Increase the duration of the Shadow Mark."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathUnstableCore|XalatathUnstableCore|E|Level20",
+    "value": "Upon Dark Heart destruction, leave behind a pool of Void flames."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidAcolyte|XalatathVoidAcolyte|W|Level4",
+    "value": "Upon completing Void Step, empower Void Volley."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidAdept|XalatathVoidAdept|Q|Level7",
+    "value": "<c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Detonate Dark Heart on Marked Heroes to increase damage."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidSummoner|XalatathVoidSummoner|W|Level7",
+    "value": "When using Void Step, summon a single Void Minion."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "Summon the Dark Heart, which pulses for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage per second to nearby enemies for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> seconds.<n/><n/>The Dark Heart moves to Shadow Mark's impact location.<n/><n/>The Dark Heart will pursue Marked Heroes and detonate on impact, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">120</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to nearby enemies and <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">+60</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to the Marked target."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/XalatathDarkHeartRitual",
+    "value": "Dark Heart Ritual (Unit)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/XalatathVoidMinion",
+    "value": "Void Minion"
+  },
+  {
+    "op": "add",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine01",
+    "value": "Nothing is more important than survival."
+  },
+  {
+    "op": "add",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine02",
+    "value": "The power of the Void is at my command."
+  },
+  {
+    "op": "add",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine03",
+    "value": "This realm will be mine."
+  },
+  {
+    "op": "add",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine04",
+    "value": "The Void's will is eternal."
+  },
+  {
+    "op": "add",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine05",
+    "value": "Darkness will consume all."
+  }
+]

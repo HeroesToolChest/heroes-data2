@@ -1,0 +1,1023 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98126_ptr"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/WhitemaneIntercession|WhitemaneIntercession|Active",
+    "value": "Recupero: 75 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelSeraphim|YrelSeraphim|Active",
+    "value": "Recupero: 30 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E",
+    "value": "Recupero: 15 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Recupero: 3 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "Recupero: 90 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidEruptionCancel|XalatathVoidEruptionCancel|Heroic",
+    "value": "Recupero: 1.5 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Recupero: 75 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidStep|XalatathVoidStep|W",
+    "value": "Recupero: 15 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/WhitemaneDesperatePlea|WhitemaneDesperatePlea|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 45</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 50</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 45</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 75</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 80</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidStep|XalatathVoidStep|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 50</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 75</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|MalGanisVampiricTouch|Trait",
+    "value": "Mal'Ganis rigenera Salute pari al <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> dei danni inflitti agli eroi e al <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> dei danni inflitti alle unità non eroiche."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasArmyOfTheDead|ArthasArmyOfTheDead|Heroic",
+    "value": "Evoca <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> Ghoul con <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1200</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Salute, che si esaurisce nell'arco di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> s. I Ghoul seguono Arthas e attaccano i nemici vicini infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni.<n/><n/>Riattivare l'abilità consente di sacrificare <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> Ghoul e curare Arthas per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">240</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> di Salute. L'effetto ha un tempo di recupero di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/GarroshArmorUpDoubleUp|GarroshArmorUpDoubleUp|Trait",
+    "value": "Attivare Potenziamento Armatura aumenta il bonus alla Resistenza del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/MalGanisNightRush|MalGanisNightRush|E",
+    "value": "Dopo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.62</c> s, aumenta del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> la velocità di movimento per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s. Finché è attivo, Mal'Ganis può spostarsi tra gli eroi nemici, addormentandoli per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/NexusHunterBloodRage|NexusHunterBloodRage|W",
+    "value": "Qhira infligge <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">32</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni e rigenera <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Salute per ogni eroe nemico colpito. Danni e cure aumentano del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> per ogni accumulo aggiuntivo sullo stesso eroe.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Passiva</c>: Gli attacchi e le abilità base fanno sanguinare i nemici, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">28</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni in <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s. Si accumula fino a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> volte.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missione:</c> Infliggi danni agli eroi nemici col sanguinamento di Rabbia Sanguinaria per aumentarne permanentemente i danni del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.2%</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Ricompensa</c>: Dopo aver danneggiato gli eroi nemici con Rabbia Sanguinaria per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">150</c> volte, la durata di Rabbia Sanguinaria aumenta di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/WhitemaneDesperatePlea|WhitemaneDesperatePlea|Q",
+    "value": "Cura un eroe alleato di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Salute e ottiene <c val=\"FF8B8B\" hlt-name=\"#WhitemaneDesperation\">Disperazione</c> per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s.<n/><n/><c val=\"FF8B8B\" hlt-name=\"#WhitemaneDesperation\">Disperazione</c> aumenta il costo in Mana di Supplica Disperata di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> e si accumula fino a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> volte.<n/><n/><c val=\"ffff8a\">Costo in Mana attuale:</c> <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ZagaraSummonHydralisk|ZagaraHunterKiller|W",
+    "value": "Evoca un'Idralisca che attacca un singolo bersaglio, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">71</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.05~~</c> danni al secondo. Esaurisce la Salute in <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> s e ha <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.045~~</c> Salute."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E",
+    "value": "Crea un totem che riduce la velocità di movimento dei nemici vicini del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c>. Il totem ha <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Salute e dura <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> s."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidStepCancel|XalatathVoidStepCancel|W",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|W",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Marchio dell'Ombra"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "Convergenza del Vuoto"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Eruzione del Vuoto"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidStepCancel|XalatathVoidStepCancel|W",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidStep|XalatathVoidStep|W",
+    "value": "Passo del Vuoto"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Raffica del Vuoto"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Lancia un dardo magico che infligge danni."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidStep|XalatathVoidStep|W",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/description/Xalatath",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/difficulty/Xalatath",
+    "value": "Media"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/energyType/Xalatath",
+    "value": "Mana"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/expandedRole/Xalatath",
+    "value": "Assassino (Distanza)"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/infoText/Xalatath",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/lifeType/Xalatath",
+    "value": "Salute"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/name/Xalatath",
+    "value": "Xal'atath"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/roles/Xalatath",
+    "value": [
+      "Assassino"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/searchText/Xalatath",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/title/Xalatath",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/infoText/MountDirewolfThreeTails",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/infoText/MountPhoenix",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountPhoenix",
+    "value": "Fenice"
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountPhoenixVar1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountPhoenixVar2",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountPhoenixVar3",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountPhoenixVar4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountPhoenixVar5",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/CrusaderOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/CrusaderOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/CrusaderOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/RaynorOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/RaynorOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/RaynorOWC20Var5"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVar1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVar2",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVar3",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVar4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVoidflame",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVoidflameVar1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVoidflameVar2",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVoidflameVar3",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVoidflameVar4",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/CrusaderOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/CrusaderOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/CrusaderOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/DemonHunterOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/DemonHunterOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/DemonHunterOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/RaynorOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/RaynorOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/RaynorOWC20Var5"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVar1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVar2",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVar3",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVar4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVoidflame",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVoidflameVar1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVoidflameVar2",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVoidflameVar3",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVoidflameVar4",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/CrusaderOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/CrusaderOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/CrusaderOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/RaynorOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/RaynorOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/RaynorOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/CrusaderOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/CrusaderOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/CrusaderOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/RaynorOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/RaynorOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/RaynorOWC20Var5"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/XalatathVoidflame",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/WhitemaneIntercession|WhitemaneIntercession|Active|Level7",
+    "value": "Recupero: 75 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/YrelSeraphim|YrelSeraphim|Active|Level20",
+    "value": "Recupero: 30 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "Aumenta del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> la Salute delle Locuste e del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> i loro danni."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": "Gli attacchi base di Abathur infliggono il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500%</c> di danni aggiuntivi, stordiscono i nemici non élite e disattivano le strutture per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> s.<n/><n/>È possibile stordire o disattivare lo stesso eroe o la stessa struttura solo una volta ogni <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArthasHeroicAbilityArmyoftheDead|ArthasArmyOfTheDead|Heroic|Level10",
+    "value": "Evoca <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> Ghoul con <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1200</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Salute, che si esaurisce nell'arco di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> s. I Ghoul seguono Arthas e attaccano i nemici vicini infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni.<n/><n/>Riattivare l'abilità consente di sacrificare <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> Ghoul e curare Arthas per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">240</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> di Salute. L'effetto ha un tempo di recupero di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missione:</c> Se Ombrofuoco colpisce un eroe nemico sotto gli effetti di Fiamma Logorante di Cho, il suo tempo di recupero è ridotto di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> s.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Ricompensa:</c> Dopo aver colpito <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> eroi con Ombrofuoco, riduce permanentemente il suo tempo di recupero di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GarroshArmorUpDoubleUp|GarroshArmorUpDoubleUp|Trait|Level13",
+    "value": "Attivare Potenziamento Armatura aumenta il bonus alla Resistenza del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GarroshBloodthirstBloodcraze|GarroshBloodthirstBloodcraze|W|Level13",
+    "value": "Se colpisce un eroe, Sete Sanguinaria rigenera il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> della Salute massima di Garrosh in più in <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GarroshBloodthirstInFortheKill|GarroshBloodthirstInFortheKill|W|Level4",
+    "value": "Aumenta i danni di Sete Sanguinaria del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> contro i nemici non eroici. Uccidere nemici con Sete Sanguinaria ne azzera il tempo di recupero e rimborsa il costo in Mana."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GarroshOppressor|GarroshOppressor|W|Level7",
+    "value": "Gli attacchi base contro gli eroi e Sete Sanguinaria riducono la loro Potenza magica del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GarroshWreckingBallUnrivaledStrength|GarroshWreckingBallUnrivaledStrength|E|Level1",
+    "value": "Estende la portata del lancio di Demolitore del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> e ne aumenta i danni del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiDeflectPerfectDefense|GenjiDeflectPerfectDefense|W|Level7",
+    "value": "I danni parati con Deviazione riducono il tempo di recupero dell'abilità di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s, fino a un massimo di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/NexusHunterFatalWounds|NexusHunterFatalWounds|W|Level1",
+    "value": "Finché gli accumuli sono al massimo, il sanguinamento di Rabbia Sanguinaria infligge il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70%</c> di danni aggiuntivi agli eroi nemici con meno del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> di Salute."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/NexusHunterPulsingPain|NexusHunterPulsingPain|E|Level13",
+    "value": "Ogni eroe nemico aggiuntivo colpito da Sferzata Rotante aumenta di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">150</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> i danni subiti dal bersaglio principale."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/NexusHunterRevolvingSweepLingeringAilment|NexusHunterRevolvingSweepLingeringAilment|E|Level16",
+    "value": "Riduce la Resistenza degli eroi nemici colpiti da Sferzata Rotante o Rampino di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "Aumenta la portata di Nucleo Ardente del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> all'inizio della sua durata. Inoltre, riduce il tempo di recupero di Nucleo Ardente di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">110</c> s quando usato su forti o fortezze distrutti."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WhitemaneDesperatePleaRadiance|WhitemaneDesperatePleaRadiance|Q|Level16",
+    "value": "Al raggiungimento di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> accumuli di <c val=\"FF8B8B\" hlt-name=\"#WhitemaneDesperation\">Disperazione</c>, cura di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">190</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> e applica nuovamente <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">Zelo</c> agli alleati con <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">Zelo</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVelensChosen|YrelVelensChosen|Passive|Level13",
+    "value": "Ogni eroe nemico colpito con un'abilità base al massimo della carica aumenta del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8%</c> la Potenza magica per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> s, fino a un massimo del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">24%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationAldorPeacekeeper|YrelVindicationAldorPeacekeeper|Q|Level13",
+    "value": "Gli eroi nemici colpiti da Rivendicazione al massimo della carica infliggono il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> di danni in meno per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ZagaraMasteryMutalisk|ZagaraHunterKillerMutaliskTalent|W|Level16",
+    "value": "Riduce il tempo di recupero di Ferox di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s. Ferox ora evoca una Mutalisca. La Mutalisca ha un attacco rimbalzante, perde Salute in <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c> s e ha <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">450</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.045~~</c> Salute."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|E|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathCloakOfShadows|XalatathCloakOfShadows|W|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|E|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|E|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|W|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|E|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathPummelingStep|XalatathPummelingStep|W|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|W|Level7",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathToxicMark|XalatathToxicMark|Q|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathUnstableCore|XalatathUnstableCore|E|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|W|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidAdept|XalatathVoidAdept|Q|Level7",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|W|Level7",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathAnchoredCore|XalatathAnchoredCore|E|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathCloakOfShadows|XalatathCloakOfShadows|W|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDarkBarrier|XalatathDarkBarrier|E|Level4",
+    "value": "Barriera Oscura"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|E|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "Piedi Freddi"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "Convergenza del Vuoto"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Eruzione del Vuoto"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathParadoxLoop|XalatathParadoxLoop|W|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|E|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathPummelingStep|XalatathPummelingStep|W|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|W|Level7",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathToxicMark|XalatathToxicMark|Q|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathUnstableCore|XalatathUnstableCore|E|Level20",
+    "value": "Nucleo Instabile"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidAcolyte|XalatathVoidAcolyte|W|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidAdept|XalatathVoidAdept|Q|Level7",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidSummoner|XalatathVoidSummoner|W|Level7",
+    "value": "Evocatore del Vuoto"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathAnchoredCore|XalatathAnchoredCore|E|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathCloakOfShadows|XalatathCloakOfShadows|W|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDarkBarrier|XalatathDarkBarrier|E|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|E|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathParadoxLoop|XalatathParadoxLoop|W|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|E|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathPummelingStep|XalatathPummelingStep|W|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|W|Level7",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathToxicMark|XalatathToxicMark|Q|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathUnstableCore|XalatathUnstableCore|E|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidAcolyte|XalatathVoidAcolyte|W|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidAdept|XalatathVoidAdept|Q|Level7",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidSummoner|XalatathVoidSummoner|W|Level7",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "Crea un totem che riduce la velocità di movimento dei nemici vicini del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c>. Il totem ha <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Salute e dura <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> s."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/XalatathDarkHeartRitual",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/XalatathVoidMinion",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine01",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine02",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine03",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine04",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine05",
+    "value": ""
+  }
+]

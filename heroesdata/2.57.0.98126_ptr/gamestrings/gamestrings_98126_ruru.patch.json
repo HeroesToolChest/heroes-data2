@@ -1,0 +1,1023 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98126_ptr"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/WhitemaneIntercession|WhitemaneIntercession|Active",
+    "value": "Время восстановления: 75 сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelSeraphim|YrelSeraphim|Active",
+    "value": "Время восстановления: 30 сек."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E",
+    "value": "Время восстановления: 15 сек."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Время восстановления: 3 сек."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "Время восстановления: 90 сек."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidEruptionCancel|XalatathVoidEruptionCancel|Heroic",
+    "value": "Время восстановления: 1.5 сек."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Время восстановления: 75 сек."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidStep|XalatathVoidStep|W",
+    "value": "Время восстановления: 15 сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/WhitemaneDesperatePlea|WhitemaneDesperatePlea|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Мана: 45</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Мана: 50</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Мана: 45</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Мана: 75</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Мана: 80</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidStep|XalatathVoidStep|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Мана: 50</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Мана: 75</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|MalGanisVampiricTouch|Trait",
+    "value": "Мал'Ганис восполняет здоровье в объеме <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> урона, наносимого героям, и <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> урона, наносимого другим целям."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasArmyOfTheDead|ArthasArmyOfTheDead|Heroic",
+    "value": "Призывает <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> <lang rule=\"plural\" val=\"\">вурдалака,вурдалаков,вурдалаков</lang> с запасом здоровья <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1200</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед., который постепенно сходит на нет в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0сек. Вурдалаки следуют за Артасом и атакуют врагов поблизости, нанося <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона.<n/><n/>При повторном использовании Артас принесет <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c><lang rule=\"plural\" val=\"\">вурдалака,вурдалаков,вурдалаков</lang> в жертву и восполнит <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">240</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. здоровья. Интервал между применениями\u00A0— <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/GarroshArmorUpDoubleUp|GarroshArmorUpDoubleUp|Trait",
+    "value": "«Поднять щит!» можно использовать, чтобы увеличить текущий бонус к броне на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/MalGanisNightRush|MalGanisNightRush|E",
+    "value": "После паузы в <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.62</c> сек. повышает скорость передвижения на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> сек. При этом Мал'Ганис может проходить сквозь героев противника, погружая их в сон на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c> сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/NexusHunterBloodRage|NexusHunterBloodRage|W",
+    "value": "Кахира наносит <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">32</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона и восполняет <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. здоровья за каждого пораженного героя. Урон и восполняемое здоровье увеличиваются на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> за каждый дополнительный эффект, наложенный на героя противника.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Пассивный эффект:</c> автоатаки и урон от способностей вызывают у противников кровотечение, наносящее <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">28</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>\u00A0сек. Эффект суммируется до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0раз.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> наносите героям урон от кровотечения «Кровавой яростью», чтобы до конца матча увеличить ее урон на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.2%</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Награда:</c> после того, как «Кровавая ярость» нанесет героям урон от кровотечения <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">150</c>\u00A0раз, ее время действия увеличится на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/WhitemaneDesperatePlea|WhitemaneDesperatePlea|Q",
+    "value": "Восполняет союзному герою <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед. здоровья и дает Вайтмейн эффект <c val=\"FF8B8B\" hlt-name=\"#WhitemaneDesperation\">«Отчаяния»</c> на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> сек.<n/><n/><c val=\"FF8B8B\" hlt-name=\"#WhitemaneDesperation\">«Отчаяние»</c> повышает стоимость «Отчаянной мольбы» на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> ед. маны и суммируется до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> раз.<n/><n/><c val=\"ffff8a\">Текущая стоимость:</c> <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45 ед.</c>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ZagaraSummonHydralisk|ZagaraHunterKiller|W",
+    "value": "Призывает гидралиска, который атакует цель и наносит ей <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">71</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.05~~</c>\u00A0ед. урона в секунду. Гидралиск теряет здоровье в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c>\u00A0сек. Запас здоровья\u00A0— <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.045~~</c>\u00A0ед."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E",
+    "value": "Создает тотем прочностью <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед., который существует в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> сек. и замедляет находящихся рядом противников на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidStepCancel|XalatathVoidStepCancel|W",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|W",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Знак Тьмы"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "Слияние Бездны"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Извержение Бездны"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidStepCancel|XalatathVoidStepCancel|W",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidStep|XalatathVoidStep|W",
+    "value": "Шаг через Бездну"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Залп Бездны"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Выпускает магический снаряд, наносящий урон."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidStep|XalatathVoidStep|W",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/description/Xalatath",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/difficulty/Xalatath",
+    "value": "средняя"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/energyType/Xalatath",
+    "value": "Мана"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/expandedRole/Xalatath",
+    "value": "Убийца дальнего боя"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/infoText/Xalatath",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/lifeType/Xalatath",
+    "value": "Здоровье"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/name/Xalatath",
+    "value": "Ксал'атат"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/roles/Xalatath",
+    "value": [
+      "Убийца"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/searchText/Xalatath",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/title/Xalatath",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/infoText/MountDirewolfThreeTails",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/infoText/MountPhoenix",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountPhoenix",
+    "value": "Феникс"
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountPhoenixVar1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountPhoenixVar2",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountPhoenixVar3",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountPhoenixVar4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountPhoenixVar5",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/CrusaderOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/CrusaderOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/CrusaderOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/RaynorOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/RaynorOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/RaynorOWC20Var5"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVar1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVar2",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVar3",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVar4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVoidflame",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVoidflameVar1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVoidflameVar2",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVoidflameVar3",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVoidflameVar4",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/CrusaderOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/CrusaderOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/CrusaderOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/DemonHunterOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/DemonHunterOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/DemonHunterOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/RaynorOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/RaynorOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/RaynorOWC20Var5"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVar1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVar2",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVar3",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVar4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVoidflame",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVoidflameVar1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVoidflameVar2",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVoidflameVar3",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVoidflameVar4",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/CrusaderOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/CrusaderOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/CrusaderOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/RaynorOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/RaynorOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/RaynorOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/CrusaderOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/CrusaderOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/CrusaderOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/RaynorOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/RaynorOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/RaynorOWC20Var5"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/XalatathVoidflame",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/WhitemaneIntercession|WhitemaneIntercession|Active|Level7",
+    "value": "Время восстановления: 75 сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/YrelSeraphim|YrelSeraphim|Active|Level20",
+    "value": "Время восстановления: 30 сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "Увеличивает запас здоровья саранчидов на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>, а их урон – на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": "Автоатаки Абатура наносят на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500%</c> больше урона, оглушают неэлитных врагов и обезвреживают постройки на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c>\u00A0сек.<n/><n/>Одну и ту же цель можно оглушить или обезвредить не чаще раза в <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArthasHeroicAbilityArmyoftheDead|ArthasArmyOfTheDead|Heroic|Level10",
+    "value": "Призывает <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> <lang rule=\"plural\" val=\"\">вурдалака,вурдалаков,вурдалаков</lang> с запасом здоровья <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1200</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед., который постепенно сходит на нет в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0сек. Вурдалаки следуют за Артасом и атакуют врагов поблизости, нанося <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона.<n/><n/>При повторном использовании Артас принесет <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c><lang rule=\"plural\" val=\"\">вурдалака,вурдалаков,вурдалаков</lang> в жертву и восполнит <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">240</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. здоровья. Интервал между применениями\u00A0— <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> при попадании «Пламени Тьмы» по подожженным «Всепоглощающим жаром» Чо героям время восстановления «Пламени Тьмы» сокращается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> сек.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Награда:</c> после <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> попаданий по героям время восстановления «Пламени Тьмы» вместо этого уменьшится на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> сек. до конца матча."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GarroshArmorUpDoubleUp|GarroshArmorUpDoubleUp|Trait|Level13",
+    "value": "«Поднять щит!» можно использовать, чтобы увеличить текущий бонус к броне на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GarroshBloodthirstBloodcraze|GarroshBloodthirstBloodcraze|W|Level13",
+    "value": "Восполняет еще <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> максимального запаса здоровья в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> сек. при попадании «Кровожадностью» по герою."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GarroshBloodthirstInFortheKill|GarroshBloodthirstInFortheKill|W|Level4",
+    "value": "Увеличивает урон от «Кровожадности» по всем, кроме героев, на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c>. При убийстве «Кровожадностью» Гаррош мгновенно восстанавливает эту способность и восполняет затраченную на нее ману."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GarroshOppressor|GarroshOppressor|W|Level7",
+    "value": "«Кровожадность» и автоатаки по героям уменьшают силу их способностей на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c> сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GarroshWreckingBallUnrivaledStrength|GarroshWreckingBallUnrivaledStrength|E|Level1",
+    "value": "Увеличивает дальность броска «Живого снаряда» на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>, а наносимый им урон\u00A0— на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiDeflectPerfectDefense|GenjiDeflectPerfectDefense|W|Level7",
+    "value": "При отражении урона сокращает время восстановления «Отражения атак» на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> сек., вплоть до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12</c> сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/NexusHunterFatalWounds|NexusHunterFatalWounds|W|Level1",
+    "value": "При максимуме эффектов «Кровавой ярости» урон от кровотечения по героям, у которых осталось менее <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> здоровья, увеличивается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/NexusHunterPulsingPain|NexusHunterPulsingPain|E|Level13",
+    "value": "«Убийственное вращение» наносит основной цели на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">150</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед. больше урона за каждого дополнительного пораженного героя."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/NexusHunterRevolvingSweepLingeringAilment|NexusHunterRevolvingSweepLingeringAilment|E|Level16",
+    "value": "«Убийственное вращение» и «Цепной крюк» ослабляют броню пораженных героев на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> ед. на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "При активации «Огненных Недр» дальность увеличивается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c>. Кроме того, время восстановления «Огненных Недр» сокращается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">110</c>\u00A0сек., если способность применяется на уничтоженный форт или крепость."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WhitemaneDesperatePleaRadiance|WhitemaneDesperatePleaRadiance|Q|Level16",
+    "value": "Накопив <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> <lang rule=\"plural\">эффект,эффекта,эффектов</lang> <c val=\"FF8B8B\" hlt-name=\"#WhitemaneDesperation\">«Отчаяния»</c>, Вайтмейн восполняет <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">190</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед. здоровья и повторно накладывает эффект <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">«Рвения»</c> на союзников, на которых он уже действует."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVelensChosen|YrelVelensChosen|Passive|Level13",
+    "value": "Когда базовая способность поражает героя после максимальной подготовки, Ирель получает бонус к силе способностей в <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8%</c> на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> сек., вплоть до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">24%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationAldorPeacekeeper|YrelVindicationAldorPeacekeeper|Q|Level13",
+    "value": "Герои, пораженные «Оправданием» после максимальной подготовки, в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>\u00A0сек. наносят на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> меньше урона."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ZagaraMasteryMutalisk|ZagaraHunterKillerMutaliskTalent|W|Level16",
+    "value": "Уменьшает время восстановления «Охотника-убийцы» на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>\u00A0сек. Вместо гидралиска призывает муталиска, атаки которого рикошетят. Муталиск постепенно теряет здоровье в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c>\u00A0сек. Запас здоровья\u00A0— <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">450</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.045~~</c>\u00A0ед."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|E|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathCloakOfShadows|XalatathCloakOfShadows|W|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|E|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|E|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|W|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|E|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathPummelingStep|XalatathPummelingStep|W|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|W|Level7",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathToxicMark|XalatathToxicMark|Q|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathUnstableCore|XalatathUnstableCore|E|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|W|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidAdept|XalatathVoidAdept|Q|Level7",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|W|Level7",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathAnchoredCore|XalatathAnchoredCore|E|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathCloakOfShadows|XalatathCloakOfShadows|W|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDarkBarrier|XalatathDarkBarrier|E|Level4",
+    "value": "Темный барьер"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|E|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "Холодные ноги"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "Слияние Бездны"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Извержение Бездны"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathParadoxLoop|XalatathParadoxLoop|W|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|E|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathPummelingStep|XalatathPummelingStep|W|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|W|Level7",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathToxicMark|XalatathToxicMark|Q|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathUnstableCore|XalatathUnstableCore|E|Level20",
+    "value": "Нестабильный сердечник"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidAcolyte|XalatathVoidAcolyte|W|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidAdept|XalatathVoidAdept|Q|Level7",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidSummoner|XalatathVoidSummoner|W|Level7",
+    "value": "Призыватель Бездны"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathAnchoredCore|XalatathAnchoredCore|E|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathCloakOfShadows|XalatathCloakOfShadows|W|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDarkBarrier|XalatathDarkBarrier|E|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|E|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathParadoxLoop|XalatathParadoxLoop|W|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|E|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathPummelingStep|XalatathPummelingStep|W|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|W|Level7",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathToxicMark|XalatathToxicMark|Q|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathUnstableCore|XalatathUnstableCore|E|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidAcolyte|XalatathVoidAcolyte|W|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidAdept|XalatathVoidAdept|Q|Level7",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidSummoner|XalatathVoidSummoner|W|Level7",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "Создает тотем прочностью <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> ед., который существует в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> сек. и замедляет находящихся рядом противников на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/XalatathDarkHeartRitual",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/XalatathVoidMinion",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine01",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine02",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine03",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine04",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine05",
+    "value": ""
+  }
+]

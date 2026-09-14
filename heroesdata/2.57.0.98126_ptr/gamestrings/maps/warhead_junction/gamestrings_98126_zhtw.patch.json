@@ -1,0 +1,287 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Warhead Junction"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+    "value": "冷卻時間：14秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+    "value": "冷卻時間：14秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|Q",
+    "value": "冷卻時間：20秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|W",
+    "value": "冷卻時間：20秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "冷卻時間：15秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "冷卻時間：15秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+    "value": "拋出一團酸液，持續對範圍內的敵人造成傷害。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+    "value": "在頭目附近生成酸液蟲攻擊射程內的敵人。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|Q",
+    "value": "在目標位置部署一座自動砲台。自動砲台是定點攻擊砲台，會攻擊任何進入射程的敵人。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|W",
+    "value": "在目標位置部署一座自動砲台。自動砲台是定點攻擊砲台，會攻擊任何進入射程的敵人。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "對目標單位發射一枚緩慢飛行的飛彈。飛彈會追蹤目標7秒。若飛至目標距離3格內，會加速飛向目標並且爆炸，對目標和附近敵人造成0點傷害。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "對目標單位發射一枚緩慢飛行的飛彈。飛彈會追蹤目標7秒。若飛至目標距離3格內，會加速飛向目標並且爆炸，對目標和附近敵人造成0點傷害。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+    "value": "拋射酸液"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+    "value": "生成酸液蟲"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/StopRedirect|Stop|W",
+    "value": "停止"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "導引飛彈"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "導引飛彈"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+    "value": "對目標地點拋射酸液"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+    "value": "生成酸液蟲攻擊射程內的敵人"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "飛行速度緩慢的追蹤飛彈。擊中時會爆炸，造成範圍傷害。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "飛行速度緩慢的追蹤飛彈。擊中時會爆炸，造成範圍傷害。"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostNukeDamageDone",
+    "value": "貢獻全隊~AwardValue~%核彈傷害量"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostNukeDamageDone",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">爆破大師</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostNukeDamageDone",
+    "value": "造成~TooltipAmount~點核彈傷害"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MapMechanicNuke",
+    "value": "引導 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> 秒後發射一枚核彈，造成 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1750</c> 點傷害（對英雄造成 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> 最大生命值的傷害）。點燃建築物，在 10 秒內造成額外傷害。攻擊燃燒的建築物可延長此效果。"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/TerranRavenSeekerMissile",
+    "value": "對目標單位發射一枚緩慢飛行的飛彈。飛彈會追蹤目標7秒。若飛至目標距離3格內，會加速飛向目標並且爆炸，對目標和附近敵人造成0點傷害。"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArcadeMachine",
+    "value": "遊戲機"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MapMechanicNuke",
+    "value": "核彈"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MapMechanicNukeSilo",
+    "value": "核彈發射井"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/NukeTargetMinimapIconUnit",
+    "value": "核彈轟擊地點 - 小地圖圖示 - 單位"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PapaCosplay",
+    "value": "Papa Cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossDefender",
+    "value": "酸液蟲王"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossLaner",
+    "value": "酸液蟲王"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossPodlingDefender",
+    "value": "酸液蟲"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossPodlingLaner",
+    "value": "酸液蟲"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossSlimeSpitMissile",
+    "value": "酸液頭目 - 拋射酸液 - 飛彈"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossSpawnPodsMissile",
+    "value": "酸液頭目 - 生成酸液蟲 - 飛彈"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SwampMonsterEasterEggUnit",
+    "value": "沼澤獸 - 彩蛋 - 單位"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranBunker",
+    "value": "碉堡"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranBunkerUpgraded",
+    "value": "碉堡（已升級）"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranGoliath",
+    "value": "巨人"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranGoliathDefender",
+    "value": "巨人"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranHellbat",
+    "value": "戰狼"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranHellbatDefender",
+    "value": "戰狼"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranMarine",
+    "value": "陸戰隊"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranRaven",
+    "value": "渡鴉"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranRavenDefender",
+    "value": "渡鴉"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranRavenSeekerMissile",
+    "value": "渡鴉"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerrazineGasVein",
+    "value": "態化氫瓦斯脈絡"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerrazineRageAoEMissile",
+    "value": "態化氫狂暴範圍效果 - 飛彈"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadDouble",
+    "value": "核彈"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadDropped",
+    "value": "核彈掉落"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadDroppedMissile",
+    "value": "核彈掉落 - 飛彈"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadSingle",
+    "value": "核彈"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadTriple",
+    "value": "核彈"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WaygateEntrance",
+    "value": "下水道"
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Infernal Shrines"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/MercPunisherLanerFixate|MercPunisherLanerFixate|W",
+    "value": "Czas odnowienia: 10 sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/MercPunisherLanerLeap|MercPunisherLanerLeap|Q",
+    "value": "Czas odnowienia: 15 sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/:PASSIVE:|ShrineAuraMinionAura|Q",
+    "value": "Wzmacniasz pobliskich bohaterów, stronników i najemników, zwiększając ich obrażenia od ataku, obrażenia od zdolności i efektywność leczenia o <s val=\"8783e6\" hlt-name=\"StandardTooltip\">20%.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/CursedShrineSpawn|CursedShrineSpawn|Q",
+    "value": "Przywołuje w wybranym miejscu Przeklętego Stronnika."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/MercPunisherLanerFixate|MercPunisherLanerFixate|W",
+    "value": "Skupia ataki na celu, powoduje rozwścieczenie i zwiększa szybkość ruchu o 100% , a szybkość ataku o 0%  na 4 sek. W tym czasie Pogromca nie może przyjmować żadnych rozkazów.<n/><n/>Po zakończeniu działania efektu ogłusza Pogromcę na 1 sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/MercPunisherLanerLeap|MercPunisherLanerLeap|Q",
+    "value": "Pogromca skacze w wybrane miejsce, zadając 1 pkt. obrażeń i ogłuszając cele w polu rażenia na 1 sek.<n/><n/><'( ^o ^ c)</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/MercSummonerDefenderSummonMinions|MercSummonerDefenderSummonMinions|W",
+    "value": "Przywołujesz stronników, którzy będą dla ciebie walczyć!"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/:PASSIVE:|ShrineAuraMinionAura|Q",
+    "value": "Aura stronnika z kapliczki"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/CursedShrineSpawn|CursedShrineSpawn|Q",
+    "value": "Stwórz przeklętego stronnika"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercPunisherLanerFixate|MercPunisherLanerFixate|W",
+    "value": "Wyznacz cel"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercPunisherLanerLeap|MercPunisherLanerLeap|Q",
+    "value": "Kara"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/MercPunisherLanerLeap|MercPunisherLanerLeap|Q",
+    "value": "Ogłuszasz wrogów na danym obszarze"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostDamageToMinions",
+    "value": "~AwardValue~% obrażeń zadanych strażnikom kapliczek"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostDamageToMinions",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Zabójca Strażników,Zabójczyni Strażników</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostDamageToMinions",
+    "value": "Obrażenia zadane strażnikom kapliczek: ~TooltipAmount~ pkt."
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostDamageToMinions",
+    "value": "Najwięcej obrażeń zadanych stronnikom"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/ParalyzeStructure",
+    "value": "Unieszkodliwiasz wybraną budowlę, zadając jej obrażenia równe 1% maksymalnej wytrzymałości oraz odbierasz jej 1 pkt. energii na sekundę przez 10 sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/CursedShrineMinion",
+    "value": "Szkielet"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DiabloArcaneUnit",
+    "value": "Tajemny"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DiabloShrine",
+    "value": "Kapliczka"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DiabloShrineWarningUnit",
+    "value": "Diablo, Kapliczka, Ostrzeżenie, Jednostka"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercPunisherLaner",
+    "value": "Pogromca"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperDefender",
+    "value": "Palownik"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperLaner",
+    "value": "Palownik"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerDefender",
+    "value": "Szaman Upadłych"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerDefenderMinion",
+    "value": "Ogar Upadłych"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerLaner",
+    "value": "Szaman Upadłych"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerLanerMinion",
+    "value": "Ogar Upadłych"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WeaponRackSpecialHeaven",
+    "value": "Stojak na broń, Specjalny (Niebo)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WeaponRackSpecialHell",
+    "value": "Stojak na broń, Specjalny (Piekło)"
+  }
+]

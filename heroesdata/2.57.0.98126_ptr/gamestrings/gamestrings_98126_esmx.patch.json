@@ -1,0 +1,1023 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98126_ptr"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/WhitemaneIntercession|WhitemaneIntercession|Active",
+    "value": "Tiempo de reutilización: 75 segundos"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/YrelSeraphim|YrelSeraphim|Active",
+    "value": "Tiempo de reutilización: 30 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E",
+    "value": "Tiempo de reutilización: 15 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Tiempo de reutilización: 3 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "Tiempo de reutilización: 90 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidEruptionCancel|XalatathVoidEruptionCancel|Heroic",
+    "value": "Tiempo de reutilización: 1.5 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Tiempo de reutilización: 75 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidStep|XalatathVoidStep|W",
+    "value": "Tiempo de reutilización: 15 segundos"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/WhitemaneDesperatePlea|WhitemaneDesperatePlea|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 45</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 50</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 45</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 75</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 80</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidStep|XalatathVoidStep|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 50</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 75</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|MalGanisVampiricTouch|Trait",
+    "value": "Mal'Ganis se sana por un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> del daño infligido a héroes enemigos y por un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> del daño infligido a enemigos que no son héroes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasArmyOfTheDead|ArthasArmyOfTheDead|Heroic",
+    "value": "Invoca <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> Necrófagos con <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1200</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de salud que se consume durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> segundos. Los Necrófagos siguen a Arthas, atacan a los enemigos cercanos e infligen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño.<n/><n/>Reactiva para sacrificar <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> Necrófago y recuperar <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">240</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de salud a Arthas. Este efecto tiene un tiempo de reutilización de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> segundos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/GarroshArmorUpDoubleUp|GarroshArmorUpDoubleUp|Trait",
+    "value": "Activa Más armadura para aumentar la bonificación de Armadura un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> segundos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/MalGanisNightRush|MalGanisNightRush|E",
+    "value": "Después de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.62</c> segundos, obtienes un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> de velocidad de movimiento durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> segundos. Mientras está activa, Mal'Ganis puede moverse a través de los héroes enemigos para adormecerlos durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c> segundos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/NexusHunterBloodRage|NexusHunterBloodRage|W",
+    "value": "Qhira inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">32</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño y sana <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de salud por cada héroe enemigo afectado. El daño y la sanación aumentan un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> por cada acumulación adicional en ese héroe.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Pasivo:</c> El ataque básico y el daño de habilidad provocan que los enemigos sangren <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">28</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> segundos. Se acumula hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> veces.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Daña a héroes enemigos con el daño de sangrado de Ira sangrienta para aumentar de forma permanente su daño un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.2%</c>. <n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Tras dañar a héroes con el daño de sangrado de Ira sangrienta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">150</c> veces, la duración de Ira sangrienta aumenta en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> segundos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/WhitemaneDesperatePlea|WhitemaneDesperatePlea|Q",
+    "value": "Le restituye a un héroe aliado <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">140</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de salud y obtiene <c val=\"FF8B8B\" hlt-name=\"#WhitemaneDesperation\">Desesperación</c> durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> segundos.<n/><n/><c val=\"FF8B8B\" hlt-name=\"#WhitemaneDesperation\">Desesperación</c> aumenta el costo de maná de Súplica desesperada en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> y se acumula hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> veces.<n/><n/><c val=\"ffff8a\">Costo de maná actual:</c> <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ZagaraSummonHydralisk|ZagaraHunterKiller|W",
+    "value": "Invoca un Hidralisco para atacar a un solo objetivo e inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">71</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.05~~</c> de daño por segundo. El Hidralisco pierde salud durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> segundos y tiene <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.045~~</c> de salud."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E",
+    "value": "Crea un tótem que ralentiza un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c> a los enemigos cercanos. El tótem tiene <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de salud y dura <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> segundos."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidStepCancel|XalatathVoidStepCancel|W",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|W",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Marca de las Sombras"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "Convergencia de Vacío"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Erupción del Vacío"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidStepCancel|XalatathVoidStepCancel|W",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidStep|XalatathVoidStep|W",
+    "value": "Salto del Vacío"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Salva del Vacío"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Dispara una centella que inflige daño"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidStep|XalatathVoidStep|W",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/description/Xalatath",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/difficulty/Xalatath",
+    "value": "Intermedia"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/energyType/Xalatath",
+    "value": "Maná"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/expandedRole/Xalatath",
+    "value": "Asesino de largo alcance"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/infoText/Xalatath",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/lifeType/Xalatath",
+    "value": "Salud"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/name/Xalatath",
+    "value": "Xal'atath"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/roles/Xalatath",
+    "value": [
+      "Asesino"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/searchText/Xalatath",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/title/Xalatath",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/infoText/MountDirewolfThreeTails",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/infoText/MountPhoenix",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountPhoenix",
+    "value": "Fénix"
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountPhoenixVar1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountPhoenixVar2",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountPhoenixVar3",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountPhoenixVar4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/name/MountPhoenixVar5",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/CrusaderOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/CrusaderOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/CrusaderOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/RaynorOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/RaynorOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/infoText/RaynorOWC20Var5"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVar1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVar2",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVar3",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVar4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVoidflame",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVoidflameVar1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVoidflameVar2",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVoidflameVar3",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/XalatathVoidflameVar4",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/CrusaderOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/CrusaderOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/CrusaderOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/DemonHunterOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/DemonHunterOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/DemonHunterOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/RaynorOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/RaynorOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/name/RaynorOWC20Var5"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVar1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVar2",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVar3",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVar4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVoidflame",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVoidflameVar1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVoidflameVar2",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVoidflameVar3",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/XalatathVoidflameVar4",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/CrusaderOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/CrusaderOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/CrusaderOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/RaynorOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/RaynorOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/searchText/RaynorOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/CrusaderOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/CrusaderOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/CrusaderOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/RaynorOWC20Var3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/RaynorOWC20Var4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/skin/sortName/RaynorOWC20Var5"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/XalatathVoidflame",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/WhitemaneIntercession|WhitemaneIntercession|Active|Level7",
+    "value": "Tiempo de reutilización: 75 segundos"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/YrelSeraphim|YrelSeraphim|Active|Level20",
+    "value": "Tiempo de reutilización: 30 segundos"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "Aumenta un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> la salud de las langostas y un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> su daño."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": "Los ataques básicos de Abathur infligen un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500%</c> más de daño, aturden a los enemigos que no sean de élite y deshabilitan las estructuras durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c> segundos.<n/><n/>El mismo héroe o estructura se puede aturdir o deshabilitar solo una vez cada <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> segundos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArthasHeroicAbilityArmyoftheDead|ArthasArmyOfTheDead|Heroic|Level10",
+    "value": "Invoca <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> Necrófagos con <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1200</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de salud que se consume durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> segundos. Los Necrófagos siguen a Arthas, atacan a los enemigos cercanos e infligen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño.<n/><n/>Reactiva para sacrificar <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> Necrófago y recuperar <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">240</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de salud a Arthas. Este efecto tiene un tiempo de reutilización de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> segundos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Si Llama de las sombras golpea a un héroe enemigo que está bajo los efectos de Llamarada corruptora de Cho, su tiempo de reutilización se reduce <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> segundos.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Después de golpear a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> héroes, el tiempo de reutilización de Llama de las sombras se reduce <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> segundos de forma permanente."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GarroshArmorUpDoubleUp|GarroshArmorUpDoubleUp|Trait|Level13",
+    "value": "Activa Más armadura para aumentar la bonificación de Armadura un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> segundos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GarroshBloodthirstBloodcraze|GarroshBloodthirstBloodcraze|W|Level13",
+    "value": "Al golpear a un héroe, Sed de sangre restituye un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> más de la salud máxima de Garrosh durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> segundos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GarroshBloodthirstInFortheKill|GarroshBloodthirstInFortheKill|W|Level4",
+    "value": "Aumenta el daño infligido de Sed de sangre a enemigos no heroicos un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c>. Matar enemigos con Sed de sangre restablece el tiempo de reutilización y restituye el costo de maná."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GarroshOppressor|GarroshOppressor|W|Level7",
+    "value": "Los ataques básicos y Sed de sangre contra héroes reducen un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> el poder de habilidad especial del objetivo durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c> segundos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GarroshWreckingBallUnrivaledStrength|GarroshWreckingBallUnrivaledStrength|E|Level1",
+    "value": "Aumenta el alcance de lanzamiento de Bola de demolición un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> y su daño un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiDeflectPerfectDefense|GenjiDeflectPerfectDefense|W|Level7",
+    "value": "El daño desviado reduce <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> segundos el tiempo de reutilización de Desviar, hasta un máximo de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12</c> segundos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/NexusHunterFatalWounds|NexusHunterFatalWounds|W|Level1",
+    "value": "Al máximo de acumulaciones, el sangrado de Ira sangrienta inflige un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70%</c> más de daño a los héroes enemigos con menos del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> de salud."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/NexusHunterPulsingPain|NexusHunterPulsingPain|E|Level13",
+    "value": "Cada golpe adicional de Barrido circular contra un héroe enemigo hace que al objetivo principal se le inflija <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">150</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> más de daño."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/NexusHunterRevolvingSweepLingeringAilment|NexusHunterRevolvingSweepLingeringAilment|E|Level16",
+    "value": "A los héroes enemigos golpeados por Barrido circular o por Arpeo se les reduce la Armadura en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> segundos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "El alcance de Núcleo de magma aumenta un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> al comienzo de su duración. Además, el tiempo de reutilización de Núcleo de magma se reduce en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">110</c> segundos al usarse sobre un fuerte o una fortaleza destruidos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/WhitemaneDesperatePleaRadiance|WhitemaneDesperatePleaRadiance|Q|Level16",
+    "value": "Alcanzar <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> acumulaciones de <c val=\"FF8B8B\" hlt-name=\"#WhitemaneDesperation\">Desesperación</c> sana por <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">190</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> y vuelve a aplicar <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">Fervor</c> a los aliados con <c val=\"FFF5C2\" hlt-name=\"#WhitemaneZeal\">Fervor</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVelensChosen|YrelVelensChosen|Passive|Level13",
+    "value": "Golpear a un héroe enemigo con una habilidad básica al máximo de carga otorga un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8%</c> de poder de habilidad especial durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> segundos, hasta un máximo del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">24%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationAldorPeacekeeper|YrelVindicationAldorPeacekeeper|Q|Level13",
+    "value": "Los héroes enemigos golpeados por Vindicación al máximo de carga infligen un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> menos de daño durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> segundos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ZagaraMasteryMutalisk|ZagaraHunterKillerMutaliskTalent|W|Level16",
+    "value": "Reduce <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> segundos el tiempo de reutilización de Asesino cazador. Ahora Asesino cazador engendra un Mutalisco. Los Mutaliscos tienen un ataque de rebote, pierden salud durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">42</c> segundos y tienen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">450</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.045~~</c> de salud."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|E|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathCloakOfShadows|XalatathCloakOfShadows|W|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|E|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|E|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|W|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|E|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathPummelingStep|XalatathPummelingStep|W|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|W|Level7",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathToxicMark|XalatathToxicMark|Q|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathUnstableCore|XalatathUnstableCore|E|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|W|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidAdept|XalatathVoidAdept|Q|Level7",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|W|Level7",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathAnchoredCore|XalatathAnchoredCore|E|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathCloakOfShadows|XalatathCloakOfShadows|W|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDarkBarrier|XalatathDarkBarrier|E|Level4",
+    "value": "Barrera oscura"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|E|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "Pies fríos"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "Convergencia de Vacío"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Erupción del Vacío"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathParadoxLoop|XalatathParadoxLoop|W|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|E|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathPummelingStep|XalatathPummelingStep|W|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|W|Level7",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathToxicMark|XalatathToxicMark|Q|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathUnstableCore|XalatathUnstableCore|E|Level20",
+    "value": "Núcleo inestable"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidAcolyte|XalatathVoidAcolyte|W|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidAdept|XalatathVoidAdept|Q|Level7",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidSummoner|XalatathVoidSummoner|W|Level7",
+    "value": "Invocador del vacío"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathAnchoredCore|XalatathAnchoredCore|E|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathCloakOfShadows|XalatathCloakOfShadows|W|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDarkBarrier|XalatathDarkBarrier|E|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|E|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathParadoxLoop|XalatathParadoxLoop|W|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|E|Level16",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathPummelingStep|XalatathPummelingStep|W|Level13",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|W|Level7",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathToxicMark|XalatathToxicMark|Q|Level1",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathUnstableCore|XalatathUnstableCore|E|Level20",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidAcolyte|XalatathVoidAcolyte|W|Level4",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidAdept|XalatathVoidAdept|Q|Level7",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidSummoner|XalatathVoidSummoner|W|Level7",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "Crea un tótem que ralentiza un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c> a los enemigos cercanos. El tótem tiene <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de salud y dura <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> segundos."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/XalatathDarkHeartRitual",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/XalatathVoidMinion",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine01",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine02",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine03",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine04",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine05",
+    "value": ""
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98126_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/totalItems",
+    "value": 676
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDollarBillVar1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountDollarBillVar2"
+  },
+  {
+    "op": "remove",
+    "path": "/items/MountPlushSheepToys21/variationMountIds/3"
+  },
+  {
+    "op": "add",
+    "path": "/items/MountPhoenix",
+    "value": {
+      "hyperlinkId": "MountPhoenix",
+      "attributeId": "PHX0",
+      "franchise": "Warcraft",
+      "rarity": "Legendary",
+      "releaseDate": "2025-06-02",
+      "category": "Beast",
+      "type": "Ride",
+      "variationMountIds": [
+        "MountPhoenixVar1",
+        "MountPhoenixVar2",
+        "MountPhoenixVar3",
+        "MountPhoenixVar4",
+        "MountPhoenixVar5"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MountPhoenixVar1",
+    "value": {
+      "hyperlinkId": "MountPhoenixVar1",
+      "attributeId": "PHX1",
+      "franchise": "Warcraft",
+      "rarity": "Legendary",
+      "releaseDate": "2025-06-02",
+      "category": "Beast",
+      "type": "Ride"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MountPhoenixVar2",
+    "value": {
+      "hyperlinkId": "MountPhoenixVar2",
+      "attributeId": "PHX2",
+      "franchise": "Warcraft",
+      "rarity": "Legendary",
+      "releaseDate": "2025-06-02",
+      "category": "Beast",
+      "type": "Ride"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MountPhoenixVar3",
+    "value": {
+      "hyperlinkId": "MountPhoenixVar3",
+      "attributeId": "PHX3",
+      "franchise": "Warcraft",
+      "rarity": "Legendary",
+      "releaseDate": "2025-06-02",
+      "category": "Beast",
+      "type": "Ride"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MountPhoenixVar4",
+    "value": {
+      "hyperlinkId": "MountPhoenixVar4",
+      "attributeId": "PHX4",
+      "franchise": "Warcraft",
+      "rarity": "Legendary",
+      "releaseDate": "2025-06-02",
+      "category": "Beast",
+      "type": "Ride"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MountPhoenixVar5",
+    "value": {
+      "hyperlinkId": "MountPhoenixVar5",
+      "attributeId": "PHX5",
+      "franchise": "Warcraft",
+      "rarity": "Legendary",
+      "releaseDate": "2025-06-02",
+      "category": "Beast",
+      "type": "Ride"
+    }
+  }
+]
