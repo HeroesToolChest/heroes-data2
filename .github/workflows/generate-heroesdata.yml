@@ -287,13 +287,13 @@ jobs:
 
       - name: Archive version (zip)
         run: |
-          7z a -tzip "heroes-images-${{ env.LATEST_VERSION }}.zip" \
-            "${{ github.workspace }}/${{ env.HI_STAGING_PATH }}"
+          cd "${{ github.workspace }}/${{ env.HI_STAGING_PATH }}"
+          7z a -tzip "${{ github.workspace }}/heroes-images-${{ env.LATEST_VERSION }}.zip" .
 
       - name: Archive version (tar.gz)
         run: |
-          tar -czf "heroes-images-${{ env.LATEST_VERSION }}.tar.gz" \
-            "${{ github.workspace }}/${{ env.HI_STAGING_PATH }}"
+          tar -czf "${{ github.workspace }}/heroes-images-${{ env.LATEST_VERSION }}.tar.gz" \
+            -C "${{ github.workspace }}/${{ env.HI_STAGING_PATH }}" .
 
       - name: Upload version artifact (zip)
         uses: actions/upload-artifact@v7
