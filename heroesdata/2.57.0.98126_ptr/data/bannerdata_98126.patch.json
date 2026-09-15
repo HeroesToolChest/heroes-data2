@@ -1,0 +1,16 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98126_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/totalItems",
+    "value": 203
+  },
+  {
+    "op": "remove",
+    "path": "/items/BannerDFBlizzcon2020"
+  }
+]

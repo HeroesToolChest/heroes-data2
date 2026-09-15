@@ -1,0 +1,262 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Towers of Doom"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/L3MoonwellMorph|L3MoonwellMorph|Q",
+    "value": "3级月亮井变形"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/L3StandaloneTowerMorph|L3StandaloneTowerMorph|Q",
+    "value": "3级孤塔变形"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/L3TownMorph|L3TownMorph|Q",
+    "value": "3级高塔变形"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercGoblinSapperSuicide|MercGoblinSapperSuicide|Q",
+    "value": "Merc - Goblin Sapper Suicide"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostAltarDamage",
+    "value": "~AwardValue~%的核心伤害"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostAltarDamage",
+    "value": "明星炮手"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostAltarDamage",
+    "value": "对核心造成~TooltipAmount~点伤害"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostAltarDamage",
+    "value": "造成最多祭坛伤害"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseAvatarUnit",
+    "value": "Base Avatar Unit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionCannonExtraHigh",
+    "value": "基地高伤害防御火炮"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionCannonHigh",
+    "value": "Base Protection Cannon High"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionCannonLow",
+    "value": "Base Protection Cannon Low"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionCannonMid",
+    "value": "Base Protection Cannon Mid"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionTowerGround",
+    "value": "Base Protection Tower Ground"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionTowerHigh",
+    "value": "Base Protection Tower High"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionTowerMid",
+    "value": "Base Protection Tower Mid"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionTowerMissile",
+    "value": "Base Protection Tower Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BombChest",
+    "value": "Bomb Chest"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BombStructureItem",
+    "value": "Bomb Structure Item"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BossMercCampCannonMissile",
+    "value": "Boss Merc Camp Cannon Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FortressArchwayCurvedDL",
+    "value": "Fortress Archway Straight Curved DownLeft"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FortressArchwayCurvedDR",
+    "value": "Fortress Archway Straight Curved DownRight"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FortressArchwayCurvedUL",
+    "value": "Fortress Archway Straight Curved UpLeft"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FortressArchwayCurvedUR",
+    "value": "Fortress Archway Straight Curved UpRight"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FortressArchwayVerticalLeft",
+    "value": "Fortress Archway Straight Vertical Left"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FortressArchwayVerticalRight",
+    "value": "Fortress Archway Straight Vertical Right"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LandGrabCannonTower",
+    "value": "Land Grab Cannon Tower"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MapEventNecromancerCannonMissile",
+    "value": "Map Event Necromancer Cannon Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MapEventRavenLordCannonMissile",
+    "value": "Map Event Raven Lord Cannon Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderGoblinSapperAttackMissile",
+    "value": "Merc - Defender Goblin Sapper Attack Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperDefender",
+    "value": "爆破兵"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperLaner",
+    "value": "爆破兵"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercHorsemanDefender",
+    "value": "无头骑士"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercHorsemanFlyingHead",
+    "value": "无头骑士的头"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercHorsemanFlyingHeadFireballMissile",
+    "value": "Merc - Horseman Flying Head Fireball Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercHorsemanLaner",
+    "value": "无头骑士带线者"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercHorsemanReturningHeadMissile",
+    "value": "Merc - Horseman Returning Head Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerGoblinSapperAttackMissile",
+    "value": "Merc - Laner Goblin Sapper Attack Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerGoblinSapperCoreMortarMissile",
+    "value": "Merc - Laner Goblin Sapper Core Mortar Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerGoblinSapperMeleeAttackInvisibleMissile",
+    "value": "Merc - Laner Goblin Sapper Melee Attack Invisible Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercWinterCrestHorsemanEntrance",
+    "value": "Merc - WinterCrest Horseman Entrance"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/NecromancerAvatarUnit",
+    "value": "Necromancer Avatar Unit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/NeutralTownCaptureBeacon",
+    "value": "Neutral Town Capture Beacon"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PathingBlockerToDWall",
+    "value": "路径阻挡物 (ToD Wall)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/RavenLordAvatarUnit",
+    "value": "Raven Lord Avatar Unit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ScoringAltar",
+    "value": "祭坛"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ScoringCaptureBeacon",
+    "value": "Scoring Beacon"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SpiritHealer",
+    "value": "灵魂医者"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WaygateEntrance",
+    "value": "隧道入口"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WaygateEntranceMinimapIconActor",
+    "value": "Waygate Entrance Minimap Icon Actor"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WaygateUnit",
+    "value": "隧道出口"
+  }
+]

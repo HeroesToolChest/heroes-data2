@@ -1,0 +1,72 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98126_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/totalItems",
+    "value": 898
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathBase_VoiceLine01",
+    "value": {
+      "hyperlinkId": "XalatathVoiceLine01",
+      "attributeId": "XA01",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "heroId": "Xalatath",
+      "image": "storm_ui_voice_hogger.png"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathBase_VoiceLine02",
+    "value": {
+      "hyperlinkId": "XalatathVoiceLine02",
+      "attributeId": "XA02",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "heroId": "Xalatath",
+      "image": "storm_ui_voice_hogger.png"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathBase_VoiceLine03",
+    "value": {
+      "hyperlinkId": "XalatathVoiceLine03",
+      "attributeId": "XA03",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "heroId": "Xalatath",
+      "image": "storm_ui_voice_hogger.png"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathBase_VoiceLine04",
+    "value": {
+      "hyperlinkId": "XalatathVoiceLine04",
+      "attributeId": "XA04",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "heroId": "Xalatath",
+      "image": "storm_ui_voice_hogger.png"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathBase_VoiceLine05",
+    "value": {
+      "hyperlinkId": "XalatathVoiceLine05",
+      "attributeId": "XA05",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "heroId": "Xalatath",
+      "image": "storm_ui_voice_hogger.png"
+    }
+  }
+]

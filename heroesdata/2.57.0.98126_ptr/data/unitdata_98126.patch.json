@@ -1,0 +1,612 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98126_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/totalItems",
+    "value": 943
+  },
+  {
+    "op": "replace",
+    "path": "/items/AbathurLocustBombardStrain/life/regenRate",
+    "value": -7.9412
+  },
+  {
+    "op": "replace",
+    "path": "/items/ZagaraHydralisk/life/amount",
+    "value": 500
+  },
+  {
+    "op": "replace",
+    "path": "/items/ZagaraHydralisk/life/regenRate",
+    "value": -50
+  },
+  {
+    "op": "replace",
+    "path": "/items/ZagaraMutalisk/life/amount",
+    "value": 450
+  },
+  {
+    "op": "replace",
+    "path": "/items/ZagaraMutalisk/life/regenRate",
+    "value": -10.7143
+  },
+  {
+    "op": "replace",
+    "path": "/items/ZagaraRoach/life/amount",
+    "value": 360
+  },
+  {
+    "op": "replace",
+    "path": "/items/ZagaraRoach/life/regenRate",
+    "value": -36
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathDarkHeartRitual",
+    "value": {
+      "damageType": "Summon",
+      "radius": 0.125,
+      "innerRadius": 0.125,
+      "sight": 7,
+      "speed": 3.5,
+      "attributes": [
+        "Summoned"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {
+        "targetInfo": "storm_ui_ingame_targetinfopanel_unit_rehgar_earthbindtotem.png"
+      },
+      "abilities": {
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "DarkHeartMove|:NONE:|Hidden",
+            "abilityId": "DarkHeartMove",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathFracturedRealityTrailUnit",
+    "value": {
+      "radius": 0.25,
+      "innerRadius": 0.25,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "IgnoredByTowerAI",
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "Summoned"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathOrbitalEruptionCenterDummyUnit",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathOrbitalEruptionCenterMissileTier1Unit",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathOrbitalEruptionCenterMissileTier2Unit",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathOrbitalEruptionCenterMissileTier3Unit",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathOrbitalEruptionCenterMissileTier4Unit",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathOrbitalEruptionOrbUnit",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathShadowMarkDummyUnit",
+    "value": {
+      "radius": 0.5,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "IgnoredByTowerAI",
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "Summoned"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathShadowMarkMissile",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 2,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathUnstableCoreFireUnit",
+    "value": {
+      "radius": 1.5,
+      "innerRadius": 1.5,
+      "sight": 0,
+      "speed": 0,
+      "attributes": [
+        "IgnoredByTowerAI",
+        "ImmuneToAOE",
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "Summoned"
+      ],
+      "life": {
+        "amount": 1,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidConvergencePortalUnit",
+    "value": {
+      "radius": 4.5,
+      "innerRadius": 0.25,
+      "sight": 5,
+      "speed": 0,
+      "attributes": [
+        "ImmuneToFriendlyAbilities",
+        "ImmuneToSkillshots",
+        "NoMinionAggro",
+        "Summoned"
+      ],
+      "life": {
+        "amount": 1200,
+        "scale": 0,
+        "regenRate": -60,
+        "regenScale": 0
+      },
+      "portraits": {
+        "targetInfo": "storm_ui_ingame_targetinfopanel_unit_rehgar_earthbindtotem.png"
+      },
+      "abilities": {
+        "Hidden": [
+          {
+            "linkId": "HeroGenericSummonedUnitSpecialCaseInteraction|SummonedUnitSpecialCaseInteraction|Hidden",
+            "abilityId": "HeroGenericSummonedUnitSpecialCaseInteraction",
+            "buttonId": "SummonedUnitSpecialCaseInteraction",
+            "icon": "storm_temp_btn-ability-protoss-prismaticbeam-color.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidEruptionCarrierMissileTier1Unit",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidEruptionCarrierMissileTier2Unit",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidEruptionCarrierMissileTier3Unit",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidEruptionCarrierMissileTier4Unit",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidEruptionDummyMissileCenter",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidMinion",
+    "value": {
+      "damageType": "Summon",
+      "radius": 1,
+      "innerRadius": 1,
+      "sight": 7,
+      "speed": 5.75,
+      "attributes": [
+        "Summoned"
+      ],
+      "life": {
+        "amount": 250,
+        "scale": 0.04,
+        "regenRate": -8.3333,
+        "regenScale": 0.04
+      },
+      "portraits": {
+        "minimap": "storm_ui_minimapicon_jaina_water_elemental.png"
+      },
+      "weapons": [
+        {
+          "nameId": "XalatathVoidMinionWeapon",
+          "isDisabled": false,
+          "range": 1.5,
+          "minimumRange": 0,
+          "period": 0.75,
+          "damage": 95,
+          "damageScale": 0.04
+        }
+      ],
+      "abilities": {
+        "Basic": [
+          {
+            "linkId": "XalatathVoidMinionDash|XalatathVoidMinionDash|Q",
+            "abilityId": "XalatathVoidMinionDash",
+            "buttonId": "XalatathVoidMinionDash",
+            "abilityType": "Q"
+          }
+        ],
+        "Hearth": [
+          {
+            "linkId": "move|MovePatrol|B",
+            "abilityId": "move",
+            "buttonId": "MovePatrol",
+            "icon": "btn-command-patrol.png",
+            "abilityType": "B"
+          }
+        ],
+        "Hidden": [
+          {
+            "linkId": "stop|:NONE:|Hidden",
+            "abilityId": "stop",
+            "buttonId": ":NONE:",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "attack|Attack|Hidden",
+            "abilityId": "attack",
+            "buttonId": "Attack",
+            "icon": "storm_ui_icon_talent_autoattack_base.png",
+            "abilityType": "Hidden"
+          },
+          {
+            "linkId": "HeroGenericSummonedUnitSpecialCaseInteraction|SummonedUnitSpecialCaseInteraction|Hidden",
+            "abilityId": "HeroGenericSummonedUnitSpecialCaseInteraction",
+            "buttonId": "SummonedUnitSpecialCaseInteraction",
+            "icon": "storm_temp_btn-ability-protoss-prismaticbeam-color.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidVolley2MissileInnerLeft",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidVolley2MissileInnerRight",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidVolley2MissileMiddleLeft",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidVolley2MissileMiddleRight",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidVolley2MissileOuterLeft",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidVolley2MissileOuterRight",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathWeaponMissileLeft",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathWeaponMissileRight",
+    "value": {
+      "radius": 0,
+      "innerRadius": 0,
+      "sight": 0,
+      "speed": 0,
+      "life": {
+        "amount": 10,
+        "scale": 0,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {}
+    }
+  }
+]

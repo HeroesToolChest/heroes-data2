@@ -1,0 +1,42 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Lunar Rocket Racing"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/ChenWanderingKeg|ChenWanderingKeg|Heroic",
+    "value": "Cooldown: 10 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/ChenHeroicAbilityWanderingKeg|ChenWanderingKeg|Heroic|Level10",
+    "value": "Cooldown: 10 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/LunarFestivalEnvelope",
+    "value": "Move nearby to collect this Doubloon."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LunarFestivalEnvelope",
+    "value": "Envelope"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LunarFestivalFirecracker",
+    "value": "Firecracker"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LunarFestivalGreenRocket",
+    "value": "Green Rocket"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Observer_InvisibleUnit",
+    "value": "Observer_InvisibleUnit"
+  }
+]

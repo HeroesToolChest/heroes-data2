@@ -1,0 +1,49 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Haunted Mines"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/StormBossAttack|Attack|Hidden"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/StormBossAttack|Attack|Hidden"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/StormBossAttack|Attack|Hidden"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostSkullsCollected",
+    "value": "~AwardValue~%的团队精华收集"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostSkullsCollected",
+    "value": "精华藏家"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostSkullsCollected",
+    "value": "收集了~TooltipAmount~个精华"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BossHoleSharedVisionUnit",
+    "value": "Boss Hole Shared Vision Unit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperDefender",
+    "value": "爆破兵"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperLaner",
+    "value": "爆破兵"
+  }
+]
