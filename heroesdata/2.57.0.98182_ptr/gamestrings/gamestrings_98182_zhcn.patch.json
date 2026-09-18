@@ -1,0 +1,892 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98182_ptr"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/cooldownText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "冷却时间：7秒"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/cooldownText/XalatathVoidStep|XalatathVoidStep|W"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "冷却时间：15秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "冷却时间：15秒"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/energyText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/energyText/XalatathVoidStep|XalatathVoidStep|W"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">法力值：35</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">法力值：50</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">法力值：50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|SylvanasBlackArrowsPassive|Trait",
+    "value": "普通攻击对敌人施加黑蚀箭，持续<c val=#TooltipNumbers>0</c>秒，最多叠加<c val=#TooltipNumbers>0</c>次。希尔瓦娜斯对叠加了<c val=#TooltipNumbers>0</c>次的敌人造成<c val=#TooltipNumbers>0%</c>的额外伤害。<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>任务：</c>对叠加了<c val=#TooltipNumbers>0</c>层黑蚀箭的英雄和建筑造成伤害。<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>奖励：</c>在对敌人造成<c val=#TooltipNumbers>0</c>次伤害之后，黑蚀箭的伤害加成提升至<c val=#TooltipNumbers>0%</c>。<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>神话奖励：</c>在对敌人造成<c val=#TooltipNumbers>0</c>次伤害之后，黑蚀箭现在将在叠加至<c val=#TooltipNumbers>0</c>层时，为希尔瓦娜斯恢复等同于造成的伤害<c val=#TooltipNumbers>0%</c>的生命值，对英雄效果翻倍。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasArmyOfTheDead|ArthasArmyOfTheDead|Heroic",
+    "value": "消耗所有充能，召唤等量的食尸鬼，食尸鬼会在<c val=#TooltipNumbers>0</c>秒内持续失去生命值，并造成<c val=#TooltipNumbers>0</c>点伤害。重新激活可牺牲一只食尸鬼，为阿尔萨斯恢复<c val=#TooltipNumbers>0</c>点生命值。最多可储存<c val=#TooltipNumbers>0</c>层充能。<n/><n/>每当附近有敌方小兵死亡时，该技能的充能冷却时间缩短<c val=#TooltipNumbers>0</c>秒。击杀英雄会使该技能的充能冷却时间缩短<c val=#TooltipNumbers>0</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/MuradinStormBolt|MuradinStormbolt|Q",
+    "value": "扔出一把锤子，对击中的第一个敌人造成<c val=#TooltipNumbers>0</c>点伤害，并使其昏迷<c val=#TooltipNumbers>0</c>秒。<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>任务：</c>对受到昏迷、减速或定身的英雄进行普通攻击。攻击被减速或被定身的敌人累积<c val=#TooltipNumbers>0</c>层。攻击昏迷的敌人累积<c val=#TooltipNumbers>0</c>层。如果该英雄在<c val=#TooltipNumbers>0</c>秒内死亡，则积累<c val=#TooltipNumbers>0</c>层。<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>奖励：</c>在命中<c val=#TooltipNumbers>0</c>个目标后，风暴之锤可在穿透敌人后命中一个额外目标，且穆拉丁的普通攻击会使风暴之锤的冷却时间缩短<c val=#TooltipNumbers>0</c>秒，并恢复<c val=#TooltipNumbers>0</c>点法力值。<n/><<img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>神话奖励：</c>在命中<c val=#TooltipNumbers>0</c>个目标后，风暴之锤的距离提高<c val=#TooltipNumbers>0%</c>，宽度提高<c val=#TooltipNumbers>0%</c>，且会穿透所有目标。"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "发射一枚虚空法球，对命中的敌人造成<c val=#TooltipNumbers>0</c>点伤害。被法球中心命中的敌人额外受到<c val=#TooltipNumbers>0</c>点伤害。<n/><n/>被直接命中的敌方英雄将被标记，持续<c val=#TooltipNumbers>0</c>秒。<n/><n/>被标记的英雄将会暴露，吸引幽暗之心与虚空仆从向其靠近。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "引导<c val=#TooltipNumbers>0</c>秒后，生成一道虚空传送门，最多召唤<c val=#TooltipNumbers>4</c>个虚空仆从攻击附近敌人。<n/><n/>虚空传送门附近的敌人减速<c val=#TooltipNumbers>0%</c>。<n/><n/>虚空仆从会朝拥有暗影标记的英雄移动。<n/><n/><s val=TooltipSubscript>传送门会在20秒内持续损失生命值。</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "引导一枚威力强大的虚空法球，法球在引导期间不断变大，<c val=#TooltipNumbers>0</c>秒后达到最大体积。再次施放可提前发射法球。<n/><n/>触碰法球的敌人最多受到<c val=#TooltipNumbers>0</c>点伤害，并被致盲<s val=StandardTooltipDetails>0</s>秒。<n/><n/>法球在抵达路径终点时产生大范围爆炸，最多造成<c val=#TooltipNumbers>0</c>点伤害。<n/><n/><s val=TooltipSubscript>接触伤害每0.125秒触发一次。</s>"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathVoidStepCancel|XalatathVoidStepCancel|W"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|W"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "虚空齐射可通过萨拉塔斯的普通攻击充能。向目标位置发射大量虚空法球，每枚法球命中时造成<c val=#TooltipNumbers>0</c>点伤害。<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>任务：</c>用虚空齐射命中敌方英雄；每命中一名英雄获得<c val=#TooltipNumbers>0</c>层效果，所有虚空伤害提升<c val=#TooltipNumbers>0%</c>。萨拉塔斯死亡时，失去所有层数。<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>奖励（0层）：</c><n/>虚空齐射射程<c val=#TooltipGreen>+2</c><n/><n/>萨拉塔斯死亡时，仅失去6层效果，且层数不会低于当前阶段的最低值。<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/>.<c val=#TooltipQuest>奖励（0层）：</c><n/>充能虚空齐射所需普通攻击次数<c val=#TooltipGreen>-1</c><n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>神话奖励（0层）：</c><n/>虚空攻击与技能伤害<c val=#TooltipGreen>+0%</c><n/>虚空齐射的投射物可穿透所有目标。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "召唤幽暗之心，每秒对附近敌人造成<c val=#TooltipNumbers>0</c>点伤害，持续<c val=#TooltipNumbers>0</c>秒。<n/><n/>幽暗之心会移动至暗影标记的落点。<n/><n/>幽暗之心会追击被标记的英雄，命中后引爆，对附近敌人造成<c val=#TooltipNumbers>0</c>点伤害，并对被标记目标额外造成<c val=#TooltipNumbers>+0</c>点伤害。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidStepCancel|XalatathVoidStepCancel|E",
+    "value": "提前取消技能可停留在当前位置。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "施放后，萨拉塔斯将沿三角轨迹传送<c val=#TooltipNumbers>3</c>次。<n/><n/>技能持续期间，萨拉塔斯每传送一次，普通攻击伤害<s val=StandardTooltipDetails>+0%</s>。<n/><n/>再次激活可提前结束虚空步，停留在当前位置。"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/name/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "暗影标记"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/name/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "虚空汇聚"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathVoidStepCancel|XalatathVoidStepCancel|W"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathVoidStep|XalatathVoidStep|W"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "幽暗之心仪式"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidStepCancel|XalatathVoidStepCancel|E",
+    "value": "取消虚空步"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "虚空步"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/shortText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "发射一枚大型虚空法球。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/shortText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "生成一道传送门，召唤虚空仆从。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/shortText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "引导一枚不断膨胀的法球，对路径上的敌人造成伤害。"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/XalatathVoidStep|XalatathVoidStep|W"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/shortText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "向目标位置发射大量虚空飞弹。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "召唤幽暗之心。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "施放后，萨拉塔斯沿三角轨迹进行传送。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/hero/description/Xalatath",
+    "value": "一位操控虚空能量击溃敌人、掌控战场的远程输出者。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/hero/infoText/Xalatath",
+    "value": "无数纪元以来，萨拉塔斯一直暗中操纵众神与凡人，一步步攀向宇宙之巅。她曾是吞噬者迪门修斯的仆从，后又沦为上古之神的囚徒。如今她重获自由，开始将自己的计划付诸行动——第一步便是摧毁达拉然，重塑太阳之井。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/hero/searchText/Xalatath",
+    "value": "魔兽世界虚空法师"
+  },
+  {
+    "op": "replace",
+    "path": "/items/hero/title/Xalatath",
+    "value": "太阳井"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/infoText/MountDirewolfThreeTails",
+    "value": "沉寂多年的时空枢纽已经苏醒，全新的生灵从中涌现，新的时代就此开启。2026暴雪嘉年华纪念坐骑。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/infoText/MountPhoenix",
+    "value": "作为奎尔萨拉斯的荣耀象征，永歌森林的凤凰承载着精灵一族不灭的意志。它们的数量极度稀少，却能于灰烬中不断重生，无惧灭绝的威胁。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/name/MountPhoenix",
+    "value": "辛多雷凤凰"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/name/MountPhoenixVar1",
+    "value": "光耀辛多雷凤凰"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/name/MountPhoenixVar2",
+    "value": "碧空辛多雷凤凰"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/name/MountPhoenixVar3",
+    "value": "虚空辛多雷凤凰"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/name/MountPhoenixVar4",
+    "value": "奥术辛多雷凤凰"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/name/MountPhoenixVar5",
+    "value": "暗影辛多雷凤凰"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVar1",
+    "value": "无数纪元以来，萨拉塔斯一直暗中操纵众神与凡人，一步步攀向宇宙之巅。她曾是吞噬者迪门修斯的仆从，后又沦为上古之神的囚徒。如今她重获自由，开始将自己的计划付诸行动——第一步便是摧毁达拉然，重塑太阳之井。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVar2",
+    "value": "无数纪元以来，萨拉塔斯一直暗中操纵众神与凡人，一步步攀向宇宙之巅。她曾是吞噬者迪门修斯的仆从，后又沦为上古之神的囚徒。如今她重获自由，开始将自己的计划付诸行动——第一步便是摧毁达拉然，重塑太阳之井。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVar3",
+    "value": "无数纪元以来，萨拉塔斯一直暗中操纵众神与凡人，一步步攀向宇宙之巅。她曾是吞噬者迪门修斯的仆从，后又沦为上古之神的囚徒。如今她重获自由，开始将自己的计划付诸行动——第一步便是摧毁达拉然，重塑太阳之井。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVar4",
+    "value": "无数纪元以来，萨拉塔斯一直暗中操纵众神与凡人，一步步攀向宇宙之巅。她曾是吞噬者迪门修斯的仆从，后又沦为上古之神的囚徒。如今她重获自由，开始将自己的计划付诸行动——第一步便是摧毁达拉然，重塑太阳之井。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVoidflame",
+    "value": "当黑暗帝国崩塌之际，上古之神孤注一掷，释放了萨拉塔斯以求自保。可她反而吞噬了诸神的力量，成为第五位，也是最后一位上古之神。如今萨拉塔斯身为暮光之刃的女皇，正谋划着吞噬整个宇宙。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVoidflameVar1",
+    "value": "当黑暗帝国崩塌之际，上古之神孤注一掷，释放了萨拉塔斯以求自保。可她反而吞噬了诸神的力量，成为第五位，也是最后一位上古之神。如今萨拉塔斯身为暮光之刃的女皇，正谋划着吞噬整个宇宙。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVoidflameVar2",
+    "value": "当黑暗帝国崩塌之际，上古之神孤注一掷，释放了萨拉塔斯以求自保。可她反而吞噬了诸神的力量，成为第五位，也是最后一位上古之神。如今萨拉塔斯身为暮光之刃的女皇，正谋划着吞噬整个宇宙。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVoidflameVar3",
+    "value": "当黑暗帝国崩塌之际，上古之神孤注一掷，释放了萨拉塔斯以求自保。可她反而吞噬了诸神的力量，成为第五位，也是最后一位上古之神。如今萨拉塔斯身为暮光之刃的女皇，正谋划着吞噬整个宇宙。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVoidflameVar4",
+    "value": "当黑暗帝国崩塌之际，上古之神孤注一掷，释放了萨拉塔斯以求自保。可她反而吞噬了诸神的力量，成为第五位，也是最后一位上古之神。如今萨拉塔斯身为暮光之刃的女皇，正谋划着吞噬整个宇宙。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVar1",
+    "value": "辛多雷萨拉塔斯"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVar2",
+    "value": "被遗忘者萨拉塔斯"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVar3",
+    "value": "卡多雷萨拉塔斯"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVar4",
+    "value": "觅心者萨拉塔斯"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVoidflame",
+    "value": "暮光萨拉塔斯"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVoidflameVar1",
+    "value": "邪能暮光萨拉塔斯"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVoidflameVar2",
+    "value": "烈焰暮光萨拉塔斯"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVoidflameVar3",
+    "value": "冰霜暮光萨拉塔斯"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVoidflameVar4",
+    "value": "原始暮光萨拉塔斯"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/sortName/XalatathVoidflame",
+    "value": "XalatathVoidflameVar0"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "非英雄单位对蝗虫造成的伤害降低<c val=#TooltipNumbers>50%</c>，并使其伤害提高<c val=#TooltipNumbers>0%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": "阿巴瑟的普通攻击造成的伤害提高<c val=#TooltipNumbers>350%</c>，并且使非精英敌人昏迷，使建筑瘫痪<c val=#TooltipNumbers>0</c>秒。<n/><n/>同一个英雄或建筑每<c val=#TooltipNumbers>0</c>秒只能昏迷或瘫痪一次。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "烈焰打击的法力消耗从<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>降低至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任务：</c>用烈焰打击击中处于燃烧状态的敌方英雄。击中<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>次将解锁一个神话任务。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">奖励：</c>在击中<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>名英雄后，用烈焰打击击中一名处于燃烧状态的英雄时，红龙女王的冷却时间缩短<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>秒。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">神话任务：</c>击中<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c>名英雄且不死亡时，红龙女王对英雄造成伤害会刷新其持续时间。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArthasHeroicAbilityArmyoftheDead|ArthasArmyOfTheDead|Heroic|Level10",
+    "value": "消耗所有充能，召唤等量的食尸鬼，食尸鬼会在<c val=#TooltipNumbers>0</c>秒内持续失去生命值，并造成<c val=#TooltipNumbers>0</c>点伤害。重新激活可牺牲一只食尸鬼，为阿尔萨斯恢复<c val=#TooltipNumbers>0</c>点生命值。最多可储存<c val=#TooltipNumbers>0</c>层充能。<n/><n/>每当附近有敌方小兵死亡时，该技能的充能冷却时间缩短<c val=#TooltipNumbers>0</c>秒。击杀英雄会使该技能的充能冷却时间缩短<c val=#TooltipNumbers>0</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>任务：</c>如果暗影烈焰击中一个受到古的吞噬耀光影响的敌方英雄，其冷却时间则会缩短<c val=#TooltipNumbers>0</c>秒。<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>奖励：</c>击中<c val=#TooltipNumbers>0</c>个英雄后，暗影烈焰的冷却时间永久缩短<c val=#TooltipNumbers>0</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiDeflectPerfectDefense|GenjiDeflectPerfectDefense|W|Level7",
+    "value": "反弹伤害使“闪”的冷却时间缩短<c val=#TooltipNumbers>0</c>秒，最多缩短<c val=#TooltipNumbers>0</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhTransformRavenWindsOfCelerity|MedivhTransformRavenWindsOfCelerity|Z|Level1",
+    "value": "乌鸦形态的移动速度加成提高<c val=#TooltipNumbers>0%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "熔火之心在持续时间开始时，范围扩大<c val=#TooltipNumbers>100%</c>。此外，当对一座已被摧毁的堡垒或要塞使用时，熔火之心的冷却时间缩短<c val=#TooltipNumbers>90</c>秒。"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|E|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathCloakOfShadows|XalatathCloakOfShadows|W|Level1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": "虚空齐射每枚投射物命中敌人，都会使其减速<c val=#TooltipNumbers>0%</c>，持续<c val=#TooltipNumbers>0</c>秒，最多叠加至<c val=#TooltipNumbers>0%</c>。"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|E|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|E|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": "暗影标记充能<c val=#TooltipGreen>+1</c><n/><n/><s val=TooltipSubscript>暗影标记的使用间隔冷却为0秒。</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": "虚空齐射投射物伤害<c val=#TooltipGreen>+0%</c><n/><n/>虚空齐射投射物会沿路径留下一条火焰轨迹，持续<c val=#TooltipNumbers>0</c>秒，并造成<c val=#TooltipNumbers>0</c>点持续伤害。<n/><n/><s val=TooltipSubscript>轨迹每0秒造成一次伤害。</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "暗影标记持续时间<c val=#TooltipGreen>+1秒</c><n/><n/>被标记的敌人减速<s val=StandardTooltipDetails>0%</s>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "引导<c val=#TooltipNumbers>0</c>秒后，生成一道虚空传送门，最多召唤<c val=#TooltipNumbers>4</c>个虚空仆从攻击附近敌人。<n/><n/>虚空传送门附近的敌人减速<c val=#TooltipNumbers>0%</c>。<n/><n/>虚空仆从会朝拥有暗影标记的英雄移动。<n/><n/><s val=TooltipSubscript>传送门会在20秒内持续损失生命值。</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "引导一枚威力强大的虚空法球，法球在引导期间不断变大，<c val=#TooltipNumbers>0</c>秒后达到最大体积。再次施放可提前发射法球。<n/><n/>触碰法球的敌人最多受到<c val=#TooltipNumbers>0</c>点伤害，并被致盲<s val=StandardTooltipDetails>0</s>秒。<n/><n/>法球在抵达路径终点时产生大范围爆炸，最多造成<c val=#TooltipNumbers>0</c>点伤害。<n/><n/><s val=TooltipSubscript>接触伤害每0.125秒触发一次。</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "对被标记英雄进行普通攻击时，获得<c val=#TooltipNumbers>0</c>点护盾，该护盾会迅速衰减。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": "萨拉塔斯的虚空爆发会分裂成<c val=#TooltipNumbers>3</c>枚虚空法球，环绕自身。提前取消技能可让法球飞行速度更快。"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|W|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|E|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathPummelingStep|XalatathPummelingStep|W|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "虚空汇聚的传送门不再随时间损失生命值，场上最多可有<c val=#TooltipNumbers>6</c>名虚空仆从。"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|W|Level7"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathToxicMark|XalatathToxicMark|Q|Level1",
+    "value": "暗影标记持续时间<c val=#TooltipGreen>+1秒</c><n/><n/>提升对被标记英雄的持续伤害，伤害等于目标最大生命值的<c val=#TooltipNumbers>0%</c>。标记持续期间，被标记敌人护甲降低至<s val=StandardTooltipDetails>0</s>点。 "
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathUnstableCore|XalatathUnstableCore|E|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|W|Level4"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidAdept|XalatathVoidAdept|Q|Level7",
+    "value": "<img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>任务：</c>引爆被标记英雄身上的幽暗之心，每次命中目标提升暗影标记伤害<c val=#TooltipNumbers>0</c>，伤害上限为<c val=#TooltipNumbers>0</c>。"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|W|Level7"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVelensChosen|YrelVelensChosen|Passive|Level13",
+    "value": "使用充满能量的基本技能击中敌方英雄给予<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">7.5%</c>法术强度，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c>秒，最高可达<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c>。"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "幽暗之心：<n/><c val=#TooltipGreen>+0%</c>半径<n/><c val=#TooltipGreen>+0%</c>持续时间<n/><n/>幽暗之心伤害会从主要目标弹射至附近敌人，弹射<c val=#TooltipNumbers>2</c>次，造成<c val=#TooltipNumbers>0</c>点伤害。"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "激活虚空步，获得<s val=StandardTooltipDetails>0%</s>移动速度与<c val=#TooltipNumbers>0</c>点法术护甲，持续<s val=StandardTooltipDetails>0</s>秒。萨拉塔斯每次传送都会刷新该加成。"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "幽暗之心每次对敌人造成伤害时，使萨拉塔斯获得一层相当于其最大生命值<c val=#TooltipNumbers>0%</c>的护盾，最多可叠加至<c val=#TooltipNumbers>0%</c>。"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "施放幽暗之心时，使其范围内的敌人沉默<c val=#TooltipNumbers>0</c>秒。<n/><n/>处于幽暗之心作用范围内时，萨拉塔斯与友方英雄获得<c val=#TooltipNumbers>0</c>点法术护甲。"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "虚空步结束后，萨拉塔斯会立即朝反方向施放第二次虚空步。附加效果会再次触发。"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13",
+    "value": "被链接的敌人每受到一次脉冲，移动速度降低<c val=#TooltipNumbers>0%</c>，最多叠加<c val=#TooltipNumbers>0</c>层，并在<c val=#TooltipNumbers>0</c>秒内衰减。"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "虚空步生效期间，萨拉塔斯的普通攻击速度提高<c val=#TooltipNumbers>200%</c>。"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "施放虚空步时，在地面生成一个虚空法印。法印成型时，对范围内敌人造成<c val=#TooltipNumbers>0</c>点伤害并使其沉默<s val=StandardTooltipDetails>0</s>秒。"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "当幽暗之心结束，或在被标记英雄身上引爆时，会留下一片虚空烈焰，持续<c val=#TooltipNumbers>0</c>秒。处于烈焰中的敌人会受到<c val=#TooltipNumbers>0</c>点持续伤害。<n/><n/><s val=TooltipSubscript>烈焰每0秒造成一次伤害。</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "施放虚空步后，虚空齐射获得满层充能。<n/><n/>下一次虚空齐射伤害提升<c val=#TooltipNumbers>50%</c>，且不消耗法力值。"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "施放虚空步时，在技能中心点召唤1名虚空仆从。虚空仆从会朝被施加暗影标记的英雄移动。<n/><n/><s val=TooltipSubscript>虚空仆从的普通攻击每次造成0点伤害。虚空仆从会在0秒内持续失去生命值。</s>"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathAnchoredCore|XalatathAnchoredCore|E|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathCloakOfShadows|XalatathCloakOfShadows|W|Level1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": "粉碎浪潮"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathDarkBarrier|XalatathDarkBarrier|E|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|E|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": "对决法球"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": "破碎现实"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "冰寒脚步"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "虚空汇聚"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "标记韧性"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": "先驱吞噬"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathParadoxLoop|XalatathParadoxLoop|W|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|E|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathPummelingStep|XalatathPummelingStep|W|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "裂隙入侵"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|W|Level7"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathToxicMark|XalatathToxicMark|Q|Level1",
+    "value": "剧毒标记"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathUnstableCore|XalatathUnstableCore|E|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathVoidAcolyte|XalatathVoidAcolyte|W|Level4"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathVoidAdept|XalatathVoidAdept|Q|Level7",
+    "value": "虚空专家"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathVoidSummoner|XalatathVoidSummoner|W|Level7"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "锚定核心"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "暗影斗篷"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "黑暗屏障"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "幽暗之心庇护"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "悖论循环"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13",
+    "value": "幽暗之心牵引"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "不息低语"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "羔羊之寂"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "不稳核心"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "虚空使徒"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "虚空召唤师"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathAnchoredCore|XalatathAnchoredCore|E|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathCloakOfShadows|XalatathCloakOfShadows|W|Level1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": "虚空齐射命中敌人时使其减速。"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathDarkBarrier|XalatathDarkBarrier|E|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|E|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": "暗影标记额外获得一层充能。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": "虚空齐射会沿路径留下一条火焰轨迹。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "被标记的敌人减速，标记持续时间延长。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "生成一道传送门，召唤虚空仆从。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "引导一枚不断膨胀的法球，对路径上的敌人造成伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "对被标记英雄进行普通攻击时，获得护盾。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": "膨胀后发射三枚虚空法球。"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathParadoxLoop|XalatathParadoxLoop|W|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|E|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathPummelingStep|XalatathPummelingStep|W|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "传送门不再有存在时限，且能召唤更多虚空仆从。"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|W|Level7"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathToxicMark|XalatathToxicMark|Q|Level1",
+    "value": "延长暗影标记的持续时间。"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathUnstableCore|XalatathUnstableCore|E|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathVoidAcolyte|XalatathVoidAcolyte|W|Level4"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathVoidAdept|XalatathVoidAdept|Q|Level7",
+    "value": "<c val=#TooltipQuest>任务：</c>引爆被标记英雄身上的幽暗之心，提升伤害。"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathVoidSummoner|XalatathVoidSummoner|W|Level7"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "延长幽暗之心的持续时间，扩大其作用范围。"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "虚空步提供法术护甲与移动速度加成。"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "幽暗之心对敌人造成伤害时，萨拉塔斯获得护盾。"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "萨拉塔斯及其盟友在幽暗之心附近时获得法术护甲。"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "虚空步结束后，逆转轨迹。"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13",
+    "value": "使幽暗之心附近的敌人减速。"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "虚空步生效期间，提升虚空法球的发射频率。"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "虚空步结束后，使轨迹范围内的英雄沉默"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "幽暗之心被摧毁时，留下一片虚空烈焰。"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "施放虚空步后，强化虚空齐射。"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "施放虚空步时，召唤1名虚空仆从。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "召唤幽暗之心，每秒对附近敌人造成<c val=#TooltipNumbers>0</c>点伤害，持续<c val=#TooltipNumbers>0</c>秒。<n/><n/>幽暗之心会移动至暗影标记的落点。<n/><n/>幽暗之心会追击被标记的英雄，命中后引爆，对附近敌人造成<c val=#TooltipNumbers>0</c>点伤害，并对被标记目标额外造成<c val=#TooltipNumbers>+0</c>点伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/XalatathDarkHeartRitual",
+    "value": "幽暗之心仪式（单位）"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/XalatathVoidMinion",
+    "value": "虚空仆从（单位）"
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine01",
+    "value": "没有什么比生存更重要。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine02",
+    "value": "虚空之力由我掌控。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine03",
+    "value": "这个世界必将属于我。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine04",
+    "value": "虚空的意志永不消退。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine05",
+    "value": "黑暗将吞噬一切。"
+  }
+]

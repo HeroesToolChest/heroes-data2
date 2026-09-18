@@ -1,0 +1,1052 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Escape From Braxis (Heroic)"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelAnnihilate|ArchangelAnnihilate|W",
+    "value": "Tiempo de reutilización: 3 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelBarrage|ArchangelBarrage|E",
+    "value": "Tiempo de reutilización: 2 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelCableWrap|ArchangelCableWrap|Q",
+    "value": "Tiempo de reutilización: 2 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelChaserBanelings|ArchangelChaserBanelings|Q",
+    "value": "Tiempo de reutilización: 3 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelDropUltralisk|ArchangelDropUltralisk|E",
+    "value": "Tiempo de reutilización: 3 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelEMP|ArchangelEMP|W",
+    "value": "Tiempo de reutilización: 3 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelHellfireMissiles|ArchangelHellfireMissiles|W",
+    "value": "Tiempo de reutilización: 3 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelLobBaneling|ArchangelLobBaneling|Q",
+    "value": "Tiempo de reutilización: 1 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelPlaceAutoTurret|ArchangelPlaceAutoTurret|E",
+    "value": "Tiempo de reutilización: 3 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelReposition|ArchangelReposition|Z",
+    "value": "Tiempo de reutilización: 2 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelSuperBanelingChase|ArchangelSuperBanelingChaseCancel|W",
+    "value": "Tiempo de reutilización: 2 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelSuperBanelingChase|ArchangelSuperBanelingChase|Q",
+    "value": "Tiempo de reutilización: 2 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelToxicSludgling|ArchangelToxicSludgling|Q",
+    "value": "Tiempo de reutilización: 1 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelVileTumor|ArchangelVileTumor|W",
+    "value": "Tiempo de reutilización: 1 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/BraxisCoreMissileStorm|BraxisCoreMissileStorm|Q",
+    "value": "Tiempo de reutilización: 4 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+    "value": "Tiempo de reutilización: 14 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+    "value": "Tiempo de reutilización: 14 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SlivanBossDrawIn|SlivanBossDrawIn|E",
+    "value": "Tiempo de reutilización: 14 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SlivanBossSlimeSpit|SlivanBossSlimeSpit|Q",
+    "value": "Tiempo de reutilización: 7 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SlivanBossSpawnPods|SlivanBossSpawnPods|W",
+    "value": "Tiempo de reutilización: 14 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SlivanImpale|SlivanImpale|Heroic",
+    "value": "Tiempo de reutilización: 1 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranArchangelDefenderBulletstorm|TerranArchangelBulletstorm|Q",
+    "value": "Tiempo de reutilización: 15 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranArchangelLanerBulletstorm|TerranArchangelBulletstorm|Q",
+    "value": "Tiempo de reutilización: 12 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|Q",
+    "value": "Tiempo de reutilización: 20 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|W",
+    "value": "Tiempo de reutilización: 20 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "Tiempo de reutilización: 15 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "Tiempo de reutilización: 15 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/UltraliskCharge|UltraliskCharge|Q",
+    "value": "Tiempo de reutilización: 12 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/attack|Attack|W",
+    "value": "Atacas usando el arma del héroe."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/BraxisCoreMissileStorm|BraxisCoreMissileStorm|Q",
+    "value": "Dispara 5 misiles a un héroe enemigo. Cada misil inflige un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c> de la salud máxima del héroe como daño en un área pequeña."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/Hearthstone|Hearthstone|Hidden",
+    "value": "Tras canalizar durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> s, te teletransportas de vuelta a la Cámara de las Tormentas, lo que restaura al instante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1125</c> de salud y <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">150</c> de maná."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+    "value": "Escupe un pegote de baba que inflige daño en el tiempo a los enemigos del área."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+    "value": "Engendra granaling alrededor del jefe que atacan a los enemigos al alcance."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SlivanBossDrawIn|SlivanBossDrawIn|E",
+    "value": "Atrae a los enemigos y los aturde en un círculo a su alrededor."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SlivanBossSlimeSpit|SlivanBossSlimeSpit|Q",
+    "value": "Escupe un pegote de baba que inflige daño en el tiempo a los enemigos del área."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SlivanBossSpawnPods|SlivanBossSpawnPods|W",
+    "value": "Engendra granaling a su alrededor que atacan explotando."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SlivanImpale|SlivanImpale|Heroic",
+    "value": "Inflige daño y aturde a enemigos en una línea."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranArchangelDefenderBulletstorm|TerranArchangelBulletstorm|Q",
+    "value": "Dispara una lluvia de balas en una línea frente al taumaturgo, lo que inflige 0 de daño durante 5 s."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranArchangelLanerBulletstorm|TerranArchangelBulletstorm|Q",
+    "value": "Dispara una lluvia de balas en una línea frente al taumaturgo, lo que inflige 0 de daño durante 5 s."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|Q",
+    "value": "Desplegas una torreta automática en la ubicación seleccionada. Las torretas automáticas son torretas estáticas de ataque que disparan a los enemigos que se pongan a su alcance."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|W",
+    "value": "Desplegas una torreta automática en la ubicación seleccionada. Las torretas automáticas son torretas estáticas de ataque que disparan a los enemigos que se pongan a su alcance."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "Lanza un misil lento contra la unidad seleccionada. El misil persigue al objetivo durante 7 s. Si llega a 3 de alcance del objetivo, avanzará rápidamente e impactará, lo que infligirá 0 de daño al objetivo y a los enemigos cercanos."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "Lanza un misil lento contra la unidad seleccionada. El misil persigue al objetivo durante 7 s. Si llega a 3 de alcance del objetivo, avanzará rápidamente e impactará, lo que infligirá 0 de daño al objetivo y a los enemigos cercanos."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/UltraliskCharge|UltraliskCharge|Q",
+    "value": "Carga en la dirección seleccionada hasta que choca con algún obstáculo o recorre la distancia máxima."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelAnnihilate|ArchangelAnnihilate|W",
+    "value": "Aniquilación"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelBarrage|ArchangelBarrage|E",
+    "value": "Bombardeo"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelBileLauncher|ArchangelBileLauncher|E",
+    "value": "Cañón de bilis"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelCableWrap|ArchangelCableWrap|Q",
+    "value": "Envoltura de cables"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelChaserBanelings|ArchangelChaserBanelings|Q",
+    "value": "Pesteling cazadores"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelClearLoadout|ArchangelClearLoadout|Heroic",
+    "value": "Eliminar equipación"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelDropUltralisk|ArchangelDropUltralisk|E",
+    "value": "Soltar ultralisco"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelEmergencyRepairsRepair|ArchangelEmergencyRepairsRepair|Q",
+    "value": "Reparaciones de emergencia"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelEMP|ArchangelEMP|W",
+    "value": "PEM"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelHellfireMissiles|ArchangelHellfireMissiles|W",
+    "value": "Misiles averno"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelLoadout1|ArchangelLoadout1|Q",
+    "value": "Equipación 1"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelLoadout2|ArchangelLoadout2|W",
+    "value": "Equipación 2"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelLoadout3|ArchangelLoadout3|E",
+    "value": "Equipación 3"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelLoadout4|ArchangelLoadout4|Heroic",
+    "value": "Equipación 4"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelLobBaneling|ArchangelLobBaneling|Q",
+    "value": "Pesteling arrojadizo"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelPlaceAutoTurret|ArchangelPlaceAutoTurret|E",
+    "value": "Colocar torreta automática"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelReposition|ArchangelReposition|Z",
+    "value": "Cambiar de posición"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelSuperBanelingChase|ArchangelSuperBanelingChaseCancel|W",
+    "value": "Perseguir"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelSuperBanelingChase|ArchangelSuperBanelingChase|Q",
+    "value": "Perseguir"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelToxicSludgling|ArchangelToxicSludgling|Q",
+    "value": "Fangoling tóxico"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelVentTerrazineHallucinationSuicide|ArchangelVentTerrazineHallucinationSuicide|Q",
+    "value": "Soltar terrazine"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelVileTumor|ArchangelVileTumor|W",
+    "value": "Tumor vil"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/attack|Attack|W",
+    "value": "Ataque básico"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/BraxisCoreMissileStorm|BraxisCoreMissileStorm|Q",
+    "value": "Tormenta de misiles"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/BraxisHoldoutSCVChannel|BraxisHoldoutSCVChannel|Trait",
+    "value": "Canalización de VCE"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/Hearthstone|Hearthstone|Hidden",
+    "value": "Piedra de hogar"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+    "value": "Escupir baba"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+    "value": "Engendrar granaling"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SlivanBossDrawIn|SlivanBossDrawIn|E",
+    "value": "Atracción"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SlivanBossSlimeSpit|SlivanBossSlimeSpit|Q",
+    "value": "Escupir baba"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SlivanBossSpawnPods|SlivanBossSpawnPods|W",
+    "value": "Engendrar granaling"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SlivanImpale|SlivanImpale|Heroic",
+    "value": "Ensartar"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/StopRedirect|Stop|W",
+    "value": "Detener"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/stop|Stop|E",
+    "value": "Detener"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TerranArchangelDefenderBulletstorm|TerranArchangelBulletstorm|Q",
+    "value": "Tormenta de balas"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TerranArchangelLanerBulletstorm|TerranArchangelBulletstorm|Q",
+    "value": "Tormenta de balas"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "Misil rastreador"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "Misil rastreador"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/UltraliskCharge|UltraliskCharge|Q",
+    "value": "Carga de ultralisco"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/attack|Attack|W",
+    "value": "Infliges daño a los enemigos con los ataques básicos."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/BraxisCoreMissileStorm|BraxisCoreMissileStorm|Q",
+    "value": "Bombardea a un héroe con misiles de forma repetida."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+    "value": "Escupe baba a la ubicación seleccionada."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+    "value": "Engendra granaling que atacan a los enemigos que se encuentran a su alcance."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/SlivanBossDrawIn|SlivanBossDrawIn|E",
+    "value": "Atrae a los enemigos y los aturde."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/SlivanBossSlimeSpit|SlivanBossSlimeSpit|Q",
+    "value": "Escupe baba corrosiva al suelo."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/SlivanBossSpawnPods|SlivanBossSpawnPods|W",
+    "value": "Engendra granaling explosivos."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/SlivanImpale|SlivanImpale|Heroic",
+    "value": "Inflige daño y aturde a enemigos en una línea."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TerranArchangelDefenderBulletstorm|TerranArchangelBulletstorm|Q",
+    "value": "Dispara una lluvia de balas en una línea."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TerranArchangelLanerBulletstorm|TerranArchangelBulletstorm|Q",
+    "value": "Dispara una lluvia de balas en una línea."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "Misil dirigido lento. Explota al impactar e inflige daño en un área."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "Misil dirigido lento. Explota al impactar e inflige daño en un área."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/UltraliskCharge|UltraliskCharge|Q",
+    "value": "Se entierra y carga en una dirección."
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostDamageDoneToZerg",
+    "value": "~AwardValue~% del daño del equipo infligido a zerg"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostNukeDamageDone",
+    "value": "~AwardValue~% del daño del equipo infligido a zerg"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostDamageDoneToZerg",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Aplastazerg</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostNukeDamageDone",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Aplastazerg</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostDamageDoneToZerg",
+    "value": "~TooltipAmount~ de daño infligido a zerg"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostNukeDamageDone",
+    "value": "~TooltipAmount~ de daño infligido a zerg"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostDamageDoneToZerg",
+    "value": "Mayor daño infligido a zerg"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MapMechanicNuke",
+    "value": "Tras <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0s, lanzas una bomba nuclear que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1750</c> de daño. Este daño se duplica contra los fuertes, las fortalezas y el núcleo enemigo.<n/><n/>Las estructuras también se incendian durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c>\u00A0s y reciben un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.2%</c> de su salud máxima como daño por segundo. Los ataques básicos de héroes aumentan la duración restante de esto a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>\u00A0s."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/PVEBunker",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Estructura resistente y poderosa. Los ataques reducen la velocidad de ataque y de movimiento del enemigo. Los ataques gastan munición, y no puede atacar sin ella. Ataca primero a los esbirros.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/TerranRavenSeekerMissile",
+    "value": "Lanza un misil lento contra la unidad seleccionada. El misil persigue al objetivo durante 7 s. Si llega a 3 de alcance del objetivo, avanzará rápidamente e impactará, lo que infligirá 0 de daño al objetivo y a los enemigos cercanos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/TownGateL3HorizontalTopVisionBlocked",
+    "value": "ZergedTownGateL3HorizontalTopVisionBlocked"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArcadeMachine",
+    "value": "Máquina recreativa"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelAutoTurret",
+    "value": "Torreta automática"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelBileLauncherMissile",
+    "value": "Cañón de bilis"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelCableWrap",
+    "value": "Envoltura de cables"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelChaserBaneling",
+    "value": "Pesteling cazador"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelDropUltraliskUltraliskCocoon",
+    "value": "Capullo de ultralisco"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelElevatorPathingBlocker",
+    "value": "Bloqueador de trazado de ruta de ascensor de arcángel"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelEMPBlocker",
+    "value": "Bloqueador de PEM"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelHellfireMissilesMissile",
+    "value": "Misiles averno"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelLobBanelingMissile",
+    "value": "Pesteling arrojadizo"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelMinefieldMine",
+    "value": "Mina"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelRepairBotEmergencyRepairs",
+    "value": "Robot de reparación"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelShieldGeneratorShieldMatrix",
+    "value": "Generador de escudo"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelTerrazineHallucinationVentTerrazine",
+    "value": "Alucinación de terrazine"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelToxicSludgling",
+    "value": "Fangoling tóxico"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelVileTumor",
+    "value": "Tumor vil"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BraxisCoreMissileStormMissile",
+    "value": "Tormenta de misiles (misil)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BraxisHoldoutSCV",
+    "value": "VCE de Resistencia en Braxis"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Hatchery",
+    "value": "Criadero"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HoldingPenPathingBlocker",
+    "value": "Bloqueador de trazado del recinto de contención"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/InvisibleHelperUnit",
+    "value": "Unidad ayudante invisible"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MapArrowInvisibleMissile",
+    "value": "Misil invisible de flecha de mapa"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MapMechanicNuke",
+    "value": "Bomba nuclear"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MapMechanicNukeSilo",
+    "value": "Silo nuclear"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/NukeTargetMinimapIconUnit",
+    "value": "Unidad de icono de minimapa de objetivo de bomba nuclear"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Overlord",
+    "value": "Superamo"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PapaCosplay",
+    "value": "Papa Cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PathingBlocker2x2Cliff",
+    "value": "Bloqueador de trazado de ruta 2x2 (elevación de terreno)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PathingBlocker2x2PVE",
+    "value": "Bloqueador de trazado de ruta 2x2"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PathingBlocker4x4",
+    "value": "Bloqueador de trazado de ruta 4x4"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PathingBlocker4x4Cliff",
+    "value": "Bloqueador de trazado de ruta 4x4 (elevación de terreno)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PathingBlocker4x4CliffDiagonal",
+    "value": "Bloqueador de trazado de ruta 4x4 (elevación de terreno)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PathingBlocker4x4Diagonal",
+    "value": "Bloqueador de trazado de ruta 4x4"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PathingBlocker8x8Cliff",
+    "value": "Bloqueador de trazado de ruta 8x8 (elevación de terreno)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PathingBlocker8x8CliffDiagonal",
+    "value": "Bloqueador de trazado de ruta 8x8 (elevación de terreno)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVEAdrenalGlandsMissile",
+    "value": "Glándulas suprarrenales"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVEAdrenalGlandsPickup",
+    "value": "Glándulas suprarrenales"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVEBunker",
+    "value": "Búnker"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVEBunkerBunkerWeaponMissile",
+    "value": "Arma de búnker"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVECombatShieldMissile",
+    "value": "Escudo de combate"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVECombatShieldPickup",
+    "value": "Escudo de combate"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVECoreUltimateCoreWeaponMissile",
+    "value": "Arma de núcleo definitiva"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVECoreUpgradedCoreWeaponMissile",
+    "value": "Arma de núcleo mejorada"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVEHardModeCaptureSlab",
+    "value": "Losa de captura del modo difícil"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVELootChest",
+    "value": "Cofre de botín"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVEMiniNukePickup",
+    "value": "Minibomba nuclear"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVEPathingBlocker8x8",
+    "value": "Bloqueador de trazado de ruta 8x8"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVEPathingBlockerDiagonal8x8",
+    "value": "Bloqueador de trazado de ruta 8x8"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PvEPsiEmitterMissile",
+    "value": "Misil de emisor psiónico JcE"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVEPsiEmitterPickup",
+    "value": "Emisor psiónico"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PvEPsiEmitterUnit",
+    "value": "Unidad de emisor psiónico JcE"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVEReinforcementsPickup",
+    "value": "Refuerzos"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVERejuvenationPulsePickup",
+    "value": "Pulso de rejuvenecimiento"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVESecondChancePickup",
+    "value": "Segunda oportunidad"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVESpecialAbilityPickupUnit",
+    "value": "JcE - habilidad especial: unidad de recogida"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVETeamStimpackPickup",
+    "value": "Paquete de estimulantes de equipo"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SamuroShowdownMachine",
+    "value": "Máquina de Samuro Showdown"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossDefender",
+    "value": "Jefe de las cloacas"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossLaner",
+    "value": "Jefe de las cloacas"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossPodlingDefender",
+    "value": "Granaling"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossPodlingLaner",
+    "value": "Granaling"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossSlimeSpitMissile",
+    "value": "Jefe de las cloacas: división de jefe: misil"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossSpawnPodsMissile",
+    "value": "Jefe de las cloacas: engendrar langostas: misil"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlivanBoss",
+    "value": "Slivan"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlivanBossPod",
+    "value": "Granaling"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlivanBossSlimeSpitMissile",
+    "value": "Misil de Escupir baba de jefe Slivan"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlivanBossSpawnPodsMissile",
+    "value": "Misil de Engendrar granaling de jefe Slivan"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/StormSCBraxisCaptureAntenna",
+    "value": "Antena de captura de Braxis de SC (Storm)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/StormSCBraxisCaptureCage",
+    "value": "Jaula de captura de Braxis de SC (Storm)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SwampMonsterEasterEggUnit",
+    "value": "Unidad de huevo de pascua de monstruo de ciénaga"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranArchangelDefender",
+    "value": "Arcángel"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranArchangelLaner",
+    "value": "Arcángel terran"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranBunker",
+    "value": "Búnker"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranBunkerUpgraded",
+    "value": "Búnker (mejorado)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranGoliath",
+    "value": "Goliat terran"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranGoliathDefender",
+    "value": "Goliat"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranHellbat",
+    "value": "Murciélago infernal terran"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranHellbatDefender",
+    "value": "Murciélago infernal"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranMarine",
+    "value": "Soldado"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranRaven",
+    "value": "Cuervo terran"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranRavenDefender",
+    "value": "Cuervo"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranRavenSeekerMissile",
+    "value": "Cuervo"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerrazineGasVein",
+    "value": "Fuente de gas terrazine"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerrazineRageAoEMissile",
+    "value": "Misil de área de efecto de furia de terrazine"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/VisionBlocker2x2",
+    "value": "Bloqueador de visión 2x2"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadDouble",
+    "value": "Cabeza nuclear"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadDropped",
+    "value": "Cabeza nuclear perdida"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadDroppedMissile",
+    "value": "Misil de cabeza nuclear perdida"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadSingle",
+    "value": "Cabeza nuclear"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadTriple",
+    "value": "Cabeza nuclear"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WaygateEntrance",
+    "value": "Túnel de cloaca"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergBaneling",
+    "value": "Pesteling"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergCocoon",
+    "value": "Capullo de zerg"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergCocoonLocust",
+    "value": "Langosta de capullo de zerg"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergedTownGateL3HorizontalTopVisionBlocked",
+    "value": "ZergedTownGateL3HorizontalTopVisionBlocked"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergGuardian",
+    "value": "Guardián"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergHydralisk",
+    "value": "Hidralisco"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergMutalisk",
+    "value": "Mutalisco"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergRoach",
+    "value": "Cucaracha"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergUltralisk",
+    "value": "Ultralisco"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergZergling",
+    "value": "Zergling"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergZerglingNotMinion",
+    "value": "Zergling"
+  }
+]

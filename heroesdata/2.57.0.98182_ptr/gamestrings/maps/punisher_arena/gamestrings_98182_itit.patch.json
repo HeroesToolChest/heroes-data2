@@ -1,0 +1,207 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Punisher Arena"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/MercPunisherLanerFixate|MercPunisherLanerFixate|W",
+    "value": "Recupero: 10 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/MercPunisherLanerLeap|MercPunisherLanerLeap|Q",
+    "value": "Recupero: 15 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|DeathwingHearthstone|B",
+    "value": "Dopo un incanalamento di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4.5</c> s, teletrasporta l'eroe nella Sala delle Tempeste."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneBrew|B",
+    "value": "Teletrasporta l'eroe all'Altare, rigenerando all'istante tutta la Salute e la Birra."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneNoMana|B",
+    "value": "Teletrasporta l'eroe all'Altare, rigenerando all'istante tutta la Salute."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|Hearthstone|B",
+    "value": "Teletrasporta l'eroe all'Altare, rigenerando all'istante tutta la Salute e il Mana."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/:PASSIVE:|ShrineAuraMinionAura|Q",
+    "value": "Potenzia eroi, servitori e mercenari vicini, aumentandone danni d'attacco, danni delle abilità e guarigione effettuata del <s val=\"8783e6\" hlt-name=\"StandardTooltip\">20%.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/CursedShrineSpawn|CursedShrineSpawn|Q",
+    "value": "Genera un Servitore Maledetto nel punto selezionato."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/MercPunisherLanerFixate|MercPunisherLanerFixate|W",
+    "value": "Punta il bersaglio, diventando infuriato e aumentando la velocità di movimento del 100%  e la velocità d'attacco del 0%  per 20 s. Durante questo periodo, il Punitore non può ricevere ordini. <n/><n/>Il Punitore diventa stordito per 1 s al termine dell'effetto."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/MercPunisherLanerLeap|MercPunisherLanerLeap|Q",
+    "value": "Balza sulla posizione bersaglio, infliggendo 1 danni e stordendo i bersagli per 1 s nel punto d'impatto.<n/><n/><'( ^o ^ c)</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/:PASSIVE:|ShrineAuraMinionAura|Q",
+    "value": "Aura servitore Altare"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/CursedShrineSpawn|CursedShrineSpawn|Q",
+    "value": "Genera Servitore Maledetto"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercPunisherLanerFixate|MercPunisherLanerFixate|W",
+    "value": "Fissazione"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercPunisherLanerLeap|MercPunisherLanerLeap|Q",
+    "value": "Punizione"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/MercPunisherLanerLeap|MercPunisherLanerLeap|Q",
+    "value": "Stordisce i nemici in un'area."
+  },
+  {
+    "op": "add",
+    "path": "/items/announcerPack/name/CommodoreFord",
+    "value": "Commodoro Ford"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/ParalyzeStructure",
+    "value": "Disabilita la struttura bersaglio, infligge danni pari al 1% dell'integrità della struttura e sottrae 1 energia al secondo per 10 s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/VehiclePlantHorror",
+    "value": "Terrore Vegetale"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/CursedShrineMinion",
+    "value": "Scheletro"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DiabloArcaneUnit",
+    "value": "Arcano"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DiabloShrine",
+    "value": "Altare"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DiabloShrineWarningUnit",
+    "value": "Diablo - Altare - Unità di avviso"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercPunisherLaner",
+    "value": "Punitore"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperDefender",
+    "value": "Impalatore"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperLaner",
+    "value": "Impalatore"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerDefender",
+    "value": "Caduto sciamano"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerDefenderMinion",
+    "value": "Caduto segugio"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerLaner",
+    "value": "Caduto sciamano"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerLanerMinion",
+    "value": "Caduto segugio"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BLURBRVisionBlockedHeaven",
+    "value": "Cancello"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BLURBRVisionBlockedHell",
+    "value": "Cancello"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BLURTLVisionBlockedHeaven",
+    "value": "Cancello"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BLURTLVisionBlockedHell",
+    "value": "Cancello"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BRULBLVisionBlockedHeaven",
+    "value": "Cancello"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BRULBLVisionBlockedHell",
+    "value": "Cancello"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BRULTRVisionBlockedHeaven",
+    "value": "Cancello"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TownGateL315BRULTRVisionBlockedHell",
+    "value": "Cancello"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WeaponRackSpecialHeaven",
+    "value": "Rastrelliera - Speciale (Paradiso)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WeaponRackSpecialHell",
+    "value": "Rastrelliera - Speciale (Inferi)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WheresWeirdo",
+    "value": "Unità strana"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Garden of Terror"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/PlantHorrorLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Tiempo de reutilización: 5 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/GardenCoreLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Tiempo de reutilización: 5 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/UnderworldBossStun|GraveGolemMegaStun|Q",
+    "value": "Tiempo de reutilización: 10 segundos"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/PlantHorrorLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Después de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> segundo, convierte en Reptantes a los héroes enemigos que están en el área objetivo durante <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">3</s> segundos. Los héroes afectados no pueden atacar ni usar habilidades, y quedan un <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">30%</s> ralentizados."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/PlantHorrorOvergrowthPlant|PlantHorrorOvergrowth|W",
+    "value": "Engendra un Rebrote que deshabilita las estructuras cercanas. Infliges <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200%</c> más de daño a las estructuras afectadas por Rebrote. Pierde salud poco a poco en el transcurso de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> segundos."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/GardenCoreLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Después de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> segundo, convierte en Reptantes a los héroes enemigos que están en el área objetivo durante <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">3</s> segundos. Los héroes afectados no pueden atacar ni usar habilidades, y quedan un <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">30%</s> ralentizados."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/UnderworldBossStun|GraveGolemMegaStun|Q",
+    "value": "Golpea el suelo, inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> de daño a los enemigos cercanos y los aturde."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/GardenCoreLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Maldición de la Reina"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/UnderworldBossStun|GraveGolemMegaStun|Q",
+    "value": "Megaplastamiento"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/UnderworldBossStun|GraveGolemMegaStun|Q",
+    "value": "Daña y aturde a los enemigos en un área grande"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostDamageToPlants",
+    "value": "~AwardValue~ semillas recolectadas"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostSeedsCollected",
+    "value": "~AwardValue~ semillas recolectadas"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostDamageToPlants",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Recolector de semillas</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostSeedsCollected",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Recolector de semillas</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostDamageToPlants",
+    "value": "~TooltipAmount~ semillas recolectadas"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostSeedsCollected",
+    "value": "~TooltipAmount~ semillas recolectadas"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostDamageToPlants",
+    "value": "Mayor cantidad de daño infligido a las plantas"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/Seed",
+    "value": "Dirígete hasta la semilla para recogerla. "
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/GardenTerror",
+    "value": "Terror agreste"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OvergrowthPlant",
+    "value": "Rebrote vegetal"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OvergrowthPlantDummyUnit",
+    "value": "Rebrote vegetal - Simulación - Unidad"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OvergrowthVinesMissile",
+    "value": "Vides de rebrote - Misil"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Seed",
+    "value": "Semilla"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SeedSpawnPreview",
+    "value": "Vista previa de engendración de semilla"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Shambler",
+    "value": "Reptante"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerMissile",
+    "value": "Reptante - Misil"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerRanged",
+    "value": "Reptante"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerRangedWeaponMissile",
+    "value": "Reptante - Arma de largo alcance - Misil"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Garden of Terror"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/PlantHorrorLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Tiempo de reutilización: 5 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/GardenCoreLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Tiempo de reutilización: 5 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/UnderworldBossStun|GraveGolemMegaStun|Q",
+    "value": "Tiempo de reutilización: 10 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/PlantHorrorLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Tras <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s, conviertes a los héroes enemigos de un área en espantajos durante <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">3</s> s, lo que provoca que no puedan atacar o utilizar habilidades y los ralentiza un <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">30%</s>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/PlantHorrorOvergrowthPlant|PlantHorrorOvergrowth|W",
+    "value": "Engendras hojarasca que incapacita las estructuras cercanas. Infliges un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200%</c> de daño adicional a las estructuras afectadas por Hojarasca. Esta va perdiendo salud lentamente durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> s."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/GardenCoreLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Tras <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s, conviertes a los héroes enemigos de un área en espantajos durante <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">3</s> s, lo que provoca que no puedan atacar o utilizar habilidades y los ralentiza un <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">30%</s>."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/UnderworldBossStun|GraveGolemMegaStun|Q",
+    "value": "Golpea el suelo, lo que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> de daño a los enemigos cercanos y los aturde."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/GardenCoreLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Maldición de la Reina"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/UnderworldBossStun|GraveGolemMegaStun|Q",
+    "value": "Aplastamiento"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/UnderworldBossStun|GraveGolemMegaStun|Q",
+    "value": "Infliges daño y aturdes a los enemigos en una gran área."
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostDamageToPlants",
+    "value": "~AwardValue~ semillas recogidas"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostSeedsCollected",
+    "value": "~AwardValue~ semillas recogidas"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostDamageToPlants",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Recolector,Recolectora</lang> de semillas"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostSeedsCollected",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Recolector,Recolectora</lang> de semillas"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostDamageToPlants",
+    "value": "~TooltipAmount~ semillas recogidas"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostSeedsCollected",
+    "value": "~TooltipAmount~ semillas recogidas"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostDamageToPlants",
+    "value": "Mayor daño infligido a plantas"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/Seed",
+    "value": "Acércate para recoger esta semilla."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/GardenTerror",
+    "value": "Terror de jardín"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OvergrowthPlant",
+    "value": "Planta de Hojarasca"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OvergrowthPlantDummyUnit",
+    "value": "Unidad de prueba de planta de Hojarasca"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OvergrowthVinesMissile",
+    "value": "Misil de cepas de Hojarasca"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Seed",
+    "value": "Semilla"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SeedSpawnPreview",
+    "value": "Previsualización de aparición de semilla"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Shambler",
+    "value": "Espantajo"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerMissile",
+    "value": "Misil de espantajo"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerRanged",
+    "value": "Espantajo"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerRangedWeaponMissile",
+    "value": "Misil de arma a distancia de espantajo"
+  }
+]

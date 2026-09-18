@@ -1,0 +1,456 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98182_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/abilities/Basic/1/linkId",
+    "value": "XalatathDarkHeartRitual|XalatathDarkHeartRitual|W"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/abilities/Basic/1/abilityId",
+    "value": "XalatathDarkHeartRitual"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/abilities/Basic/1/buttonId",
+    "value": "XalatathDarkHeartRitual"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/abilities/Basic/1/icon",
+    "value": "storm_ui_icon_xalatath_e_darkheartritual.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/abilities/Basic/2/linkId",
+    "value": "XalatathVoidStep|XalatathVoidStep|E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/abilities/Basic/2/abilityId",
+    "value": "XalatathVoidStep"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/abilities/Basic/2/buttonId",
+    "value": "XalatathVoidStep"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/abilities/Basic/2/icon",
+    "value": "storm_ui_icon_xalatath_w_voidstep.png"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Xalatath/subAbilities/XalatathVoidStep|XalatathVoidStep|W"
+  },
+  {
+    "op": "add",
+    "path": "/items/Xalatath/subAbilities/XalatathVoidStep|XalatathVoidStep|E",
+    "value": {
+      "Basic": [
+        {
+          "linkId": "XalatathVoidStepCancel|XalatathVoidStepCancel|E",
+          "abilityId": "XalatathVoidStepCancel",
+          "buttonId": "XalatathVoidStepCancel",
+          "icon": "hud_btn_bg_ability_cancel.png",
+          "toggleCooldown": 0.5,
+          "abilityType": "E"
+        }
+      ]
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level1/1/linkId",
+    "value": "XalatathAnchoredCore|XalatathAnchoredCore|W|Level1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level1/1/talentId",
+    "value": "XalatathAnchoredCore"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level1/1/buttonId",
+    "value": "XalatathAnchoredCore"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level1/1/abilityId",
+    "value": "XalatathDarkHeartRitual"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level1/1/icon",
+    "value": "storm_ui_icon_xalatath_e_darkheartritual.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level1/1/tooltipAbilityLinkIds/0",
+    "value": "XalatathDarkHeartRitual|XalatathDarkHeartRitual|W"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level1/2/linkId",
+    "value": "XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level1/2/talentId",
+    "value": "XalatathCloakOfShadows"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level1/2/buttonId",
+    "value": "XalatathCloakOfShadows"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level1/2/abilityId",
+    "value": "XalatathVoidStep"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level1/2/icon",
+    "value": "storm_ui_icon_xalatath_w_voidstep.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level1/2/tooltipAbilityLinkIds/0",
+    "value": "XalatathVoidStep|XalatathVoidStep|E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level4/1/linkId",
+    "value": "XalatathDarkBarrier|XalatathDarkBarrier|W|Level4"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level4/1/talentId",
+    "value": "XalatathDarkBarrier"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level4/1/buttonId",
+    "value": "XalatathDarkBarrier"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level4/1/abilityId",
+    "value": "XalatathDarkHeartRitual"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level4/1/icon",
+    "value": "storm_ui_icon_xalatath_e_darkheartritual.png"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Xalatath/talents/Level4/1/tooltipAbilityLinkIds/1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level4/1/tooltipAbilityLinkIds/0",
+    "value": "XalatathDarkHeartRitual|XalatathDarkHeartRitual|W"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level4/2/linkId",
+    "value": "XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level4/2/talentId",
+    "value": "XalatathVoidAcolyte"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level4/2/buttonId",
+    "value": "XalatathVoidAcolyte"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level4/2/abilityId",
+    "value": "XalatathVoidStep"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level4/2/icon",
+    "value": "storm_ui_icon_xalatath_w_voidstep.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level4/2/tooltipAbilityLinkIds/0",
+    "value": "XalatathVoidStep|XalatathVoidStep|E"
+  },
+  {
+    "op": "add",
+    "path": "/items/Xalatath/talents/Level4/2/tooltipAbilityLinkIds/1",
+    "value": "XalatathVoidVolley|XalatathVoidVolley|Trait"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level7/1/linkId",
+    "value": "XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level7/1/abilityType",
+    "value": "E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level7/1/tooltipAbilityLinkIds/0",
+    "value": "XalatathVoidStep|XalatathVoidStep|E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level7/2/linkId",
+    "value": "XalatathVoidSummoner|XalatathVoidSummoner|E|Level7"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level7/2/abilityType",
+    "value": "E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level7/2/tooltipAbilityLinkIds/0",
+    "value": "XalatathVoidStep|XalatathVoidStep|E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level13/0/linkId",
+    "value": "XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level13/0/talentId",
+    "value": "XalatathCrushingCascade"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level13/0/buttonId",
+    "value": "XalatathCrushingCascade"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level13/0/abilityId",
+    "value": "XalatathVoidVolley"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level13/0/icon",
+    "value": "storm_ui_icon_xalatath_trait.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level13/0/abilityType",
+    "value": "Trait"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level13/0/tooltipAbilityLinkIds/0",
+    "value": "XalatathVoidVolley|XalatathVoidVolley|Trait"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level13/1/linkId",
+    "value": "XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level13/1/talentId",
+    "value": "XalatathPullOfTheDarkHeart"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level13/1/buttonId",
+    "value": "XalatathPullOfTheDarkHeart"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level13/1/icon",
+    "value": "storm_ui_icon_xalatath_e_darkheartritual.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level13/1/abilityType",
+    "value": "W"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level13/1/tooltipAbilityLinkIds/0",
+    "value": "XalatathDarkHeartRitual|XalatathDarkHeartRitual|W"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level13/2/linkId",
+    "value": "XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level13/2/talentId",
+    "value": "XalatathDarkHeartsProtection"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level13/2/buttonId",
+    "value": "XalatathDarkHeartsProtection"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level13/2/abilityId",
+    "value": "XalatathDarkHeartRitual"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level13/2/icon",
+    "value": "storm_ui_icon_xalatath_e_darkheartritual_b.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level13/2/abilityType",
+    "value": "W"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level13/2/tooltipAbilityLinkIds/0",
+    "value": "XalatathDarkHeartRitual|XalatathDarkHeartRitual|W"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level16/1/linkId",
+    "value": "XalatathFracturedReality|XalatathFracturedReality|Trait|Level16"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level16/1/talentId",
+    "value": "XalatathFracturedReality"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level16/1/buttonId",
+    "value": "XalatathFracturedReality"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level16/1/abilityId",
+    "value": "XalatathVoidVolley"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level16/1/icon",
+    "value": "storm_ui_icon_xalatath_trait.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level16/1/abilityType",
+    "value": "Trait"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level16/1/tooltipAbilityLinkIds/0",
+    "value": "XalatathVoidVolley|XalatathVoidVolley|Trait"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level16/2/linkId",
+    "value": "XalatathPummelingStep|XalatathPummelingStep|E|Level16"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level16/2/talentId",
+    "value": "XalatathPummelingStep"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level16/2/buttonId",
+    "value": "XalatathPummelingStep"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level16/2/abilityId",
+    "value": "XalatathVoidStep"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level16/2/icon",
+    "value": "storm_ui_icon_xalatath_w_voidstep.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level16/2/abilityType",
+    "value": "E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level16/2/tooltipAbilityLinkIds/0",
+    "value": "XalatathVoidStep|XalatathVoidStep|E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level20/3/linkId",
+    "value": "XalatathUnstableCore|XalatathUnstableCore|W|Level20"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level20/3/talentId",
+    "value": "XalatathUnstableCore"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level20/3/buttonId",
+    "value": "XalatathUnstableCore"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level20/3/abilityId",
+    "value": "XalatathDarkHeartRitual"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level20/3/icon",
+    "value": "storm_ui_icon_xalatath_e_darkheartritual.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level20/3/tooltipAbilityLinkIds/0",
+    "value": "XalatathDarkHeartRitual|XalatathDarkHeartRitual|W"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level20/4/linkId",
+    "value": "XalatathParadoxLoop|XalatathParadoxLoop|E|Level20"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level20/4/talentId",
+    "value": "XalatathParadoxLoop"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level20/4/buttonId",
+    "value": "XalatathParadoxLoop"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level20/4/abilityId",
+    "value": "XalatathVoidStep"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level20/4/icon",
+    "value": "storm_ui_icon_xalatath_w_voidstep.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/talents/Level20/4/tooltipAbilityLinkIds/0",
+    "value": "XalatathVoidStep|XalatathVoidStep|E"
+  }
+]

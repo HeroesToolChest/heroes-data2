@@ -1,0 +1,37 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Blackheart's Bay"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/BlackheartsCoreBombardment|BlackheartsCoreBombardment|Hidden",
+    "value": "Spara un'enorme palla di cannone contro un eroe nemico, infliggendo danni pari al <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c> della sua Salute massima e respingendolo dal punto d'impatto."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/BlackheartsCoreBombardment|BlackheartsCoreBombardment|Hidden",
+    "value": "Bombardamento "
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/BlackheartsCoreBombardment|BlackheartsCoreBombardment|Hidden",
+    "value": "Danneggia e respinge gli eroi in un'ampia area."
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostCoinsPaid",
+    "value": "~AwardValue~% delle monete consegnate"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostCoinsPaid",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Riccone,Riccona</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostCoinsPaid",
+    "value": "~TooltipAmount~ monete consegnate."
+  }
+]

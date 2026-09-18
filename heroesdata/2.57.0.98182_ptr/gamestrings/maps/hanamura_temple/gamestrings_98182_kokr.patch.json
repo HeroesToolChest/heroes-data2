@@ -1,0 +1,237 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Hanamura Temple"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/DragonsDinner|DragonsDinner|Q",
+    "value": "재사용 대기시간: 12초"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/HanamuraCoreBarrage|HanamuraCoreBarrage|Q",
+    "value": "재사용 대기시간: 8초"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/MercDefenderHealingPulse|MercDefenderHealingPulse|Z",
+    "value": "재사용 대기시간: 10초"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/RingOfFire|RingOfFire|W",
+    "value": "재사용 대기시간: 5초"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/HanamuraCoreBarrage|HanamuraCoreBarrage|Q",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>대의 미사일을 투하합니다. 미사일은 적에게 최대 생명력의 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c>만큼 피해를 주며 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c>초 동안 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70%</c> 느려지게 합니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/DragonsDinner|DragonsDinner|Q",
+    "value": "감금"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/HanamuraCoreBarrage|HanamuraCoreBarrage|Q",
+    "value": "포화"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercDefenderHealingPulse|MercDefenderHealingPulse|Z",
+    "value": "파수꾼 - 치유의 파동"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/move|Move|Trait",
+    "value": "이동"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/OverwatchMechanicRepair|OverwatchMechanicRepair|Z",
+    "value": "기술자 - 수리"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/PayloadMove|:NONE:|Hidden",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/RingOfFire|RingOfFire|W",
+    "value": "에너지 고리"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/HanamuraCoreBarrage|HanamuraCoreBarrage|Q",
+    "value": "적들에게 피해를 주고 느려지게 함"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/RingOfFire|RingOfFire|W",
+    "value": "내부에 있는 대상에게 피해를 주는 에너지 고리를 생성합니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/BioticEmitter",
+    "value": "생체 방출기를 생성하여 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c>초에 걸쳐 주위 아군 영웅들을 최대 생명력과 마나의 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c>만큼 치유합니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">생명력이 높은 튼튼한 용병입니다. 근접 공격을 합니다. 적 구조물의 피해를 받아내는 데 특화되어 있습니다.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser2",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">생명력이 높은 튼튼한 용병입니다. 근접 공격을 합니다. 적 구조물의 피해를 받아내는 데 특화되어 있습니다.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser3",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">생명력이 높은 튼튼한 용병입니다. 근접 공격을 합니다. 적 구조물의 피해를 받아내는 데 특화되어 있습니다.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeIndividual",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">생명력이 높은 튼튼한 용병입니다. 근접 공격을 합니다. 적 구조물의 피해를 받아내는 데 특화되어 있습니다.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/JungleGraveGolemDefender",
+    "value": "거대 집행자"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/RegenGlobe",
+    "value": "생명력 팩"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BioticEmitter",
+    "value": "생체 방출기"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DragonSpiritsPickup",
+    "value": "용의 영혼"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HanamuraCoreAttackRadiusDummy",
+    "value": "핵 공격 범위 허수아비"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HanamuraCoreBarrageMissile",
+    "value": "포화 (투사체)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HealingPulsePickup",
+    "value": "치유의 파동"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderHenchman1",
+    "value": "불량배"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderHenchman2",
+    "value": "불량배"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderHenchman3",
+    "value": "불량배"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser",
+    "value": "불량배"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser2",
+    "value": "불량배"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser3",
+    "value": "불량배"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeIndividual",
+    "value": "파수꾼"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderSentinel",
+    "value": "파수꾼"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperLaner",
+    "value": "폭격수"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerHenchman1",
+    "value": "MercLanerHenchman1"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerHenchman2",
+    "value": "MercLanerHenchman1"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerHenchman3",
+    "value": "MercLanerHenchman1"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerSentinel",
+    "value": "파수꾼"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchBossImprisonMissile",
+    "value": "Overwatch Boss Imprison Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchBossImprisonMissileDummy",
+    "value": "Overwatch Boss Imprison Missile (Dummy)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchMechanic",
+    "value": "기계공학자"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchTurret",
+    "value": "포탑"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchTurretPlayer",
+    "value": "포탑 (플레이어)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ReconCampVisionUnit",
+    "value": "Recon Camp Vision Unit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TurretPickup",
+    "value": "포탑 (획득 가능)"
+  }
+]

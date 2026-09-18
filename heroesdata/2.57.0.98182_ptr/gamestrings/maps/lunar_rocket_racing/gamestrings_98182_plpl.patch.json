@@ -1,0 +1,42 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Lunar Rocket Racing"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/ChenWanderingKeg|ChenWanderingKeg|Heroic",
+    "value": "Czas odnowienia: 10 sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/ChenHeroicAbilityWanderingKeg|ChenWanderingKeg|Heroic|Level10",
+    "value": "Czas odnowienia: 10 sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/LunarFestivalEnvelope",
+    "value": "Przemieść bohatera w pobliże, aby zebrać dublon."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LunarFestivalEnvelope",
+    "value": "Koperta"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LunarFestivalFirecracker",
+    "value": "Petarda"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LunarFestivalGreenRocket",
+    "value": "Zielona Rakieta"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Observer_InvisibleUnit",
+    "value": "Observer_InvisibleUnit"
+  }
+]
