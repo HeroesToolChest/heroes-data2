@@ -1,0 +1,77 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98182_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathDarkHeartRitual/radius",
+    "value": 0.25
+  },
+  {
+    "op": "remove",
+    "path": "/items/XalatathDarkHeartRitual/portraits/targetInfo"
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidConvergencePortalUnit/radius",
+    "value": 0.75
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidConvergencePortalUnit/speed",
+    "value": 3.25
+  },
+  {
+    "op": "remove",
+    "path": "/items/XalatathVoidConvergencePortalUnit/attributes/3"
+  },
+  {
+    "op": "remove",
+    "path": "/items/XalatathVoidConvergencePortalUnit/attributes/2"
+  },
+  {
+    "op": "remove",
+    "path": "/items/XalatathVoidConvergencePortalUnit/attributes/1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidConvergencePortalUnit/attributes/0",
+    "value": "Summoned"
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidConvergencePortalUnit/life/amount",
+    "value": 1000
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidConvergencePortalUnit/life/regenRate",
+    "value": 0
+  },
+  {
+    "op": "remove",
+    "path": "/items/XalatathVoidConvergencePortalUnit/portraits/targetInfo"
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidConvergencePortalUnit/damageType",
+    "value": "Summon"
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidMinion/life/amount",
+    "value": 450
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidMinion/life/regenRate",
+    "value": -45
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidMinion/weapons/0/period",
+    "value": 1.75
+  }
+]

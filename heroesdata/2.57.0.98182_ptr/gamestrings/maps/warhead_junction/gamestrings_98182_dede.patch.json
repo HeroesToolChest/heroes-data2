@@ -1,0 +1,287 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Warhead Junction"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+    "value": "Abklingzeit: 14 Sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+    "value": "Abklingzeit: 14 Sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|Q",
+    "value": "Abklingzeit: 20 Sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|W",
+    "value": "Abklingzeit: 20 Sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "Abklingzeit: 15 Sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "Abklingzeit: 15 Sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+    "value": "Spuckt einen Schleimball aus, der Gegnern im Wirkungsbereich Schaden über Zeit zufügt."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+    "value": "Erschafft Schleimschoten um den Boss herum, die Gegner in Reichweite angreifen."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|Q",
+    "value": "Stellt einen automatischen Geschützturm am Zielort auf. Automatische Geschütztürme sind stationäre Geschütze, die alle Gegner in Reichweite angreifen."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|W",
+    "value": "Stellt einen automatischen Geschützturm am Zielort auf. Automatische Geschütztürme sind stationäre Geschütze, die alle Gegner in Reichweite angreifen."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "Feuert eine langsame Rakete auf die Zieleinheit ab. Die Rakete verfolgt das Ziel 7 Sek. lang. Wenn sie bis auf 3 Entfernungseinheiten an das Ziel herankommt, schießt sie schnell nach vorne und explodiert. Dabei fügt sie dem Ziel und Gegnern in der Nähe 0 Schaden zu."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "Feuert eine langsame Rakete auf die Zieleinheit ab. Die Rakete verfolgt das Ziel 7 Sek. lang. Wenn sie bis auf 3 Entfernungseinheiten an das Ziel herankommt, schießt sie schnell nach vorne und explodiert. Dabei fügt sie dem Ziel und Gegnern in der Nähe 0 Schaden zu."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+    "value": "Schleim spucken"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+    "value": "Schoten erschaffen"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/StopRedirect|Stop|W",
+    "value": "Stopp"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "Zielsuchende Rakete"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "Zielsuchende Rakete"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+    "value": "Spuckt einen Schleimball auf ein anvisiertes Gebiet."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+    "value": "Erschafft Schleimschoten, die Gegner in Reichweite angreifen."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "Eine langsame Rakete, die das Ziel verfolgt und bei Kontakt explodiert. Dabei verursacht sie Flächenschaden."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "Eine langsame Rakete, die das Ziel verfolgt und bei Kontakt explodiert. Dabei verursacht sie Flächenschaden."
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostNukeDamageDone",
+    "value": "~AwardValue~% des teamweiten Sprengkopfschadens"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostNukeDamageDone",
+    "value": "Sprengmeister"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostNukeDamageDone",
+    "value": "~TooltipAmount~ Schaden mit Sprengköpfen"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MapMechanicNuke",
+    "value": "Feuert nach <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> Sek. einen Sprengkopf ab, der <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1750</c> Schaden verursacht (Helden erleiden Schaden in Höhe von <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> ihrer maximalen Lebenspunkte). Setzt Gebäude in Brand und verursacht über 10 Sek. hinweg zusätzlichen Schaden. Dieser Effekt wird durch Angriffe auf brennende Gebäude verlängert."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/TerranRavenSeekerMissile",
+    "value": "Feuert eine langsame Rakete auf die Zieleinheit ab. Die Rakete verfolgt das Ziel 7 Sek. lang. Wenn sie bis auf 3 Entfernungseinheiten an das Ziel herankommt, schießt sie schnell nach vorne und explodiert. Dabei fügt sie dem Ziel und Gegnern in der Nähe 0 Schaden zu."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArcadeMachine",
+    "value": "Spielautomat"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MapMechanicNuke",
+    "value": "Nuklearrakete"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MapMechanicNukeSilo",
+    "value": "Nuklearsilo"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/NukeTargetMinimapIconUnit",
+    "value": "Ziel für Nuklearrakete - Minikartensymbol, Einheit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PapaCosplay",
+    "value": "Papa Cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossDefender",
+    "value": "Schleimboss"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossLaner",
+    "value": "Schleimboss"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossPodlingDefender",
+    "value": "Schotling"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossPodlingLaner",
+    "value": "Schotling"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossSlimeSpitMissile",
+    "value": "Schleimboss - Schleim spucken, Geschoss"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossSpawnPodsMissile",
+    "value": "Schleimboss - Schoten erschaffen, Geschoss"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SwampMonsterEasterEggUnit",
+    "value": "Sumpfmonster - Easter-Egg, Einheit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranBunker",
+    "value": "Bunker"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranBunkerUpgraded",
+    "value": "Verbesserter Bunker"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranGoliath",
+    "value": "Terranischer Goliath"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranGoliathDefender",
+    "value": "Goliath"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranHellbat",
+    "value": "Terranischer Kampfhellion"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranHellbatDefender",
+    "value": "Kampfhellion"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranMarine",
+    "value": "Space-Marine"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranRaven",
+    "value": "Terranischer Raven"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranRavenDefender",
+    "value": "Raven"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranRavenSeekerMissile",
+    "value": "Raven"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerrazineGasVein",
+    "value": "Terrazinader"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerrazineRageAoEMissile",
+    "value": "Terrazin - Wut, Flächenschaden - Geschoss"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadDouble",
+    "value": "Sprengkopf"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadDropped",
+    "value": "Fallen gelassener Sprengkopf"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadDroppedMissile",
+    "value": "Fallen gelassener Sprengkopf - Geschoss"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadSingle",
+    "value": "Sprengkopf"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadTriple",
+    "value": "Sprengkopf"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WaygateEntrance",
+    "value": "Abwassertunnel"
+  }
+]

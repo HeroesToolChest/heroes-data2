@@ -1,0 +1,882 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98182_ptr"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/cooldownText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Время восстановления: 7\u00A0сек."
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/cooldownText/XalatathVoidStep|XalatathVoidStep|W"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Время восстановления: 15 сек."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Время восстановления: 15 сек."
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/energyText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/energyText/XalatathVoidStep|XalatathVoidStep|W"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Мана: 35</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Мана: 50</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Мана: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|SylvanasBlackArrowsPassive|Trait",
+    "value": "При автоатаках на врагов накладываются эффекты «Черных стрел» на <c val=#TooltipNumbers>0</c>\u00A0сек. Эффекты могут накапливаться до <c val=#TooltipNumbers>0</c>\u00A0раз. Сильвана наносит на <c val=#TooltipNumbers>0%</c> больше урона врагам с <c val=#TooltipNumbers>0</c>\u00A0эффектами.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Задача:</c> наносите урон героям и строениям с <c val=#TooltipNumbers>0</c>\u00A0эффектами «Черных стрел».<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Награда:</c> при нанесении урона врагам <c val=#TooltipNumbers>0</c>\u00A0<lang rule=\"plural\" val=\"\">раз,раза,раз</lang> дополнительный урон от «Черных стрел» увеличится до <c val=#TooltipNumbers>0%</c>.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Эпохальная награда:</c> при нанесении урона врагам <c val=#TooltipNumbers>0</c>\u00A0<lang rule=\"plural\" val=\"\">раз,раза,раз</lang> «Черные стрелы» будут исцелять Сильвану на <c val=#TooltipNumbers>0%</c> от урона, наносимого при <c val=#TooltipNumbers>0</c>\u00A0эффектах. Этот показатель удваивается при нанесении урона героям."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasArmyOfTheDead|ArthasArmyOfTheDead|Heroic",
+    "value": "Призывает вурдалаков в количестве, равном накопленным зарядам способности. Вурдалаки постепенно теряют здоровье в течение <c val=#TooltipNumbers>0</c>\u00A0сек. и атакуют врагов поблизости, нанося <c val=#TooltipNumbers>0</c>\u00A0ед. урона. При повторном использовании Артас принесет в жертву одного вурдалака и восстановит себе <c val=#TooltipNumbers>0</c>\u00A0ед. здоровья. Максимум зарядов\u00A0— <c val=#TooltipNumbers>0</c>.<n/><n/>Каждый раз, когда поблизости погибает вражеский воин, время восстановления заряда способности сокращается на <c val=#TooltipNumbers>0</c>\u00A0сек. Когда Артас убивает героя, время восстановления заряда также сокращается на <c val=#TooltipNumbers>0</c>\u00A0сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/MuradinStormBolt|MuradinStormbolt|Q",
+    "value": "Бросает молот, который наносит первому противнику на своем пути <c val=#TooltipNumbers>0</c>\u00A0ед. урона и оглушает его на <c val=#TooltipNumbers>0</c>\u00A0сек.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Задача:</c> наносите автоатаками урон героям под действием оглушения, замедления или обездвиживания. Автоатаки по замедленным или обездвиженным героям дают <c val=#TooltipNumbers>0</c>\u00A0<lang rule=\"plural\" val=\"\">эффект,эффекта,эффектов</lang>, а по оглушенным\u00A0— <c val=#TooltipNumbers>0</c>\u00A0<lang rule=\"plural\" val=\"\">эффект,эффекта,эффектов</lang>. Если герой умирает в течение <c val=#TooltipNumbers>0</c>\u00A0сек., Мурадин получает <c val=#TooltipNumbers>0</c>\u00A0<lang rule=\"plural\" val=\"\">эффект,эффекта,эффектов</lang>.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Награда:</c> после накопления <c val=#TooltipNumbers>0</c>\u00A0эффектов «Грозовой молот» будет пронзать первую цель и поражать еще одну, а каждая автоатака будет сокращать время его восстановления на <c val=#TooltipNumbers>0</c>\u00A0сек. и восполнять <c val=#TooltipNumbers>0</c>\u00A0ед. маны.<n/><<img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Эпохальная награда:</c> после накопления <c val=#TooltipNumbers>0</c>\u00A0эффектов «Грозовой молот» будет пронзать все цели. Также дальность его действия увеличится на <c val=#TooltipNumbers>0%</c>, а ширина\u00A0— на <c val=#TooltipNumbers>0%</c>."
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Запускает сферу Бездны, которая наносит <c val=#TooltipNumbers>0</c>\u00A0ед. урона пораженным врагам. Оказавшиеся в эпицентре враги получают еще <c val=#TooltipNumbers>0</c>\u00A0ед. урона.<n/><n/>Поражая вражеских героев напрямую, сфера отмечает их на <c val=#TooltipNumbers>0</c>\u00A0сек.<n/><n/>Отмеченные герои становятся видимыми и привлекают к себе Темное сердце с воинами Бездны."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "После поддержания в течение <c val=#TooltipNumbers>0</c>\u00A0сек. открывает портал в Бездну. Из него выходит до <c val=#TooltipNumbers>4</c>\u00A0воинов Бездны, которые нападают на ближайших врагов.<n/><n/>Находящиеся рядом с порталом в Бездну враги замедляются на <c val=#TooltipNumbers>0%</c>.<n/><n/>Воины Бездны в первую очередь преследуют героев, отмеченных «Знаком Тьмы».<n/><n/><s val=TooltipSubscript>Портал теряет здоровье в течение 20\u00A0сек.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Поддерживает мощную сферу Бездны, которая растет в течение <c val=#TooltipNumbers>0</c>\u00A0сек., пока не достигнет максимально возможного размера. При повторном использовании Ксал'атат запускает сферу раньше.<n/><n/>Столкнувшиеся со сферой противники получают до <c val=#TooltipNumbers>0</c>\u00A0ед. урона и слепнут на <s val=StandardTooltipDetails>0</s>\u00A0сек.<n/><n/>Пролетев весь свой путь, сфера с силой взрывается и наносит до <c val=#TooltipNumbers>0</c>\u00A0ед. урона.<n/><n/><s val=TooltipSubscript>Урон при столкновении наносится каждые 0,125\u00A0сек.</s>"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathVoidStepCancel|XalatathVoidStepCancel|W"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|W"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Автоатаки Ксал'атат заряжают «Залп Бездны». При полном заряде «Залп Бездны» запускает в выбранную область множество сфер Бездны, каждая из которых наносит <c val=#TooltipNumbers>0</c>\u00A0ед. урона при попадании.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Задача:</c> атакуйте вражеских героев «Залпом Бездны». За каждого пораженного героя вы получаете <c val=#TooltipNumbers>0</c>\u00A0эффект, а весь урон от Бездны увеличивается на <c val=#TooltipNumbers>0%</c>. При гибели Ксал'атат теряет все эффекты.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Награда (при 0\u00A0эффектах):</c><n/><c val=#TooltipGreen>+2</c> к дальности «Залпа Бездны».<n/><n/>Теперь при гибели Ксал'атат теряет только 6\u00A0эффектов. Количество эффектов не может опуститься ниже минимального количества на текущем этапе.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/>.<c val=#TooltipQuest>Награда (при 0\u00A0эффектах):</c><n/>Для полного заряда «Залпа Бездны» требуется на <c val=#TooltipGreen>1</c>\u00A0автоатаку меньше.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Эпохальная награда (при0\u00A0эффектах):</c><n/><c val=#TooltipGreen>+0%</c> к урону от Бездны и способностей.<n/>Снаряды «Залпа Бездны» пронзают любые цели."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Призывает Темное сердце, которое в течение <c val=#TooltipNumbers>0</c>\u00A0сек. посылает импульсы энергии, наносящие <c val=#TooltipNumbers>0</c>\u00A0ед. урона находящимся рядом врагам.<n/><n/>Темное сердце движется к месту, пораженному «Знаком Тьмы».<n/><n/>Темное сердце преследует отмеченных героев и взрывается при столкновении, нанося <c val=#TooltipNumbers>0</c>\u00A0ед. урона ближайшим врагам и <c val=#TooltipNumbers>+0</c>\u00A0ед. урона отмеченной цели."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidStepCancel|XalatathVoidStepCancel|E",
+    "value": "При досрочной отмене Ксал'атат останавливается в текущей точке."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Используйте, чтобы Ксал'атат телепортировалась по треугольной траектории <c val=#TooltipNumbers>3</c>\u00A0раза.<n/><n/>Пока способность активна, при каждой телепортации автоатака Ксал'атат наносит на <s val=StandardTooltipDetails>+0%</s> больше урона.<n/><n/>При повторном использовании действие «Шага через Бездну» прекращается раньше и Ксал'атат остается в текущей точке."
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathVoidStepCancel|XalatathVoidStepCancel|W"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathVoidStep|XalatathVoidStep|W"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Ритуал Темного сердца"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidStepCancel|XalatathVoidStepCancel|E",
+    "value": "Отменить «Шаг через Бездну»"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Шаг через Бездну"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/shortText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Запускает большую сферу Бездны."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/shortText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "Открывает портал, из которого выходят воины Бездны."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/shortText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Поддерживает растущую сферу, которая наносит урон на своем пути."
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/XalatathVoidStep|XalatathVoidStep|W"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/shortText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Обрушивает множество снарядов Бездны на выбранную область."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Призывает Темное сердце."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Используйте, чтобы Ксал'атат телепортировалась по треугольной траектории."
+  },
+  {
+    "op": "replace",
+    "path": "/items/hero/description/Xalatath",
+    "value": "Наносящая урон издалека героиня, которая использует энергию Бездны, чтобы контролировать поле боя и подавлять противников."
+  },
+  {
+    "op": "replace",
+    "path": "/items/hero/infoText/Xalatath",
+    "value": "Целую вечность Ксал'атат манипулировала как смертными, так и богами, чтобы подниматься все выше по космической иерархии. Когда-то она была слугой Пространствуса Всепоглощающего, а затем попала в плен к Древним богам. Теперь же Ксал'атат обрела свободу и претворяет в жизнь собственные планы, начав с уничтожения Даларана и перевоплощения Солнечного Колодца."
+  },
+  {
+    "op": "replace",
+    "path": "/items/hero/searchText/Xalatath",
+    "value": "Маг Бездны из World of Warcraft"
+  },
+  {
+    "op": "replace",
+    "path": "/items/hero/title/Xalatath",
+    "value": "Предвестница Бездны"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/infoText/MountDirewolfThreeTails",
+    "value": "Дремавший долгие годы Нексус вновь ожил, и из него явились существа, которые дали начало новой эпохе. Предмет выпущен в честь фестиваля BlizzCon\u00A02026."
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/infoText/MountPhoenix",
+    "value": "Фениксы Вечной Песни\u00A0— гордость и символ Кель'Таласа, воплощающий в себе несгибаемый дух эльфов. Популяция их небольшая, но вымирание фениксам не грозит, ведь они способны вечно возрождаться из пепла."
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/name/MountPhoenix",
+    "value": "Син'дорайский феникс"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/name/MountPhoenixVar1",
+    "value": "Сияющий син'дорайский феникс"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/name/MountPhoenixVar2",
+    "value": "Лазурный син'дорайский феникс"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/name/MountPhoenixVar3",
+    "value": "Син'дорайский феникс Бездны"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/name/MountPhoenixVar4",
+    "value": "Магический син'дорайский феникс"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/name/MountPhoenixVar5",
+    "value": "Темный син'дорайский феникс"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVar1",
+    "value": "Целую вечность Ксал'атат манипулировала как смертными, так и богами, чтобы подниматься все выше по космической иерархии. Когда-то она была слугой Пространствуса Всепоглощающего, а затем попала в плен к Древним богам. Теперь же Ксал'атат обрела свободу и претворяет в жизнь собственные планы, начав с уничтожения Даларана и перевоплощения Солнечного Колодца."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVar2",
+    "value": "Целую вечность Ксал'атат манипулировала как смертными, так и богами, чтобы подниматься все выше по космической иерархии. Когда-то она была слугой Пространствуса Всепоглощающего, а затем попала в плен к Древним богам. Теперь же Ксал'атат обрела свободу и претворяет в жизнь собственные планы, начав с уничтожения Даларана и перевоплощения Солнечного Колодца."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVar3",
+    "value": "Целую вечность Ксал'атат манипулировала как смертными, так и богами, чтобы подниматься все выше по космической иерархии. Когда-то она была слугой Пространствуса Всепоглощающего, а затем попала в плен к Древним богам. Теперь же Ксал'атат обрела свободу и претворяет в жизнь собственные планы, начав с уничтожения Даларана и перевоплощения Солнечного Колодца."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVar4",
+    "value": "Целую вечность Ксал'атат манипулировала как смертными, так и богами, чтобы подниматься все выше по космической иерархии. Когда-то она была слугой Пространствуса Всепоглощающего, а затем попала в плен к Древним богам. Теперь же Ксал'атат обрела свободу и претворяет в жизнь собственные планы, начав с уничтожения Даларана и перевоплощения Солнечного Колодца."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVoidflame",
+    "value": "Видя, как рушится Темная Империя, Древние боги в отчаянии освободили Ксал'атат, надеясь на спасение. Она же забрала их силы и стала пятым, последним Древним божеством. Теперь императрица Сумеречного Клинка Ксал'атат намеревается поглотить весь космос."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVoidflameVar1",
+    "value": "Видя, как рушится Темная Империя, Древние боги в отчаянии освободили Ксал'атат, надеясь на спасение. Она же забрала их силы и стала пятым, последним Древним божеством. Теперь императрица Сумеречного Клинка Ксал'атат намеревается поглотить весь космос."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVoidflameVar2",
+    "value": "Видя, как рушится Темная Империя, Древние боги в отчаянии освободили Ксал'атат, надеясь на спасение. Она же забрала их силы и стала пятым, последним Древним божеством. Теперь императрица Сумеречного Клинка Ксал'атат намеревается поглотить весь космос."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVoidflameVar3",
+    "value": "Видя, как рушится Темная Империя, Древние боги в отчаянии освободили Ксал'атат, надеясь на спасение. Она же забрала их силы и стала пятым, последним Древним божеством. Теперь императрица Сумеречного Клинка Ксал'атат намеревается поглотить весь космос."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVoidflameVar4",
+    "value": "Видя, как рушится Темная Империя, Древние боги в отчаянии освободили Ксал'атат, надеясь на спасение. Она же забрала их силы и стала пятым, последним Древним божеством. Теперь императрица Сумеречного Клинка Ксал'атат намеревается поглотить весь космос."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVar1",
+    "value": "Син'дорайская Ксал'атат"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVar2",
+    "value": "Отрекшаяся Ксал'атат"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVar3",
+    "value": "Калдорайская Ксал'атат"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVar4",
+    "value": "Пронзательница сердец Ксал'атат"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVoidflame",
+    "value": "Сумеречная Ксал'атат"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVoidflameVar1",
+    "value": "Оскверненная сумеречная Ксал'атат"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVoidflameVar2",
+    "value": "Огненная сумеречная Ксал'атат"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVoidflameVar3",
+    "value": "Ледяная сумеречная Ксал'атат"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVoidflameVar4",
+    "value": "Изначальная сумеречная Ксал'атат"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/sortName/XalatathVoidflame",
+    "value": "XalatathVoidflameVar0"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "Саранчиды получают на <c val=#TooltipNumbers>50%</c> меньше урона от всех, кроме героев, а наносимый ими урон увеличивается на <c val=#TooltipNumbers>0%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": "Автоатаки Абатура наносят на <c val=#TooltipNumbers>350%</c> больше урона, оглушают неэлитных врагов и обезвреживают постройки на <c val=#TooltipNumbers>0</c>\u00A0сек.<n/><n/>Одну и ту же цель можно оглушить или обезвредить не чаще раза в <c val=#TooltipNumbers>0</c>\u00A0сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "Уменьшает расход маны «Огненного удара» с <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>\u00A0ед. до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>\u00A0ед.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> нанесите «Огненный удар» по горящим вражеским героям. После <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0ударов вы получите эпохальную задачу.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Награда:</c> нанесите урон <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0героям, чтобы попадания «Огненным ударом» по горящим вражеским героям сокращали время восстановления «Королевы драконов» на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0сек.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Эпохальная задача:</c> нанесите урон еще <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c>\u00A0героям, при этом не погибнув, чтобы урон, наносимый «Королевой драконов» героям, продлевал действие способности."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArthasHeroicAbilityArmyoftheDead|ArthasArmyOfTheDead|Heroic|Level10",
+    "value": "Призывает вурдалаков в количестве, равном накопленным зарядам способности. Вурдалаки постепенно теряют здоровье в течение <c val=#TooltipNumbers>0</c>\u00A0сек. и атакуют врагов поблизости, нанося <c val=#TooltipNumbers>0</c>\u00A0ед. урона. При повторном использовании Артас принесет в жертву одного вурдалака и восстановит себе <c val=#TooltipNumbers>0</c>\u00A0ед. здоровья. Максимум зарядов\u00A0— <c val=#TooltipNumbers>0</c>.<n/><n/>Каждый раз, когда поблизости погибает вражеский воин, время восстановления заряда способности сокращается на <c val=#TooltipNumbers>0</c>\u00A0сек. Когда Артас убивает героя, время восстановления заряда также сокращается на <c val=#TooltipNumbers>0</c>\u00A0сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Задача:</c> при попадании «Пламени Тьмы» по подожженным «Всепоглощающим жаром» Чо вражеским героям время восстановления «Пламени Тьмы» сокращается на <c val=#TooltipNumbers>0</c>\u00A0сек.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Награда:</c> после <c val=#TooltipNumbers>0</c> попаданий по героям время восстановления «Пламени Тьмы» вместо этого уменьшится на <c val=#TooltipNumbers>0</c>\u00A0сек. до конца матча."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiDeflectPerfectDefense|GenjiDeflectPerfectDefense|W|Level7",
+    "value": "При отражении урона сокращает время восстановления «Отражения атак» на <c val=#TooltipNumbers>0</c>\u00A0сек. вплоть до <c val=#TooltipNumbers>0</c>\u00A0сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhTransformRavenWindsOfCelerity|MedivhTransformRavenWindsOfCelerity|Z|Level1",
+    "value": "Увеличивает бонус к скорости передвижения в облике ворона на <c val=#TooltipNumbers>0%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "При активации «Огненных Недр» дальность увеличивается на <c val=#TooltipNumbers>100%</c>. Кроме того, время восстановления «Огненных Недр» сокращается на <c val=#TooltipNumbers>90</c>\u00A0сек., если способность применяется на уничтоженный форт или крепость."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|E|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathCloakOfShadows|XalatathCloakOfShadows|W|Level1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": "Каждое попадание «Залпом Бездны» замедляет врагов на <c val=#TooltipNumbers>0%</c> на <c val=#TooltipNumbers>0</c>\u00A0сек. Эффект суммируется до <c val=#TooltipNumbers>0%</c>."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|E|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|E|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": "<c val=#TooltipGreen>+1</c> к количеству зарядов «Знака Тьмы»<n/><n/><s val=TooltipSubscript>После использования «Знак Тьмы» перезаряжается в течение 0\u00A0сек.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": "<c val=#TooltipGreen>+0%</c> к урону от снарядов «Залпа Бездны»<n/><n/>Снаряды «Залпа Бездны» оставляют за собой огненный след, который существует в течение <c val=#TooltipNumbers>0</c>\u00A0сек. и наносит <c val=#TooltipNumbers>0</c>\u00A0ед. периодического урона.<n/><n/><s val=TooltipSubscript>Огненный след наносит урон раз в 0\u00A0сек.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "<c val=#TooltipGreen>+1\u00A0сек.</c> к длительности «Знака Тьмы»<n/><n/>Скорость передвижения отмеченных врагов снижается на <s val=StandardTooltipDetails>0%</s>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "После поддержания в течение <c val=#TooltipNumbers>0</c>\u00A0сек. открывает портал в Бездну. Из него выходит до <c val=#TooltipNumbers>4</c>\u00A0воинов Бездны, которые нападают на ближайших врагов.<n/><n/>Находящиеся рядом с порталом в Бездну враги замедляются на <c val=#TooltipNumbers>0%</c>.<n/><n/>Воины Бездны в первую очередь преследуют героев, отмеченных «Знаком Тьмы».<n/><n/><s val=TooltipSubscript>Портал теряет здоровье в течение 20\u00A0сек.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Поддерживает мощную сферу Бездны, которая растет в течение <c val=#TooltipNumbers>0</c>\u00A0сек., пока не достигнет максимально возможного размера. При повторном использовании Ксал'атат запускает сферу раньше.<n/><n/>Столкнувшиеся со сферой противники получают до <c val=#TooltipNumbers>0</c>\u00A0ед. урона и слепнут на <s val=StandardTooltipDetails>0</s>\u00A0сек.<n/><n/>Пролетев весь свой путь, сфера с силой взрывается и наносит до <c val=#TooltipNumbers>0</c>\u00A0ед. урона.<n/><n/><s val=TooltipSubscript>Урон при столкновении наносится каждые 0,125\u00A0сек.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "Автоатаки по отмеченным героям дают щит прочностью <c val=#TooltipNumbers>0</c>\u00A0ед., который быстро исчезает."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": "«Извержение Бездны» Ксал'атат разделяется на <c val=#TooltipNumbers>3</c>\u00A0летящие по орбите сферы Бездны. Если отменить способность раньше, сферы полетят быстрее."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|W|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|E|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathPummelingStep|XalatathPummelingStep|W|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "Портал «Слияния Бездны» больше не теряет здоровье, а также может призвать и одновременно поддерживать до <c val=#TooltipNumbers>6</c>\u00A0воинов Бездны."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|W|Level7"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathToxicMark|XalatathToxicMark|Q|Level1",
+    "value": "<c val=#TooltipGreen>+1\u00A0сек.</c> к длительности «Знака Тьмы»<n/><n/>Отмеченные герои получают периодический урон, равный <c val=#TooltipNumbers>0%</c> максимального запаса здоровья цели. У отмеченных героев <s val=StandardTooltipDetails>0</s>\u00A0ед. брони. "
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathUnstableCore|XalatathUnstableCore|E|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|W|Level4"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidAdept|XalatathVoidAdept|Q|Level7",
+    "value": "<img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Задача:</c> взорвите Темное сердце рядом с отмеченными вражескими героями, чтобы увеличить урон «Знака Тьмы» на <c val=#TooltipNumbers>0</c>\u00A0ед. за каждую пораженную цель. Эффект суммируется вплоть до <c val=#TooltipNumbers>0</c>\u00A0ед. урона."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|W|Level7"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVelensChosen|YrelVelensChosen|Passive|Level13",
+    "value": "Когда базовая способность поражает героя после максимальной подготовки, Ирель получает бонус к силе способностей в <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">7.5%</c> на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> сек., вплоть до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "Темное сердце:<n/><c val=#TooltipGreen>+0%</c> к радиусу<n/><c val=#TooltipGreen>+0%</c> к длительности<n/><n/>Урон от Темного сердца переходит от основной цели к <c val=#TooltipNumbers>2</c>\u00A0ближайшим врагам, нанося <c val=#TooltipNumbers>0</c>\u00A0ед. урона."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "При использовании «Шаг через Бездну» на <s val=StandardTooltipDetails>0</s>\u00A0сек. повышает скорость передвижения на <s val=StandardTooltipDetails>0%</s> и дает <c val=#TooltipNumbers>0</c>\u00A0ед. энергетической брони. Этот бонус обновляется при каждой телепортации Ксал'атат."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "Когда Темное сердце наносит врагу урон, Ксал'атат получает щит прочностью <c val=#TooltipNumbers>0%</c> от ее максимального запаса здоровья (вплоть до <c val=#TooltipNumbers>0%</c>)."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "При использовании Темного сердца враги в радиусе его действия на <c val=#TooltipNumbers>0</c>\u00A0сек. получают эффект немоты.<n/><n/>Находясь в радиусе действия Темного сердца, Ксал'атат и союзные герои получают <c val=#TooltipNumbers>0</c>\u00A0ед. энергетической брони."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "Завершив «Шаг через Бездну», Ксал'атат тут же совершает его снова в обратном направлении. Дополнительные эффекты срабатывают повторно."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13",
+    "value": "Каждый импульс замедляет связанных противников на <c val=#TooltipNumbers>0%</c> от их скорости передвижения. Эффект суммируется до <c val=#TooltipNumbers>0</c>\u00A0раз и постепенно ослабевает в течение <c val=#TooltipNumbers>0</c>\u00A0сек."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "Пока «Шаг через Бездну» активен, скорость автоатак Ксал'атат повышена на <c val=#TooltipNumbers>200%</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "При использовании «Шага через Бездну» на земле появляется печать магии Бездны. Когда печать будет завершена, она нанесет <c val=#TooltipNumbers>0</c>\u00A0ед. урона врагам внутри и на <s val=StandardTooltipDetails>0</s>\u00A0сек. поразит их эффектом немоты."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "Когда время действия Темного сердца заканчивается или оно взрывается рядом с отмеченным героем, оно оставляет лужу пламени Бездны на <c val=#TooltipNumbers>0</c>\u00A0сек. Оказавшиеся в пламени враги получают <c val=#TooltipNumbers>0</c>\u00A0ед. периодического урона.<n/><n/><s val=TooltipSubscript>Пламя наносит урон раз в 0\u00A0сек.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "При завершении действия «Шага через Бездну» Ксал'атат полностью заряжает «Залп Бездны».<n/><n/>Следующий «Залп Бездны» наносит на <c val=#TooltipNumbers>50%</c> больше урона и не расходует ману."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "При использовании «Шага через Бездну» в его центре появляется один воин Бездны. В первую очередь воины Бездны преследуют героев, отмеченных «Знаком Тьмы».<n/><n/><s val=TooltipSubscript>Автоатаки воинов Бездны наносят по 0\u00A0ед. урона за попадание. Воины Бездны теряют здоровье в течение 0\u00A0сек.</s>"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathAnchoredCore|XalatathAnchoredCore|E|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathCloakOfShadows|XalatathCloakOfShadows|W|Level1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": "Сокрушительный каскад"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathDarkBarrier|XalatathDarkBarrier|E|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|E|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": "Сферы-соперницы"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": "Расколотая реальность"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "Сковывающий холод"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "Стойкость метки"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": "Поглощение Предвестницы"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathParadoxLoop|XalatathParadoxLoop|W|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|E|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathPummelingStep|XalatathPummelingStep|W|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "Вторжение из разлома"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|W|Level7"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathToxicMark|XalatathToxicMark|Q|Level1",
+    "value": "Токсичная метка"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathUnstableCore|XalatathUnstableCore|E|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathVoidAcolyte|XalatathVoidAcolyte|W|Level4"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathVoidAdept|XalatathVoidAdept|Q|Level7",
+    "value": "Адепт Бездны"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathVoidSummoner|XalatathVoidSummoner|W|Level7"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "Укрепленная сердцевина"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "Плащ Теней"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "Темный барьер"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "Защита Темного сердца"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "Парадоксальная петля"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13",
+    "value": "Притяжение Темного сердца"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "Несмолкающий шепот"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "Молчание ягненка"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "Нестабильная сердцевина"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "Послушница Бездны"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "Призывательница Бездны"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/MedivhTransformRavenWindsOfCelerity|MedivhTransformRavenWindsOfCelerity|Z|Level1",
+    "value": "Ускоряет передвижение в облике ворона"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathAnchoredCore|XalatathAnchoredCore|E|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathCloakOfShadows|XalatathCloakOfShadows|W|Level1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": "Попадания «Залпом Бездны» замедляют врагов."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathDarkBarrier|XalatathDarkBarrier|E|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|E|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": "«Знак Тьмы» получает еще один заряд."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": "«Залп Бездны» оставляет за собой огненный след."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "Отмеченные противники замедляются, а время действия «Знака Тьмы» увеличивается."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "Открывает портал, из которого выходят воины Бездны."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Поддерживает растущую сферу, которая наносит урон на своем пути."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "Автоатаки по отмеченным героям дают щит."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": "Наращивает и запускает три сферы Бездны."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathParadoxLoop|XalatathParadoxLoop|W|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|E|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathPummelingStep|XalatathPummelingStep|W|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "Портал больше не теряет здоровье и призывает дополнительных воинов Бездны."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|W|Level7"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathToxicMark|XalatathToxicMark|Q|Level1",
+    "value": "Увеличивает время действия «Знака Тьмы»."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathUnstableCore|XalatathUnstableCore|E|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathVoidAcolyte|XalatathVoidAcolyte|W|Level4"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathVoidAdept|XalatathVoidAdept|Q|Level7",
+    "value": "<c val=#TooltipQuest>Задача:</c> взорвите Темное сердце рядом с отмеченными героями, чтобы увеличить урон."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathVoidSummoner|XalatathVoidSummoner|W|Level7"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "Увеличивает длительность и радиус Темного сердца."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "«Шаг через Бездну» дает энергетическую броню и повышает скорость передвижения."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "Когда Темное сердце наносит урон врагу, Ксал'атат получает щит."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "Находясь рядом с Темным сердцем, Ксал'атат и ее союзники получают энергетическую броню."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "После завершения «Шаг через Бездну» повторяется в обратном направлении."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13",
+    "value": "Замедляет противников рядом с Темным сердцем."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "Пока «Шаг через Бездну» активен, скорость стрельбы сферами Бездны повышена."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "При завершении «Шага через Бездну» герои в области действия получают эффект немоты."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "После уничтожения Темного сердца остается лужа пламени Бездны."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "«Залп Бездны» усиливается после завершения действия «Шага через Бездну»."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "При использовании «Шага через Бездну» появляется один воин Бездны."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "Призывает Темное сердце, которое в течение <c val=#TooltipNumbers>0</c>\u00A0сек. посылает импульсы энергии, наносящие <c val=#TooltipNumbers>0</c>\u00A0ед. урона находящимся рядом врагам.<n/><n/>Темное сердце движется к месту, пораженному «Знаком Тьмы».<n/><n/>Темное сердце преследует отмеченных героев и взрывается при столкновении, нанося <c val=#TooltipNumbers>0</c>\u00A0ед. урона ближайшим врагам и <c val=#TooltipNumbers>+0</c>\u00A0ед. урона отмеченной цели."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/XalatathDarkHeartRitual",
+    "value": "Ритуал Темного сердца (боевая единица)"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/XalatathVoidMinion",
+    "value": "Воин Бездны (боевая единица)"
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine01",
+    "value": "Нет ничего важнее выживания."
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine02",
+    "value": "Бездна даровала мне свою мощь."
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine03",
+    "value": "Этот мир будет моим."
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine04",
+    "value": "Воля Бездны нерушима."
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine05",
+    "value": "Тьма поглотит все."
+  }
+]

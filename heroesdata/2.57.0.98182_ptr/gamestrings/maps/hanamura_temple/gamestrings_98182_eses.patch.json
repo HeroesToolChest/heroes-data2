@@ -1,0 +1,237 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Hanamura Temple"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/DragonsDinner|DragonsDinner|Q",
+    "value": "Tiempo de reutilización: 12 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/HanamuraCoreBarrage|HanamuraCoreBarrage|Q",
+    "value": "Tiempo de reutilización: 8 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/MercDefenderHealingPulse|MercDefenderHealingPulse|Z",
+    "value": "Tiempo de reutilización: 10 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/RingOfFire|RingOfFire|W",
+    "value": "Tiempo de reutilización: 5 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/HanamuraCoreBarrage|HanamuraCoreBarrage|Q",
+    "value": "Lanza <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2 </c>andanadas de misiles que infligen un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c> de la salud máxima como daño y ralentizan un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70%</c> durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c> s."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/DragonsDinner|DragonsDinner|Q",
+    "value": "Apresar"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/HanamuraCoreBarrage|HanamuraCoreBarrage|Q",
+    "value": "Bombardeo"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercDefenderHealingPulse|MercDefenderHealingPulse|Z",
+    "value": "Centinela: Pulso de sanación"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/move|Move|Trait",
+    "value": "Mover"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/OverwatchMechanicRepair|OverwatchMechanicRepair|Z",
+    "value": "Ingeniero: reparar"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/PayloadMove|:NONE:|Hidden",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/RingOfFire|RingOfFire|W",
+    "value": "Anillo de energía"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/HanamuraCoreBarrage|HanamuraCoreBarrage|Q",
+    "value": "Daña y ralentiza a los enemigos."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/RingOfFire|RingOfFire|W",
+    "value": "Creas un anillo de energía que inflige daño a los objetivos en su interior."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/BioticEmitter",
+    "value": "Creas un Emisor biótico que restaura un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c> de la salud y el maná máximos de los héroes aliados cercanos durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> s."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mercenario fuerte y con mucha salud. Ataca cuerpo a cuerpo. Se especializa en absorber daño de los ataques de fortificaciones enemigas.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser2",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mercenario fuerte y con mucha salud. Ataca cuerpo a cuerpo. Se especializa en absorber daño de los ataques de fortificaciones enemigas.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser3",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mercenario fuerte y con mucha salud. Ataca cuerpo a cuerpo. Se especializa en absorber daño de los ataques de fortificaciones enemigas.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeIndividual",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mercenario fuerte y con mucha salud. Ataca cuerpo a cuerpo. Se especializa en absorber daño de los ataques de fortificaciones enemigas.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/JungleGraveGolemDefender",
+    "value": "Sicario colosal"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/RegenGlobe",
+    "value": "Pack de salud"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BioticEmitter",
+    "value": "Emisor biótico"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DragonSpiritsPickup",
+    "value": "Espíritus dragones"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HanamuraCoreAttackRadiusDummy",
+    "value": "Prueba de radio de ataque al núcleo"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HanamuraCoreBarrageMissile",
+    "value": "Bombardeo (misil)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HealingPulsePickup",
+    "value": "Pulso de sanación"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderHenchman1",
+    "value": "Secuaz"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderHenchman2",
+    "value": "Secuaz"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderHenchman3",
+    "value": "Secuaz"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser",
+    "value": "Secuaz"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser2",
+    "value": "Secuaz"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser3",
+    "value": "Secuaz"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeIndividual",
+    "value": "Centinela"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderSentinel",
+    "value": "Centinela"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperLaner",
+    "value": "Zapador"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerHenchman1",
+    "value": "MercLanerHenchman1"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerHenchman2",
+    "value": "MercLanerHenchman1"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerHenchman3",
+    "value": "MercLanerHenchman1"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerSentinel",
+    "value": "Centinela"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchBossImprisonMissile",
+    "value": "Jefe de Overwatch: misil de Apresar"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchBossImprisonMissileDummy",
+    "value": "Jefe de Overwatch: misil de Apresar (prueba)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchMechanic",
+    "value": "Ingeniero"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchTurret",
+    "value": "Torreta"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchTurretPlayer",
+    "value": "Torreta (jugador)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ReconCampVisionUnit",
+    "value": "Visión de campamento de reconocimiento"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TurretPickup",
+    "value": "Torreta"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98182_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathBase_VoiceLine01/image",
+    "value": "storm_ui_voice_xalatath.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathBase_VoiceLine02/image",
+    "value": "storm_ui_voice_xalatath.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathBase_VoiceLine03/image",
+    "value": "storm_ui_voice_xalatath.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathBase_VoiceLine04/image",
+    "value": "storm_ui_voice_xalatath.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathBase_VoiceLine05/image",
+    "value": "storm_ui_voice_xalatath.png"
+  }
+]
