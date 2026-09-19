@@ -1,0 +1,1237 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98182_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.0.5"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/cooldownText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Abklingzeit: 7 Sek."
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/cooldownText/XalatathVoidStep|XalatathVoidStep|W"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Abklingzeit: 15 Sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Abklingzeit: 15 Sek."
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/energyText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/energyText/XalatathVoidStep|XalatathVoidStep|W"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 35</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 50</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|SylvanasBlackArrowsPassive|Trait",
+    "value": "Automatische Angriffe infizieren Gegner <c val=#TooltipNumbers>0</c> Sek. lang mit Schwarzen Pfeilen, und zwar bis zu <c val=#TooltipNumbers>0</c>-mal. Sylvanas verursacht <c val=#TooltipNumbers>0\u00A0%</c> mehr Schaden bei Gegnern mit <c val=#TooltipNumbers>0</c> Stapeln.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Quest:</c> Beschädige Helden und Gebäude mit <c val=#TooltipNumbers>0</c> Stapeln an Schwarzen Pfeilen.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Belohnung:</c> Nachdem Gegnern <c val=#TooltipNumbers>0</c>-mal Schaden zugefügt wurde, erhöht sich der Schadensbonus durch die Schwarzen Pfeile um <c val=#TooltipNumbers>0\u00A0%</c>.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Mythische Belohnung:</c> Nachdem Gegnern <c val=#TooltipNumbers>0</c>-mal Schaden zugefügt wurde, heilen Schwarze Pfeile Sylvanas zu <c val=#TooltipNumbers>0\u00A0%</c> des an <c val=#TooltipNumbers>0</c> Stapeln verursachten Schadens. Bei Helden verdoppelt sich dieser Wert."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasArmyOfTheDead|ArthasArmyOfTheDead|Heroic",
+    "value": "Verbrauche alle Aufladungen, um entsprechend viele Ghule zu beschwören, die im Laufe von <c val=#TooltipNumbers>0</c> Sek. Lebenspunkte verlieren und <c val=#TooltipNumbers>0</c> Schaden verursachen. Reaktiviere die Fähigkeit, um einen Ghul zu opfern und Arthas um <c val=#TooltipNumbers>0</c> Lebenspunkte zu heilen. Maximal <c val=#TooltipNumbers>0</c> Aufladungen.<n/><n/>Bei jedem Tod eines gegnerischen Dieners in der Nähe verringert sich die Abklingzeit dieser Fähigkeit um <c val=#TooltipNumbers>0</c> Sek. Bei einem Kill verringert sich die Abklingzeit dieser Fähigkeit um <c val=#TooltipNumbers>0</c> Sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/GazloweSalvagerSalvageTurretAbility|GazloweReduceReuseRecycleTrait|Trait",
+    "value": "Regeneriert alle <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> Sek. <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> Schrott. Zerstörte <w>G-Schütztürme hinterlassen </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c><w> Schrott, der aufgesammelt werden kann.</w><n/><n/><w>Aktivieren, um einen anvisierten </w><w>G-Schützturm zu Schrott zu zerlegen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/LeoricMarchoftheBlackKing|LeoricMarchoftheBlackKing|Heroic",
+    "value": "Leoric wird unaufhaltbar, marschiert vorwärts und schwingt seinen Streitkolben <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c><w>-mal. Jeder Gegner erleidet </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><w> Schaden. Stellt pro getroffenem gegnerischem Helden </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12%</c><w> von Leorics maximalen Lebenspunkten wieder her.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/MuradinStormBolt|MuradinStormbolt|Q",
+    "value": "Wirft einen Hammer, der dem ersten getroffenen Gegner <c val=#TooltipNumbers>0</c> Schaden zufügt und ihn <c val=#TooltipNumbers>0</c> Sek. lang betäubt.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Quest:</c> Greife betäubte, verlangsamte oder bewegungsunfähige Helden mit automatischen Angriffen an. Verlangsamte oder bewegungsunfähige Gegner gewähren <c val=#TooltipNumbers>0</c> Stapel. Betäubte Gegner gewähren <c val=#TooltipNumbers>0</c> Stapel. Erhalte <c val=#TooltipNumbers>0</c> Stapel, wenn der Held innerhalb von <c val=#TooltipNumbers>0</c> Sek. stirbt.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Belohnung:</c> Nach <c val=#TooltipNumbers>0</c> getroffenen Zielen durchbohrt Sturmschlag ein weiteres Ziel, Muradins automatische Angriffe verringern die Abklingzeit von Sturmschlag um <c val=#TooltipNumbers>0</c> Sek. und du stellst <c val=#TooltipNumbers>0</c> Mana wieder her.<n/><n/><<img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Mythische Belohnung:</c> Nach <c val=#TooltipNumbers>0</c> getroffenen Zielen wird die Reichweite von Sturmschlag um <c val=#TooltipNumbers>0\u00A0%</c> und die Breite um <c val=#TooltipNumbers>0\u00A0%</c> erhöht und er durchbohrt jetzt alle Ziele."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/TinkerFocusTurrets|TinkerFocusTurrets|Active",
+    "value": "Befiehlt allen <w>G-Schütztürmen in der Nähe, ein bestimmtes Ziel anzugreifen."
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Feure eine Leerenkugel ab, die getroffenen Gegnern <c val=#TooltipNumbers>0</c> Schaden zufügt. Gegner, die von der Mitte getroffen werden, erleiden zusätzlich <c val=#TooltipNumbers>0</c> Schaden.<n/><n/>Gegnerische Helden, die direkt getroffen werden, sind <c val=#TooltipNumbers>0</c> Sek. lang markiert.<n/><n/>Markierte Helden werden aufgedeckt und ziehen das dunkle Herz und Leerendiener an."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "Nach <c val=#TooltipNumbers>0</c> Sek. der Kanalisierung beschwörst du ein Leerenportal herauf, das bis zu <c val=#TooltipNumbers>4</c> Leerendiener erscheinen lässt, die Gegner in der Nähe angreifen.<n/><n/>Gegner, die sich in der Nähe des Leerenportals befinden, werden um <c val=#TooltipNumbers>0\u00A0%</c> verlangsamt.<n/><n/>Leerendiener werden von schattenmarkierten Helden angezogen.<n/><n/><s val=TooltipSubscript>Das Portal verliert im Verlauf von 20 Sek. Lebenspunkte.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Kanalisiere eine einzelne mächtige Leerenkugel, die mit der Zeit größer wird, bis sie nach <c val=#TooltipNumbers>0</c> Sek. ihre maximale Größe erreicht. Erneut wirken, um die Kugel vorzeitig abzufeuern.<n/><n/>Gegner, die mit der Kugel in Kontakt kommen, erleiden bis zu <c val=#TooltipNumbers>0</c> Schaden und werden <s val=StandardTooltipDetails>0</s> Sek. lang geblendet.<n/><n/>Wenn die Kugel das Ende ihrer Laufbahn erreicht, explodiert sie und verursacht bis zu <c val=#TooltipNumbers>0</c> Schaden.<n/><n/><s val=TooltipSubscript>Alle 0,125 Sek.</s> wird Kontaktschaden verursacht."
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathVoidStepCancel|XalatathVoidStepCancel|W"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|W"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Leerensalve wird von Xal'ataths automatischen Angriffen aufgeladen. Entfessle eine Salve an Leerenkugeln an einem Zielort, die jeweils <c val=#TooltipNumbers>0</c> Schaden beim Aufprall verursachen.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Quest:</c> Triff gegnerische Helden mit Leerensalve; jeder getroffene Held gewährt <c val=#TooltipNumbers>0</c> Stapel und erhöht sämtlichen Leerenschaden um <c val=#TooltipNumbers>0\u00A0%</c>. Xal'atath verliert alle Stapel, wenn sie getötet wird.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Belohnung (0 Stapel):</c><n/><c val=#TooltipGreen>+2</c> Reichweite für Leerensalve<n/><n/>Xal'atath verliert bei ihrem Tod jetzt nur 6 Stapel, kann jedoch nicht unter ihr aktuelles Meilenstein-Minimum fallen.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/>.<c val=#TooltipQuest>Belohnung (0 Stapel):</c><n/><c val=#TooltipGreen>-1</c> automatischer Angriff zur Aufladung von Leerensalve erforderlich<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Mythische Belohnung (0 Stapel):</c><n/><c val=#TooltipGreen>+0\u00A0%</c> Schaden durch Leerenangriffe und -fähigkeiten<n/>Projektile von Leerensalve durchbohren alle Ziele."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Rufe das dunkle Herz herbei, das Gegnern in der Nähe <c val=#TooltipNumbers>0</c> Sek. lang <c val=#TooltipNumbers>0</c> pulsierenden Schaden pro Sekunde zufügt.<n/><n/>Das dunkle Herz bewegt sich zum Ort, an dem Schattenmarkierung einschlägt.<n/><n/>Das dunkle Herz verfolgt markierte Helden und explodiert beim Aufprall, wobei es Gegnern in der Nähe <c val=#TooltipNumbers>0</c> und dem markierten Ziel <c val=#TooltipNumbers>+0</c> Schaden zufügt."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidStepCancel|XalatathVoidStepCancel|E",
+    "value": "Brich die Fähigkeit ab, um an Ort und Stelle anzuhalten."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Wirken, um Xal'atath <c val=#TooltipNumbers>3</c>-mal in einem Dreieck zu teleportieren.<n/><n/>Jedes Mal, wenn Xal'atath sich teleportiert, verursacht ihr automatischer Angriff <s val=StandardTooltipDetails>+0\u00A0%</s> mehr Schaden, solange die Fähigkeit aktiv ist.<n/><n/>Erneut aktivieren, um Leerenschritt vorzeitig zu beenden und am aktuellen Standort zu bleiben."
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/name/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Schattenmarkierung"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathVoidStepCancel|XalatathVoidStepCancel|W"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathVoidStep|XalatathVoidStep|W"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Ritual des dunklen Herzens"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidStepCancel|XalatathVoidStepCancel|E",
+    "value": "Leerenschritt abbrechen"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Leerenschritt"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/shortText/:PASSIVE:|LostVikingSelectOlaf|Active",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">Olaf</c> hat erhöhte Lebenspunkte und <w>-regeneration. Kann Gegner verlangsamen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/shortText/GazloweSalvagerSalvageTurretAbility|GazloweReduceReuseRecycleTrait|Trait",
+    "value": "Regeneriert Schrott, <w>G-Schütztürme hinterlassen Schrott"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/shortText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Feure eine einzelne große Leerenkugel ab"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/shortText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "Beschwöre ein Portal, das Leerendiener erscheinen lässt."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/shortText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Kanalisiere eine wachsende Kugel, die Schaden auf ihrem Weg hinterlässt."
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/XalatathVoidStep|XalatathVoidStep|W"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/shortText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Entfessle eine Salve an Leerengeschossen auf einen Zielort."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Beschwöre das dunkle Herz."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Wirken, um Xal'atath im Muster eines Dreiecks zu teleportieren."
+  },
+  {
+    "op": "replace",
+    "path": "/items/banner/name/BannerDFEsportsWarChest18RareAteam",
+    "value": "Kriegsbanner von <w>A-Team 2018"
+  },
+  {
+    "op": "replace",
+    "path": "/items/banner/name/BannerDFEsportsWarChest18RareMenagarie",
+    "value": "Kriegsbanner von <w>Monkey Menagerie 2018"
+  },
+  {
+    "op": "replace",
+    "path": "/items/hero/description/Xalatath",
+    "value": "Eine Fernkampf-Schadensverursacherin, die Leerenenergie manipuliert, um Gegner zu überwältigen und das Schlachtfeld zu kontrollieren."
+  },
+  {
+    "op": "replace",
+    "path": "/items/hero/infoText/Xalatath",
+    "value": "Über Äonen hinweg hat Xal'atath Götter und Sterbliche gleichermaßen manipuliert, um die kosmische Leiter zu erklimmen. Xal'atath, die einst Dienerin von Dimensius, dem alles Verschlingenden, und später Gefangene der Alten Götter war, hat nun ihre Freiheit gewonnen und ihre eigenen Pläne in Bewegung gesetzt – die mit der Zerstörung Dalarans und der Verwandlung des Sonnenbrunnens beginnen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/hero/searchText/Xalatath",
+    "value": "World of Warcraft Magier-Leere"
+  },
+  {
+    "op": "replace",
+    "path": "/items/hero/title/Xalatath",
+    "value": "Die Vorbotin der Leere"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/infoText/MountDirewolfThreeTails",
+    "value": "Der Nexus, von dem viele glaubten, dass er viele Jahre lang ruhte, ist wieder zum Leben erwacht und neue Kreaturen strömen daraus hervor, was ein neues Zeitalter einläutet. Veröffentlicht als Souvenir der BlizzCon 2026."
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/infoText/MountPhoenix",
+    "value": "Als stolzes Symbol von Quel'Thalas verkörpern die Phönixe von Immersang den unsterblichen Geist des Elfenvolks. Obwohl ihre Reihen immer dünner werden, hält ihre ewige Wiedergeburt die Bedrohung des Aussterbens ab."
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/name/MountPhoenix",
+    "value": "Phönix der Sin'dorei"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/name/MountPhoenixVar1",
+    "value": "Strahlender Phönix der Sin'dorei"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/name/MountPhoenixVar2",
+    "value": "Azurblauer Phönix der Sin'dorei"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/name/MountPhoenixVar3",
+    "value": "Leeren-Phönix der Sin'dorei"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/name/MountPhoenixVar4",
+    "value": "Arkaner Phönix der Sin'dorei"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/name/MountPhoenixVar5",
+    "value": "Umbral-Phönix der Sin'dorei"
+  },
+  {
+    "op": "replace",
+    "path": "/items/portraitPack/name/LiliLunarFestivalPortrait",
+    "value": "Porträt: Niedliche Mondfest-<w>Li-Li"
+  },
+  {
+    "op": "replace",
+    "path": "/items/portraitPack/name/LiliStylizedLunarPortrait",
+    "value": "Porträt: Comic-Mondfest-<w>Li-Li"
+  },
+  {
+    "op": "replace",
+    "path": "/items/portraitPack/name/LimingLunarFestivalPortrait",
+    "value": "Porträt: Niedliche Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/portraitPack/name/LimingStylizedLunarPortrait",
+    "value": "Porträt: Comic-Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/rewardPortrait/name/LiliLunarFestivalPortrait",
+    "value": "Porträt: Niedliche Mondfest-<w>Li-Li"
+  },
+  {
+    "op": "replace",
+    "path": "/items/rewardPortrait/name/LiliStylizedLunarPortrait",
+    "value": "Porträt: Comic-Mondfest-<w>Li-Li"
+  },
+  {
+    "op": "replace",
+    "path": "/items/rewardPortrait/name/LimingLunarFestivalPortrait",
+    "value": "Porträt: Niedliche Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/rewardPortrait/name/LimingStylizedLunarPortrait",
+    "value": "Porträt: Comic-Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVar1",
+    "value": "Über Äonen hinweg hat Xal'atath Götter und Sterbliche gleichermaßen manipuliert, um die kosmische Leiter zu erklimmen. Xal'atath, die einst Dienerin von Dimensius, dem alles Verschlingenden, und später Gefangene der Alten Götter war, hat nun ihre Freiheit gewonnen und ihre eigenen Pläne in Bewegung gesetzt – die mit der Zerstörung Dalarans und der Verwandlung des Sonnenbrunnens beginnen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVar2",
+    "value": "Über Äonen hinweg hat Xal'atath Götter und Sterbliche gleichermaßen manipuliert, um die kosmische Leiter zu erklimmen. Xal'atath, die einst Dienerin von Dimensius, dem alles Verschlingenden, und später Gefangene der Alten Götter war, hat nun ihre Freiheit gewonnen und ihre eigenen Pläne in Bewegung gesetzt – die mit der Zerstörung Dalarans und der Verwandlung des Sonnenbrunnens beginnen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVar3",
+    "value": "Über Äonen hinweg hat Xal'atath Götter und Sterbliche gleichermaßen manipuliert, um die kosmische Leiter zu erklimmen. Xal'atath, die einst Dienerin von Dimensius, dem alles Verschlingenden, und später Gefangene der Alten Götter war, hat nun ihre Freiheit gewonnen und ihre eigenen Pläne in Bewegung gesetzt – die mit der Zerstörung Dalarans und der Verwandlung des Sonnenbrunnens beginnen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVar4",
+    "value": "Über Äonen hinweg hat Xal'atath Götter und Sterbliche gleichermaßen manipuliert, um die kosmische Leiter zu erklimmen. Xal'atath, die einst Dienerin von Dimensius, dem alles Verschlingenden, und später Gefangene der Alten Götter war, hat nun ihre Freiheit gewonnen und ihre eigenen Pläne in Bewegung gesetzt – die mit der Zerstörung Dalarans und der Verwandlung des Sonnenbrunnens beginnen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVoidflame",
+    "value": "Als das Schwarze Imperium zerfiel, befreiten die Alten Götter Xal'atath in einem verzweifelten Flehen nach dem Überleben. Stattdessen verschlang sie deren Macht, um zur fünften und finalen Alten Göttin zu werden. Jetzt, wo sie zur Kaiserin der Zwielichtklinge wurde, ist Xal'atath bereit, den gesamten Kosmos zu verschlingen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVoidflameVar1",
+    "value": "Als das Schwarze Imperium zerfiel, befreiten die Alten Götter Xal'atath in einem verzweifelten Flehen nach dem Überleben. Stattdessen verschlang sie deren Macht, um zur fünften und finalen Alten Göttin zu werden. Jetzt, wo sie zur Kaiserin der Zwielichtklinge wurde, ist Xal'atath bereit, den gesamten Kosmos zu verschlingen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVoidflameVar2",
+    "value": "Als das Schwarze Imperium zerfiel, befreiten die Alten Götter Xal'atath in einem verzweifelten Flehen nach dem Überleben. Stattdessen verschlang sie deren Macht, um zur fünften und finalen Alten Göttin zu werden. Jetzt, wo sie zur Kaiserin der Zwielichtklinge wurde, ist Xal'atath bereit, den gesamten Kosmos zu verschlingen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVoidflameVar3",
+    "value": "Als das Schwarze Imperium zerfiel, befreiten die Alten Götter Xal'atath in einem verzweifelten Flehen nach dem Überleben. Stattdessen verschlang sie deren Macht, um zur fünften und finalen Alten Göttin zu werden. Jetzt, wo sie zur Kaiserin der Zwielichtklinge wurde, ist Xal'atath bereit, den gesamten Kosmos zu verschlingen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVoidflameVar4",
+    "value": "Als das Schwarze Imperium zerfiel, befreiten die Alten Götter Xal'atath in einem verzweifelten Flehen nach dem Überleben. Stattdessen verschlang sie deren Macht, um zur fünften und finalen Alten Göttin zu werden. Jetzt, wo sie zur Kaiserin der Zwielichtklinge wurde, ist Xal'atath bereit, den gesamten Kosmos zu verschlingen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/AlarakHunterVar1",
+    "value": "Alarak, Zwielichtherold <w>von N'Zoth"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/AlarakHunterVar2",
+    "value": "Alarak, Knochenherold <w>von N'Zoth"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/ArthasLichPrinceGreen",
+    "value": "Prinz Arthas von <w>Kul Tiras"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/BarbarianLegionFemale",
+    "value": "Sonya in Legionsrüstung <w>des Zorns"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/BarbarianLegionFemaleVar1",
+    "value": "Sonya in blutroter Legionsrüstung <w>des Zorns"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/BarbarianWrathFemale",
+    "value": "Sonya in Schlachtrüstung <w>des Zorns"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/BarbarianWrathFemalePink",
+    "value": "Sonya in pinker Schlachtrüstung <w>des Zorns"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/BarbarianWrathFemaleRed",
+    "value": "Sonya in blutroter Schlachtrüstung <w>des Zorns"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/BarbarianWrathVar3",
+    "value": "Sonya in titanweißer Schlachtrüstung <w>des Zorns"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/GuldanSpiderVar1",
+    "value": "Nerubischer <w>Gul'dan der Spinnenbedrohung"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/GuldanSpiderVar2",
+    "value": "Smaragd-<w>Gul'dan der Spinnenbedrohung"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/GuldanSpiderVar3",
+    "value": "Heroischer <w>Gul'dan der Spinnenbedrohung"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/HeroCrusaderSkinUltimateRed",
+    "value": "Scharlachrote Johanna des <w>heiligen Eids"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/HeroCrusaderSkinUltimateWhite",
+    "value": "Stahlblaue Johanna des <w>heiligen Eids"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/IllidanUltimateCrimson",
+    "value": "Illidan in Zinnoberrüstung <w>der Eredar"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/IllidanUltimateDark",
+    "value": "Illidan in Stahlrüstung <w>der Eredar"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/LiLiExplorerPink",
+    "value": "Rosarote Entdeckerin <w>Li Li"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/LiLiUltimatePurple",
+    "value": "Farbenfrohe Abenteurerin <w>Li Li"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/ProbiusTerranVar1",
+    "value": "Terranischer <w>Probius G1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/ProbiusTerranVar2",
+    "value": "Terranischer <w>Probius 01"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/ProbiusTerranVar3",
+    "value": "Terranischer <w>Probius R1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/ProbiusTerranVar4",
+    "value": "Terranischer <w>Probius X1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/UltimateCrusader",
+    "value": "Johanna des <w>heiligen Eids"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardLunarVar1",
+    "value": "Jadegrüne Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardLunarVar2",
+    "value": "Sonnengelbe Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardLunarVar3",
+    "value": "Blütenfarbene Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardLunarVar4",
+    "value": "Frostweiße Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardLunarVar5",
+    "value": "Imperiale Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardSkinStarPrincess",
+    "value": "Sternenprinzessin <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardSkinStarQueen",
+    "value": "Sternenkönigin <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardSkinVolley",
+    "value": "Schmetterball-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardStarPrincessVar1",
+    "value": "Sternenprinzessin <w>Li-Ming vom Jupiter"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardStarPrincessVar2",
+    "value": "Magische Sternenprinzessin <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardStarPrincessVar3",
+    "value": "Dunkle Sternenprinzessin <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardStarQueenVar1",
+    "value": "Neo-Sternenkönigin <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardStarQueenVar2",
+    "value": "Ewige Sternenkönigin <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardUltimateVar1",
+    "value": "Herzensarchon <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardUltimateVar2",
+    "value": "Schattenarchon <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardUltimateVar3",
+    "value": "Höllenarchon <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardVolleyVar1",
+    "value": "Offensive Schmetterball-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardVolleyVar2",
+    "value": "Sportliche Schmetterball-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardVolleyVar3",
+    "value": "Saphirblaue Schmetterball-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVar1",
+    "value": "Xal'atath der Sin'dorei"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVar2",
+    "value": "Xal'atath der Verlassenen"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVar3",
+    "value": "Xal'atath der Kaldorei"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVar4",
+    "value": "Xal'atath der Herzsucher"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVoidflame",
+    "value": "Xal'atath des Zwielichts"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVoidflameVar1",
+    "value": "Teuflische Xal'atath des Zwielichts"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVoidflameVar2",
+    "value": "Flammende Xal'atath des Zwielichts"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVoidflameVar3",
+    "value": "Eisige Xal'atath des Zwielichts"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVoidflameVar4",
+    "value": "Urzeitliche Xal'atath des Zwielichts"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/sortName/XalatathVoidflame",
+    "value": "XalatathVoidflameVar0"
+  },
+  {
+    "op": "replace",
+    "path": "/items/spray/name/SprayAnimatedLunarFoodLili",
+    "value": "Festlich speisende <w>Li Li"
+  },
+  {
+    "op": "replace",
+    "path": "/items/spray/name/SprayAnimatedLunarFoodLiming",
+    "value": "Festlich speisende <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/spray/name/SprayAnimatedLunarLanternLili",
+    "value": "Mondfestlaterne: <w>Li Li"
+  },
+  {
+    "op": "replace",
+    "path": "/items/spray/name/SprayAnimatedLunarLanternLiming",
+    "value": "Mondfestlaterne: <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/spray/name/SprayStaticComicStarPrincessLiMing",
+    "value": "Sternenprinzessin <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "Der durch Schrecken von Gegnern, die keine Helden sind, erlittene Schaden wird um <c val=#TooltipNumbers>50\u00A0%</c> verringert und sie selbst erleiden um <c val=#TooltipNumbers>0\u00A0%</c> erhöhten Schaden."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": "Abathurs automatische Angriffe verursachen <c val=#TooltipNumbers>350\u00A0%</c> zusätzlichen Schaden und betäuben Gegner, die keine Elitegegner sind, und deaktivieren Gebäude <c val=#TooltipNumbers>0</c> Sek. lang.<n/><n/>Derselbe Held oder dasselbe Gebäude können jeweils nur einmal alle <c val=#TooltipNumbers>0</c> Sek. betäubt oder deaktiviert werden."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "Verringert die Manakosten von Flammenstoß von <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> auf <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Triff brennende gegnerische Helden mit Flammenstoß. <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> Treffer schalten eine mythische Quest frei.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Belohnung:</c> Nachdem du <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> Helden getroffen hast, verringern Treffer mit Flammenstoß gegen brennende gegnerische Helden die Abklingzeit von Drachenkönigin um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> Sek.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Mythische Quest:</c> Nachdem du <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c> weitere Helden getroffen hast, ohne zu sterben, wird die Dauer des Schadens von Drachenkönigin gegen Helden erneuert."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArthasHeroicAbilityArmyoftheDead|ArthasArmyOfTheDead|Heroic|Level10",
+    "value": "Verbrauche alle Aufladungen, um entsprechend viele Ghule zu beschwören, die im Laufe von <c val=#TooltipNumbers>0</c> Sek. Lebenspunkte verlieren und <c val=#TooltipNumbers>0</c> Schaden verursachen. Reaktiviere die Fähigkeit, um einen Ghul zu opfern und Arthas um <c val=#TooltipNumbers>0</c> Lebenspunkte zu heilen. Maximal <c val=#TooltipNumbers>0</c> Aufladungen.<n/><n/>Bei jedem Tod eines gegnerischen Dieners in der Nähe verringert sich die Abklingzeit dieser Fähigkeit um <c val=#TooltipNumbers>0</c> Sek. Bei einem Kill verringert sich die Abklingzeit dieser Fähigkeit um <c val=#TooltipNumbers>0</c> Sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Quest:</c> Triff mit Schattenflamme gegnerische Helden, die von Chos Verzehrendem Brand betroffen sind, um die Abklingzeit von Schattenflamme um <c val=#TooltipNumbers>0</c> Sek. zu verringern.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Belohnung:</c> Sobald <c val=#TooltipNumbers>0</c> Helden getroffen wurden, wird die Abklingzeit von Schattenflamme stattdessen dauerhaft um <c val=#TooltipNumbers>0</c> Sek. verringert."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweDethLazorFirinMahLazorz|GazloweDethLazorFirinMahLazorz|W|Level16",
+    "value": "Wenn T0desLaz3r eingesetzt wird, feuern alle <w>G-Schütztürme einen T0desLaz3r ab, der </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">125</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><w> Schaden verursacht.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweMasterBlaster|GazloweMasterBlaster|Passive|Level7",
+    "value": "T0desLaz3r und Xplodiumsprengsatz verlangsamen getroffene Gegner <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> Sek. lang um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c>. Automatische Angriffe von <w>G-Schütztürmen gegen auf diese Weise verlangsamte Gegner erhöhen die Dauer der Verlangsamung um </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c><w> Sek.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweRockItSockIt|GazloweRockItSockIt|Q|Level4",
+    "value": "Das Erschaffen von <w>G-Schütztürmen gewährt Gazlowe </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c><w> Sek. lang </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><w> Schildpunkte.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweRockItTurretPositiveReinforcement|GazloweRockItTurretPositiveReinforcement|Q|Level13",
+    "value": "Hauptangriffe von <w>G-Schütztürmen gegen Helden erhöhen Gazlowes Angriffsgeschwindigkeit </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c><w> Sek. lang um </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c><w>.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweRockItTurretSuperiorSchematics|GazloweRockItTurretSuperiorSchematics|Q|Level13",
+    "value": "<w>G-Schütztürme greifen bis zu </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c><w> zusätzliche Gegner an und fügen ihnen jeweils </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c><w> Schaden zu. Erhöht die Reichweite automatischer Angriffe von </w><w>G-Schütztürmen um </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c><w>.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweXplodiumChargeArkReaktor|GazloweXplodiumChargeArkReaktor|E|Level16",
+    "value": "Verringert die Abklingzeit von Xplodiumsprengsatz um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> Sek. Der Einsatz von Xplodiumsprengsatz erschafft <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> <w>G-Schütztürmchen, die </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c><w> Sek. lang bestehen bleiben.</w><n/><n/><w>Diese </w><w>G-Schütztürmchen hinterlassen keinen Schrott und profitieren nicht von anderen Talenten."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiDeflectPerfectDefense|GenjiDeflectPerfectDefense|W|Level7",
+    "value": "Reflektierter Schaden verringert die Abklingzeit von Reflektieren um <c val=#TooltipNumbers>0</c> Sek., bis um maximal <c val=#TooltipNumbers>0</c> Sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/LeoricHeroicAbilityMarchoftheBlackKing|LeoricMarchoftheBlackKing|Heroic|Level10",
+    "value": "Leoric wird unaufhaltbar, marschiert vorwärts und schwingt seinen Streitkolben <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c><w>-mal. Jeder Gegner erleidet </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><w> Schaden. Stellt pro getroffenem gegnerischem Helden </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12%</c><w> von Leorics maximalen Lebenspunkten wieder her.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhTransformRavenWindsOfCelerity|MedivhTransformRavenWindsOfCelerity|Z|Level1",
+    "value": "Erhöht den Bewegungsgeschwindigkeitsbonus in Rabengestalt um <c val=#TooltipNumbers>0\u00A0%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "Die Reichweite von Geschmolzener Kern wird zu Beginn der Fähigkeitsdauer um <c val=#TooltipNumbers>100\u00A0%</c> erhöht. Zudem wird die Abklingzeit der Fähigkeit um <c val=#TooltipNumbers>90</c> Sek. verringert, wenn sie auf ein zerstörtes Fort oder eine Festung angewendet wird."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/TinkerItsRainingScrap|TinkerItsRainingScrap|Q|Level20",
+    "value": "Verringert die Schrottkosten von <w>G-Schütztürmen um </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c><w>. Gewährt für jedes aufgesammelte Stück Schrott </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c><w> Schrott.</w>"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|E|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathCloakOfShadows|XalatathCloakOfShadows|W|Level1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": "Von Leerensalve getroffene Gegner werden <c val=#TooltipNumbers>0</c> Sek. lang um <c val=#TooltipNumbers>0\u00A0%</c> pro Geschoss verlangsamt, bis zu <c val=#TooltipNumbers>0\u00A0%</c>."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|E|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|E|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": "<c val=#TooltipGreen>+1</c> Aufladung für Schattenmarkierung<n/><n/><s val=TooltipSubscript>Schattenmarkierung hat eine Abklingzeit von 0 Sek. zwischen den Einsätzen.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": "<c val=#TooltipGreen>+0\u00A0%</c> Schaden durch Projektile von Leerensalve<n/><n/>Projektile von Leerensalve hinterlassen <c val=#TooltipNumbers>0</c> Sek. lang eine Flammenspur auf ihrem Weg, die <c val=#TooltipNumbers>0</c> Schaden über Zeit verursacht.<n/><n/><s val=TooltipSubscript>Die Spur verursacht alle 0 Sek. Schaden.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "<c val=#TooltipGreen>+1 Sek.</c> Dauer für die Schattenmarkierung<n/><n/>Die Bewegungsgeschwindigkeit markierter Gegner wird um <s val=StandardTooltipDetails>0\u00A0%</s> verringert."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "Nach <c val=#TooltipNumbers>0</c> Sek. der Kanalisierung beschwörst du ein Leerenportal herauf, das bis zu <c val=#TooltipNumbers>4</c> Leerendiener erscheinen lässt, die Gegner in der Nähe angreifen.<n/><n/>Gegner, die sich in der Nähe des Leerenportals befinden, werden um <c val=#TooltipNumbers>0\u00A0%</c> verlangsamt.<n/><n/>Leerendiener werden von schattenmarkierten Helden angezogen.<n/><n/><s val=TooltipSubscript>Das Portal verliert im Verlauf von 20 Sek. Lebenspunkte.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Kanalisiere eine einzelne mächtige Leerenkugel, die mit der Zeit größer wird, bis sie nach <c val=#TooltipNumbers>0</c> Sek. ihre maximale Größe erreicht. Erneut wirken, um die Kugel vorzeitig abzufeuern.<n/><n/>Gegner, die mit der Kugel in Kontakt kommen, erleiden bis zu <c val=#TooltipNumbers>0</c> Schaden und werden <s val=StandardTooltipDetails>0</s> Sek. lang geblendet.<n/><n/>Wenn die Kugel das Ende ihrer Laufbahn erreicht, explodiert sie und verursacht bis zu <c val=#TooltipNumbers>0</c> Schaden.<n/><n/><s val=TooltipSubscript>Alle 0,125 Sek.</s> wird Kontaktschaden verursacht."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "Automatische Angriffe gegen markierte Helden gewähren einen Schild von <c val=#TooltipNumbers>0</c> Punkten, der schnell abnimmt."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": "Xal'ataths Leereneruption teilt sich in <c val=#TooltipNumbers>3</c> kreisende Leerenkugeln auf. Bei vorzeitigem Abbruch der Fähigkeit werden die Kugeln schneller."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|W|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|E|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathPummelingStep|XalatathPummelingStep|W|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "Das Portal von Leerenkonvergenz verliert keine Lebenspunkte mehr über Dauer und kann bis zu <c val=#TooltipNumbers>6</c> Leerendiener erscheinen lassen und am Leben halten."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|W|Level7"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathToxicMark|XalatathToxicMark|Q|Level1",
+    "value": "<c val=#TooltipGreen>+1 Sek.</c> Dauer für Schattenmarkierung<n/><n/>Der Schaden über Zeit gegen markierte Helden wird auf <c val=#TooltipNumbers>0\u00A0%</c> der maximalen Lebenspunkte des Ziels erhöht. Markierte Gegner haben <s val=StandardTooltipDetails>0</s> Panzerung, solange sie markiert sind. "
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathUnstableCore|XalatathUnstableCore|E|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|W|Level4"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidAdept|XalatathVoidAdept|Q|Level7",
+    "value": "<img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Quest:</c> Lasse das dunkle Herz auf markierten gegnerischen Helden explodieren, um den Schaden der Schattenmarkierung jedes Mal, wenn ein Ziel getroffen wird, um <c val=#TooltipNumbers>0</c> zu erhöhen, bis zu <c val=#TooltipNumbers>0</c> Schaden."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|W|Level7"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVelensChosen|YrelVelensChosen|Passive|Level13",
+    "value": "Heldentreffer mit maximal aufgeladenen Grundfähigkeiten erhöhen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> Sek. lang die Fähigkeitsstärke um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">7.5%</c>, bis maximal <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "Dunkles Herz:<n/><c val=#TooltipGreen>+0\u00A0%</c> Radius<n/><c val=#TooltipGreen>+0\u00A0%</c> Dauer<n/><n/>Der vom dunklen Herzen verursachte Schaden prallt <c val=#TooltipNumbers>2</c>-mal vom Hauptziel auf Gegner in der Nähe ab und verursacht <c val=#TooltipNumbers>0</c> Schaden."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "Die Aktivierung von Leerenschritt gewährt <s val=StandardTooltipDetails>0\u00A0%</s> Bewegungsgeschwindigkeit und <c val=#TooltipNumbers>0</c> Zauberpanzerung für <s val=StandardTooltipDetails>0</s> Sek. Dieser Bonus wird mit jedem Teleport von Xal'atath erneuert."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "Jedes Mal, wenn das dunkle Herz einem Gegner Schaden zufügt, erhält Xal'atath einen Schild in Höhe von <c val=#TooltipNumbers>0\u00A0%</c> ihrer maximalen Lebenspunkte, bis zu <c val=#TooltipNumbers>0\u00A0%</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "Beim Wirken von Dunkles Herz werden Gegner in dessen Radius <c val=#TooltipNumbers>0</c> Sek. lang zum Schweigen gebracht.<n/><n/>Xal'atath und ihre verbündeten Helden erhalten <c val=#TooltipNumbers>0</c> Zauberpanzerung, solange sie sich im Radius des dunklen Herzens befinden."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "Nach Abschluss von Leerenschritt führt Xal'atath sofort einen zweiten Leerenschritt in die entgegengesetzte Richtung durch. Zusätzliche Effekte werden erneut ausgelöst."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13",
+    "value": "Verbundene Gegner werden mit jedem Impuls um <c val=#TooltipNumbers>0\u00A0%</c> ihrer Bewegungsgeschwindigkeit verlangsamt. Der Effekt wird bis zu <c val=#TooltipNumbers>0</c>-mal gestapelt und nimmt im Verlauf von <c val=#TooltipNumbers>0</c> Sek. ab."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "Solange Leerenschritt aktiv ist, wird Xal'ataths automatische Angriffsrate um <c val=#TooltipNumbers>200\u00A0%</c> erhöht."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "Bei Aktivierung von Leerenschritt wird ein Siegel aus Leerenmagie auf dem Boden beschworen. Sobald das Siegel abgeschlossen ist, fügt es Gegnern darin <c val=#TooltipNumbers>0</c> Schaden zu und bringt sie für <s val=StandardTooltipDetails>0</s> Sek. zum Schweigen."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "Wenn dunkles Herz endet oder auf einem markierten Gegner detoniert, hinterlässt es <c val=#TooltipNumbers>0</c> Sek. lang eine Pfütze aus Leerenflammen. Gegner in diesen Flammen erleiden <c val=#TooltipNumbers>0</c> Schaden über Zeit.<n/><n/><s val=TooltipSubscript>Die Flammen verursachen alle 0 Sek. Schaden.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "Sobald Leerenschritt abgeschlossen ist, wird Leerensalve vollständig aufgeladen.<n/><n/>Die nächste Leerensalve verursacht um <c val=#TooltipNumbers>50\u00A0%</c> erhöhten Schaden und kostet kein Mana."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "Bei der Aktivierung von Leerenschritt wird ein einzelner Leerendiener in der Mitte beschworen. Leerendiener werden von schattenmarkierten Helden angezogen.<n/><n/><s val=TooltipSubscript>Automatische Angriffe von Leerendienern verursachen 0 Schaden pro Treffer. Leerendiener verlieren im Verlauf von 0 Sek.</s> Lebenspunkte."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathAnchoredCore|XalatathAnchoredCore|E|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathCloakOfShadows|XalatathCloakOfShadows|W|Level1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": "Zermalmende Kaskade"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathDarkBarrier|XalatathDarkBarrier|E|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|E|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": "Duellkugeln"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": "Zerbrochene Realität"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "Markierte Entschlossenheit"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": "Schlingen der Vorbotin"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathParadoxLoop|XalatathParadoxLoop|W|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|E|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathPummelingStep|XalatathPummelingStep|W|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "Riss-Invasion"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|W|Level7"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathToxicMark|XalatathToxicMark|Q|Level1",
+    "value": "Giftmarkierung"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathUnstableCore|XalatathUnstableCore|E|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathVoidAcolyte|XalatathVoidAcolyte|W|Level4"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathVoidAdept|XalatathVoidAdept|Q|Level7",
+    "value": "Leerenmeisterin"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathVoidSummoner|XalatathVoidSummoner|W|Level7"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "Geerdeter Kern"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "Mantel der Schatten"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "Dunkle Barriere"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "Schutz des dunklen Herzens"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "Paradoxschleife"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13",
+    "value": "Zug des dunklen Herzens"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "Unerbittliches Geflüster"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "Schweigen des Lamms"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "Instabiler Kern"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "Leeren-Akolyth"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "Leerenbeschwörerin"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/GenericTalentNexusFrenzy|NexusFrenzyTalent|Passive|Level20",
+    "value": "Erhöht die Angriffsgeschwindigkeit und <w>-reichweite."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathAnchoredCore|XalatathAnchoredCore|E|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathCloakOfShadows|XalatathCloakOfShadows|W|Level1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": "Leerensalve trifft verlangsamte Gegner."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathDarkBarrier|XalatathDarkBarrier|E|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|E|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": "Schattenmarkierung erhält eine zusätzliche Aufladung."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": "Leerensalve hinterlässt eine Spur aus Feuer."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "Markierte Gegner werden verlangsamt, die Dauer der Markierung wird erhöht."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "Beschwöre ein Portal, das Leerendiener erscheinen lässt."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Kanalisiere eine wachsende Kugel, die Schaden auf ihrem Weg hinterlässt."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "Automatische Angriffe gegen markierte Helden gewähren Schilde."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": "Wachse und feure drei Leerenkugeln ab."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathParadoxLoop|XalatathParadoxLoop|W|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|E|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathPummelingStep|XalatathPummelingStep|W|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "Das Portal hat keine Dauer mehr und lässt mehr Leerendiener erscheinen."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|W|Level7"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathToxicMark|XalatathToxicMark|Q|Level1",
+    "value": "Erhöhe die Dauer der Schattenmarkierung."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathUnstableCore|XalatathUnstableCore|E|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathVoidAcolyte|XalatathVoidAcolyte|W|Level4"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathVoidAdept|XalatathVoidAdept|Q|Level7",
+    "value": "<c val=#TooltipQuest>Quest:</c> Lasse das dunkle Herz auf markierten Helden explodieren, um den Schaden zu erhöhen."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathVoidSummoner|XalatathVoidSummoner|W|Level7"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "Erhöht die Dauer und den Radius des dunklen Herzens."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "Leerenschritt gewährt Zauberpanzerung und Bewegungsgeschwindigkeit."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "Erhalte jedes Mal einen Schild, wenn das dunkle Herz einem Gegner Schaden zufügt."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "Xal'atath und ihre Verbündeten erhalten in der Nähe des dunklen Herzens Zauberpanzerung."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "Nach Abschluss von Leerenschritt wird das Muster umgekehrt."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13",
+    "value": "Verlangsame Gegner in der Nähe des dunklen Herzens."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "Solange Leerenschritt aktiv ist, wird die Feuerrate der Leerenkugel erhöht."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "Nach Abschluss von Leerenschritt werden Helden im Muster zum Schweigen gebracht"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "Wenn das dunkle Herz zerstört wird, hinterlässt es eine Pfütze aus Leerenflammen."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "Nach Abschluss von Leerenschritt wird Leerensalve verstärkt."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "Beschwöre bei Einsatz von Leerenschritt einen einzelnen Leerendiener."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "Rufe das dunkle Herz herbei, das Gegnern in der Nähe <c val=#TooltipNumbers>0</c> Sek. lang <c val=#TooltipNumbers>0</c> pulsierenden Schaden pro Sekunde zufügt.<n/><n/>Das dunkle Herz bewegt sich zum Ort, an dem Schattenmarkierung einschlägt.<n/><n/>Das dunkle Herz verfolgt markierte Helden und explodiert beim Aufprall, wobei es Gegnern in der Nähe <c val=#TooltipNumbers>0</c> und dem markierten Ziel <c val=#TooltipNumbers>+0</c> Schaden zufügt."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/XalatathDarkHeartRitual",
+    "value": "Ritual des dunklen Herzens (Einheit)"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/XalatathVoidMinion",
+    "value": "Leerendiener (Einheit)"
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine01",
+    "value": "Nichts ist wichtiger als das Überleben."
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine02",
+    "value": "Ich gebiete über die Macht der Leere."
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine03",
+    "value": "Dieses Reich wird mir gehören."
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine04",
+    "value": "Der Wille der Leere ist ewig."
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine05",
+    "value": "Die Finsternis wird alles verschlingen."
+  }
+]

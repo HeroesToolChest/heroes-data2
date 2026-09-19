@@ -1,0 +1,262 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Towers of Doom"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/L3MoonwellMorph|L3MoonwellMorph|Q",
+    "value": "V3 - Puits de lune - Transformation"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/L3StandaloneTowerMorph|L3StandaloneTowerMorph|Q",
+    "value": "V3 - Tour isolée - Transformation"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/L3TownMorph|L3TownMorph|Q",
+    "value": "V3 - Ville - Transformation"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercGoblinSapperSuicide|MercGoblinSapperSuicide|Q",
+    "value": "Merc - Sapeur gobelin - Suicide"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostAltarDamage",
+    "value": "~AwardValue~% des dégâts contre l’idole"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostAltarDamage",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Canonnier,Canonnière</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostAltarDamage",
+    "value": "~TooltipAmount~ salves tirées sur l’idole"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostAltarDamage",
+    "value": "Plus grande quantité de dégâts infligés aux autels"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseAvatarUnit",
+    "value": "Base - Avatar - Unité"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionCannonExtraHigh",
+    "value": "Canon de protection de base super haut"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionCannonHigh",
+    "value": "Base - Protection - Canon - Haut"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionCannonLow",
+    "value": "Base - Protection - Canon - Bas"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionCannonMid",
+    "value": "Base - Protection - Canon - Milieu"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionTowerGround",
+    "value": "Base - Protection - Tour - Sol"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionTowerHigh",
+    "value": "Base - Protection - Tour - Haut"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionTowerMid",
+    "value": "Base - Protection - Tour - Milieu"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionTowerMissile",
+    "value": "Base - Protection - Tour - Trajectoire"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BombChest",
+    "value": "Coffre à bombe"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BombStructureItem",
+    "value": "Bombe - Bâtiment - Objet"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BossMercCampCannonMissile",
+    "value": "Boss - Camp de mercs - Canon - Trajectoire"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FortressArchwayCurvedDL",
+    "value": "Forteresse - Porche - Droit - Courbe - BasGauche"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FortressArchwayCurvedDR",
+    "value": "Forteresse - Porche - Droit - Courbe - BasDroit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FortressArchwayCurvedUL",
+    "value": "Forteresse - Porche - Droit - Courbe - HautGauche"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FortressArchwayCurvedUR",
+    "value": "Forteresse - Porche - Droit - Courbe - HautDroite"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FortressArchwayVerticalLeft",
+    "value": "Forteresse - Porche - Droit - Vertical gauche"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FortressArchwayVerticalRight",
+    "value": "Forteresse - Porche - Droit - Vertical droit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LandGrabCannonTower",
+    "value": "Accaparement de terres - Tour à canon"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MapEventNecromancerCannonMissile",
+    "value": "Évènement de carte - Projectile de canon du nécromancien"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MapEventRavenLordCannonMissile",
+    "value": "Évènement de carte - Projectile de canon du seigneur corbeau"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderGoblinSapperAttackMissile",
+    "value": "Merc - Défenseur - Sapeur gobelin - Attaque - Trajectoire"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperDefender",
+    "value": "Sapeur"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperLaner",
+    "value": "Sapeur"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercHorsemanDefender",
+    "value": "Cavalier"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercHorsemanFlyingHead",
+    "value": "Tête du cavalier"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercHorsemanFlyingHeadFireballMissile",
+    "value": "Merc - Cavalier - Tête volante - Boule de feu - Trajectoire"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercHorsemanLaner",
+    "value": "Cavalier"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercHorsemanReturningHeadMissile",
+    "value": "Merc - Cavalier - Retour de tête - Trajectoire"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerGoblinSapperAttackMissile",
+    "value": "Merc - Sapeur gobelin de voie - Attaque - Trajectoire"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerGoblinSapperCoreMortarMissile",
+    "value": "Merc - Sapeur gobelin de voie - Mortier d’idole - Trajectoire"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerGoblinSapperMeleeAttackInvisibleMissile",
+    "value": "Mercenaire - Sapeur gobelin de voie - Mêlée - Attaque - Projectile invisible"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercWinterCrestHorsemanEntrance",
+    "value": "Merc - Crêthiver - Entrée du cavalier"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/NecromancerAvatarUnit",
+    "value": "Unité avatar du nécromancien"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/NeutralTownCaptureBeacon",
+    "value": "Balise de capture de ville neutre"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PathingBlockerToDWall",
+    "value": "Obstacle (mur)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/RavenLordAvatarUnit",
+    "value": "Unité avatar du seigneur corbeau"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ScoringAltar",
+    "value": "Autel"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ScoringCaptureBeacon",
+    "value": "Notation - Balise"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SpiritHealer",
+    "value": "Gardienne des âmes"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WaygateEntrance",
+    "value": "portail d’entrée"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WaygateEntranceMinimapIconActor",
+    "value": "Entrée du portail - Minicarte - Icône - Acteur"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WaygateUnit",
+    "value": "Portail de sortie"
+  }
+]

@@ -1,0 +1,897 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98182_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.0.5"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/cooldownText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Recarga: 7 s"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/cooldownText/XalatathVoidStep|XalatathVoidStep|W"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Recarga: 15 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Recarga: 15 segundos"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/energyText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/energyText/XalatathVoidStep|XalatathVoidStep|W"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 35</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 50</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 50</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|SylvanasBlackArrowsPassive|Trait",
+    "value": "Ataques Básicos infectam inimigos com Flechas Negras por <c val=#TooltipNumbers>0</c> s, acumulando até <c val=#TooltipNumbers>0</c> vezes. Sylvana causa <c val=#TooltipNumbers>0%</c> a mais de dano aos inimigos com <c val=#TooltipNumbers>0</c> aplicações.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Missão:</c> Cause dano a Heróis e Estruturas com <c val=#TooltipNumbers>0</c> aplicações de Flechas Negras.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Recompensa:</c> Ao causar dano a inimigos <c val=#TooltipNumbers>0</c> vezes, aumenta o bônus de dano proveniente das Flechas Negras para <c val=#TooltipNumbers>0%</c>.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Recompensa Mítica:</c> Ao causar dano a inimigos <c val=#TooltipNumbers>0</c> vezes, as Flechas Negras passam a curar a Sylvana em <c val=#TooltipNumbers>0%</c> do dano causado com <c val=#TooltipNumbers>0</c> aplicações. A cura é dobrada contra Heróis."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasArmyOfTheDead|ArthasArmyOfTheDead|Heroic",
+    "value": "Consome todas as cargas para evocar a mesma quantidade de Carniçais que perdem vida ao longo de <c val=#TooltipNumbers>0</c> s e atacam por <c val=#TooltipNumbers>0</c> de dano. Reativa para sacrificar um carniçal, curando Arthas em <c val=#TooltipNumbers>0</c> de vida. Acumula até <c val=#TooltipNumbers>0</c> cargas.<n/><n/>Sempre que uma tropa inimiga próxima morre, reduz a recarga dessa habilidade em <c val=#TooltipNumbers>0</c> s. Abates reduzem a recarga dessa habilidade em <c val=#TooltipNumbers>0</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/MuradinStormBolt|MuradinStormbolt|Q",
+    "value": "Arremessa um martelo, que causa <c val=#TooltipNumbers>0</c> de dano ao primeiro inimigo atingido, atordoando-o por <c val=#TooltipNumbers>0</c> s<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Missão:</c> desferir Ataques Básicos a Heróis afetados por atordoamentos, desacelerações ou enraizamentos. Inimigos desacelerados ou enraizados concedem <c val=#TooltipNumbers>0</c> aplicação. Inimigos atordoados concedem <c val=#TooltipNumbers>0</c> aplicações. Se o Herói morrer em até <c val=#TooltipNumbers>0</c> s, você recebe <c val=#TooltipNumbers>0</c> aplicações.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Recompensa:</c> ao atingir <c val=#TooltipNumbers>0</c> alvos, a Seta Tempestuosa perfura para atingir um alvo adicional e os Ataques Básicos de Muradin reduzem a recarga da Seta Tempestuosa em <c val=#TooltipNumbers>0</c> s e restauram <c val=#TooltipNumbers>0</c> de mana.<n/><n/><<img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Recompensa Mítica:</c> ao atingir <c val=#TooltipNumbers>0</c> alvos, o alcance da Seta Tempestuosa é aumentado em <c val=#TooltipNumbers>0%</c>, a largura é aumentada em <c val=#TooltipNumbers>0%</c> e passa a perfurar todos os alvos."
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Dispare um único Orbe do Caos que causa <c val=#TooltipNumbers>0</c> de dano aos inimigos atingidos. Inimigos atingidos pelo centro recebem mais <c val=#TooltipNumbers>0</c> de dano.<n/><n/>Heróis inimigos atingidos diretamente ficam marcados por <c val=#TooltipNumbers>0</c> s.<n/><n/>Heróis marcados são revelados e atraem o Coração Sombrio e os Lacaios do Caos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "Após canalizar por <c val=#TooltipNumbers>0</c> s, evoque um Portal do Caos que cria até <c val=#TooltipNumbers>4</c> Lacaios do Caos para atacar inimigos próximos.<n/><n/>Inimigos perto do Portal do Caos são desacelerados em <c val=#TooltipNumbers>0%</c>.<n/><n/>Lacaios do Caos são atraídos por Heróis com Marca das Sombras.<n/><n/><s val=TooltipSubscript>O portal perde vida ao longo de 20 s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Canalize um poderoso Orbe do Caos que cresce ao longo do tempo até atingir o tamanho máximo após <c val=#TooltipNumbers>0</c> s. Lance novamente para disparar o Orbe antes.<n/><n/>Inimigos que entram em contato com o Orbe recebem até <c val=#TooltipNumbers>0</c> de dano e ficam cegos por <s val=StandardTooltipDetails>0</s> s.<n/><n/>Quando o Orbe chega ao fim do percurso, ele detona em uma grande explosão, causando até <c val=#TooltipNumbers>0</c> de dano.<n/><n/><s val=TooltipSubscript>O dano de contato é causado a cada 0,125 s.</s>"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathVoidStepCancel|XalatathVoidStepCancel|W"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|W"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "A Saraivada do Caos é carregada pelos Ataques Básicos de Xal'atath. Lance uma barragem de Orbes do Caos no local selecionado. Cada um causa <c val=#TooltipNumbers>0</c> de dano no impacto.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Missão:</c> Acertar Heróis inimigos com Saraivada do Caos. Cada Herói atingido concede <c val=#TooltipNumbers>0</c> aplicação e aumenta todo o dano de Caos em <c val=#TooltipNumbers>0%</c>. Xal'atath perde todas as aplicações ao morrer.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Recompensa (0 Aplicações):</c><n/><c val=#TooltipGreen>+2</c> de alcance da Saraivada do Caos<n/><n/>Ao morrer, Xal'atath agora perde apenas 6 aplicações, mas nunca fica abaixo do mínimo do marco atual.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/>.<c val=#TooltipQuest>Recompensa (0 Aplicações):</c><n/><c val=#TooltipGreen>-1</c> Ataque Básico necessário para carregar Saraivada do Caos<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Recompensa Mítica (0 Aplicações):</c><n/><c val=#TooltipGreen>+0%</c> de dano dos Ataques do Caos e das habilidades<n/>Os projéteis de Saraivada do Caos perfuram todos os alvos."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Evoque o Coração Sombrio, que pulsa e causa <c val=#TooltipNumbers>0</c> de dano por segundo aos inimigos próximos durante <c val=#TooltipNumbers>0</c> s.<n/><n/>O Coração Sombrio se move até o local de impacto de Marca das Sombras.<n/><n/>O Coração Sombrio persegue heróis marcados e detona ao atingi-los, causando <c val=#TooltipNumbers>0</c> de dano aos inimigos próximos e <c val=#TooltipNumbers>+0</c> de dano ao alvo marcado."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidStepCancel|XalatathVoidStepCancel|E",
+    "value": "Cancele a habilidade antes para parar onde estiver."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Lance para teleportar Xal'atath <c val=#TooltipNumbers>3</c> vezes em um padrão triangular.<n/><n/>Cada vez que Xal'atath teleporta, seu Ataque Básico causa <s val=StandardTooltipDetails>+0%</s> de dano enquanto a habilidade estiver ativa.<n/><n/>Reative para encerrar Passo do Caos antecipadamente e permanecer no local atual."
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/name/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Marca das Sombras"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathVoidStepCancel|XalatathVoidStepCancel|W"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathVoidStep|XalatathVoidStep|W"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/name/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Saraivada do Caos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Ritual do Coração Sombrio"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidStepCancel|XalatathVoidStepCancel|E",
+    "value": "Cancelar Passo do Caos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Passo do Caos"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/shortText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Lance um único Orbe do Caos grande"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/shortText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "Evoque um portal que gera Lacaios do Caos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/shortText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Canalize um orbe crescente que causa dano no caminho."
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/XalatathVoidStep|XalatathVoidStep|W"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/shortText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Lance uma barragem de Mísseis do Caos no local selecionado."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Evoque o Coração Sombrio."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Lance para teleportar Xal'atath em um padrão triangular."
+  },
+  {
+    "op": "replace",
+    "path": "/items/hero/description/Xalatath",
+    "value": "Uma causadora de dano de longo alcance que manipula a energia do Caos para subjugar inimigos e controlar o campo de batalha."
+  },
+  {
+    "op": "replace",
+    "path": "/items/hero/infoText/Xalatath",
+    "value": "Por eras, Xal'atath manipulou deuses e mortais para ascender na hierarquia cósmica. Antes uma serva de Dimensius, que Tudo Devora, e depois prisioneira dos Deuses Antigos, Xal'atath agora conquistou a liberdade e pôs seus próprios planos em marcha, começando pela destruição de Dalaran e pela transformação da Nascente do Sol."
+  },
+  {
+    "op": "replace",
+    "path": "/items/hero/searchText/Xalatath",
+    "value": "Maga do Caos de World of Warcraft"
+  },
+  {
+    "op": "replace",
+    "path": "/items/hero/title/Xalatath",
+    "value": "A Emissária do Caos"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/infoText/MountDirewolfThreeTails",
+    "value": "Acreditavam que o Nexus estava adormecido há anos, mas ele despertou novamente, e novas criaturas começaram a surgir, acendendo a chama de uma nova era. Lançado em comemoração à BlizzCon 2026."
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/infoText/MountPhoenix",
+    "value": "Símbolo imponente de Quel'Thalas, as fênix do Canto Eterno personificam o espírito imortal do povo élfico. Embora sejam extremamente raras, seu eterno renascimento das cinzas desafia a ameaça de extinção."
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/name/MountPhoenix",
+    "value": "Fênix Sin'dorei"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/name/MountPhoenixVar1",
+    "value": "Fênix Sin'dorei Radiante"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/name/MountPhoenixVar2",
+    "value": "Fênix Sin'dorei Lazúli"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/name/MountPhoenixVar3",
+    "value": "Fênix Sin'dorei do Caos"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/name/MountPhoenixVar4",
+    "value": "Fênix Sin'dorei Arcana"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/name/MountPhoenixVar5",
+    "value": "Fênix Sin'dorei Umbrática"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVar1",
+    "value": "Por eras, Xal'atath manipulou deuses e mortais para ascender na hierarquia cósmica. Antes uma serva de Dimensius, que Tudo Devora, e depois prisioneira dos Deuses Antigos, Xal'atath agora conquistou a liberdade e pôs seus próprios planos em marcha, começando pela destruição de Dalaran e pela transformação da Nascente do Sol."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVar2",
+    "value": "Por eras, Xal'atath manipulou deuses e mortais para ascender na hierarquia cósmica. Antes uma serva de Dimensius, que Tudo Devora, e depois prisioneira dos Deuses Antigos, Xal'atath agora conquistou a liberdade e pôs seus próprios planos em marcha, começando pela destruição de Dalaran e pela transformação da Nascente do Sol."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVar3",
+    "value": "Por eras, Xal'atath manipulou deuses e mortais para ascender na hierarquia cósmica. Antes uma serva de Dimensius, que Tudo Devora, e depois prisioneira dos Deuses Antigos, Xal'atath agora conquistou a liberdade e pôs seus próprios planos em marcha, começando pela destruição de Dalaran e pela transformação da Nascente do Sol."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVar4",
+    "value": "Por eras, Xal'atath manipulou deuses e mortais para ascender na hierarquia cósmica. Antes uma serva de Dimensius, que Tudo Devora, e depois prisioneira dos Deuses Antigos, Xal'atath agora conquistou a liberdade e pôs seus próprios planos em marcha, começando pela destruição de Dalaran e pela transformação da Nascente do Sol."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVoidflame",
+    "value": "Quando o Império Negro ruiu, os Deuses Antigos libertaram Xal'atath em uma tentativa desesperada de sobreviver. Em vez disso, ela consumiu o poder deles e se tornou o quinto e último Deus Antigo. Tornando-se a imperatriz da Lâmina Crepuscular, Xal'atath está prestes a devorar todo o cosmos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVoidflameVar1",
+    "value": "Quando o Império Negro ruiu, os Deuses Antigos libertaram Xal'atath em uma tentativa desesperada de sobreviver. Em vez disso, ela consumiu o poder deles e se tornou o quinto e último Deus Antigo. Tornando-se a imperatriz da Lâmina Crepuscular, Xal'atath está prestes a devorar todo o cosmos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVoidflameVar2",
+    "value": "Quando o Império Negro ruiu, os Deuses Antigos libertaram Xal'atath em uma tentativa desesperada de sobreviver. Em vez disso, ela consumiu o poder deles e se tornou o quinto e último Deus Antigo. Tornando-se a imperatriz da Lâmina Crepuscular, Xal'atath está prestes a devorar todo o cosmos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVoidflameVar3",
+    "value": "Quando o Império Negro ruiu, os Deuses Antigos libertaram Xal'atath em uma tentativa desesperada de sobreviver. Em vez disso, ela consumiu o poder deles e se tornou o quinto e último Deus Antigo. Tornando-se a imperatriz da Lâmina Crepuscular, Xal'atath está prestes a devorar todo o cosmos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVoidflameVar4",
+    "value": "Quando o Império Negro ruiu, os Deuses Antigos libertaram Xal'atath em uma tentativa desesperada de sobreviver. Em vez disso, ela consumiu o poder deles e se tornou o quinto e último Deus Antigo. Tornando-se a imperatriz da Lâmina Crepuscular, Xal'atath está prestes a devorar todo o cosmos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVar1",
+    "value": "Xal'atath Sin'dorei"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVar2",
+    "value": "Xal'atath Renegada"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVar3",
+    "value": "Xal'atath Kaldorei"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVar4",
+    "value": "Xal'atath Cobiçadora de Corações"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVoidflame",
+    "value": "Xal'atath Crepuscular"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVoidflameVar1",
+    "value": "Xal'atath Crepuscular Vil"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVoidflameVar2",
+    "value": "Xal'atath Crepuscular Flamejante"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVoidflameVar3",
+    "value": "Xal'atath Crepuscular Gélida"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/XalatathVoidflameVar4",
+    "value": "Xal'atath Crepuscular Primeva"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/sortName/XalatathVoidflame",
+    "value": "XalatathVoidflameVar0"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "Reduz em <c val=#TooltipNumbers>50%</c> o dano que os Gafanhotos recebem de unidades não heroicas e aumenta o dano deles em <c val=#TooltipNumbers>0%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": "Os Ataques Básicos de Abathur causam <c val=#TooltipNumbers>350%</c> de dano adicional, atordoam inimigos que não são elite e desabilitam estruturas por <c val=#TooltipNumbers>0</c> s.<n/><n/>O mesmo herói ou estrutura só pode sofrer atordoamento ou desabilitação uma vez a cada <c val=#TooltipNumbers>0</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaFlamesOfFuryFlameBuffet|AlexstraszaFlamesOfFuryFlameBuffet|E|Level1",
+    "value": "Reduz o custo de mana de Bofetada Flamejante de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> para <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missão:</c> Atingir Heróis inimigos incendiados com Bofetada Flamejante. <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> . acertos desbloqueiam uma Missão Mítica.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Após atingir <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> Heróis, atingir Heróis inimigos incendiados com Bofetada Flamejante reduz a recarga da Rainha dos Dragões em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> s.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missão Mítica:</c> Após atingir <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c> mais Heróis sem morrer, o dano da Rainha dos Dragões contra Heróis atualiza a duração."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArthasHeroicAbilityArmyoftheDead|ArthasArmyOfTheDead|Heroic|Level10",
+    "value": "Consome todas as cargas para evocar a mesma quantidade de Carniçais que perdem vida ao longo de <c val=#TooltipNumbers>0</c> s e atacam por <c val=#TooltipNumbers>0</c> de dano. Reativa para sacrificar um carniçal, curando Arthas em <c val=#TooltipNumbers>0</c> de vida. Acumula até <c val=#TooltipNumbers>0</c> cargas.<n/><n/>Sempre que uma tropa inimiga próxima morre, reduz a recarga dessa habilidade em <c val=#TooltipNumbers>0</c> s. Abates reduzem a recarga dessa habilidade em <c val=#TooltipNumbers>0</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Missão:</c> Se Chama Sombria atingir um Herói inimigo afetado pelas Chamas Devoradoras de Cho, a recarga será reduzida em <c val=#TooltipNumbers>0</c> s.<n/><n/><img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Recompensa:</c> Após atingir <c val=#TooltipNumbers>0</c> Heróis, a recarga da Chama Sombria será reduzida em <c val=#TooltipNumbers>0</c> s permanentemente."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiDeflectPerfectDefense|GenjiDeflectPerfectDefense|W|Level7",
+    "value": "O dano bloqueado reduz a recarga de Desviar em <c val=#TooltipNumbers>0</c> s, até um máximo de <c val=#TooltipNumbers>0</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhTransformRavenWindsOfCelerity|MedivhTransformRavenWindsOfCelerity|Z|Level1",
+    "value": "Aumenta o bônus da Velocidade de Movimento da Forma de Corvo em <c val=#TooltipNumbers>0%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "O alcance de Núcleo Derretido aumenta em <c val=#TooltipNumbers>100%</c> no início da duração. Além disso, a recarga de Núcleo Derretido é reduzida em <c val=#TooltipNumbers>90</c> s quando a habilidade é usada em um Forte ou Bastilha destruídos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/TyraelStalwartAngel|TyraelStalwartAngel|Q|Level4",
+    "value": "Recebe <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\"><25</c> de Armadura enquanto o Poder de El'druin estiver ativo e por <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s após se teleportar."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|E|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathCloakOfShadows|XalatathCloakOfShadows|W|Level1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": "Inimigos atingidos por Saraivada do Caos têm a Velocidade de Movimento reduzida em <c val=#TooltipNumbers>0%</c> por <c val=#TooltipNumbers>0</c> s para cada projétil, até <c val=#TooltipNumbers>0%</c>."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|E|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|E|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": "<c val=#TooltipGreen>+1</c> carga de Marca das Sombras<n/><n/><s val=TooltipSubscript>Marca das Sombras tem 0 s de recarga entre os usos.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": "<c val=#TooltipGreen>+0%</c> de dano dos projéteis de Saraivada do Caos<n/><n/>Os projéteis de Saraivada do Caos deixam um rastro de fogo no caminho por <c val=#TooltipNumbers>0</c> s, causando <c val=#TooltipNumbers>0</c> de dano ao longo do tempo.<n/><n/><s val=TooltipSubscript>O rastro causa dano a cada 0 s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "<c val=#TooltipGreen>+1 s</c> de duração de Marca das Sombras<n/><n/>A Velocidade de Movimento dos inimigos marcados é reduzida em <s val=StandardTooltipDetails>0%</s>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "Após canalizar por <c val=#TooltipNumbers>0</c> s, evoque um Portal do Caos que cria até <c val=#TooltipNumbers>4</c> Lacaios do Caos para atacar inimigos próximos.<n/><n/>Inimigos perto do Portal do Caos são desacelerados em <c val=#TooltipNumbers>0%</c>.<n/><n/>Lacaios do Caos são atraídos por Heróis com Marca das Sombras.<n/><n/><s val=TooltipSubscript>O portal perde vida ao longo de 20 s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Canalize um poderoso Orbe do Caos que cresce ao longo do tempo até atingir o tamanho máximo após <c val=#TooltipNumbers>0</c> s. Lance novamente para disparar o Orbe antes.<n/><n/>Inimigos que entram em contato com o Orbe recebem até <c val=#TooltipNumbers>0</c> de dano e ficam cegos por <s val=StandardTooltipDetails>0</s> s.<n/><n/>Quando o Orbe chega ao fim do percurso, ele detona em uma grande explosão, causando até <c val=#TooltipNumbers>0</c> de dano.<n/><n/><s val=TooltipSubscript>O dano de contato é causado a cada 0,125 s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "Ataques Básicos contra Heróis marcados concedem um Escudo de <c val=#TooltipNumbers>0</c> pontos que se dissipa rapidamente."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": "A Erupção do Caos de Xal'atath se divide em <c val=#TooltipNumbers>3</c> Orbes do Caos que orbitam. Cancelar a habilidade antes faz os orbes se moverem mais depressa."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|W|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|E|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathPummelingStep|XalatathPummelingStep|W|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "O portal de Convergência do Caos não perde mais vida ao longo do tempo e pode criar e sustentar até <c val=#TooltipNumbers>6</c> Lacaios do Caos."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|W|Level7"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathToxicMark|XalatathToxicMark|Q|Level1",
+    "value": "<c val=#TooltipGreen>+1 s</c> de duração de Marca das Sombras<n/><n/>O dano ao longo do tempo contra Heróis marcados aumenta e passa a causar dano equivalente a <c val=#TooltipNumbers>0%</c> da vida máxima do alvo. Inimigos marcados têm <s val=StandardTooltipDetails>0</s> de Armadura enquanto estiverem marcados. "
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathUnstableCore|XalatathUnstableCore|E|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|W|Level4"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidAdept|XalatathVoidAdept|Q|Level7",
+    "value": "<img path=@UI/StormTalentInTextQuestIcon alignment=uppermiddle color=B48E4C width=20 height=22/><c val=#TooltipQuest>Missão:</c> Detonar o Coração Sombrio em Heróis inimigos marcados para aumentar em <c val=#TooltipNumbers>0</c> o dano de Marca das Sombras a cada alvo atingido, até <c val=#TooltipNumbers>0</c> de dano."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|W|Level7"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVelensChosen|YrelVelensChosen|Passive|Level13",
+    "value": "Cada Herói inimigo atingido por uma Habilidade Básica carregada ao máximo concede <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">7.5%</c> de Poder Mágico por <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> s, até um máximo de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "Coração Sombrio:<n/><c val=#TooltipGreen>+0%</c> de raio<n/><c val=#TooltipGreen>+0%</c> de duração<n/><n/>O dano do Coração Sombrio se propaga <c val=#TooltipNumbers>2</c> vezes do alvo principal para inimigos próximos, causando <c val=#TooltipNumbers>0</c> de dano."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "Ativar Passo do Caos concede <s val=StandardTooltipDetails>0%</s> de Velocidade de Movimento e <c val=#TooltipNumbers>0</c> de Armadura Mágica por <s val=StandardTooltipDetails>0</s> s. O bônus é renovado sempre que Xal'atath se teleporta."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "Sempre que o Coração Sombrio causa dano a um inimigo, Xal'atath recebe um Escudo equivalente a <c val=#TooltipNumbers>0%</c> da vida máxima dela, até <c val=#TooltipNumbers>0%</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "Lançar Coração Sombrio silencia os inimigos dentro do raio por <c val=#TooltipNumbers>0</c> s.<n/><n/>Xal'atath e os Heróis aliados recebem <c val=#TooltipNumbers>0</c> de Armadura Mágica enquanto estiverem dentro do raio do Coração Sombrio."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "Após concluir Passo do Caos, Xal'atath realiza imediatamente um segundo Passo do Caos na direção oposta. Os efeitos adicionais são ativados novamente."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13",
+    "value": "Inimigos vinculados são desacelerados em <c val=#TooltipNumbers>0%</c> a cada pulso. Acumula até <c val=#TooltipNumbers>0</c> vezes e desaparece ao longo de <c val=#TooltipNumbers>0</c> s."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "Enquanto Passo do Caos está ativo, a velocidade dos Ataques Básicos de Xal'atath aumenta em <c val=#TooltipNumbers>200%</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "Ativar Passo do Caos evoca um selo de magia do Caos no chão. Quando o selo se completa, causa <c val=#TooltipNumbers>0</c> de dano aos inimigos dentro dele e os silencia por <s val=StandardTooltipDetails>0</s> s."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "Quando a duração do Coração Sombrio termina ou ele detona em um Herói marcado, deixa uma poça de chamas do Caos por <c val=#TooltipNumbers>0</c> s. Inimigos nas chamas recebem <c val=#TooltipNumbers>0</c> de dano ao longo do tempo.<n/><n/><s val=TooltipSubscript>As chamas causam dano a cada 0 s.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "Concluir Passo do Caos carrega totalmente Saraivada do Caos.<n/><n/>A próxima Saraivada do Caos causa <c val=#TooltipNumbers>50%</c> a mais de dano e não custa mana."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "Ativar Passo do Caos evoca um Lacaio do Caos no centro. Lacaios do Caos são atraídos por Heróis com Marca das Sombras.<n/><n/><s val=TooltipSubscript>Os Ataques Básicos dos Lacaios do Caos causam 0 de dano por acerto. Lacaios do Caos perdem vida ao longo de 0 s.</s>"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathAnchoredCore|XalatathAnchoredCore|E|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathCloakOfShadows|XalatathCloakOfShadows|W|Level1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": "Cascata Esmagadora"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathDarkBarrier|XalatathDarkBarrier|E|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|E|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": "Orbes Duelistas"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": "Realidade Fraturada"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "Pés Gelados"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "Resiliência Marcada"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": "Consumo da Emissária"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathParadoxLoop|XalatathParadoxLoop|W|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|E|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathPummelingStep|XalatathPummelingStep|W|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "Invasão da Fenda"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|W|Level7"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathToxicMark|XalatathToxicMark|Q|Level1",
+    "value": "Marca Tóxica"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathUnstableCore|XalatathUnstableCore|E|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathVoidAcolyte|XalatathVoidAcolyte|W|Level4"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/name/XalatathVoidAdept|XalatathVoidAdept|Q|Level7",
+    "value": "Adepta do Caos"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathVoidSummoner|XalatathVoidSummoner|W|Level7"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "Núcleo Ancorado"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "Manto das Sombras"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "Barreira Sombria"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "Proteção do Coração Sombrio"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "Ciclo Paradoxal"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13",
+    "value": "Atração do Coração Sombrio"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "Sussurros Implacáveis"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "Silêncio da Inocente"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "Núcleo Instável"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "Acólita do Caos"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "Invocadora do Caos"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathAnchoredCore|XalatathAnchoredCore|E|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathCloakOfShadows|XalatathCloakOfShadows|W|Level1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": "Saraivada do Caos desacelera os inimigos atingidos."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathDarkBarrier|XalatathDarkBarrier|E|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|E|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": "Marca das Sombras recebe uma carga adicional."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": "Saraivada do Caos deixa um rastro de fogo no caminho."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "Inimigos marcados são desacelerados e a duração da Marca aumenta."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "Evoque um portal que gera Lacaios do Caos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Canalize um orbe crescente que causa dano no caminho."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "Ataques Básicos contra Heróis marcados concedem Escudos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": "Faça três Orbes do Caos crescerem e dispare-os."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathParadoxLoop|XalatathParadoxLoop|W|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|E|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathPummelingStep|XalatathPummelingStep|W|Level13"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "O portal não tem mais duração e cria mais Lacaios do Caos"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|W|Level7"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathToxicMark|XalatathToxicMark|Q|Level1",
+    "value": "Aumenta a duração da Marca das Sombras."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathUnstableCore|XalatathUnstableCore|E|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathVoidAcolyte|XalatathVoidAcolyte|W|Level4"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathVoidAdept|XalatathVoidAdept|Q|Level7",
+    "value": "<c val=#TooltipQuest>Missão:</c> Detonar o Coração Sombrio em Heróis marcados para aumentar o dano."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathVoidSummoner|XalatathVoidSummoner|W|Level7"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "Aumenta a duração e o raio do Coração Sombrio."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "Passo do Caos concede Armadura Mágica e Velocidade de Movimento."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "Concede um Escudo sempre que o Coração Sombrio causa dano a um inimigo."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "Xal'atath e seus aliados recebem Armadura Mágica perto do Coração Sombrio."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "Após concluir Passo do Caos, inverte o triângulo."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13",
+    "value": "Desacelera inimigos perto do Coração Sombrio."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "Enquanto Passo do Caos está ativo, aumenta a frequência de disparo dos Orbes do Caos."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "Após concluir Passo do Caos, silencia os Heróis dentro do triângulo"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "Quando o Coração Sombrio é destruído, deixa uma poça de chamas do Caos."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "Concluir Passo do Caos fortalece Saraivada do Caos."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "Usar Passo do Caos evoca um Lacaio do Caos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "Evoque o Coração Sombrio, que pulsa e causa <c val=#TooltipNumbers>0</c> de dano por segundo aos inimigos próximos durante <c val=#TooltipNumbers>0</c> s.<n/><n/>O Coração Sombrio se move até o local de impacto de Marca das Sombras.<n/><n/>O Coração Sombrio persegue heróis marcados e detona ao atingi-los, causando <c val=#TooltipNumbers>0</c> de dano aos inimigos próximos e <c val=#TooltipNumbers>+0</c> de dano ao alvo marcado."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/XalatathDarkHeartRitual",
+    "value": "Ritual do Coração Sombrio (Unidade)"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/XalatathVoidMinion",
+    "value": "Lacaio do Caos (Unidade)"
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine01",
+    "value": "Nada é mais importante do que a sobrevivência."
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine02",
+    "value": "O poder do Caos está sob meu comando."
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine03",
+    "value": "Este reino será meu."
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine04",
+    "value": "O desejo do Caos é eterno."
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine05",
+    "value": "A escuridão consumirá tudo."
+  }
+]
