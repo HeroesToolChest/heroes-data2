@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98217_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVar1/releaseDate",
+    "value": "2026-09-28"
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVar2/releaseDate",
+    "value": "2026-09-28"
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVar3/releaseDate",
+    "value": "2026-09-28"
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVar4/releaseDate",
+    "value": "2026-09-28"
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidflame/releaseDate",
+    "value": "2026-09-28"
+  }
+]

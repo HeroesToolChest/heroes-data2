@@ -1,0 +1,52 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98217_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidConvergencePortalUnit/life/amount",
+    "value": 1200
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidConvergencePortalUnit/life/scale",
+    "value": 0.04
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidMinion/radius",
+    "value": 1.25
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidMinion/sight",
+    "value": 10
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidMinion/speed",
+    "value": 5
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidMinion/life/amount",
+    "value": 300
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidMinion/life/regenRate",
+    "value": -25
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidMinion/weapons/0/period",
+    "value": 1.2
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidMinion/weapons/0/damage",
+    "value": 50
+  }
+]

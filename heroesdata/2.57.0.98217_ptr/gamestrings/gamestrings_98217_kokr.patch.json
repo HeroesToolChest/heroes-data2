@@ -1,0 +1,544 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98217_ptr"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/cooldownText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/cooldownText/XalatathShadowMark|XalatathShadowMark|Q"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/cooldownText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/cooldownText/XalatathVoidEruptionCancel|XalatathVoidEruptionCancel|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/cooldownText/XalatathVoidEruption|XalatathVoidEruption|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/cooldownText/XalatathVoidStep|XalatathVoidStep|E"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/energyText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/energyText/XalatathShadowMark|XalatathShadowMark|Q"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/energyText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/energyText/XalatathVoidEruption|XalatathVoidEruption|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/energyText/XalatathVoidStep|XalatathVoidStep|E"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/energyText/XalatathVoidVolley|XalatathVoidVolley|Trait"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|SylvanasBlackArrowsPassive|Trait",
+    "value": "일반 공격이 적을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>초 동안 검은 화살에 감염시킵니다. 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>회 중첩됩니다. 검은 화살의 감염이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>회 중첩된 적에게는 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>의 추가 피해를 줍니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">퀘스트:</c> 검은 화살의 감염이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>회 중첩된 적 영웅 및 구조물에 피해를 주어야 합니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">보상:</c> 적에게 피해를 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c>회 주면 검은 화살이 주는 추가 피해량이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> 증가합니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">신화 보상:</c> 적에게 피해를 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c>회 주면 검은 화살이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>중첩에서 준 피해의 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>만큼 생명력을 회복시킵니다. 영웅에게 피해를 주면 치유량이 두 배가 됩니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasArmyOfTheDead|ArthasArmyOfTheDead|Heroic",
+    "value": "충전 횟수를 모두 소모하여 동일한 수의 구울을 소환합니다. 이 구울들은 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>초에 걸쳐 생명력을 잃으며, 일반 공격으로 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다. 다시 사용하면 구울 한 마리를 희생하여 생명력을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">240</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> 회복합니다. 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>회 충전됩니다.<n/><n/>주위 적 돌격병이 죽을 때마다 이 기술의 충전 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>초 감소합니다. 영웅을 처치하면 이 기술의 충전 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>초 감소합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/MuradinStormBolt|MuradinStormbolt|Q",
+    "value": "망치를 던져 처음 적중한 적에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">110</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주고 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c>초 동안 기절시킵니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">퀘스트:</c> 기절, 감속, 이동 불가의 영향을 받는 영웅들에게 일반 공격을 해야 합니다. 감속, 이동 불가 상태인 적은 중첩을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>회 제공합니다. 기절한 적은 중첩을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>회 제공합니다. 영웅이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>초 안에 죽으면 중첩이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>회 증가합니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">보상:</c> 대상을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c>회 적중하면, 폭풍강타가 처음 적중한 대상을 관통합니다. 일반 공격을 할 때마다 폭풍강타의 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c>초 감소하고 마나를 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> 회복합니다.<n/><n/><<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">신화 보상:</c> 대상을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c>회 적중하면 폭풍강타의 사거리가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> 증가하고, 너비가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> 증가하며 모든 대상을 관통합니다."
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathShadowMark|XalatathShadowMark|Q"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathVoidEruption|XalatathVoidEruption|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathVoidStepCancel|XalatathVoidStepCancel|E"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathShadowMark|XalatathShadowMark|Q"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathVoidConvergence|XalatathVoidConvergence|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathVoidEruption|XalatathVoidEruption|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathVoidStepCancel|XalatathVoidStepCancel|E"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathVoidStep|XalatathVoidStep|E"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathVoidVolley|XalatathVoidVolley|Trait"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/XalatathShadowMark|XalatathShadowMark|Q"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/XalatathVoidEruption|XalatathVoidEruption|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/XalatathVoidStep|XalatathVoidStep|E"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/XalatathVoidVolley|XalatathVoidVolley|Trait"
+  },
+  {
+    "op": "add",
+    "path": "/items/bundle/name/XalatathLaunchBundle",
+    "value": "잘아타스 출시 묶음 상품"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hero/description/Xalatath"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hero/difficulty/Xalatath"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hero/energyType/Xalatath"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hero/expandedRole/Xalatath"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hero/infoText/Xalatath"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hero/lifeType/Xalatath"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hero/name/Xalatath"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hero/roles/Xalatath"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hero/searchText/Xalatath"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hero/title/Xalatath"
+  },
+  {
+    "op": "add",
+    "path": "/items/lootChest/name/XalatathChest",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/description/XalatathPortraitBase",
+    "value": "이 영웅의 초상화 해제"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/description/XalatathPortraitMastery",
+    "value": "이 영웅의 마스터 초상화 해제"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/descriptionUnearned/XalatathPortraitBase",
+    "value": "프로필에 사용할 수 있는 이 영웅의 초상화를 해제했습니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/descriptionUnearned/XalatathPortraitMastery",
+    "value": "프로필에 사용할 수 있는 이 영웅의 마스터 초상화를 해제했습니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/name/XalatathPortraitBase",
+    "value": "잘아타스 초상화"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/name/XalatathPortraitMastery",
+    "value": "잘아타스 마스터 초상화"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "식충이 영웅이 아닌 대상에게 받는 피해가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> 감소하고 공격력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": "아바투르의 일반 공격이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">350%</c>의 추가 피해를 주고, <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c>초 동안 정예가 아닌 대상을 기절시키며 구조물을 무력화합니다.<n/><n/>동일한 영웅이나 구조물은 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>초에 한 번씩만 기절시키거나 무력화할 수 있습니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaOverprotectiveAbundance|AlexstraszaOverprotectiveAbundance|W|Level16",
+    "value": "풍요로 치유한 아군 영웅들이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>초 동안 치유량의 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>에 해당하는 보호막을 얻습니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArthasHeroicAbilityArmyoftheDead|ArthasArmyOfTheDead|Heroic|Level10",
+    "value": "충전 횟수를 모두 소모하여 동일한 수의 구울을 소환합니다. 이 구울들은 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>초에 걸쳐 생명력을 잃으며, 일반 공격으로 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다. 다시 사용하면 구울 한 마리를 희생하여 생명력을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">240</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> 회복합니다. 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>회 충전됩니다.<n/><n/>주위 적 돌격병이 죽을 때마다 이 기술의 충전 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>초 감소합니다. 영웅을 처치하면 이 기술의 충전 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>초 감소합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">퀘스트:</c> 초의 잠식하는 불길로 불타는 적 영웅에게 암흑불길이 적중할 때마다 암흑불길의 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-0</c>초 감소합니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">보상:</c> 불타는 영웅에게 암흑불길이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>회 적중하면 암흑불길의 재사용 대기시간이 영구히 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>초 감소합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiDeflectPerfectDefense|GenjiDeflectPerfectDefense|W|Level7",
+    "value": "공격을 튕겨낼 때마다 튕겨내기의 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c>초 감소하여 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12.5</c>초 감소합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhTransformRavenWindsOfCelerity|MedivhTransformRavenWindsOfCelerity|Z|Level1",
+    "value": "까마귀 형상의 이동 속도 증가량이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "화산 심장부의 사거리가 지속시간 시작 시 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> 증가합니다. 또한 파괴된 요새 또는 성채에 사용 시 화산 심장부의 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c>초 감소합니다."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathPummelingStep|XalatathPummelingStep|E|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathToxicMark|XalatathToxicMark|Q|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathUnstableCore|XalatathUnstableCore|W|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathVoidAdept|XalatathVoidAdept|Q|Level7"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathFrozenMark|XalatathFrozenMark|Q|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathPummelingStep|XalatathPummelingStep|E|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathToxicMark|XalatathToxicMark|Q|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathUnstableCore|XalatathUnstableCore|W|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathVoidAdept|XalatathVoidAdept|Q|Level7"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathPummelingStep|XalatathPummelingStep|E|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathToxicMark|XalatathToxicMark|Q|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathUnstableCore|XalatathUnstableCore|W|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathVoidAdept|XalatathVoidAdept|Q|Level7"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "검은 심장을 소환합니다. 심장은 맥동하여 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>초 동안 매초 주위 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다.<n/><n/>검은 심장은 그림자 표식의 적중 위치로 이동합니다.<n/><n/>검은 심장은 표식이 찍힌 영웅을 추적하고 적중 시 폭발해, 주위 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">305</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주고 표식이 찍힌 대상에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">152.5</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 추가 피해를 줍니다."
+  }
+]

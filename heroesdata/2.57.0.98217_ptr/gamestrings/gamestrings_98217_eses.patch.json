@@ -1,0 +1,544 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98217_ptr"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/cooldownText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/cooldownText/XalatathShadowMark|XalatathShadowMark|Q"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/cooldownText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/cooldownText/XalatathVoidEruptionCancel|XalatathVoidEruptionCancel|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/cooldownText/XalatathVoidEruption|XalatathVoidEruption|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/cooldownText/XalatathVoidStep|XalatathVoidStep|E"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/energyText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/energyText/XalatathShadowMark|XalatathShadowMark|Q"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/energyText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/energyText/XalatathVoidEruption|XalatathVoidEruption|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/energyText/XalatathVoidStep|XalatathVoidStep|E"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/energyText/XalatathVoidVolley|XalatathVoidVolley|Trait"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/:PASSIVE:|SylvanasBlackArrowsPassive|Trait",
+    "value": "Los ataques básicos infectan a los enemigos con Flecha negra durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s. Este efecto se acumula hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> veces. Infliges un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> más de daño a los enemigos con <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> acumulaciones.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Inflige daño a héroes y estructuras con <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> acumulaciones de Flecha negra.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Después de infligir daño a enemigos <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c> veces, la bonificación al daño que otorga Flecha negra aumenta al <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa mítica:</c> Después de infligir daño a enemigos <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c> veces, ahora Flecha negra te sana un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> del daño infligido con <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> acumulaciones. Este valor se duplica si los enemigos dañados son héroes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ArthasArmyOfTheDead|ArthasArmyOfTheDead|Heroic",
+    "value": "Consume todas las cargas para invocar el mismo número de necrófagos que pierden salud durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0s y atacan para infligir <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0de daño. Vuelve a activarlo para sacrificar a un necrófago, curándote <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">240</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0de salud. Puedes almacenar hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0cargas.<n/><n/>Cuando un esbirro cercano muere, reduce el tiempo de reutilización de carga de esta habilidad <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>\u00A0s. Las bajas en las que participas reducen el tiempo de reutilización de carga de esta habilidad en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/MuradinStormBolt|MuradinStormbolt|Q",
+    "value": "Lanzas un martillo que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">110</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0de daño al primer enemigo golpeado y lo aturde durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c>\u00A0s.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c>\u00A0Lanza ataques básicos contra héroes afectados por aturdimiento, ralentización o inmovilización. Los enemigos ralentizados o inmovilizados otorgan <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>\u00A0acumulación. Los enemigos aturdidos proporcionan <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0acumulaciones. Si el héroe muere en el plazo de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0s, consigues <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0acumulaciones.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Tras golpear a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c>\u00A0objetivos, Descarga tormentosa perfora, por lo que golpea a un objetivo adicional. Además, tus ataques básicos reducen su tiempo de reutilización <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c>\u00A0s y devuelven <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> de maná.<n/><n/><<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa mítica:</c> Tras golpear a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c>\u00A0objetivos, el alcance de Descarga tormentosa aumenta un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>, la anchura aumenta un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> y ahora perfora a todos los objetivos."
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathShadowMark|XalatathShadowMark|Q"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathVoidEruption|XalatathVoidEruption|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathVoidStepCancel|XalatathVoidStepCancel|E"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathShadowMark|XalatathShadowMark|Q"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathVoidConvergence|XalatathVoidConvergence|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathVoidEruption|XalatathVoidEruption|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathVoidStepCancel|XalatathVoidStepCancel|E"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathVoidStep|XalatathVoidStep|E"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/XalatathVoidVolley|XalatathVoidVolley|Trait"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/XalatathShadowMark|XalatathShadowMark|Q"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/XalatathVoidEruption|XalatathVoidEruption|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/XalatathVoidStep|XalatathVoidStep|E"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/XalatathVoidVolley|XalatathVoidVolley|Trait"
+  },
+  {
+    "op": "add",
+    "path": "/items/bundle/name/XalatathLaunchBundle",
+    "value": "Pack de lanzamiento de Xal'atath"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hero/description/Xalatath"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hero/difficulty/Xalatath"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hero/energyType/Xalatath"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hero/expandedRole/Xalatath"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hero/infoText/Xalatath"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hero/lifeType/Xalatath"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hero/name/Xalatath"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hero/roles/Xalatath"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hero/searchText/Xalatath"
+  },
+  {
+    "op": "remove",
+    "path": "/items/hero/title/Xalatath"
+  },
+  {
+    "op": "add",
+    "path": "/items/lootChest/name/XalatathChest",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/description/XalatathPortraitBase",
+    "value": "Se desbloquea el retrato de este héroe en tu colección."
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/description/XalatathPortraitMastery",
+    "value": "Se desbloquea el retrato maestro de este héroe en tu colección."
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/descriptionUnearned/XalatathPortraitBase",
+    "value": "Has desbloqueado el retrato de este héroe en tu colección."
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/descriptionUnearned/XalatathPortraitMastery",
+    "value": "Has desbloqueado el retrato maestro de este héroe en tu colección."
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/name/XalatathPortraitBase",
+    "value": "Retrato de Xal'atath"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/name/XalatathPortraitMastery",
+    "value": "Retrato maestro de Xal'atath"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurCombatStyleSurvivalInstincts|AbathurLocustStrainSurvivalInstinctsTalent|Trait|Level16",
+    "value": "Reduce un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> el daño que reciben las langostas de unidades que no son héroes y aumenta un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> su daño."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurSlapathur|AbathurSlapathur|E|Level4",
+    "value": "Tus ataques básicos infligen un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">350%</c> de daño adicional, aturden a los enemigos que no sean de élite e inutilizan las estructuras durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.5</c>\u00A0s.<n/><n/>Un mismo héroe o estructura solo puede quedar aturdido o inutilizado una vez cada <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AlexstraszaOverprotectiveAbundance|AlexstraszaOverprotectiveAbundance|W|Level16",
+    "value": "Los héroes curados con Abundancia obtienen un escudo durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> s, que equivale a un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> de la salud curada."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArthasHeroicAbilityArmyoftheDead|ArthasArmyOfTheDead|Heroic|Level10",
+    "value": "Consume todas las cargas para invocar el mismo número de necrófagos que pierden salud durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0s y atacan para infligir <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0de daño. Vuelve a activarlo para sacrificar a un necrófago, curándote <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">240</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0de salud. Puedes almacenar hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0cargas.<n/><n/>Cuando un esbirro cercano muere, reduce el tiempo de reutilización de carga de esta habilidad <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>\u00A0s. Las bajas en las que participas reducen el tiempo de reutilización de carga de esta habilidad en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Haz que Llama de las sombras golpee a un héroe enemigo afectado por Fuego devorador de Cho para que su tiempo de reutilización se reduzca <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-0</c> s.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Tras golpear a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> héroes, el tiempo de reutilización de Llama de las sombras se reduce <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s de forma permanente."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GenjiDeflectPerfectDefense|GenjiDeflectPerfectDefense|W|Level7",
+    "value": "Bloquear daño con Desvío hace que se reduzca el tiempo de reutilización de dicha habilidad en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c> s, hasta un máximo de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12.5</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhTransformRavenWindsOfCelerity|MedivhTransformRavenWindsOfCelerity|Z|Level1",
+    "value": "Aumenta la bonificación a la velocidad de movimiento de Forma de cuervo un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "El alcance de Núcleo de magma aumenta un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> al principio de su efecto. Además, el tiempo de reutilización de Núcleo de magma se reduce <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c>\u00A0s al utilizarlo en un fuerte o fortaleza destruidos."
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathPummelingStep|XalatathPummelingStep|E|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathToxicMark|XalatathToxicMark|Q|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathUnstableCore|XalatathUnstableCore|W|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathVoidAdept|XalatathVoidAdept|Q|Level7"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathFrozenMark|XalatathFrozenMark|Q|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathPummelingStep|XalatathPummelingStep|E|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathToxicMark|XalatathToxicMark|Q|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathUnstableCore|XalatathUnstableCore|W|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathVoidAdept|XalatathVoidAdept|Q|Level7"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/name/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathPummelingStep|XalatathPummelingStep|E|Level16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathToxicMark|XalatathToxicMark|Q|Level1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathUnstableCore|XalatathUnstableCore|W|Level20"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathVoidAdept|XalatathVoidAdept|Q|Level7"
+  },
+  {
+    "op": "remove",
+    "path": "/items/talent/shortText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "Invoca el Corazón Oscuro, que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño por segundo a los enemigos cercanos durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> s.<n/><n/>El Corazón Oscuro se desplaza al punto de impacto de Marca de las sombras.<n/><n/>El Corazón Oscuro perseguirá a los héroes marcados y detonará al impactar para infligir <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">305</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos cercanos y <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">+152.5</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño al objetivo marcado."
+  }
+]
