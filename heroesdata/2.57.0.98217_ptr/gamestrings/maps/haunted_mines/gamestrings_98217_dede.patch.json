@@ -1,0 +1,49 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Haunted Mines"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/StormBossAttack|Attack|Hidden"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/StormBossAttack|Attack|Hidden"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/StormBossAttack|Attack|Hidden"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostSkullsCollected",
+    "value": "~AwardValue~% der teamweiten Schädel gesammelt"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostSkullsCollected",
+    "value": "Schädelsammler"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostSkullsCollected",
+    "value": "~TooltipAmount~ Schädel gesammelt"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BossHoleSharedVisionUnit",
+    "value": "Boss - Loch, geteilte Sicht - Einheit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperDefender",
+    "value": "Kürbiskopf"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperLaner",
+    "value": "Kürbiskopf"
+  }
+]

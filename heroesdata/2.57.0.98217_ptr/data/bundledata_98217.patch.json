@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98217_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/totalItems",
+    "value": 440
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathLaunchBundle",
+    "value": {
+      "hyperlinkId": "XalatathLaunchBundle",
+      "franchise": "Starcraft",
+      "releaseDate": "2025-02-02",
+      "isDynamicContent": true
+    }
+  }
+]

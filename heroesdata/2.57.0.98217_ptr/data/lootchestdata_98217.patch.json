@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98217_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/totalItems",
+    "value": 148
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathChest",
+    "value": {
+      "hyperlinkId": "XalatathChest",
+      "rarity": "Common",
+      "maxRerolls": 3,
+      "typeDescriptionId": "LootChestCommon"
+    }
+  }
+]
