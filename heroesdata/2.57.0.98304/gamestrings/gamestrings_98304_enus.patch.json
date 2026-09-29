@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98304"
+  },
+  {
+    "op": "replace",
+    "path": "/items/hero/searchText/Xalatath",
+    "value": "World of Warcraft Mage Void Xalatath Zal'atath Zalatath"
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/searchText/MountPhoenix",
+    "value": "Sindorei Red Purple Bird"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "Activating Void Step summons a single Void Minion in Xalatath's original postion. Void Minions are attracted to targets afflicted by Shadow Mark.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Void Minions automatically choose a nearby lane to push.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Void Minion Basic Attacks deal 50</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\"> damage per hit.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Void Minion loses Health over 12 seconds.</s>"
+  }
+]

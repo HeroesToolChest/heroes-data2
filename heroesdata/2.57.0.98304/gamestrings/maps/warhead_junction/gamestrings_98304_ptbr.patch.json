@@ -1,0 +1,287 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Warhead Junction"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+    "value": "Recarga: 14 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+    "value": "Recarga: 14 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|Q",
+    "value": "Recarga: 20 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|W",
+    "value": "Recarga: 20 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "Recarga: 15 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "Recarga: 15 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+    "value": "Cospe um visgo que causa dano aos inimigos na área ao longo do tempo"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+    "value": "Cria ao redor do chefe módulos de lodo que atacam inimigos ao alcance."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|Q",
+    "value": "Coloca uma torre de artilharia automatizada no local selecionado. Torres de artilharia automatizadas são torres fixas de ataque, que atacam qualquer inimigo que se aproxime."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|W",
+    "value": "Coloca uma torre de artilharia automatizada no local selecionado. Torres de artilharia automatizadas são torres fixas de ataque, que atacam qualquer inimigo que se aproxime."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "Dispara um projétil lento contra a unidade selecionada. O projétil perseguirá o alvo por 7 segundos. Se chegar a 3 de alcance do alvo, ele acelerará para atingi-lo, causando 0 de dano ao alvo e aos inimigos próximos."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "Dispara um projétil lento contra a unidade selecionada. O projétil perseguirá o alvo por 7 segundos. Se chegar a 3 de alcance do alvo, ele acelerará para atingi-lo, causando 0 de dano ao alvo e aos inimigos próximos."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+    "value": "Cuspe de Gosma"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+    "value": "Cria Módulos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/StopRedirect|Stop|W",
+    "value": "Parar"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "Míssil Teleguiado"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "Míssil Teleguiado"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+    "value": "Cospe gosma no ponto alvejado"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+    "value": "Cria Módulos de Gosma que atacam inimigos ao alcance"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "Míssil teleguiado lento. Explode com o impacto, causando dano em área."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "Míssil teleguiado lento. Explode com o impacto, causando dano em área."
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostNukeDamageDone",
+    "value": "~AwardValue~% do dano da equipe causado com Ogivas"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostNukeDamageDone",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Bombardeador,Bombardeadora</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostNukeDamageDone",
+    "value": "~TooltipAmount~ de dano causado com Ogivas"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MapMechanicNuke",
+    "value": "Após <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s, lança uma Ogiva que causa <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1750</c> de dano (<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> do máximo de Vida a Heróis). Incendeia estruturas próximas, causando dano adicional por 10 s. Efeito aumentado ao atacar construções incendiadas."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/TerranRavenSeekerMissile",
+    "value": "Dispara um projétil lento contra a unidade selecionada. O projétil perseguirá o alvo por 7 segundos. Se chegar a 3 de alcance do alvo, ele acelerará para atingi-lo, causando 0 de dano ao alvo e aos inimigos próximos."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArcadeMachine",
+    "value": "Máquina de Arcade"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MapMechanicNuke",
+    "value": "Arma Nuclear"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MapMechanicNukeSilo",
+    "value": "Silo Nuclear"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/NukeTargetMinimapIconUnit",
+    "value": "Ícone de Unidade no Minimapa de Alvo da Arma Nuclear"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PapaCosplay",
+    "value": "Papa Cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossDefender",
+    "value": "Chefe de Visgo"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossLaner",
+    "value": "Chefe de Visgo"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossPodlingDefender",
+    "value": "Plantíneo"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossPodlingLaner",
+    "value": "Plantíneo"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossSlimeSpitMissile",
+    "value": "Míssil de Cuspe de Visgo do Chefe de Visgo"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossSpawnPodsMissile",
+    "value": "Míssil de Geração de Módulos do Chefe de Visgo"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SwampMonsterEasterEggUnit",
+    "value": "Unidade Secreta do Monstro do Pântano"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranBunker",
+    "value": "Casamata"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranBunkerUpgraded",
+    "value": "Casamata (aprimorada)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranGoliath",
+    "value": "Golias Terrano"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranGoliathDefender",
+    "value": "Golias"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranHellbat",
+    "value": "Morcego Infernal Terrano"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranHellbatDefender",
+    "value": "Morcego Infernal"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranMarine",
+    "value": "Soldado"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranRaven",
+    "value": "Corvo Terrano"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranRavenDefender",
+    "value": "Corvo"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranRavenSeekerMissile",
+    "value": "Corvo"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerrazineGasVein",
+    "value": "Veio de Gás Terrazino"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerrazineRageAoEMissile",
+    "value": "Míssil de AdE de Fúria do Terrazino"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadDouble",
+    "value": "Ogiva"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadDropped",
+    "value": "Ogiva Largada"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadDroppedMissile",
+    "value": "Míssil da Ogiva Largada"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadSingle",
+    "value": "Ogiva"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadTriple",
+    "value": "Ogiva"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WaygateEntrance",
+    "value": "Esgoto"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98304"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "add",
+    "path": "/items/mount/searchText/MountPhoenix",
+    "value": ""
+  }
+]
