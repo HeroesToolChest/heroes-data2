@@ -1,0 +1,188 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98285"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.1.0"
+  },
+  {
+    "op": "add",
+    "path": "/items/DeathwingDragonflightUnit/abilities/Basic/2",
+    "value": {
+      "linkId": "DeathwingOnslaught|DeathwingOnslaught|E",
+      "abilityId": "DeathwingOnslaught",
+      "buttonId": "DeathwingOnslaught",
+      "icon": "storm_ui_icon_deathwing_onslaught.png",
+      "abilityType": "E"
+    }
+  },
+  {
+    "op": "remove",
+    "path": "/items/DeathwingDragonflightUnit/abilities/Hidden/14"
+  },
+  {
+    "op": "replace",
+    "path": "/items/DeathwingDragonflightUnit/abilities/Hidden/13/linkId",
+    "value": "DeathwingDragonflightLandMorph|:NONE:|Hidden"
+  },
+  {
+    "op": "replace",
+    "path": "/items/DeathwingDragonflightUnit/abilities/Hidden/13/abilityId",
+    "value": "DeathwingDragonflightLandMorph"
+  },
+  {
+    "op": "replace",
+    "path": "/items/DeathwingDragonflightUnit/abilities/Hidden/12/linkId",
+    "value": "DeathwingDragonflightFlyMorph|:NONE:|Hidden"
+  },
+  {
+    "op": "replace",
+    "path": "/items/DeathwingDragonflightUnit/abilities/Hidden/12/abilityId",
+    "value": "DeathwingDragonflightFlyMorph"
+  },
+  {
+    "op": "replace",
+    "path": "/items/DeathwingDragonflightUnit/abilities/Hidden/12/buttonId",
+    "value": ":NONE:"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DeathwingDragonflightUnit/abilities/Hidden/12/icon"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DeathwingDragonflightUnit/abilities/Hidden/12/toggleCooldown"
+  },
+  {
+    "op": "replace",
+    "path": "/items/DeathwingDragonflightUnit/abilities/Hidden/11/linkId",
+    "value": "DeathwingBrimstoneCancel|DeathwingBrimstoneCancel|Hidden"
+  },
+  {
+    "op": "replace",
+    "path": "/items/DeathwingDragonflightUnit/abilities/Hidden/11/abilityId",
+    "value": "DeathwingBrimstoneCancel"
+  },
+  {
+    "op": "replace",
+    "path": "/items/DeathwingDragonflightUnit/abilities/Hidden/11/buttonId",
+    "value": "DeathwingBrimstoneCancel"
+  },
+  {
+    "op": "replace",
+    "path": "/items/DeathwingDragonflightUnit/abilities/Hidden/11/icon",
+    "value": "hud_btn_bg_ability_cancel.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/DeathwingDragonflightUnit/abilities/Hidden/11/toggleCooldown",
+    "value": 0.5
+  },
+  {
+    "op": "remove",
+    "path": "/items/DeathwingDragonflightUnit/subAbilities/DeathwingWorldbreakerForm|DeathwingWorldbreaker|W/Basic/5"
+  },
+  {
+    "op": "remove",
+    "path": "/items/DeathwingDragonflightUnit/subAbilities/DeathwingWorldbreakerForm|DeathwingWorldbreaker|W/Basic/4"
+  },
+  {
+    "op": "replace",
+    "path": "/items/DeathwingDragonflightUnit/subAbilities/DeathwingWorldbreakerForm|DeathwingWorldbreaker|W/Basic/1/linkId",
+    "value": "DeathwingEarthShatter|DeathwingEarthShatter|E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/DeathwingDragonflightUnit/subAbilities/DeathwingWorldbreakerForm|DeathwingWorldbreaker|W/Basic/1/abilityId",
+    "value": "DeathwingEarthShatter"
+  },
+  {
+    "op": "replace",
+    "path": "/items/DeathwingDragonflightUnit/subAbilities/DeathwingWorldbreakerForm|DeathwingWorldbreaker|W/Basic/1/buttonId",
+    "value": "DeathwingEarthShatter"
+  },
+  {
+    "op": "replace",
+    "path": "/items/DeathwingDragonflightUnit/subAbilities/DeathwingWorldbreakerForm|DeathwingWorldbreaker|W/Basic/1/icon",
+    "value": "storm_ui_icon_deathwing_earth_shatter.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/DeathwingDragonflightUnit/subAbilities/DeathwingWorldbreakerForm|DeathwingWorldbreaker|W/Basic/0/linkId",
+    "value": "DeathwingEarthShatter|DeathwingEarthShatter|E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/DeathwingDragonflightUnit/subAbilities/DeathwingWorldbreakerForm|DeathwingWorldbreaker|W/Basic/0/abilityId",
+    "value": "DeathwingEarthShatter"
+  },
+  {
+    "op": "replace",
+    "path": "/items/DeathwingDragonflightUnit/subAbilities/DeathwingWorldbreakerForm|DeathwingWorldbreaker|W/Basic/0/buttonId",
+    "value": "DeathwingEarthShatter"
+  },
+  {
+    "op": "replace",
+    "path": "/items/DeathwingDragonflightUnit/subAbilities/DeathwingWorldbreakerForm|DeathwingWorldbreaker|W/Basic/0/icon",
+    "value": "storm_ui_icon_deathwing_earth_shatter.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/DeathwingDragonflightUnit/subAbilities/DeathwingWorldbreakerForm|DeathwingWorldbreaker|W/Hidden",
+    "value": [
+      {
+        "linkId": "DeathwingLavaBurst|DeathwingLavaBurst|Hidden",
+        "abilityId": "DeathwingLavaBurst",
+        "buttonId": "DeathwingLavaBurst",
+        "icon": "storm_ui_icon_deathwing_lava_burst.png",
+        "abilityType": "Hidden"
+      },
+      {
+        "linkId": "DeathwingLavaBurst|DeathwingLavaBurst|Hidden",
+        "abilityId": "DeathwingLavaBurst",
+        "buttonId": "DeathwingLavaBurst",
+        "icon": "storm_ui_icon_deathwing_lava_burst.png",
+        "abilityType": "Hidden"
+      }
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidConvergencePortalUnit/radius",
+    "value": 1.5
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidConvergencePortalUnit/innerRadius",
+    "value": 1.25
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidConvergencePortalUnit/life/amount",
+    "value": 1500
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidConvergencePortalUnit/life/regenRate",
+    "value": -75
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidConvergencePortalUnit/life/regenScale",
+    "value": 0.04
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidMinion/life/amount",
+    "value": 400
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidMinion/life/regenRate",
+    "value": -33.3333
+  }
+]

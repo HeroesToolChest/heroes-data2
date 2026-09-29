@@ -1,0 +1,292 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Checkpoint: Hanamura"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/DragonsDinner|DragonsDinner|Q",
+    "value": "冷卻時間：12秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/MercDefenderHealingPulse|MercDefenderHealingPulse|Z",
+    "value": "冷卻時間：10秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/RingOfFire|RingOfFire|W",
+    "value": "冷卻時間：5秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneBrew|B",
+    "value": "將你傳送回祭壇，立刻恢復所有生命值與酒力值。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneNoMana|B",
+    "value": "將你傳送回祭壇，立刻恢復所有生命值。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|Hearthstone|B",
+    "value": "將你傳送回祭壇，立刻恢復所有生命值與法力值。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/PayloadAttack|Attack|Hidden",
+    "value": "使用英雄的武器進行攻擊"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/DragonsDinner|DragonsDinner|Q",
+    "value": "龍魂晚宴"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercDefenderHealingPulse|MercDefenderHealingPulse|Z",
+    "value": "脈衝治療"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/move|Move|Trait",
+    "value": "移動"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/OverwatchMechanicRepair|OverwatchMechanicRepair|Z",
+    "value": "智械工程師 - 修理"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/PayloadAttack|Attack|Hidden",
+    "value": "基本攻擊"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/RingOfFire|RingOfFire|W",
+    "value": "能量之環"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/PayloadAttack|Attack|Hidden",
+    "value": "以普通攻擊對敵人造成傷害"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/RingOfFire|RingOfFire|W",
+    "value": "產生一道能量之環，對範圍內的目標造成傷害"
+  },
+  {
+    "op": "add",
+    "path": "/items/announcerPack/name/CommodoreFord",
+    "value": "福特准將"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostTimePushing",
+    "value": "護送飛彈時間佔~AwardValue~%"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostTimePushing",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">護送專家</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostTimePushing",
+    "value": "護送飛彈時間達~TooltipAmount~秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/BioticEmitter",
+    "value": "製造一個生化放射器，在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c>秒內使附近友方英雄恢復最大生命值和最大法力值的<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c>。"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/DummyTurret",
+    "value": "產生一個可造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">43</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害的砲塔。砲塔的存在時間為<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">-1</c>秒。使用次數可累積至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>次。"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">生命值高的強悍傭兵，使用近戰攻擊，專門負責承受敵方陣地的砲火。</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser2",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">生命值高的強悍傭兵，使用近戰攻擊，專門負責承受敵方陣地的砲火。</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser3",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">生命值高的強悍傭兵，使用近戰攻擊，專門負責承受敵方陣地的砲火。</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeIndividual",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">生命值高的強悍傭兵，使用近戰攻擊，專門負責承受敵方陣地的砲火。</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/PayloadSpawningWarningUnit",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/JungleGraveGolemDefender",
+    "value": "巨神機甲兵"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/RavenLordTributeWarning",
+    "value": "飛彈即將出現"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/RegenGlobe",
+    "value": "治療包"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AttackCoreMissile",
+    "value": "攻擊核心飛彈"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AttackCoreSourceInvisibleUnit",
+    "value": "攻擊核心來源隱形單位"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BioticEmitter",
+    "value": "生化放射器"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DragonSpirit",
+    "value": "龍魂"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DragonSpiritsPickup",
+    "value": "龍魂（拾取）"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DummyTurret",
+    "value": "假人砲塔"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HealingPulsePickup",
+    "value": "脈衝治療（拾取）"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser",
+    "value": "幫派嘍囉"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser2",
+    "value": "幫派嘍囉"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser3",
+    "value": "幫派嘍囉"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeIndividual",
+    "value": "哨衛"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperLaner",
+    "value": "砲彈兵"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchBossImprisonMissile",
+    "value": "鬥陣特攻頭目囚禁飛彈"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchBossImprisonMissileDummy",
+    "value": "鬥陣特攻頭目囚禁飛彈（模型）"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchMechanic",
+    "value": "智械工程師"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchTurret",
+    "value": "砲塔"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchTurretPlayer",
+    "value": "砲塔（玩家）"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Payload",
+    "value": "飛彈"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PayloadChaosPath1",
+    "value": "飛彈 - 混沌 - 路徑1"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PayloadChaosPath2",
+    "value": "飛彈 - 混沌 - 路徑2"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PayloadCheckpointUnit",
+    "value": "飛彈檢查點單位"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PayloadDestinationMinimapIcon",
+    "value": "飛彈目的地"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PayloadDestinationPingTargetUnit",
+    "value": "飛彈目的地標示目標單位"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PayloadOrderPath1",
+    "value": "飛彈 - 秩序 - 路徑1"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PayloadOrderPath2",
+    "value": "飛彈 - 秩序 - 路徑2"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PayloadSpawningWarningUnit",
+    "value": "飛彈即將出現"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/RegenGlobePrecursor",
+    "value": "恢復之球前置"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TurretPickup",
+    "value": "砲塔"
+  }
+]

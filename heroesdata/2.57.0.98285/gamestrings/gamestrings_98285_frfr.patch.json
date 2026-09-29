@@ -1,0 +1,776 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98285"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.1.0"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/cooldownText/AnaEyeOfHorusAttack|AnaEyeOfHorusHighPoweredRound|Heroic"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/JainaIceBlockActivate|JainaIceColdHotbar|Active",
+    "value": "Temps de recharge\u00A0: 40 secondes"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/JainaIceBlockActivate|JainaImprovedIceBlockHotbar|Active",
+    "value": "Temps de recharge\u00A0: 40 secondes"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Temps de recharge\u00A0: 15 secondes"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Temps de recharge\u00A0:<sp/>7\u00A0secondes"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "Temps de recharge\u00A0: 75 secondes"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Temps de recharge\u00A0: 75 secondes"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Temps de recharge\u00A0: 15 secondes"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana\u00A0: 50</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana\u00A0: 45</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana\u00A0: 75</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana\u00A0: 80</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana\u00A0: 50</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana\u00A0: 35</s>"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/AnaEyeOfHorusAttack|AnaEyeOfHorusHighPoweredRound|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/ImprovedIceBlock|JainaImprovedIceBlockCancel|Active"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/ImprovedIceBlock|JainaImprovedIceBlockHotbar|Active"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/:PASSIVE:|SamuroSelectMirrorImages|Active",
+    "value": "<s val=\"cbe8ff-ffffff\" hlt-name=\"StandardTooltipHeader\">Sélectionner l’image miroir</s><n/><n/>Contrôle une seule image miroir."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/JainaIceBlockActivate|JainaIceColdHotbar|Active",
+    "value": "À l’activation, rend Jaina insensible aux effets de contrôle et lui octroie Protection pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c>\u00A0secondes. Lorsque l’effet prend fin, les adversaires proches sont glacés."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/JainaIceBlockActivate|JainaImprovedIceBlockHotbar|Active",
+    "value": "S’active pour entrer en stase et devenir invulnérable pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c> secondes. Lorsque l’effet prend fin, les ennemis proches sont glacés."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/JainaIceBlockCancel|JainaIceColdCancel|Active",
+    "value": "<n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">Annule Glaciation avant son terme, ce qui supprime Protection, mais glace les ennemis à proximité.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/JainaIceBlockCancel|JainaImprovedIceBlockCancel|Active",
+    "value": "<n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">Annule Bloc de glace amélioré avant son terme, ce qui supprime l’état de stase et l’invulnérabilité, mais glace les ennemis proches.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SamuroIllusionMasterToggleAI|SamuroIllusionMasterToggleAIOff|Active",
+    "value": "Quand l’IA est activée, les images exécuteront d’abord les ordres que vous leur avez donnés, puis chercheront automatiquement des ennemis à attaquer.<n/><n/>Cliquez sur ce bouton pour désactiver l’IA."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SamuroIllusionMasterToggleAI|SamuroIllusionMasterToggleAIOn|Active",
+    "value": "Quand l’IA est désactivée, les images se déplacent et agissent uniquement quand vous le leur ordonnez.<n/><n/>Cliquez sur ce bouton pour activer l’IA."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Invoque le cœur obscur, qui émet des pulsations infligeant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts par seconde aux ennemis proches et persiste pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>\u00A0s.<n/><n/>Le cœur obscur se déplace vers la zone d’impact de Marque de l’ombre.<n/><n/>Le cœur obscur poursuivra les cibles affectées par Marque de l’ombre et explosera à l’impact, infligeant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">245</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts aux ennemis proches et <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">61</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> supplémentaires à la cible marquée."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Lance un orbe du Vide qui inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts aux ennemis touchés, et <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">120</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> supplémentaires aux ennemis au centre.<n/><n/>Si un héros adverse ou une structure est touché par le centre de l’orbe, il est marqué pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>\u00A0s.<n/><n/>Les cibles affectées par Marque de l’ombre sont révélées et attirent le cœur obscur et les serviteurs du Vide vers elles."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "Après <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0s de canalisation, invoque un portail du Vide qui fait apparaître jusqu’à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0serviteurs du Vide pour attaquer les ennemis proches.<n/><n/>Vous pouvez avoir jusqu’à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>\u00A0portail(s) du Vide actif(s).<n/><n/>Les ennemis proches du portail du Vide sont ralentis de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25\u00A0%</c>.<n/><n/>Les serviteurs du Vide sont attirés par les cibles affectées par Marque de l’ombre.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Le portail disparaît au bout de 0\u00A0s.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Les serviteurs du Vide choisissent automatiquement une voie proche sur laquelle avancer.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Les attaques de base des serviteurs du Vide infligent 50</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">\u00A0points de dégâts par coup.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Les serviteurs du Vide perdent des points de vie pendant 12\u00A0s.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Canalise un orbe du Vide puissant qui grandit au fil du temps jusqu’à atteindre sa taille maximale au bout de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0s. Réactiver la capacité permet de lancer l’orbe plus tôt.<n/><n/>Les ennemis touchés par l’orbe subissent <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">112</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts et sont aveuglés pendant <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s>\u00A0s.<n/><n/>Lorsque l’orbe atteint la fin de sa course, il explose en infligeant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts dans une large zone.<n/><n/>Plus cette technique est chargée, plus ses dégâts de contact augmentent, jusqu’à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>, et ses dégâts d’explosion jusqu’à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Les dégâts de contact sont infligés toutes les 0,25\u00A0s.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidStepCancel|XalatathVoidStepCancel|E",
+    "value": "L’annulation de la capacité plus tôt vous arrête là où vous êtes."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Permet de téléporter Xal’atath <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0fois selon une trajectoire triangulaire.<n/><n/>À chaque téléportation, les attaques de base de Xal’atath infligent <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">10\u00A0%</s> de dégâts supplémentaires tant que la capacité est active.<n/><n/>Réactiver la capacité permet d’interrompre Pas du Vide plus tôt pour rester à votre emplacement actuel.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Les dégâts des attaques de base sont plafonnés à +30\u00A0%.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Après avoir attaqué des adversaires <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0fois avec ses attaques de base, Xal’atath peut lancer Salve du Vide pour libérer une série de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0orbes du Vide sur l’endroit ciblé, chacun infligeant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts à l’impact.<n/><n/>La charge se dissipe entièrement si Xal’atath ne touche aucun adversaire avec une attaque de base pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0s.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête\u00A0:</c> toucher des héros adverses avec Salve du Vide confère <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>\u00A0cumul par coup et augmente les dégâts de Salve du Vide de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1\u00A0%</c> . Tous les cumuls sont perdus à la mort.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Récompense (20\u00A0cumuls)\u00A0:</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c> à la portée de Salve du Vide<n/>   Le nombre de cumuls perdus à la mort est réduit à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Récompense (60\u00A0cumuls)\u00A0:</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">-1</c> au nombre d’attaques de base requis pour charger Salve du Vide.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Récompense mythique (100\u00A0cumuls)\u00A0:</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+50\u00A0%</c> aux dégâts des attaques de base et de Salve du Vide.<n/>   Les projectiles de Salve du Vide transpercent toutes les cibles.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">La perte de cumuls ne peut jamais faire repasser l’héroïne sous un palier de récompense de quête.</s>"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/AnaEyeOfHorusAttack|AnaEyeOfHorusHighPoweredRound|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/ImprovedIceBlock|JainaImprovedIceBlockCancel|Active"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/ImprovedIceBlock|JainaImprovedIceBlockHotbar|Active"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/:PASSIVE:|SamuroSelectMirrorImages|Active",
+    "value": "Sélectionner l’image miroir"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/JainaIceBlockActivate|JainaIceColdHotbar|Active",
+    "value": "Glaciation"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/JainaIceBlockActivate|JainaImprovedIceBlockHotbar|Active",
+    "value": "Bloc de glace amélioré"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/JainaIceBlockCancel|JainaIceColdCancel|Active",
+    "value": "Annuler Glaciation"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/JainaIceBlockCancel|JainaImprovedIceBlockCancel|Active",
+    "value": "Annule Bloc de glace amélioré"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SamuroIllusionMasterToggleAI|SamuroIllusionMasterToggleAIOff|Active",
+    "value": "IA activée"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SamuroIllusionMasterToggleAI|SamuroIllusionMasterToggleAIOn|Active",
+    "value": "IA désactivée"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Rituel du cœur obscur"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Marque de l’ombre"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "Convergence du Vide"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Éruption du Vide"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidStepCancel|XalatathVoidStepCancel|E",
+    "value": "Annuler Pas du Vide"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Pas du Vide"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Salve du Vide"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/ImprovedIceBlock|JainaImprovedIceBlockHotbar|Active"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/:PASSIVE:|SamuroSelectMirrorImages|Active",
+    "value": "Sélectionner l’image miroir"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/JainaIceBlockActivate|JainaIceColdHotbar|Active",
+    "value": "Obtient Protection et glace les ennemis."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/JainaIceBlockActivate|JainaImprovedIceBlockHotbar|Active",
+    "value": "Rend invulnérable et glace les ennemis."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Invoque le cœur obscur."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Lance un unique grand orbe du Vide."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "Invoque un portail qui fera apparaître des serviteurs du Vide."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Canalise un orbe du Vide grandissant qui inflige des dégâts sur son chemin."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Permet de téléporter Xal’atath selon une trajectoire triangulaire."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Libère une salve de projectiles du Vide à l’endroit ciblé."
+  },
+  {
+    "op": "replace",
+    "path": "/items/bundle/name/XalatathLaunchBundle",
+    "value": "Pack Sombre crépuscule de Xal’atath"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/description/Xalatath",
+    "value": "Un assassin à distance qui manipule l’énergie du Vide pour submerger ses adversaires et contrôler le champ de bataille."
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/difficulty/Xalatath",
+    "value": "moyenne"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/energyType/Xalatath",
+    "value": "Mana"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/expandedRole/Xalatath",
+    "value": "Assassin à distance"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/infoText/Xalatath",
+    "value": "Pendant des siècles, Xal’atath a manipulé les dieux comme les mortels pour s’élever dans la hiérarchie cosmique. Autrefois servante de Dimensius l’Omni-dévoreur, puis prisonnière des Dieux très anciens, elle est désormais libre et met ses propres plans à exécution, à commencer par la destruction de Dalaran et la transformation du Puits de soleil."
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/lifeType/Xalatath",
+    "value": "Vie"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/name/Xalatath",
+    "value": "Xal’atath"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/roles/Xalatath",
+    "value": [
+      "Assassin"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/searchText/Xalatath",
+    "value": "Mage du Vide de World\u00A0of\u00A0Warcraft"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/title/Xalatath",
+    "value": "La messagère du Vide"
+  },
+  {
+    "op": "replace",
+    "path": "/items/lootChest/name/XalatathChest",
+    "value": "Coffre de Xal’atath"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVar1",
+    "value": "Pendant des siècles, Xal’atath a manipulé les dieux comme les mortels pour s’élever dans la hiérarchie cosmique. Autrefois servante de Dimensius l’Omni-dévoreur, puis prisonnière des Dieux très anciens, elle est désormais libre et met ses propres plans à exécution, à commencer par la destruction de Dalaran et la transformation du Puits de soleil."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVar2",
+    "value": "Pendant des siècles, Xal’atath a manipulé les dieux comme les mortels pour s’élever dans la hiérarchie cosmique. Autrefois servante de Dimensius l’Omni-dévoreur, puis prisonnière des Dieux très anciens, elle est désormais libre et met ses propres plans à exécution, à commencer par la destruction de Dalaran et la transformation du Puits de soleil."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVar3",
+    "value": "Pendant des siècles, Xal’atath a manipulé les dieux comme les mortels pour s’élever dans la hiérarchie cosmique. Autrefois servante de Dimensius l’Omni-dévoreur, puis prisonnière des Dieux très anciens, elle est désormais libre et met ses propres plans à exécution, à commencer par la destruction de Dalaran et la transformation du Puits de soleil."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVar4",
+    "value": "Pendant des siècles, Xal’atath a manipulé les dieux comme les mortels pour s’élever dans la hiérarchie cosmique. Autrefois servante de Dimensius l’Omni-dévoreur, puis prisonnière des Dieux très anciens, elle est désormais libre et met ses propres plans à exécution, à commencer par la destruction de Dalaran et la transformation du Puits de soleil."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/cooldownText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "Temps de recharge\u00A0: 75 secondes"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/cooldownText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Temps de recharge\u00A0: 75 secondes"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/energyText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana\u00A0: 75</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/energyText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana\u00A0: 80</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurCombatStyleBombardStrain|AbathurLocustStrainBombardStrainTalent|Trait|Level13",
+    "value": "L’attaque de base des nuisibles devient une attaque de siège à longue portée et ils perdent désormais des points de vie <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40\u00A0%</c> moins vite."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête\u00A0:</c> si Ombreflamme touche un héros adverse affecté par Flambée dévorante de Cho, réduit son temps de recharge de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c>\u00A0s.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Récompense\u00A0:</c> une fois <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0héros touchés, réduit de manière permanente le temps de recharge d’Ombreflamme de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>\u00A0s."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "Rituel du cœur obscur\u00A0:<n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+50\u00A0%</c> de rayon<n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+25\u00A0%</c> de durée<n/><n/>Les dégâts du cœur obscur rebondissent <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0fois de la cible principale vers les ennemis proches, infligeant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "Activer Pas du Vide confère <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">50\u00A0%</s> de vitesse de déplacement et <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c>\u00A0points d’armure anti-sort pendant <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">2</s>\u00A0s. Ce bonus se réinitialise chaque fois que Xal’atath se téléporte."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": "Ralentit les ennemis touchés par Salve du Vide de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6\u00A0%</c> pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0s par projectile, jusqu’à un maximum de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50\u00A0%</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "Chaque fois que le cœur obscur inflige des dégâts à un ennemi, Xal’atath obtient un bouclier égal à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2\u00A0%</c> de son maximum de points de vie, jusqu’à un maximum de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10\u00A0%</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "Lancer Rituel du cœur obscur réduit au silence les ennemis qui se trouvent dans son rayon pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>\u00A0s.<n/><n/>Xal’atath et les héros alliés obtiennent <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c>\u00A0points d’armure anti-sort tant qu’ils se trouvent dans le rayon du cœur obscur."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": "<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+1</c>\u00A0charge de Marque de l’ombre<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Marque de l’ombre a désormais un temps de recharge de 3\u00A0s entre chaque utilisation.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": "<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+25\u00A0%</c> aux dégâts des projectiles de Salve du Vide<n/><n/>Les projectiles de Salve du Vide laissent une traînée de flammes derrière eux pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0s, qui inflige en continu <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">9</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts aux ennemis. Les dégâts augmentent à mesure qu’une cible reste dans les flammes.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Les dégâts sont infligés toutes les 0.1875\u00A0s.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Les dégâts peuvent augmenter jusqu’à 300\u00A0%.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Les augmentations de dégâts de plusieurs zones enflammées se cumulent.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+1\u00A0s</c> à la durée de Marque de l’ombre<n/><n/>La vitesse de déplacement des héros affectés par Marque de l’ombre est réduite de <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">25\u00A0%</s>."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "Après <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0s de canalisation, invoque un portail du Vide qui fait apparaître jusqu’à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0serviteurs du Vide pour attaquer les ennemis proches.<n/><n/>Vous pouvez avoir jusqu’à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>\u00A0portail(s) du Vide actif(s).<n/><n/>Les ennemis proches du portail du Vide sont ralentis de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25\u00A0%</c>.<n/><n/>Les serviteurs du Vide sont attirés par les cibles affectées par Marque de l’ombre.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Le portail disparaît au bout de 0\u00A0s.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Les serviteurs du Vide choisissent automatiquement une voie proche sur laquelle avancer.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Les attaques de base des serviteurs du Vide infligent 50</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">\u00A0points de dégâts par coup.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Les serviteurs du Vide perdent des points de vie pendant 12\u00A0s.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Canalise un orbe du Vide puissant qui grandit au fil du temps jusqu’à atteindre sa taille maximale au bout de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0s. Réactiver la capacité permet de lancer l’orbe plus tôt.<n/><n/>Les ennemis touchés par l’orbe subissent <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">112</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts et sont aveuglés pendant <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s>\u00A0s.<n/><n/>Lorsque l’orbe atteint la fin de sa course, il explose en infligeant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts dans une large zone.<n/><n/>Plus cette technique est chargée, plus ses dégâts de contact augmentent, jusqu’à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>, et ses dégâts d’explosion jusqu’à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Les dégâts de contact sont infligés toutes les 0,25\u00A0s.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "Les attaques de base contre les héros adverses affectés par Marque de l’ombre confèrent un bouclier de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points qui se dissipe rapidement.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Le bouclier commence à se dissiper au bout de 1\u00A0s, puis disparaît progressivement en 2\u00A0s.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": "Éruption du Vide se divise en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0orbes du Vide qui gravitent autour d’elle. Chaque héros adverse touché par leur explosion réduit le temps de recharge d’Éruption du Vide de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">14</c>\u00A0s."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "À la fin de Pas du Vide, Xal’atath déclenche immédiatement un second Pas du Vide dans la direction opposée. Les effets supplémentaires sont réactivés."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13",
+    "value": "Les ennemis blessés par Rituel du cœur obscur sont ralentis de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10\u00A0%</c> à chaque pulsation. Cet effet peut se cumuler jusqu’à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0fois et se dissipe en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0s."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "Lorsque Pas du Vide est actif, la vitesse d’attaque de base de Xal’atath est augmentée de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">150\u00A0%</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "Le portail du Vide de Convergence du Vide n’a plus de durée de vie, la limite de portails du Vide actifs passe à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> et chaque portail peut invoquer et maintenir jusqu’à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>\u00A0serviteurs du Vide."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "L’activation de Pas du Vide invoque un sceau de magie du Vide au sol. Une fois le sceau terminé, il inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts aux ennemis à l’intérieur et les réduit au silence pendant <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s>\u00A0s."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathToxicMark|XalatathToxicMark|Q|Level7",
+    "value": "<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+1\u00A0s</c> à la durée de Marque de l’ombre<n/><n/>Les héros affectés par Marque de l’ombre voient leurs points d’armure réduits de <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">10</s> et subissent chaque seconde un montant de dégâts égal à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1\u00A0%</c> de leur maximum de points de vie."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "Lorsque le cœur obscur expire ou explose sur une cible affectée par Marque de l’ombre, il laisse derrière lui une nappe de flammes du Vide pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0s. Les ennemis qui se trouvent dans les flammes subissent <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts sur la durée.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Les flammes infligent des dégâts toutes les 1\u00A0s.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "Terminer Pas du Vide charge entièrement Salve du Vide.<n/><n/>La prochaine Salve du Vide inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50\u00A0%</c> de dégâts supplémentaires et ne coûte plus de mana."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidAdept|XalatathVoidAdept|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête\u00A0:</c> faire exploser le cœur obscur sur des cibles affectées par Marque de l’ombre.<n/><n/>Chaque explosion réussie augmente définitivement de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> les dégâts de détonation de Marque de l’ombre et de Rituel du cœur obscur, jusqu’à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>\u00A0fois."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "Activer Pas du Vide invoque un serviteur du Vide à la position initiale de Xal’atath. Les serviteurs du Vide sont attirés par les cibles affectées par Marque de l’ombre.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Les serviteurs du Vide choisissent automatiquement une voie proche sur laquelle avancer.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Les attaques de base des serviteurs du Vide infligent 50</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">\u00A0points de dégâts par coup.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Le serviteur du Vide perd des points de vie pendant 12\u00A0s.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "Noyau ancré"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "Cape d’ombre"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": "Cascade dévastatrice"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "Barrière obscure"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "Protection du cœur obscur"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": "Orbes de duel"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": "Réalité brisée"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "Croche-pied"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "Convergence du Vide"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Éruption du Vide"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "Résilience marquée"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": "Dévoration de la messagère"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "Boucle de paradoxe"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13",
+    "value": "Appel du cœur obscur"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "Murmures incessants"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "Invasion de faille"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "Silence des agneaux"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathToxicMark|XalatathToxicMark|Q|Level7",
+    "value": "Marque toxique"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "Noyau instable"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "Acolyte du Vide"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidAdept|XalatathVoidAdept|Q|Level1",
+    "value": "Adepte du Vide"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "Invocatrice du Vide"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "Augmente la durée et le rayon du cœur obscur."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "Pas du Vide confère de l’armure anti-sort et de la vitesse de déplacement."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": "Salve du Vide ralentit les ennemis touchés."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "Confère un bouclier chaque fois que le cœur obscur inflige des dégâts à un ennemi."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "Xal’atath et les alliés proches du cœur obscur obtiennent de l’armure anti-sort."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": "Marque de l’ombre gagne une charge supplémentaire."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": "Salve du Vide laisse une traînée de feu sur son passage."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "Les héros affectés par Marque de l’ombre sont ralentis et la durée de la marque est augmentée."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "Invoque un portail qui fera apparaître des serviteurs du Vide."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Canalise un orbe du Vide grandissant qui inflige des dégâts sur son chemin."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "Les attaques de base contre les héros adverses affectés par Marque de l’ombre confèrent un bouclier."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": "Génère et lance trois orbes du Vide."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "À la fin de Pas du Vide, inverse la trajectoire."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13",
+    "value": "Ralentit les ennemis à proximité du cœur obscur."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "Augmente la cadence de tir des orbes du Vide lorsque Pas du Vide est actif."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "Le portail n’a plus de durée de vie et fait apparaître plus de serviteurs du Vide."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "À la fin de Pas du Vide, réduit au silence les héros se trouvant dans la zone d’effet."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathToxicMark|XalatathToxicMark|Q|Level7",
+    "value": "Marque de l’ombre inflige des dégâts sur la durée."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "Le cœur obscur laisse derrière lui une nappe de flammes du Vide lorsqu’il est détruit."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "Améliore Salve du Vide à la fin de Pas du Vide."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidAdept|XalatathVoidAdept|Q|Level1",
+    "value": "<c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête\u00A0:</c> faire exploser le cœur obscur sur des cibles affectées par Marque de l’ombre pour augmenter les dégâts."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "Invoque un seul serviteur du Vide pendant Pas du Vide."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "Invoque le cœur obscur, qui émet des pulsations infligeant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts par seconde aux ennemis proches et persiste pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>\u00A0s.<n/><n/>Le cœur obscur se déplace vers la zone d’impact de Marque de l’ombre.<n/><n/>Le cœur obscur poursuivra les cibles affectées par Marque de l’ombre et explosera à l’impact, infligeant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">245</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts aux ennemis proches et <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">61</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> supplémentaires à la cible marquée."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/XalatathVoidMinion",
+    "value": "Serviteur du Vide"
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine01",
+    "value": "Survie"
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine02",
+    "value": "Puissance du Vide"
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine03",
+    "value": "Mon royaume"
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine04",
+    "value": "Volonté éternelle"
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine05",
+    "value": "Les ténèbres engloutissent"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98285"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.1.0"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Ana/subAbilities/AnaEyeOfHorusActivate|AnaEyeOfHorusActivate|Heroic/Heroic/1"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Cho/subAbilities/ChoTalentMoltenBlock|ChoTalentMoltenBlock|Active|Level13/Activable/1"
+  },
+  {
+    "op": "add",
+    "path": "/items/Cho/subAbilities/ChoTalentMoltenBlock|ChoTalentMoltenBlock|Active",
+    "value": {
+      "Activable": [
+        {
+          "linkId": "ChoTalentMoltenBlock|ChoTalentMoltenBlockCancel|Active",
+          "abilityId": "ChoTalentMoltenBlock",
+          "buttonId": "ChoTalentMoltenBlockCancel",
+          "icon": "hud_btn_bg_ability_cancel.png",
+          "abilityType": "Active"
+        }
+      ]
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/items/Deathwing/abilities/Basic/2/linkId",
+    "value": "DeathwingOnslaught|DeathwingOnslaught|E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Deathwing/abilities/Basic/2/abilityId",
+    "value": "DeathwingOnslaught"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Deathwing/abilities/Basic/2/buttonId",
+    "value": "DeathwingOnslaught"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Deathwing/abilities/Basic/2/icon",
+    "value": "storm_ui_icon_deathwing_onslaught.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Deathwing/abilities/Basic/2/abilityType",
+    "value": "E"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Deathwing/subAbilities/DeathwingWorldbreakerForm|DeathwingWorldbreaker|W/Basic/0/linkId",
+    "value": "DeathwingLavaBurst|DeathwingLavaBurst|W"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Deathwing/subAbilities/DeathwingWorldbreakerForm|DeathwingWorldbreaker|W/Basic/0/abilityId",
+    "value": "DeathwingLavaBurst"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Deathwing/subAbilities/DeathwingWorldbreakerForm|DeathwingWorldbreaker|W/Basic/0/buttonId",
+    "value": "DeathwingLavaBurst"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Deathwing/subAbilities/DeathwingWorldbreakerForm|DeathwingWorldbreaker|W/Basic/0/icon",
+    "value": "storm_ui_icon_deathwing_lava_burst.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Deathwing/subAbilities/DeathwingWorldbreakerForm|DeathwingWorldbreaker|W/Basic/0/abilityType",
+    "value": "W"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Jaina/abilities/Activable/0/linkId",
+    "value": "JainaIceBlockActivate|JainaImprovedIceBlockHotbar|Active"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Jaina/abilities/Activable/0/abilityId",
+    "value": "JainaIceBlockActivate"
+  },
+  {
+    "op": "add",
+    "path": "/items/Jaina/abilities/Activable/1",
+    "value": {
+      "linkId": "JainaIceBlockActivate|JainaIceColdHotbar|Active",
+      "abilityId": "JainaIceBlockActivate",
+      "buttonId": "JainaIceColdHotbar",
+      "icon": "storm_ui_icon_talent_iceblock.png",
+      "abilityType": "Active"
+    }
+  },
+  {
+    "op": "remove",
+    "path": "/items/Jaina/subAbilities/ImprovedIceBlock|JainaImprovedIceBlockHotbar|Active"
+  },
+  {
+    "op": "add",
+    "path": "/items/Jaina/subAbilities/JainaIceBlockActivate|JainaIceColdHotbar|Active",
+    "value": {
+      "Activable": [
+        {
+          "linkId": "JainaIceBlockCancel|JainaIceColdCancel|Active",
+          "abilityId": "JainaIceBlockCancel",
+          "buttonId": "JainaIceColdCancel",
+          "icon": "hud_btn_bg_ability_cancel.png",
+          "toggleCooldown": 0.5,
+          "abilityType": "Active"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/Jaina/subAbilities/JainaIceBlockActivate|JainaImprovedIceBlockHotbar|Active",
+    "value": {
+      "Activable": [
+        {
+          "linkId": "JainaIceBlockCancel|JainaImprovedIceBlockCancel|Active",
+          "abilityId": "JainaIceBlockCancel",
+          "buttonId": "JainaImprovedIceBlockCancel",
+          "icon": "hud_btn_bg_ability_cancel.png",
+          "toggleCooldown": 0.5,
+          "abilityType": "Active"
+        }
+      ]
+    }
+  },
+  {
+    "op": "remove",
+    "path": "/items/Samuro/abilities/Activable"
+  },
+  {
+    "op": "add",
+    "path": "/items/Samuro/subAbilities/SamuroIllusionMasterToggleAI|SamuroIllusionMasterToggleAIOff|Active",
+    "value": {
+      "Activable": [
+        {
+          "linkId": "SamuroIllusionMasterToggleAI|SamuroIllusionMasterToggleAIOn|Active",
+          "abilityId": "SamuroIllusionMasterToggleAI",
+          "buttonId": "SamuroIllusionMasterToggleAIOn",
+          "icon": "storm_ui_icon_samuro_mirrorai_on.png",
+          "toggleCooldown": 0.5,
+          "abilityType": "Active"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/Samuro/subAbilities/SamuroHeroicAbilityIllusionMaster|SamuroIllusionMasterTalent|Heroic|Level10",
+    "value": {
+      "Activable": [
+        {
+          "linkId": "SamuroIllusionMasterToggleAI|SamuroIllusionMasterToggleAIOff|Active",
+          "abilityId": "SamuroIllusionMasterToggleAI",
+          "buttonId": "SamuroIllusionMasterToggleAIOff",
+          "icon": "storm_ui_icon_samuro_mirrorai_off.png",
+          "abilityType": "Active"
+        },
+        {
+          "linkId": ":PASSIVE:|SamuroSelectMirrorImages|Active",
+          "abilityId": ":PASSIVE:",
+          "buttonId": "SamuroSelectMirrorImages",
+          "icon": "storm_ui_icon_samuro_selectmirror1.png",
+          "abilityType": "Active"
+        },
+        {
+          "linkId": ":PASSIVE:|SamuroSelectSamuroPrime|Active",
+          "abilityId": ":PASSIVE:",
+          "buttonId": "SamuroSelectSamuroPrime",
+          "icon": "storm_ui_icon_samuro_selectprime.png",
+          "abilityType": "Active"
+        },
+        {
+          "linkId": ":PASSIVE:|SamuroSelectAll|Active",
+          "abilityId": ":PASSIVE:",
+          "buttonId": "SamuroSelectAll",
+          "icon": "storm_ui_icon_samuro_selectall.png",
+          "abilityType": "Active"
+        }
+      ]
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/items/Sylvanas/abilities/Trait/0/linkId",
+    "value": ":PASSIVE:|SylvanasBlackArrowsPassive|Trait"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Sylvanas/abilities/Trait/0/abilityId",
+    "value": ":PASSIVE:"
+  },
+  {
+    "op": "replace",
+    "path": "/items/Sylvanas/abilities/Trait/0/buttonId",
+    "value": "SylvanasBlackArrowsPassive"
+  },
+  {
+    "op": "remove",
+    "path": "/items/Sylvanas/subAbilities/SylvanasBlackArrowsActive|SylvanasBlackArrows|Trait"
+  },
+  {
+    "op": "add",
+    "path": "/items/Sylvanas/subAbilities/SylvanasHauntingArrows|SylvanasBlackArrowsHauntingArrowsTalent|Trait|Level4",
+    "value": {
+      "Trait": [
+        {
+          "linkId": "SylvanasBlackArrowsActive|SylvanasBlackArrows|Trait",
+          "abilityId": "SylvanasBlackArrowsActive",
+          "buttonId": "SylvanasBlackArrows",
+          "icon": "storm_ui_icon_sylvanas_blackarrows.png",
+          "abilityType": "Trait"
+        }
+      ]
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/items/Xalatath/life/amount",
+    "value": 1330
+  },
+  {
+    "op": "add",
+    "path": "/items/Xalatath/subAbilities/XalatathVoidStep|XalatathVoidStep|E/Basic/0/toggleCooldown",
+    "value": 0.25
+  }
+]

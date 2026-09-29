@@ -1,0 +1,312 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Battlefield of Eternity"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/AngelicCleaveJungle|AngelicCleave|W",
+    "value": "Czas odnowienia: 14 sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/AngelicCleaveLaner|AngelicCleave|W",
+    "value": "Czas odnowienia: 16 sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/AngelicExplosionsJungle|AngelicExplosions|Q",
+    "value": "Czas odnowienia: 14 sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/AngelicExplosionsLaner|AngelicExplosions|Q",
+    "value": "Czas odnowienia: 16 sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/DemonicCleaveJungle|DemonicCleave|W",
+    "value": "Czas odnowienia: 14 sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/DemonicCleaveLaner|DemonicCleave|W",
+    "value": "Czas odnowienia: 16 sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/DemonicExplosionsJungle|DemonicExplosions|Q",
+    "value": "Czas odnowienia: 14 sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/DemonicExplosionsLaner|DemonicExplosions|Q",
+    "value": "Czas odnowienia: 16 sek."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/AngelicCleaveJungle|AngelicCleave|W",
+    "value": "Zadaje obrażenia obszarowe i odrzuca w tył cele znajdujące się wokół rzucającego."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/AngelicCleaveLaner|AngelicCleave|W",
+    "value": "Zadaje obrażenia obszarowe i odrzuca w tył cele znajdujące się wokół rzucającego."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/AngelicExplosionsJungle|AngelicExplosions|Q",
+    "value": "Zadaje obrażenia i ogłusza przeciwników znajdujących się na wielu obszarach wokół rzucającego. Aktywacja wymaga obecności bohaterów w pobliżu."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/AngelicExplosionsLaner|AngelicExplosions|Q",
+    "value": "Zadaje obrażenia i ogłusza przeciwników znajdujących się na wielu obszarach wokół rzucającego. Aktywacja wymaga obecności bohaterów w pobliżu."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/DemonicCleaveJungle|DemonicCleave|W",
+    "value": "Zadaje obrażenia obszarowe i odrzuca w tył cele znajdujące się wokół rzucającego."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/DemonicCleaveLaner|DemonicCleave|W",
+    "value": "Zadaje obrażenia obszarowe i odrzuca w tył cele znajdujące się wokół rzucającego."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/DemonicExplosionsJungle|DemonicExplosions|Q",
+    "value": "Zadaje obrażenia i ogłusza przeciwników znajdujących się na wielu obszarach wokół rzucającego. Aktywacja wymaga obecności bohaterów w pobliżu."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/DemonicExplosionsLaner|DemonicExplosions|Q",
+    "value": "Zadaje obrażenia i ogłusza przeciwników znajdujących się na wielu obszarach wokół rzucającego. Aktywacja wymaga obecności bohaterów w pobliżu."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/AngelicCleaveJungle|AngelicCleave|W",
+    "value": "Anielskie Rozpłatanie"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/AngelicCleaveLaner|AngelicCleave|W",
+    "value": "Anielskie Rozpłatanie"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/AngelicExplosionsJungle|AngelicExplosions|Q",
+    "value": "Anielskie Eksplozje"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/AngelicExplosionsLaner|AngelicExplosions|Q",
+    "value": "Anielskie Eksplozje"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/DemonicCleaveJungle|DemonicCleave|W",
+    "value": "Demoniczne Rozpłatanie"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/DemonicCleaveLaner|DemonicCleave|W",
+    "value": "Demoniczne Rozpłatanie"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/DemonicExplosionsJungle|DemonicExplosions|Q",
+    "value": "Demoniczne Eksplozje"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/DemonicExplosionsLaner|DemonicExplosions|Q",
+    "value": "Demoniczne Eksplozje"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AngelicCleaveJungle|AngelicCleave|W",
+    "value": "Zadaje obrażenia i odrzuca wrogów na dużym obszarze"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AngelicCleaveLaner|AngelicCleave|W",
+    "value": "Zadaje obrażenia i odrzuca wrogów na dużym obszarze"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AngelicExplosionsJungle|AngelicExplosions|Q",
+    "value": "Zadaje obrażenia i ogłusza wrogów na niewielkim obszarze"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AngelicExplosionsLaner|AngelicExplosions|Q",
+    "value": "Zadaje obrażenia i ogłusza wrogów na niewielkim obszarze"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/DemonicCleaveJungle|DemonicCleave|W",
+    "value": "Zadaje obrażenia i odrzuca wrogów na dużym obszarze"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/DemonicCleaveLaner|DemonicCleave|W",
+    "value": "Zadaje obrażenia i odrzuca wrogów na dużym obszarze"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/DemonicExplosionsJungle|DemonicExplosions|Q",
+    "value": "Zadaje obrażenia i ogłusza wrogów na niewielkim obszarze"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/DemonicExplosionsLaner|DemonicExplosions|Q",
+    "value": "Zadaje obrażenia i ogłusza wrogów na niewielkim obszarze"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostImmortalDamage",
+    "value": "~AwardValue~% obrażeń zadanych Nieśmiertelnym"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostImmortalDamage",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Pogromca Nieśmiertelnych,Pogromczyni Nieśmiertelnych</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostImmortalDamage",
+    "value": "Obrażenia zadane Nieśmiertelnym: ~TooltipAmount~ pkt."
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostImmortalDamage",
+    "value": "Najwięcej obrażeń zadanych Nieśmiertelnym"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BossDuelBossDummyHeavenWeaponMissile",
+    "value": "Boss – Próbne – Broń – Pocisk"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BossDuelBossDummyHellWeaponMissile",
+    "value": "Boss – Próbne – Broń – Pocisk"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BossDuelBossHeaven",
+    "value": "Nieśmiertelny"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BossDuelBossHell",
+    "value": "Nieśmiertelny"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BossDuelBossPreviewUnitHeaven",
+    "value": "Pojedynek z Bossem – Podgląd jednostki Bossa (Niebiosa)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BossDuelBossPreviewUnitHell",
+    "value": "Pojedynek z Bossem – Podgląd jednostki Bossa (Piekło)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BossDuelLanerHeaven",
+    "value": "Nieśmiertelny"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BossDuelLanerHell",
+    "value": "Nieśmiertelny"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HeavenLanerWeaponMissile",
+    "value": "Niebiański stronnik – Broń – Pocisk"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HellLanerWeaponMissile",
+    "value": "Piekielny stronnik – Broń – Pocisk"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/InvisibleBossPathingLine",
+    "value": "Niewidzialna Aleja – Ścieżkowanie"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/JungleMinionDefault",
+    "value": "Stronnik z dżungli"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/JungleMinionHeaven",
+    "value": "Stronnik z dżungli"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/JungleMinionHell",
+    "value": "Stronnik z dżungli"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LanerMinionDefault",
+    "value": "Stronnik z alei"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LanerMinionHeaven",
+    "value": "Stronnik z alei"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LanerMinionHell",
+    "value": "Stronnik z alei"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperDefender",
+    "value": "Palownik"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperLaner",
+    "value": "Palownik"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerDefender",
+    "value": "Szaman Upadłych"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerDefenderMinion",
+    "value": "Ogar Upadłych"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerLaner",
+    "value": "Szaman Upadłych"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerLanerMinion",
+    "value": "Ogar Upadłych"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WeaponRackSpecialHeaven",
+    "value": "Stojak na broń, Specjalny (Niebo)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WeaponRackSpecialHell",
+    "value": "Stojak na broń, Specjalny (Piekło)"
+  }
+]

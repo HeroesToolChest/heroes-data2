@@ -1,0 +1,32 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Dragon Shire"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/DragonShireCorePetrify|DragonShireCorePetrify|Q",
+    "value": "冷却时间：6秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/DragonShireCorePetrify|DragonShireCorePetrify|Q",
+    "value": "使敌方英雄陷入昏迷，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.75</c>秒，并造成相当于其最大生命值<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c>的伤害。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/DragonShireCorePetrify|DragonShireCorePetrify|Q",
+    "value": "石化"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/DragonShireCorePetrify|DragonShireCorePetrify|Q",
+    "value": "对英雄造成伤害并使其昏迷"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DragonShireCorePetrifyMissile",
+    "value": "石化（发射物）"
+  }
+]

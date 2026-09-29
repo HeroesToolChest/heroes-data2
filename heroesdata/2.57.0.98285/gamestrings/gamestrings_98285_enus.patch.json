@@ -1,0 +1,229 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98285"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.1.0"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/cooldownText/AnaEyeOfHorusAttack|AnaEyeOfHorusHighPoweredRound|Heroic"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "Cooldown: 75 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/JainaIceBlockActivate|JainaIceColdHotbar|Active",
+    "value": "Cooldown: 40 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/JainaIceBlockActivate|JainaImprovedIceBlockHotbar|Active",
+    "value": "Cooldown: 40 seconds"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/AnaEyeOfHorusAttack|AnaEyeOfHorusHighPoweredRound|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/ImprovedIceBlock|JainaImprovedIceBlockCancel|Active"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/ImprovedIceBlock|JainaImprovedIceBlockHotbar|Active"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Summon the Dark Heart, which pulses for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage per second to nearby enemies and lasts <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> seconds.<n/><n/>The Dark Heart moves to Shadow Mark's impact location.<n/><n/>The Dark Heart will pursue targets afflicted by Shadow Mark and detonate on impact, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">245</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to nearby enemies and <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">61</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> more damage to the Marked target."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Shoot a Void Orb that deals <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to enemies hit, and an additional <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">120</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to enemies in the center.<n/><n/>If an enemy Hero or Structure is hit by the center, they are marked for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> seconds.<n/><n/>Targets afflicted by Shadow Mark are Revealed and draw the Dark Heart and Void Minions towards them."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "After channeling for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds, summon a Void Portal that spawns up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> Void Minions to attack nearby enemies.<n/><n/>You can have up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> active Void Portal.<n/><n/>Enemies near the Void Portal are Slowed by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>.<n/><n/>Void Minions are attracted to targets afflicted by Shadow Mark.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">The Portal expires after 20 seconds.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Void Minions automatically choose a nearby lane to push.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Void Minion Basic Attacks deal 50</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\"> damage per hit.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Void Minions lose Health over 12 seconds.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Cast to teleport Xal'atath <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> times in a triangular pattern.<n/><n/>Each time Xal'atath teleports, her Basic Attacks deal <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">10%</s> more damage while the Ability is active.<n/><n/>Reactivate to end Void Step early and remain at your current location."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/:PASSIVE:|SamuroSelectMirrorImages|Active",
+    "value": "<s val=\"cbe8ff-ffffff\" hlt-name=\"StandardTooltipHeader\">Select Mirror Image</s><n/><n/>Issue orders to a single Mirror Image."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/JainaIceBlockActivate|JainaIceColdHotbar|Active",
+    "value": "Activate to grant Jaina Protected and Unstoppable for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c> seconds. When this effect expires, nearby enemies are Chilled."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/JainaIceBlockActivate|JainaImprovedIceBlockHotbar|Active",
+    "value": "Activate to place Jaina in Stasis and gain Invulnerability for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c> seconds. When this effect expires, nearby enemies are Chilled."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/JainaIceBlockCancel|JainaIceColdCancel|Active",
+    "value": "<n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">Cancel Improved Ice Cold, removing Protected and Chilling nearby enemies.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/JainaIceBlockCancel|JainaImprovedIceBlockCancel|Active",
+    "value": "<n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">Cancel Improved Ice Block, removing the Stasis and Invulnerability and Chilling nearby enemies.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SamuroIllusionMasterToggleAI|SamuroIllusionMasterToggleAIOff|Active",
+    "value": "When AI is Enabled, Images will first complete any orders you give them, and then automatically look for enemies to attack.<n/><n/>Click this button to Disable AI."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SamuroIllusionMasterToggleAI|SamuroIllusionMasterToggleAIOn|Active",
+    "value": "When AI is Disabled, Images will only move or take other actions when you order them to do so.<n/><n/>Click this button to Enable AI."
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/AnaEyeOfHorusAttack|AnaEyeOfHorusHighPoweredRound|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/ImprovedIceBlock|JainaImprovedIceBlockCancel|Active"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/ImprovedIceBlock|JainaImprovedIceBlockHotbar|Active"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/:PASSIVE:|SamuroSelectMirrorImages|Active",
+    "value": "Select Mirror Image"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/JainaIceBlockActivate|JainaIceColdHotbar|Active",
+    "value": "Ice Cold"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/JainaIceBlockActivate|JainaImprovedIceBlockHotbar|Active",
+    "value": "Improved Ice Block"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/JainaIceBlockCancel|JainaIceColdCancel|Active",
+    "value": "Cancel Ice Cold"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/JainaIceBlockCancel|JainaImprovedIceBlockCancel|Active",
+    "value": "Cancel Improved Ice Block"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SamuroIllusionMasterToggleAI|SamuroIllusionMasterToggleAIOff|Active",
+    "value": "AI Enabled"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SamuroIllusionMasterToggleAI|SamuroIllusionMasterToggleAIOn|Active",
+    "value": "AI Disabled"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/ImprovedIceBlock|JainaImprovedIceBlockHotbar|Active"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/:PASSIVE:|SamuroSelectMirrorImages|Active",
+    "value": "Select Mirror Image"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/JainaIceBlockActivate|JainaIceColdHotbar|Active",
+    "value": "Gain Protected and Chill enemies"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/JainaIceBlockActivate|JainaImprovedIceBlockHotbar|Active",
+    "value": "Gain Invulnerability and Chill enemies"
+  },
+  {
+    "op": "replace",
+    "path": "/items/bundle/name/XalatathLaunchBundle",
+    "value": "Dark Twilight Xal'atath Bundle"
+  },
+  {
+    "op": "replace",
+    "path": "/items/hero/description/Xalatath",
+    "value": "A ranged Assassin who manipulates void energy to overwhelm enemies and control the battlefield."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "Cooldown: 75 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "Molten Core's range is increased by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> at the start of its duration.  In addition, the cooldown of Molten Core is reduced by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">110</c> seconds when used on a destroyed Fort or Keep."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "After channeling for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds, summon a Void Portal that spawns up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> Void Minions to attack nearby enemies.<n/><n/>You can have up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> active Void Portal.<n/><n/>Enemies near the Void Portal are Slowed by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>.<n/><n/>Void Minions are attracted to targets afflicted by Shadow Mark.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">The Portal expires after 20 seconds.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Void Minions automatically choose a nearby lane to push.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Void Minion Basic Attacks deal 50</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\"> damage per hit.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Void Minions lose Health over 12 seconds.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "Basic Attacks against enemy Heroes afflicted by Shadow Mark grant a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> point Shield that rapidly decays.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Shield starts decaying after 1 second, decays over 2 seconds.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "After completing Void Step, Xal'atath immediately performs a second Void Step in the opposite direction. Added effects are triggered again.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Bonus Basic Attack damage stacks up to 3 times</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "Activating Void Step summons a seal of void magic on the ground. When the seal completes, it deals <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to enemies inside and Silences them for <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathToxicMark|XalatathToxicMark|Q|Level7",
+    "value": "<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+1s</c> Shadow Mark Duration<n/><n/>Heroes affliced with Shadow Mark have their Armor reduced by <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">10</s> and take damage equal to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1%</c> of their maximum Health every second."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "Completing Void Step fully charges Void Volley.<n/><n/>The next Void Volley deals <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> increased damage and costs no Mana."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidAdept|XalatathVoidAdept|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Detonate the Dark Heart on targets afflicted by Shadow Mark.<n/><n/>Each successful detonation permanently increases Shadow Mark and the Dark Heart Ritual Detonation damage by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>, up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> times."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "Basic Attacks on enemy Heroes afflicted by Shadow Mark grant Shields"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "Summon the Dark Heart, which pulses for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage per second to nearby enemies and lasts <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> seconds.<n/><n/>The Dark Heart moves to Shadow Mark's impact location.<n/><n/>The Dark Heart will pursue targets afflicted by Shadow Mark and detonate on impact, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">245</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to nearby enemies and <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">61</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> more damage to the Marked target."
+  }
+]
