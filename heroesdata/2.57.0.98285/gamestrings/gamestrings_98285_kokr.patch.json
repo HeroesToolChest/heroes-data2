@@ -1,0 +1,756 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98285"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.1.0"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/cooldownText/AnaEyeOfHorusAttack|AnaEyeOfHorusHighPoweredRound|Heroic"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/JainaIceBlockActivate|JainaIceColdHotbar|Active",
+    "value": "재사용 대기시간: 40초"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/JainaIceBlockActivate|JainaImprovedIceBlockHotbar|Active",
+    "value": "재사용 대기시간: 40초"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "재사용 대기시간: 15초"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "재사용 대기시간: 7초"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "재사용 대기시간: 75초"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "재사용 대기시간: 75초"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "재사용 대기시간: 15초"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">마나: 50</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">마나: 45</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">마나: 75</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">마나: 80</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">마나: 50</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">마나: 35</s>"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/AnaEyeOfHorusAttack|AnaEyeOfHorusHighPoweredRound|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/ImprovedIceBlock|JainaImprovedIceBlockCancel|Active"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/ImprovedIceBlock|JainaImprovedIceBlockHotbar|Active"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/:PASSIVE:|SamuroSelectMirrorImages|Active",
+    "value": "<s val=\"cbe8ff-ffffff\" hlt-name=\"StandardTooltipHeader\">환영 선택</s><n/><n/>환영 하나에게 명령을 내립니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/JainaIceBlockActivate|JainaIceColdHotbar|Active",
+    "value": "사용하면 제이나가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c>초 동안 보호 및 저지 불가 상태가 됩니다. 이 효과가 만료될 때 주위에 있는 적들은 한기를 느낍니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/JainaIceBlockActivate|JainaImprovedIceBlockHotbar|Active",
+    "value": "사용하면 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c>초 동안 정지 및 무적 상태가 됩니다. 이 효과가 만료될 때 주위에 있는 적들은 한기를 느낍니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/JainaIceBlockCancel|JainaIceColdCancel|Active",
+    "value": "<n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">향상된 얼음처럼 차갑게를 취소해 보호 상태를 해제하고 주위의 적들이 한기를 느끼게 만듭니다.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/JainaIceBlockCancel|JainaImprovedIceBlockCancel|Active",
+    "value": "<n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">향상된 얼음 방패를 취소해 정지 및 무적 효과를 제거하고, 주위의 적들에 있는 적들이 한기를 느끼게 만듭니다.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SamuroIllusionMasterToggleAI|SamuroIllusionMasterToggleAIOff|Active",
+    "value": "인공지능이 활성화된 상태에서 환영은 주어진 명령을 수행하고 난 후 자동으로 적을 찾아서 공격합니다.<n/><n/>클릭하면 인공지능을 비활성화합니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SamuroIllusionMasterToggleAI|SamuroIllusionMasterToggleAIOn|Active",
+    "value": "인공지능이 비활성화된 상태에서 환영은 명령을 내리기 전까지 움직이거나 다른 행동을 하지 않습니다.<n/><n/>클릭하면 인공지능을 활성화합니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "검은 심장을 소환합니다. 심장은 맥동하여 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>초 동안 매초 주위 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다.<n/><n/>검은 심장은 그림자 표식의 적중 위치로 이동합니다.<n/><n/>검은 심장은 그림자 표식에 걸린 대상을 추적하고 적중 시 폭발해, 주위 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">245</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주고 표식이 찍힌 대상에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">61</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 추가 피해를 줍니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "적중한 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주고 중심부에 있는 적들에게는 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">120</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 추가 피해를 주는 공허 보주를 발사합니다.<n/><n/>적 영웅 또는 구조물이 공허 보주의 중심부에 적중당하면 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>초 동안 표식이 찍힙니다.<n/><n/>그림자 표식에 걸린 대상은 모습이 드러나며, 자신의 위치로 검은 심장과 공허 하수인을 끌어당깁니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>초 동안 정신을 집중한 후 공허 차원문을 소환하여 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>기의 공허 하수인을 생성해 주위 적들을 공격하게 합니다.<n/><n/>공허 차원문은 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>개까지 활성화할 수 있습니다.<n/><n/>공허 차원문 주위의 적들은 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>만큼 감속됩니다.<n/><n/>공허 하수인은 그림자 표식이 찍힌 대상에게 이끌립니다.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">차원문은 0초 후에 만료됩니다.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">공허 하수인은 자동으로 주위의 공격로를 선택하여 진격합니다.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">공허 하수인의 일반 공격은 적중할 때마다 50</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">의 피해를 줍니다.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">공허 하수인은 12초에 걸쳐 생명력을 잃습니다.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "강력한 공허 보주에 정신을 집중합니다. 보주는 점점 커져 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>초 후 최대 크기에 도달합니다. 다시 사용하면 보주를 일찍 발사합니다.<n/><n/>보주와 접촉한 적들은 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">112</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 받고 <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s>초 동안 실명됩니다.<n/><n/>보주가 경로 끝에 도달하면 대규모 폭발을 일으켜 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다.<n/><n/>이 기술을 충전하면 접촉 시 피해가 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>까지 증가하고, 폭발 피해는 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>까지 증가합니다.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">0.25초마다 접촉 피해를 줍니다.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidStepCancel|XalatathVoidStepCancel|E",
+    "value": "기술을 일찍 취소해 현재 위치에 멈춥니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "시전 시 잘아타스가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>회에 걸쳐 삼각형 패턴으로 순간이동합니다.<n/><n/>잘아타스가 순간이동할 때마다 기술이 활성화된 동안 일반 공격이 <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">10%</s>의 추가 피해를 줍니다.<n/><n/>재사용 시 공허 걸음을 일찍 끝내 현재 위치에 머무릅니다.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">일반 공격 피해 상한은 +30%입니다.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "일반 공격으로 적을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>회 적중시키면 공허 화살을 사용해 대상 위치에 공허 보주 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>개를 연달아 발사할 수 있습니다. 각 보주는 적중 시 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다.<n/><n/>잘아타스가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>초 동안 일반 공격으로 적을 적중시키지 않으면 충전이 모두 사라집니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">퀘스트:</c> 공허 화살로 적 영웅을 적중시킬 때마다 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>중첩을 얻고 공허 화살의 피해가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1%</c> 증가합니다. 사망하면 모든 중첩을 잃습니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">보상 (20중첩):</c><n/> 공허 화살 사거리 <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c><n/> 사망 시 잃는 중첩 수가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>개로 감소합니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">보상 (60중첩):</c><n/> 공허 화살 충전에 필요한 일반 공격 횟수 <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">-1</c><n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">신화 보상 (100중첩):</c><n/> 일반 공격과 공허 화살의 피해 <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+50%</c><n/> 공허 화살의 투사체가 모든 대상을 관통합니다.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">사망으로 중첩을 잃더라도 이미 달성한 퀘스트 보상의 중첩 기준 아래로 내려가지 않습니다.</s>"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/AnaEyeOfHorusAttack|AnaEyeOfHorusHighPoweredRound|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/ImprovedIceBlock|JainaImprovedIceBlockCancel|Active"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/ImprovedIceBlock|JainaImprovedIceBlockHotbar|Active"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/:PASSIVE:|SamuroSelectMirrorImages|Active",
+    "value": "환영 선택"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/JainaIceBlockActivate|JainaIceColdHotbar|Active",
+    "value": "얼음처럼 차갑게"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/JainaIceBlockActivate|JainaImprovedIceBlockHotbar|Active",
+    "value": "향상된 얼음 방패"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/JainaIceBlockCancel|JainaIceColdCancel|Active",
+    "value": "얼음처럼 차갑게 취소"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/JainaIceBlockCancel|JainaImprovedIceBlockCancel|Active",
+    "value": "향상된 얼음 방패 취소"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SamuroIllusionMasterToggleAI|SamuroIllusionMasterToggleAIOff|Active",
+    "value": "인공지능 활성화됨"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SamuroIllusionMasterToggleAI|SamuroIllusionMasterToggleAIOn|Active",
+    "value": "인공지능 비활성화됨"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "검은 심장의 의식"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "그림자 표식"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "공허 집결"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "공허 폭발"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidStepCancel|XalatathVoidStepCancel|E",
+    "value": "공허 걸음 취소"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "공허 걸음"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "공허 화살"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/ImprovedIceBlock|JainaImprovedIceBlockHotbar|Active"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/:PASSIVE:|SamuroSelectMirrorImages|Active",
+    "value": "환영 선택"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/JainaIceBlockActivate|JainaIceColdHotbar|Active",
+    "value": "보호 상태 획득 및 적들이 한기를 느낌"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/JainaIceBlockActivate|JainaImprovedIceBlockHotbar|Active",
+    "value": "무적 및 주위 적들이 한기를 느낌"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "검은 심장 소환"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "거대한 공허 보주 발사"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "공허 하수인을 생성하는 차원문 소환"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "점점 커지며 경로상의 적에게 피해를 주는 보주에 정신 집중"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "시전 시 잘아타스가 삼각형 패턴으로 순간이동"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "대상 위치에 공허 미사일 포화 방출"
+  },
+  {
+    "op": "replace",
+    "path": "/items/bundle/name/XalatathLaunchBundle",
+    "value": "검은 황혼 잘아타스 묶음 상품"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/description/Xalatath",
+    "value": "원거리 암살자로, 공허의 에너지를 다뤄 적을 압도하고 전장을 장악합니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/difficulty/Xalatath",
+    "value": "중간"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/energyType/Xalatath",
+    "value": "마나"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/expandedRole/Xalatath",
+    "value": "원거리 암살자"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/infoText/Xalatath",
+    "value": "영겁의 세월 동안 잘아타스는 신들과 필멸자를 주물러 우주의 층위를 오르려 했습니다. 한때 만물의 포식자 디멘시우스의 종복이었다가, 이후 고대 신들의 포로가 된 잘아타스는 이제 자유를 되찾아 자신만의 계획을 실천에 옮깁니다. 달라란의 파괴와 태양샘의 변형은 그 시작입니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/lifeType/Xalatath",
+    "value": "생명력"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/name/Xalatath",
+    "value": "잘아타스"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/roles/Xalatath",
+    "value": [
+      "암살자"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/searchText/Xalatath",
+    "value": "월드 오브 워크래프트 마법사 공허"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/title/Xalatath",
+    "value": "공허의 전령"
+  },
+  {
+    "op": "replace",
+    "path": "/items/lootChest/name/XalatathChest",
+    "value": "잘아타스 상자"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/cooldownText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "재사용 대기시간: 75초"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/cooldownText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "재사용 대기시간: 75초"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/energyText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">마나: 75</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/energyText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">마나: 80</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurCombatStyleBombardStrain|AbathurLocustStrainBombardStrainTalent|Trait|Level13",
+    "value": "식충의 일반 공격이 장거리 공격이 되며, 생명력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c> 더 느리게 줄어듭니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">퀘스트:</c> 초의 잠식하는 불길로 불타는 적 영웅에게 암흑불길이 적중할 때마다 암흑불길의 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c>초 감소합니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">보상:</c> 불타는 영웅에게 암흑불길이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>회 적중하면 암흑불길의 재사용 대기시간이 영구히 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>초 감소합니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "검은 심장의 의식:<n/>반경 <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+50%</c><n/>지속시간 <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+25%</c><n/><n/>검은 심장 피해가 주 대상에게서 주위 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>회 튕겨 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "공허 걸음 사용 시 <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">2</s>초 동안 이동 속도가 <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">50%</s>, 기술 방어력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> 증가합니다. 이 효과는 잘아타스가 순간이동할 때마다 갱신됩니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": "공허 화살이 적중한 적들이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>초 동안 투사체당 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6%</c>만큼, 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>까지 감속됩니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "검은 심장이 적에게 피해를 줄 때마다 잘아타스가 최대 생명력의 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c>에 해당하는 보호막을 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c>까지 얻습니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "검은 심장의 의식을 시전하면 반경 내의 적을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>초 동안 침묵시킵니다.<n/><n/>검은 심장 반경 내의 잘아타스와 아군 영웅들이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c>의 기술 방어력을 얻습니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": "그림자 표식 충전 횟수 <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+1</c><n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">그림자 표식 사용 간에 3초의 재사용 대기시간이 발생합니다.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": "공허 화살 투사체 피해 <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+25%</c><n/><n/>공허 화살의 투사체가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>초 동안 지속되는 불길을 남겨, 적에게 지속적으로 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">9</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다. 대상이 불길에 오래 서 있을수록 주는 피해가 증가합니다.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">0.1875초마다 피해를 줍니다.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">피해가 최대 300% 증가합니다.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">불길이 여러 번 중첩될 시 피해가 증가합니다.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "그림자 표식 지속시간 <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+1초</c><n/><n/>그림자 표식에 걸린 영웅은 이동 속도가 <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">25%</s> 감소합니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>초 동안 정신을 집중한 후 공허 차원문을 소환하여 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>기의 공허 하수인을 생성해 주위 적들을 공격하게 합니다.<n/><n/>공허 차원문은 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>개까지 활성화할 수 있습니다.<n/><n/>공허 차원문 주위의 적들은 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>만큼 감속됩니다.<n/><n/>공허 하수인은 그림자 표식이 찍힌 대상에게 이끌립니다.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">차원문은 0초 후에 만료됩니다.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">공허 하수인은 자동으로 주위의 공격로를 선택하여 진격합니다.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">공허 하수인의 일반 공격은 적중할 때마다 50</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">의 피해를 줍니다.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">공허 하수인은 12초에 걸쳐 생명력을 잃습니다.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "강력한 공허 보주에 정신을 집중합니다. 보주는 점점 커져 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>초 후 최대 크기에 도달합니다. 다시 사용하면 보주를 일찍 발사합니다.<n/><n/>보주와 접촉한 적들은 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">112</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 받고 <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s>초 동안 실명됩니다.<n/><n/>보주가 경로 끝에 도달하면 대규모 폭발을 일으켜 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다.<n/><n/>이 기술을 충전하면 접촉 시 피해가 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>까지 증가하고, 폭발 피해는 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>까지 증가합니다.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">0.25초마다 접촉 피해를 줍니다.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "그림자 표식에 걸린 적 영웅에게 일반 공격을 가하면 빠르게 사라지는 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 보호막이 부여됩니다.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">보호막은 1초 후에 사라지기 시작하며, 2초에 걸쳐 사라집니다.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": "공허 폭발이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>개의 공허 보주로 분열되어 주위를 맴돕니다. 폭발이 적중한 적 영웅 하나당 공허 폭발의 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">14</c>초 감소합니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "공허 걸음을 완료하면 잘아타스가 즉시 반대 방향으로 두 번째 공허 걸음을 사용합니다. 추가 효과가 다시 발동됩니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13",
+    "value": "적이 검은 심장의 의식의 맥동으로 피해를 받을 때마다 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c>만큼 감속됩니다. 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>회 중첩되고 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>초에 걸쳐 감소합니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "공허 걸음이 활성화된 동안 잘아타스의 일반 공격 속도가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">150%</c> 증가합니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "공허 집결의 공허 차원문이 지속시간이 지나도 사라지지 않으며, 공허 차원문을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>개까지 활성화할 수 있게 됩니다. 또한 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>기의 공허 하수인을 생성해 유지합니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "공허 걸음을 사용하면 지면에 공허 마법의 인장을 소환합니다. 인장이 완성되면 내부의 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주고 <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s>초 동안 침묵시킵니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathToxicMark|XalatathToxicMark|Q|Level7",
+    "value": "그림자 표식 지속시간 <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+1초</c><n/><n/>그림자 표식에 걸린 영웅은 방어력이 <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">10</s>만큼 감소하며 1초마다 최대 생명력의 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1%</c>에 해당하는 피해를 받습니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "검은 심장이 만료되거나 그림자 표식에 걸린 대상에게 폭발하면 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>초 동안 공허 화염 웅덩이를 남깁니다. 화염 속에 있는 적들은 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 지속 피해를 받습니다.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">화염은 1초마다 피해를 줍니다.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "공허 걸음을 완료하면 공허 화살이 완전히 충전됩니다.<n/><n/>다음 공허 화살이 주는 피해가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> 증가하고 마나를 소모하지 않습니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidAdept|XalatathVoidAdept|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">퀘스트:</c> 그림자 표식에 걸린 대상에게 검은 심장을 폭발시켜야 합니다.<n/><n/>성공적으로 폭발시킬 때마다 그림자 표식과 검은 심장의 의식 폭발 피해가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>만큼 영구적으로 증가하며, 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>회까지 적용됩니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "공허 걸음을 사용하면 잘아타스의 원래 위치에 공허 하수인 하나가 소환됩니다. 공허 하수인은 그림자 표식이 찍힌 대상에게 이끌립니다.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">공허 하수인은 자동으로 주위의 공격로를 선택하여 진격합니다.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">공허 하수인의 일반 공격은 적중할 때마다 50</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">의 피해를 줍니다.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">공허 하수인은 12초에 걸쳐 생명력을 잃습니다.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "고정 핵"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "그림자 망토"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": "파괴의 폭포"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "검은 방벽"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "검은 심장의 가호"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": "결투의 보주"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": "조각난 현실"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "겁먹은 걸음"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "공허 집결"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "공허 폭발"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "표식의 생존력"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": "전령의 소모"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "역설의 고리"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13",
+    "value": "검은 심장의 인력"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "끊임없는 속삭임"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "균열 침입"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "양의 침묵"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathToxicMark|XalatathToxicMark|Q|Level7",
+    "value": "맹독 표식"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "불안정한 핵"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "공허의 수행사제"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidAdept|XalatathVoidAdept|Q|Level1",
+    "value": "공허의 달인"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "공허의 소환자"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "검은 심장의 지속시간 및 반경 증가"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "공허 걸음이 기술 방어력 및 이동 속도를 증가시킴"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": "공허 화살 적중 시 적 감속시킴"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "검은 심장이 적에게 피해를 줄 때마다 보호막 획득"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "잘아타스와 아군이 검은 심장 근처에 있으면 기술 방어력 증가"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": "그림자 표식 충전 횟수 1 증가"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": "공허 화살이 경로상에 불의 흔적을 남김"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "그림자 표식에 걸린 영웅은 감속되며 표식의 지속시간 증가"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "공허 하수인을 생성하는 차원문 소환"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "점점 커지며 경로상의 적에게 피해를 주는 보주에 정신 집중"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "그림자 표식에 걸린 적 영웅에게 일반 공격 시 보호막 부여"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": "세 개의 공허 보주의 크기를 키우고 발사"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "공허 걸음 완료 시 패턴을 되짚어감"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13",
+    "value": "검은 심장 근처의 적 감속시킴"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "공허 걸음이 활성화된 동안 공허 보주 발사 속도 증가"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "차원문 지속시간이 사라지고 더 많은 공허 하수인 생성"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "공허 걸음 완료 시 패턴 내부의 영웅들을 침묵시킴"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathToxicMark|XalatathToxicMark|Q|Level7",
+    "value": "그림자 표식이 지속 피해를 줌"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "검은 심장이 파괴되면 공허 화염 웅덩이 생성"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "공허 걸음 완료 시 공허 화살 강화"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidAdept|XalatathVoidAdept|Q|Level1",
+    "value": "<c val=\"e4b800\" hlt-name=\"#TooltipQuest\">퀘스트:</c> 그림자 표식에 걸린 대상에게 검은 심장을 폭발시켜 주는 피해 증가"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "공허 걸음 사용 시 공허 하수인 소환"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "검은 심장을 소환합니다. 심장은 맥동하여 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>초 동안 매초 주위 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다.<n/><n/>검은 심장은 그림자 표식의 적중 위치로 이동합니다.<n/><n/>검은 심장은 그림자 표식에 걸린 대상을 추적하고 적중 시 폭발해, 주위 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">245</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주고 표식이 찍힌 대상에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">61</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 추가 피해를 줍니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/XalatathVoidMinion",
+    "value": "공허 하수인"
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine01",
+    "value": "생존"
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine02",
+    "value": "공허의 힘"
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine03",
+    "value": "나의 영역"
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine04",
+    "value": "영원한 의지"
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine05",
+    "value": "집어삼키는 어둠"
+  }
+]

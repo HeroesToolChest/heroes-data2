@@ -1,0 +1,776 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98285"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.1.0"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/cooldownText/AnaEyeOfHorusAttack|AnaEyeOfHorusHighPoweredRound|Heroic"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/JainaIceBlockActivate|JainaIceColdHotbar|Active",
+    "value": "Tiempo de reutilización: 40 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/JainaIceBlockActivate|JainaImprovedIceBlockHotbar|Active",
+    "value": "Tiempo de reutilización: 40 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Tiempo de reutilización: 15 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Tiempo de reutilización: 7 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "Tiempo de reutilización: 75 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Tiempo de reutilización: 75 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Tiempo de reutilización: 15 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 50</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 45</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 75</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 80</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 50</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 35</s>"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/AnaEyeOfHorusAttack|AnaEyeOfHorusHighPoweredRound|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/ImprovedIceBlock|JainaImprovedIceBlockCancel|Active"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/ImprovedIceBlock|JainaImprovedIceBlockHotbar|Active"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/:PASSIVE:|SamuroSelectMirrorImages|Active",
+    "value": "<s val=\"cbe8ff-ffffff\" hlt-name=\"StandardTooltipHeader\">Selecciona el Reflejo exacto</s><n/><n/>Emite órdenes a un solo Reflejo exacto."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/JainaIceBlockActivate|JainaIceColdHotbar|Active",
+    "value": "Activar para otorgar protección y volver imparable a Jaina durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c> segundos. Cuando este efecto caduca, los enemigos cercanos quedan congelados."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/JainaIceBlockActivate|JainaImprovedIceBlockHotbar|Active",
+    "value": "Actívalo para que Jaina entre en estasis y sea invulnerable durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c> segundos. Cuando este efecto caduca, los enemigos cercanos quedan helados."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/JainaIceBlockCancel|JainaIceColdCancel|Active",
+    "value": "<n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">Cancela Frío polar mejorado para eliminar tu protección y congelar a los enemigos cercanos.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/JainaIceBlockCancel|JainaImprovedIceBlockCancel|Active",
+    "value": "<n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">Cancela Bloque de hielo mejorado para eliminar la estasis y la invulnerabilidad y helar a los enemigos cercanos.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SamuroIllusionMasterToggleAI|SamuroIllusionMasterToggleAIOff|Active",
+    "value": "Si la IA está habilitada, los Reflejos cumplirán primero tus órdenes y después buscarán automáticamente enemigos para atacar.<n/><n/>Haz clic en este botón para deshabilitar la IA."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SamuroIllusionMasterToggleAI|SamuroIllusionMasterToggleAIOn|Active",
+    "value": "Cuando la IA está deshabilitada, los Reflejos solo se mueven y realizan otras acciones bajo tus órdenes.<n/><n/>Haz clic en este botón para habilitar la IA."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Invoca el Corazón Oscuro, que emite pulsos que infligen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño por segundo a los enemigos cercanos y dura <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> segundos.<n/><n/>El Corazón Oscuro se mueve a la ubicación de impacto de Marca de las Sombras.<n/><n/>El Corazón Oscuro perseguirá a los objetivos afectados por Marca de las Sombras y detonará con el impacto, lo que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">245</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos cercanos y <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">61</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> más de daño al objetivo marcado."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Lanza un Orbe del Vacío que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos golpeados y<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">120</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> más de daño a los enemigos en el centro.<n/><n/>Si un héroe enemigo o una estructura enemiga reciben un impacto en el centro, quedan marcados durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> segundos.<n/><n/>Revela a los objetivos afectados por Marca de las Sombras, que atraen el Corazón Oscuro y a los esbirros del Vacío hacia ellos."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "Después de canalizar durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> segundos, invoca un Portal del Vacío que genera hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> esbirros del Vacío para atacar a los enemigos cercanos.<n/><n/>Puedes tener hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> Portales del Vacío activos.<n/><n/>Los enemigos que están cerca del Portal del Vacío quedan ralentizados un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>.<n/><n/>Los objetivos afectados por Marca de las Sombras atraen a los esbirros del Vacío.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">El Portal finaliza después de 0 segundos.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Los esbirros del Vacío eligen automáticamente una vía cercana para atacar.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Los ataques básicos de los esbirros del Vacío infligen 50</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\"> de daño por golpe.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Los esbirros del vacío pierden salud durante 12 segundos.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Canaliza un Orbe del Vacío que crece con el tiempo hasta alcanzar su tamaño máximo después de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> segundos. Reactívalo para lanzar el Orbe antes.<n/><n/>Los enemigos que entran en contacto con el Orbe reciben <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">112</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño y quedan cegados durante <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s> segundo.<n/><n/>Cuando el Orbe llega al final de su camino, detona con una gran explosión que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño.<n/><n/>Cargar esta habilidad aumenta hasta en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> su daño de contacto y hasta en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> su daño de explosión.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Inflige daño de contacto cada 0.25 segundos.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidStepCancel|XalatathVoidStepCancel|E",
+    "value": "Cancela la habilidad antes para detenerte en tu posición actual."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Lánzalo para teletransportar a Xal'atath <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> veces en un patrón triangular.<n/><n/>Cada vez que Xal'atath se teletransporta, sus ataques básicos infligen un <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">10+%</s> más de daño mientras su habilidad está activa.<n/><n/>Reactívalo para finalizar Salto del Vacío antes y permanecer en tu ubicación actual.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">El límite de daño de ataque básico es +30%.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Después de lanzar sus ataques básicos a los enemigos <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> veces, Xal'atath puede activar Salva del Vacío y liberar una descarga de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> Orbes del Vacío en una ubicación objetivo, y cada uno inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño al impactar.<n/><n/>La carga disminuye por completo si Xal'atath no golpea a un enemigo con un ataque básico después de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> segundos.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Golpea a los héroes enemigos con Salva del Vacío. Otorga <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> acumulación por golpe y aumenta el daño de Salva del Vacío un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1%</c>. Todas las acumulaciones se pierden al morir.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa (20 acumulaciones):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c> de alcance de Salva del Vacío<n/>   Las acumulaciones perdidas al morir se reducen a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa (60 acumulaciones):</c><n/>   Requiere <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">-1</c> ataque básico para cargar Salva del Vacío.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa mítica (100 acumulaciones):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+50%</c> de ataque básico y daño de Salva del Vacío.<n/>   Los proyectiles de Salva del Vacío perforan a todos los objetivos.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">La pérdida de acumulaciones nunca hará que un héroe caiga por debajo de un umbral de recompensas de misión.</s>"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/AnaEyeOfHorusAttack|AnaEyeOfHorusHighPoweredRound|Heroic"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/ImprovedIceBlock|JainaImprovedIceBlockCancel|Active"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/ImprovedIceBlock|JainaImprovedIceBlockHotbar|Active"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/:PASSIVE:|SamuroSelectMirrorImages|Active",
+    "value": "Seleccionar Reflejo exacto"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/JainaIceBlockActivate|JainaIceColdHotbar|Active",
+    "value": "Frío polar"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/JainaIceBlockActivate|JainaImprovedIceBlockHotbar|Active",
+    "value": "Bloque de hielo mejorado"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/JainaIceBlockCancel|JainaIceColdCancel|Active",
+    "value": "Cancela Frío polar"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/JainaIceBlockCancel|JainaImprovedIceBlockCancel|Active",
+    "value": "Cancelar Bloque de hielo mejorado"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SamuroIllusionMasterToggleAI|SamuroIllusionMasterToggleAIOff|Active",
+    "value": "IA habilitada"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SamuroIllusionMasterToggleAI|SamuroIllusionMasterToggleAIOn|Active",
+    "value": "IA deshabilitada"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Ritual del Corazón Oscuro"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Marca de las Sombras"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "Convergencia del Vacío"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Erupción del Vacío"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidStepCancel|XalatathVoidStepCancel|E",
+    "value": "Cancelar Salto del Vacío"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Salto del Vacío"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Salva del Vacío"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/ImprovedIceBlock|JainaImprovedIceBlockHotbar|Active"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/:PASSIVE:|SamuroSelectMirrorImages|Active",
+    "value": "Selecciona el Reflejo exacto"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/JainaIceBlockActivate|JainaIceColdHotbar|Active",
+    "value": "Obtienes Protección y congelas a los enemigos."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/JainaIceBlockActivate|JainaImprovedIceBlockHotbar|Active",
+    "value": "Te vuelves invulnerable y hielas a los enemigos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Invoca el Corazón Oscuro"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Lanzar un Orbe del Vacío grande"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "Invoca un portal que genera esbirros del Vacío"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Canaliza un Orbe que crece e inflige daño a su paso"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Lánzalo para teletransportar a Xal'atath en un patrón triangular."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Libera una descarga de misiles del Vacío en una ubicación objetivo"
+  },
+  {
+    "op": "replace",
+    "path": "/items/bundle/name/XalatathLaunchBundle",
+    "value": "Paquete Crepúsculo oscuro para Xal’atath"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/description/Xalatath",
+    "value": "Una asesina que inflige daño a distancia. Utiliza la energía del Vacío para superar a sus enemigos y controlar el campo de batalla."
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/difficulty/Xalatath",
+    "value": "Intermedia"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/energyType/Xalatath",
+    "value": "Maná"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/expandedRole/Xalatath",
+    "value": "Asesino de largo alcance"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/infoText/Xalatath",
+    "value": "Durante eones, Xal'atath manipuló a dioses y mortales por igual para ascender a lo más alto del cosmos. En la antigüedad, sirvió a Dimensius el Devoratodo. Luego, fue prisionera de los dioses antiguos, pero ahora logró liberarse y puso en marcha sus propios planes: la destrucción de Dalaran y la transformación de la Fuente del Sol."
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/lifeType/Xalatath",
+    "value": "Salud"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/name/Xalatath",
+    "value": "Xal'atath"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/roles/Xalatath",
+    "value": [
+      "Asesino"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/searchText/Xalatath",
+    "value": "Maga del Vacío de World of Warcraft"
+  },
+  {
+    "op": "add",
+    "path": "/items/hero/title/Xalatath",
+    "value": "La Emisaria del Vacío"
+  },
+  {
+    "op": "replace",
+    "path": "/items/lootChest/name/XalatathChest",
+    "value": "Cofre de Xal'atath"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVar1",
+    "value": "Durante eones, Xal'atath manipuló a dioses y mortales por igual para ascender a lo más alto del cosmos. En la antigüedad, sirvió a Dimensius el Devoratodo. Luego, fue prisionera de los dioses antiguos, pero ahora logró liberarse y puso en marcha sus propios planes: la destrucción de Dalaran y la transformación de la Fuente del Sol."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVar2",
+    "value": "Durante eones, Xal'atath manipuló a dioses y mortales por igual para ascender a lo más alto del cosmos. En la antigüedad, sirvió a Dimensius el Devoratodo. Luego, fue prisionera de los dioses antiguos, pero ahora logró liberarse y puso en marcha sus propios planes: la destrucción de Dalaran y la transformación de la Fuente del Sol."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVar3",
+    "value": "Durante eones, Xal'atath manipuló a dioses y mortales por igual para ascender a lo más alto del cosmos. En la antigüedad, sirvió a Dimensius el Devoratodo. Luego, fue prisionera de los dioses antiguos, pero ahora logró liberarse y puso en marcha sus propios planes: la destrucción de Dalaran y la transformación de la Fuente del Sol."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/infoText/XalatathVar4",
+    "value": "Durante eones, Xal'atath manipuló a dioses y mortales por igual para ascender a lo más alto del cosmos. En la antigüedad, sirvió a Dimensius el Devoratodo. Luego, fue prisionera de los dioses antiguos, pero ahora logró liberarse y puso en marcha sus propios planes: la destrucción de Dalaran y la transformación de la Fuente del Sol."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/cooldownText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "Tiempo de reutilización: 75 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/cooldownText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Tiempo de reutilización: 75 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/energyText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 75</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/energyText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 80</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurCombatStyleBombardStrain|AbathurLocustStrainBombardStrainTalent|Trait|Level13",
+    "value": "Los ataques básicos de las langostas se convierten en un ataque de asedio de largo alcance y ahora pierden salud un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c> más lento."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GallDoubleTrouble|GallDoubleTroubleTalent|Q|Level7",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Si Llama de las sombras golpea a un héroe enemigo que está bajo los efectos de Llamarada corruptora de Cho, su tiempo de reutilización se reduce <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> segundos.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Después de golpear a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> héroes, el tiempo de reutilización de Llama de las sombras se reduce <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> segundo de forma permanente."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "Ritual del Corazón Oscuro:<n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+50%</c> de radio<n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+25%</c> de duración<n/><n/>El daño de Corazón Oscuro rebota <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> veces del objetivo principal a los enemigos cercanos e inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "Activar Salto del Vacío otorga un <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">50%</s> de velocidad de movimiento y <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> de armadura especial durante <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">2</s> segundos. Esta bonificación se restablece cada vez que Xal'atath se teletransporta."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": "Los enemigos golpeados por Salva del Vacío quedan ralentizados un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6%</c> durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> segundos por proyectil, hasta un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "Cada vez que Corazón Oscuro inflige daño a un enemigo, Xal'atath obtiene un escudo equivalente a un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c> de su salud máxima, hasta un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "Lanzar Ritual del Corazón Oscuro silencia a los enemigos dentro de su radio durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> segundo.<n/><n/>Xal'atath y sus héroes aliados obtienen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c> de armadura especial dentro del radio del Corazón Oscuro."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": "<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+1</c> carga de Marca de las Sombras<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Marca de las Sombras tiene un tiempo de reutilización de 3 segundo entre usos.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": "<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+25%</c> de daño de proyectil de Salva del Vacío<n/><n/>Los proyectiles de Salva del Vacío dejan un rastro de fuego en su camino durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> segundos e infligen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">9</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos constantemente. El daño aumenta cuanto mayor es el tiempo que un objetivo permanece en las llamas.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Inflige daño cada 0.1875 segundos.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">El daño aumenta hasta un 300%.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">El daño aumenta con múltiples acumulaciones de disparos.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+1s</c> de duración de Marca de las Sombras<n/><n/>Reduce un <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">25%</s> la velocidad de movimiento de los héroes afectados por Marca de las Sombras."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "Después de canalizar durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> segundos, invoca un Portal del Vacío que genera hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> esbirros del Vacío para atacar a los enemigos cercanos.<n/><n/>Puedes tener hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> Portales del Vacío activos.<n/><n/>Los enemigos que están cerca del Portal del Vacío quedan ralentizados un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>.<n/><n/>Los objetivos afectados por Marca de las Sombras atraen a los esbirros del Vacío.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">El Portal finaliza después de 0 segundos.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Los esbirros del Vacío eligen automáticamente una vía cercana para atacar.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Los ataques básicos de los esbirros del Vacío infligen 50</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\"> de daño por golpe.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Los esbirros del vacío pierden salud durante 12 segundos.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Canaliza un Orbe del Vacío que crece con el tiempo hasta alcanzar su tamaño máximo después de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> segundos. Reactívalo para lanzar el Orbe antes.<n/><n/>Los enemigos que entran en contacto con el Orbe reciben <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">112</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño y quedan cegados durante <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s> segundo.<n/><n/>Cuando el Orbe llega al final de su camino, detona con una gran explosión que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño.<n/><n/>Cargar esta habilidad aumenta hasta en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> su daño de contacto y hasta en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> su daño de explosión.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Inflige daño de contacto cada 0.25 segundos.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "Los ataques básicos contra héroes enemigos afectados por Marca de las Sombras otorgan un escudo de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> puntos que se reduce rápidamente.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">El escudo comienza a disminuir después de 1 segundo y se reduce durante 2 segundos.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": "Erupción del Vacío se divide en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> Orbes del Vacío que orbitan. Cada héroe enemigo alcanzado por sus explosiones reduce <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">14</c> segundos el tiempo de reutilización de Erupción del Vacío."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "Después de completar Salto del Vacío, Xal'atath realiza un segundo Salto del Vacío de inmediato en la dirección opuesta. Los efectos se vuelven a activar."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13",
+    "value": "Los enemigos dañados por Ritual del Corazón Oscuro quedan ralentizados un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c> por cada pulso, y este efecto se acumula hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> veces y se reduce durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> segundos."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "Mientras Salto del Vacío está activo, la velocidad de los ataques básicos de Xal'atath aumenta un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">150%</c>."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "El Portal del Vacío de Convergencia del Vacío ya no tiene una duración, aumenta el límite del Portal del Vacío activo a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>, y puede generar y mantener hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> esbirros del Vacío."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "Activar Salto del Vacío invoca un sello de magia del Vacío en el suelo. Cuando el sello se completa, inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos que están dentro y los silencia durante <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s> segundos."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathToxicMark|XalatathToxicMark|Q|Level7",
+    "value": "<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+1s</c> de duración de Marca de las Sombras<n/><n/>Los héroes afectados por Marca de las Sombras reducen en <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">10</s> su armadura y reciben daño equivalente al <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1%</c> de su salud máxima a cada segundo."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "Cuando el Corazón Oscuro finaliza o detona en un objetivo afectado por Marca de las Sombras, deja un charco de llamas del Vacío durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> segundos. Los enemigos en las llamas reciben <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño con el tiempo.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Las llamas infligen daño cada 1 segundo.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "Completar Salto del Vacío carga por completo Salva del Vacío.<n/><n/>La siguiente Salva del Vacío inflige un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> más de daño y no cuesta maná."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidAdept|XalatathVoidAdept|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Detona el Corazón Oscuro en los objetivos afectados por Marca de las Sombras.<n/><n/>Cada detonación exitosa aumenta de forma permanente el daño de detonación de Marca de las Sombras y Ritual del Corazón Oscuro en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>, hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> veces."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "Activar Salto del Vacío invoca un solo esbirro del Vacío en la posición original de Xal'atath. Los objetivos afectados por Marca de las Sombras atraen a los esbirros del Vacío.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Los esbirros del Vacío eligen automáticamente una vía cercana para atacar.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Los ataques básicos de los esbirros del Vacío infligen 50</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\"> de daño por golpe.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Los esbirros del Vacío pierden salud durante 12 segundos.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "Núcleo seguro"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "Capa de las Sombras"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": "Cascada aplastante"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "Barrera oscura"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "Protección del Corazón Oscuro"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": "Orbes desafiantes"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": "Realidad fracturada"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "Indecisión"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "Convergencia del Vacío"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Erupción del Vacío"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "Resiliencia marcada"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": "Consumo de la Emisaria"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "Ciclo paradójico"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13",
+    "value": "Atracción del Corazón Oscuro"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "Susurros incesantes"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "Invasión de la falla"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "Silencio del inocente"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathToxicMark|XalatathToxicMark|Q|Level7",
+    "value": "Marca tóxica"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "Núcleo inestable"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "Acólito del Vacío"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidAdept|XalatathVoidAdept|Q|Level1",
+    "value": "Adepta del Vacío"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/name/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "Invocadora del Vacío"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "Aumenta la duración y el radio de Corazón Oscuro"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "Salto del Vacío otorga armadura especial y velocidad de movimiento"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathCrushingCascade|XalatathCrushingCascade|Trait|Level13",
+    "value": "Salva del Vacío golpea a los enemigos ralentizados"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "Obtienes un escudo cada vez que el Corazón Oscuro inflige daño a un enemigo"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "Xal'atath y sus aliados reciben armadura especial mientras están cerca del Corazón Oscuro"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathDuelingOrbs|XalatathDuelingOrbs|Q|Level20",
+    "value": "Marca de las Sombras obtiene una carga adicional"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathFracturedReality|XalatathFracturedReality|Trait|Level16",
+    "value": "Salva del Vacío deja un rastro de fuego en su camino"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "Los héroes afectados por Marca de las Sombras quedan ralentizados y la duración de la marca aumenta"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "Invoca un portal que genera esbirros del Vacío"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Canaliza un Orbe que crece e inflige daño a su paso"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathMarkedResilience|XalatathMarkedResilience|Q|Level16",
+    "value": "Los ataques básicos contra héroes enemigos afectados por Marca de las Sombras otorgan escudos"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathOrbitalEruption|XalatathOrbitalEruption|Heroic|Level20",
+    "value": "Hace crecer y lanza tres Orbes del Vacío"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "Después de completar Salto del Vacío, se revierte el patrón"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathPullOfTheDarkHeart|XalatathPullOfTheDarkHeart|W|Level13",
+    "value": "Ralentiza a los enemigos que están cerca del Corazón Oscuro"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "Mientras Salto del Vacío está activo, aumenta la cadencia de lanzamiento de Orbe del Vacío"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "El portal ya no tiene salud y genera más esbirros del Vacío"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "Después de completar Salto del Vacío, silencia a los héroes en el patrón"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathToxicMark|XalatathToxicMark|Q|Level7",
+    "value": "Marca de las Sombras inflige daño con el tiempo"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "Cuando se destruye el Corazón Oscuro, deja un charco de llamas del Vacío"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "Al completar Salto del Vacío, potencia Salva del Vacío"
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidAdept|XalatathVoidAdept|Q|Level1",
+    "value": "<c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Detona el Corazón Oscuro en los objetivos afectados por Marca de las Sombras para aumentar el daño."
+  },
+  {
+    "op": "add",
+    "path": "/items/talent/shortText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "Cuando usa Salto del Vacío, invoca un solo esbirro del Vacío"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "Invoca el Corazón Oscuro, que emite pulsos que infligen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño por segundo a los enemigos cercanos y dura <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> segundos.<n/><n/>El Corazón Oscuro se mueve a la ubicación de impacto de Marca de las Sombras.<n/><n/>El Corazón Oscuro perseguirá a los objetivos afectados por Marca de las Sombras y detonará con el impacto, lo que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">245</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos cercanos y <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">61</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> más de daño al objetivo marcado."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/XalatathVoidMinion",
+    "value": "Esbirro del Vacío"
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine01",
+    "value": "Supervivencia"
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine02",
+    "value": "Poder del Vacío"
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine03",
+    "value": "Mi reino"
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine04",
+    "value": "Voluntad eterna"
+  },
+  {
+    "op": "replace",
+    "path": "/items/voiceLine/name/XalatathBase_VoiceLine05",
+    "value": "La oscuridad consume"
+  }
+]

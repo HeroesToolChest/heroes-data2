@@ -1,0 +1,237 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Hanamura Temple"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/DragonsDinner|DragonsDinner|Q",
+    "value": "Cooldown: 12 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/HanamuraCoreBarrage|HanamuraCoreBarrage|Q",
+    "value": "Cooldown: 8 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/MercDefenderHealingPulse|MercDefenderHealingPulse|Z",
+    "value": "Cooldown: 10 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/RingOfFire|RingOfFire|W",
+    "value": "Cooldown: 5 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/HanamuraCoreBarrage|HanamuraCoreBarrage|Q",
+    "value": "Launch <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2 </c>volleys of missiles that deal <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c> of maximum Health as damage and Slow by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70%</c> for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c> seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/DragonsDinner|DragonsDinner|Q",
+    "value": "Imprison"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/HanamuraCoreBarrage|HanamuraCoreBarrage|Q",
+    "value": "Barrage"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercDefenderHealingPulse|MercDefenderHealingPulse|Z",
+    "value": "Sentinel - Healing Pulse"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/move|Move|Trait",
+    "value": "Move"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/OverwatchMechanicRepair|OverwatchMechanicRepair|Z",
+    "value": "Engineer - Repair"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/PayloadMove|:NONE:|Hidden",
+    "value": "Payload Move"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/RingOfFire|RingOfFire|W",
+    "value": "Energy Ring"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/HanamuraCoreBarrage|HanamuraCoreBarrage|Q",
+    "value": "Damage and Slow enemies"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/RingOfFire|RingOfFire|W",
+    "value": "Creates an Energy Ring that damages targets within it."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/BioticEmitter",
+    "value": "Create a Biotic Emitter that restores <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c> of nearby allied heroes maximum Health and Mana over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> seconds."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Tough, high-Health Mercenary. Attacks at melee range. Specializes in soaking up attacks from enemy fortifications.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser2",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Tough, high-Health Mercenary. Attacks at melee range. Specializes in soaking up attacks from enemy fortifications.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser3",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Tough, high-Health Mercenary. Attacks at melee range. Specializes in soaking up attacks from enemy fortifications.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeIndividual",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Tough, high-Health Mercenary. Attacks at melee range. Specializes in soaking up attacks from enemy fortifications.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/JungleGraveGolemDefender",
+    "value": "Mega Enforcer"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/RegenGlobe",
+    "value": "Health Pack"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BioticEmitter",
+    "value": "Biotic Emitter"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DragonSpiritsPickup",
+    "value": "Dragon Spirits"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HanamuraCoreAttackRadiusDummy",
+    "value": "Core Attack Radius Dummy"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HanamuraCoreBarrageMissile",
+    "value": "Barrage (Missile)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HealingPulsePickup",
+    "value": "Healing Pulse"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderHenchman1",
+    "value": "Henchman"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderHenchman2",
+    "value": "Henchman"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderHenchman3",
+    "value": "Henchman"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser",
+    "value": "Henchmen"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser2",
+    "value": "Henchmen"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser3",
+    "value": "Henchmen"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeIndividual",
+    "value": "Sentinel"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderSentinel",
+    "value": "Sentinel"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperLaner",
+    "value": "Sapper"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerHenchman1",
+    "value": "MercLanerHenchman1"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerHenchman2",
+    "value": "MercLanerHenchman1"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerHenchman3",
+    "value": "MercLanerHenchman1"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerSentinel",
+    "value": "Sentinel"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchBossImprisonMissile",
+    "value": "Overwatch Boss Imprison Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchBossImprisonMissileDummy",
+    "value": "Overwatch Boss Imprison Missile (Dummy)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchMechanic",
+    "value": "Engineer"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchTurret",
+    "value": "Turret"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchTurretPlayer",
+    "value": "Turret (Player)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ReconCampVisionUnit",
+    "value": "Recon Camp Vision Unit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TurretPickup",
+    "value": "Turret (Pickup)"
+  }
+]

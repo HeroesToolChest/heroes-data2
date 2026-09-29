@@ -1,0 +1,102 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Blackheart's Revenge"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|DeathwingHearthstone|B",
+    "value": "После поддержания в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4.5</c> сек. телепортирует вашего героя в Зал Штормов."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneBrew|B",
+    "value": "Телепортирует вашего героя к алтарю, моментально восполняя весь запас здоровья и отвара."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneNoMana|B",
+    "value": "Телепортирует вашего героя к алтарю, моментально восполняя весь запас здоровья."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|Hearthstone|B",
+    "value": "Телепортирует героя к алтарю, моментально восполняя весь запас здоровья и маны."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/AttackCore|AttackCore|E",
+    "value": "Атака цитадели"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/CannonAttack|CannonAttack|W",
+    "value": "Атака пушки"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/move|Move|W",
+    "value": "Двигаться"
+  },
+  {
+    "op": "add",
+    "path": "/items/announcerPack/name/CommodoreFord",
+    "value": "Командор Форд"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/Boat",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Мощное и крепкое строение. Наносит большой урон по области и обладает щитом, который восстанавливается со временем, если его не атакуют. Разрушение этого строения является условием для победы в матче.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AmmoCache",
+    "value": "Боеприпасы"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AttackCoreMissile",
+    "value": "Attack Core Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Boat",
+    "value": "Корабль"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Cannon",
+    "value": "Пушка"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/CannonAttackMissile",
+    "value": "Cannon Attack Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/CannonballMinimapIconUnit",
+    "value": "Cannonball Minimap Icon Unit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ClickableChestEasterEggUnit",
+    "value": "Clickable Chest Easter Egg Unit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TeleporterNeutral",
+    "value": "Телепорт"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TeleporterTeam",
+    "value": "Портал"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WheresWeirdo",
+    "value": "Where's Weirdo"
+  }
+]
