@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98304"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/totalItems",
+    "value": 944
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidConvergenceRiftInvasionPortalUnit",
+    "value": {
+      "damageType": "Summon",
+      "radius": 1.5,
+      "innerRadius": 1.25,
+      "sight": 5,
+      "speed": 3.25,
+      "attributes": [
+        "Summoned"
+      ],
+      "life": {
+        "amount": 1500,
+        "scale": 0.04,
+        "regenRate": 0,
+        "regenScale": 0
+      },
+      "portraits": {},
+      "abilities": {
+        "Hidden": [
+          {
+            "linkId": "HeroGenericSummonedUnitSpecialCaseInteraction|SummonedUnitSpecialCaseInteraction|Hidden",
+            "abilityId": "HeroGenericSummonedUnitSpecialCaseInteraction",
+            "buttonId": "SummonedUnitSpecialCaseInteraction",
+            "icon": "storm_temp_btn-ability-protoss-prismaticbeam-color.png",
+            "abilityType": "Hidden"
+          }
+        ]
+      }
+    }
+  }
+]

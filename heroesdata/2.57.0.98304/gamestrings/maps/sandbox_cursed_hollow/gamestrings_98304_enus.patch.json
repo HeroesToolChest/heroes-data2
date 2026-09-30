@@ -1,0 +1,27 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Sandbox (Cursed Hollow)"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/CursedHollowCoreCurse|CursedHollowCoreCurse|Q",
+    "value": "Cooldown: 3 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/CursedHollowCoreCurse|CursedHollowCoreCurse|Q",
+    "value": "After a short delay, Heroes in an area take <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c> of their maximum life as damage and have their armor reduced by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75</c> for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> seconds."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/CursedHollowCoreCurse|CursedHollowCoreCurse|Q",
+    "value": "Curse"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/CursedHollowCoreCurse|CursedHollowCoreCurse|Q",
+    "value": "Damage and greatly reduce a Hero's Armor"
+  }
+]

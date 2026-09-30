@@ -1,0 +1,32 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Dragon Shire"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/DragonShireCorePetrify|DragonShireCorePetrify|Q",
+    "value": "Recarga: 6 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/DragonShireCorePetrify|DragonShireCorePetrify|Q",
+    "value": "Atordoa Heróis inimigos por <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.75</c> s e causa dano equivalente a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c> do máximo de Vida deles."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/DragonShireCorePetrify|DragonShireCorePetrify|Q",
+    "value": "Petrificar"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/DragonShireCorePetrify|DragonShireCorePetrify|Q",
+    "value": "Causa dano e atordoa inimigos"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DragonShireCorePetrifyMissile",
+    "value": "Petrificar (Projétil)"
+  }
+]
