@@ -1,0 +1,42 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Lunar Rocket Racing"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/ChenWanderingKeg|ChenWanderingKeg|Heroic",
+    "value": "재사용 대기시간: 10초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/ChenHeroicAbilityWanderingKeg|ChenWanderingKeg|Heroic|Level10",
+    "value": "재사용 대기시간: 10초"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/LunarFestivalEnvelope",
+    "value": "금화를 주으려면 가까이 이동하세요."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LunarFestivalEnvelope",
+    "value": "봉투"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LunarFestivalFirecracker",
+    "value": "불꽃놀이"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LunarFestivalGreenRocket",
+    "value": "초록 로켓"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Observer_InvisibleUnit",
+    "value": ""
+  }
+]

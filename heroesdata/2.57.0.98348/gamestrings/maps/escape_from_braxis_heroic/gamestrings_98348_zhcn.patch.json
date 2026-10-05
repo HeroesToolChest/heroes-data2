@@ -1,0 +1,1052 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Escape From Braxis (Heroic)"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelAnnihilate|ArchangelAnnihilate|W",
+    "value": "冷却时间：3秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelBarrage|ArchangelBarrage|E",
+    "value": "冷却时间：2秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelCableWrap|ArchangelCableWrap|Q",
+    "value": "冷却时间：2秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelChaserBanelings|ArchangelChaserBanelings|Q",
+    "value": "冷却时间：3秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelDropUltralisk|ArchangelDropUltralisk|E",
+    "value": "冷却时间：3秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelEMP|ArchangelEMP|W",
+    "value": "冷却时间：3秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelHellfireMissiles|ArchangelHellfireMissiles|W",
+    "value": "冷却时间：3秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelLobBaneling|ArchangelLobBaneling|Q",
+    "value": "冷却时间：1秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelPlaceAutoTurret|ArchangelPlaceAutoTurret|E",
+    "value": "冷却时间：3秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelReposition|ArchangelReposition|Z",
+    "value": "冷却时间：2秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelSuperBanelingChase|ArchangelSuperBanelingChaseCancel|W",
+    "value": "冷却时间：2秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelSuperBanelingChase|ArchangelSuperBanelingChase|Q",
+    "value": "冷却时间：2秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelToxicSludgling|ArchangelToxicSludgling|Q",
+    "value": "冷却时间：1秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/ArchangelVileTumor|ArchangelVileTumor|W",
+    "value": "冷却时间：1秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/BraxisCoreMissileStorm|BraxisCoreMissileStorm|Q",
+    "value": "冷却时间：4秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+    "value": "冷却时间：14秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+    "value": "冷却时间：14秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SlivanBossDrawIn|SlivanBossDrawIn|E",
+    "value": "冷却时间：14秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SlivanBossSlimeSpit|SlivanBossSlimeSpit|Q",
+    "value": "冷却时间：7秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SlivanBossSpawnPods|SlivanBossSpawnPods|W",
+    "value": "冷却时间：14秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SlivanImpale|SlivanImpale|Heroic",
+    "value": "冷却时间：1秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranArchangelDefenderBulletstorm|TerranArchangelBulletstorm|Q",
+    "value": "冷却时间：15秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranArchangelLanerBulletstorm|TerranArchangelBulletstorm|Q",
+    "value": "冷却时间：12秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|Q",
+    "value": "冷却时间：20秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|W",
+    "value": "冷却时间：20秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "冷却时间：15秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "冷却时间：15秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/UltraliskCharge|UltraliskCharge|Q",
+    "value": "冷却时间：12秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/attack|Attack|W",
+    "value": "用英雄武器进行攻击"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/BraxisCoreMissileStorm|BraxisCoreMissileStorm|Q",
+    "value": "对一名敌方英雄发射5发飞弹，每发飞弹在小范围区域内造成相当于其最大生命值<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c>的伤害。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/Hearthstone|Hearthstone|Hidden",
+    "value": "引导<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>秒后，传送回风暴大厅，立即恢复<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1125</c>的生命值和<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">150</c>法力值。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+    "value": "喷出一团软泥对范围内的敌人造成持续伤害"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+    "value": "在首领周围生成软泥并攻击范围内的敌人。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SlivanBossDrawIn|SlivanBossDrawIn|E",
+    "value": "吸入并击晕首领周围一圈的敌人。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SlivanBossSlimeSpit|SlivanBossSlimeSpit|Q",
+    "value": "喷出一团软泥对范围内的敌人造成持续伤害"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SlivanBossSpawnPods|SlivanBossSpawnPods|W",
+    "value": "在首领周围孵化会爆炸的包虫。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SlivanImpale|SlivanImpale|Heroic",
+    "value": "对一条直线上的敌人造成伤害并将其击晕"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranArchangelDefenderBulletstorm|TerranArchangelBulletstorm|Q",
+    "value": "在施法者前方的一条直线上射出大量子弹，在5秒内造成0点伤害。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranArchangelLanerBulletstorm|TerranArchangelBulletstorm|Q",
+    "value": "在施法者前方的一条直线上射出大量子弹，在5秒内造成0点伤害。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|Q",
+    "value": "在目标位置部署一台自动机炮。自动机炮是固定攻击炮台，会攻击任何进入范围的敌人。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|W",
+    "value": "在目标位置部署一台自动机炮。自动机炮是固定攻击炮台，会攻击任何进入范围的敌人。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "向目标单位发射一枚缓慢飞行的导弹。弹道将追踪目标7秒。如果导弹进入目标3范围以内，那么导弹将迅速靠近目标，对目标和附近敌人造成0点伤害。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "向目标单位发射一枚缓慢飞行的导弹。弹道将追踪目标7秒。如果导弹进入目标3范围以内，那么导弹将迅速靠近目标，对目标和附近敌人造成0点伤害。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/UltraliskCharge|UltraliskCharge|Q",
+    "value": "更改雷兽在撞到无法通行的地形或抵达最大距离后的目标朝向。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelAnnihilate|ArchangelAnnihilate|W",
+    "value": "歼灭打击"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelBarrage|ArchangelBarrage|E",
+    "value": "火箭弹幕"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelBileLauncher|ArchangelBileLauncher|E",
+    "value": "胆汁喷射体"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelCableWrap|ArchangelCableWrap|Q",
+    "value": "Cable Wrap"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelChaserBanelings|ArchangelChaserBanelings|Q",
+    "value": "Chaser Banelings"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelClearLoadout|ArchangelClearLoadout|Heroic",
+    "value": "清除配置"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelDropUltralisk|ArchangelDropUltralisk|E",
+    "value": "空投雷兽"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelEmergencyRepairsRepair|ArchangelEmergencyRepairsRepair|Q",
+    "value": "紧急修复"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelEMP|ArchangelEMP|W",
+    "value": "EMP"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelHellfireMissiles|ArchangelHellfireMissiles|W",
+    "value": "地狱火飞弹"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelLoadout1|ArchangelLoadout1|Q",
+    "value": "配置1"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelLoadout2|ArchangelLoadout2|W",
+    "value": "配置2"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelLoadout3|ArchangelLoadout3|E",
+    "value": "配置3"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelLoadout4|ArchangelLoadout4|Heroic",
+    "value": "配置4"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelLobBaneling|ArchangelLobBaneling|Q",
+    "value": "抛射爆虫"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelPlaceAutoTurret|ArchangelPlaceAutoTurret|E",
+    "value": "放置自动炮塔"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelReposition|ArchangelReposition|Z",
+    "value": "Reposition"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelSuperBanelingChase|ArchangelSuperBanelingChaseCancel|W",
+    "value": "追击"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelSuperBanelingChase|ArchangelSuperBanelingChase|Q",
+    "value": "追击"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelToxicSludgling|ArchangelToxicSludgling|Q",
+    "value": "剧毒软泥怪"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelVentTerrazineHallucinationSuicide|ArchangelVentTerrazineHallucinationSuicide|Q",
+    "value": "Vent Terrazine"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/ArchangelVileTumor|ArchangelVileTumor|W",
+    "value": "恶臭肿瘤"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/attack|Attack|W",
+    "value": "普通攻击"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/BraxisCoreMissileStorm|BraxisCoreMissileStorm|Q",
+    "value": "飞弹风暴"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/BraxisHoldoutSCVChannel|BraxisHoldoutSCVChannel|Trait",
+    "value": "SCV引导"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/Hearthstone|Hearthstone|Hidden",
+    "value": "炉石"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+    "value": "黏液喷吐"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+    "value": "召唤软泥"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SlivanBossDrawIn|SlivanBossDrawIn|E",
+    "value": "吸入"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SlivanBossSlimeSpit|SlivanBossSlimeSpit|Q",
+    "value": "黏液喷吐"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SlivanBossSpawnPods|SlivanBossSpawnPods|W",
+    "value": "孵化包虫"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SlivanImpale|SlivanImpale|Heroic",
+    "value": "穿刺"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/StopRedirect|Stop|W",
+    "value": "停止"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/stop|Stop|E",
+    "value": "停止"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TerranArchangelDefenderBulletstorm|TerranArchangelBulletstorm|Q",
+    "value": "子弹风暴"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TerranArchangelLanerBulletstorm|TerranArchangelBulletstorm|Q",
+    "value": "子弹风暴"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "猎杀者飞弹"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "猎杀者飞弹"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/UltraliskCharge|UltraliskCharge|Q",
+    "value": "雷兽冲锋"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/attack|Attack|W",
+    "value": "用普通攻击攻击敌人"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/BraxisCoreMissileStorm|BraxisCoreMissileStorm|Q",
+    "value": "用飞弹不断轰炸一名英雄"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+    "value": "向目标位置喷出软泥"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+    "value": "召唤软泥并攻击范围内的敌人"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/SlivanBossDrawIn|SlivanBossDrawIn|E",
+    "value": "吸入并击晕敌人。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/SlivanBossSlimeSpit|SlivanBossSlimeSpit|Q",
+    "value": "向地面喷吐腐蚀黏液"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/SlivanBossSpawnPods|SlivanBossSpawnPods|W",
+    "value": "孵化会爆炸的包虫"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/SlivanImpale|SlivanImpale|Heroic",
+    "value": "伤害并击晕一条直线上的敌人"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TerranArchangelDefenderBulletstorm|TerranArchangelBulletstorm|Q",
+    "value": "在一条直线上倾泻一连串子弹"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TerranArchangelLanerBulletstorm|TerranArchangelBulletstorm|Q",
+    "value": "在一条直线上倾泻一连串子弹"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "移速较慢的追踪飞弹。接触时爆炸，造成范围伤害。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "移速较慢的追踪飞弹。接触时爆炸，造成范围伤害。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/UltraliskCharge|UltraliskCharge|Q",
+    "value": "潜入地下并朝一个方向冲锋"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostDamageDoneToZerg",
+    "value": "~AwardValue~%的团队异虫伤害"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostNukeDamageDone",
+    "value": "~AwardValue~%的团队异虫伤害"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostDamageDoneToZerg",
+    "value": "异虫克星"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostNukeDamageDone",
+    "value": "异虫克星"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostDamageDoneToZerg",
+    "value": "对异虫造成~TooltipAmount~点伤害"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostNukeDamageDone",
+    "value": "对异虫造成~TooltipAmount~点伤害"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostDamageDoneToZerg",
+    "value": "对虫群造成最多伤害"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MapMechanicNuke",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>秒后呼叫聚变打击，造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1750</c>点伤害，该伤害对堡垒、要塞以及敌方核心加倍。<n/><n/>建筑也会被点燃<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c>秒，每秒受到相当于<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.2%</c>最大生命值的伤害。英雄的普通攻击使该效果的剩余持续时间延长至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>秒。"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/PVEBunker",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">强大坚固的建筑。攻击可以降低敌人的移动和攻击速度。攻击会消耗弹药，用光弹药后无法攻击。优先攻击敌方小兵。</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/TerranRavenSeekerMissile",
+    "value": "向目标单位发射一枚缓慢飞行的导弹。弹道将追踪目标7秒。如果导弹进入目标3范围以内，那么导弹将迅速靠近目标，对目标和附近敌人造成0点伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/TownGateL3HorizontalTopVisionBlocked",
+    "value": "ZergedTownGateL3HorizontalTopVisionBlocked"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArcadeMachine",
+    "value": "Arcade Machine"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelAutoTurret",
+    "value": "自动机炮"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelBileLauncherMissile",
+    "value": "胆汁喷射体"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelCableWrap",
+    "value": "Cable Wrap"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelChaserBaneling",
+    "value": "Chaser Baneling"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelDropUltraliskUltraliskCocoon",
+    "value": "雷兽茧"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelElevatorPathingBlocker",
+    "value": "Archangel Elevator Pathing Blocker"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelEMPBlocker",
+    "value": "EMP Blocker"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelHellfireMissilesMissile",
+    "value": "地狱火飞弹"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelLobBanelingMissile",
+    "value": "抛射爆虫"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelMinefieldMine",
+    "value": "地雷"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelRepairBotEmergencyRepairs",
+    "value": "修理机器人"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelShieldGeneratorShieldMatrix",
+    "value": "护盾发生器"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelTerrazineHallucinationVentTerrazine",
+    "value": "地嗪幻像"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelToxicSludgling",
+    "value": "剧毒软泥怪"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelVileTumor",
+    "value": "恶臭肿瘤"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BraxisCoreMissileStormMissile",
+    "value": "飞弹风暴（发射物）"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BraxisHoldoutSCV",
+    "value": "Braxis Holdout SCV"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Hatchery",
+    "value": "孵化场"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HoldingPenPathingBlocker",
+    "value": "Holding Pen Pathing Blocker"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/InvisibleHelperUnit",
+    "value": "Invisible Helper Unit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MapArrowInvisibleMissile",
+    "value": "Map Arrow Invisible Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MapMechanicNuke",
+    "value": "聚变打击"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MapMechanicNukeSilo",
+    "value": "聚变打击发射井"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/NukeTargetMinimapIconUnit",
+    "value": "Nuke Target Minimap Icon Unit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Overlord",
+    "value": "王虫"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PapaCosplay",
+    "value": "Papa Cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PathingBlocker2x2Cliff",
+    "value": "Pathing Blocker 2x2 (Cliff)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PathingBlocker2x2PVE",
+    "value": "路径障碍物 2x2"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PathingBlocker4x4",
+    "value": "路径障碍物 4x4"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PathingBlocker4x4Cliff",
+    "value": "Pathing Blocker 4x4 (Cliff)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PathingBlocker4x4CliffDiagonal",
+    "value": "Pathing Blocker 4x4 (Cliff)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PathingBlocker4x4Diagonal",
+    "value": "路径障碍物 4x4"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PathingBlocker8x8Cliff",
+    "value": "Pathing Blocker 8x8 (Cliff)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PathingBlocker8x8CliffDiagonal",
+    "value": "Pathing Blocker 8x8 (Cliff)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVEAdrenalGlandsMissile",
+    "value": "肾上腺体"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVEAdrenalGlandsPickup",
+    "value": "肾上腺体"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVEBunker",
+    "value": "PVE地堡"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVEBunkerBunkerWeaponMissile",
+    "value": "地堡武器"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVECombatShieldMissile",
+    "value": "防暴护盾"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVECombatShieldPickup",
+    "value": "防暴护盾"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVECoreUltimateCoreWeaponMissile",
+    "value": "终极核心武器"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVECoreUpgradedCoreWeaponMissile",
+    "value": "升级版核心武器"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVEHardModeCaptureSlab",
+    "value": "Hard Mode Capture Slab"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVELootChest",
+    "value": "战利品箱"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVEMiniNukePickup",
+    "value": "迷你核弹"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVEPathingBlocker8x8",
+    "value": "Pathing Blocker 8x8"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVEPathingBlockerDiagonal8x8",
+    "value": "Pathing Blocker 8x8"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PvEPsiEmitterMissile",
+    "value": "PvE灵能发射器发射物"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVEPsiEmitterPickup",
+    "value": "灵能发射器"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PvEPsiEmitterUnit",
+    "value": "PvE灵能发射器单位"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVEReinforcementsPickup",
+    "value": "援军"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVERejuvenationPulsePickup",
+    "value": "愈合脉冲"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVESecondChancePickup",
+    "value": "二次机会"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVESpecialAbilityPickupUnit",
+    "value": "PVE - Special Ability Pickup Unit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PVETeamStimpackPickup",
+    "value": "团队强化剂"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SamuroShowdownMachine",
+    "value": "Samuro Showdown Machine"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossDefender",
+    "value": "虫群宿主"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossLaner",
+    "value": "虫群宿主"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossPodlingDefender",
+    "value": "包虫"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossPodlingLaner",
+    "value": "包虫"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossSlimeSpitMissile",
+    "value": "Slime Boss Slime Spit Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossSpawnPodsMissile",
+    "value": "Slime Boss Spawn Pods Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlivanBoss",
+    "value": "斯利凡"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlivanBossPod",
+    "value": "包虫"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlivanBossSlimeSpitMissile",
+    "value": "Slivan Boss Slime Spit Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlivanBossSpawnPodsMissile",
+    "value": "Slivan Boss Spawn Pods Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/StormSCBraxisCaptureAntenna",
+    "value": "Storm SC Braxis Capture Antenna"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/StormSCBraxisCaptureCage",
+    "value": "Storm SC Braxis Capture Cage"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SwampMonsterEasterEggUnit",
+    "value": "Swamp Monster Easter Egg Unit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranArchangelDefender",
+    "value": "大天使"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranArchangelLaner",
+    "value": "Terran Archangel"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranBunker",
+    "value": "地堡"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranBunkerUpgraded",
+    "value": "Bunker (Upgraded)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranGoliath",
+    "value": "人类歌利亚"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranGoliathDefender",
+    "value": "歌利亚"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranHellbat",
+    "value": "人类恶蝠"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranHellbatDefender",
+    "value": "恶蝠"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranMarine",
+    "value": "陆战队员"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranRaven",
+    "value": "人类铁鸦"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranRavenDefender",
+    "value": "铁鸦"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranRavenSeekerMissile",
+    "value": "铁鸦"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerrazineGasVein",
+    "value": "Terrazine Gas Vein"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerrazineRageAoEMissile",
+    "value": "Terrazine Rage AoE Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/VisionBlocker2x2",
+    "value": "Vision Blocker 2x2"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadDouble",
+    "value": "弹头"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadDropped",
+    "value": "Warhead Dropped"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadDroppedMissile",
+    "value": "Warhead Dropped Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadSingle",
+    "value": "弹头"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadTriple",
+    "value": "弹头"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WaygateEntrance",
+    "value": "污水隧道"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergBaneling",
+    "value": "爆虫"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergCocoon",
+    "value": "异虫茧"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergCocoonLocust",
+    "value": "异虫茧蝗虫"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergedTownGateL3HorizontalTopVisionBlocked",
+    "value": "ZergedTownGateL3HorizontalTopVisionBlocked"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergGuardian",
+    "value": "守护者"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergHydralisk",
+    "value": "刺蛇"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergMutalisk",
+    "value": "异龙"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergRoach",
+    "value": "蟑螂"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergUltralisk",
+    "value": "雷兽"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergZergling",
+    "value": "跳虫"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergZerglingNotMinion",
+    "value": "跳虫"
+  }
+]

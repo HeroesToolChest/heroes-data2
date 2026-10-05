@@ -1,0 +1,111 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98348"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/totalItems",
+    "value": 1772
+  },
+  {
+    "op": "add",
+    "path": "/items/CrusaderOWC20Var3",
+    "value": {
+      "hyperlinkId": "CrusaderOWC20Var3",
+      "attributeId": "COW3",
+      "franchise": "Starcraft",
+      "rarity": "Common",
+      "releaseDate": "2021-04-13"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/CrusaderOWC20Var4",
+    "value": {
+      "hyperlinkId": "CrusaderOWC20Var4",
+      "attributeId": "COW4",
+      "franchise": "Starcraft",
+      "rarity": "Common",
+      "releaseDate": "2021-04-13"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/CrusaderOWC20Var5",
+    "value": {
+      "hyperlinkId": "CrusaderOWC20Var5",
+      "attributeId": "COW5",
+      "franchise": "Starcraft",
+      "rarity": "Common",
+      "releaseDate": "2021-04-13"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/DemonHunterOWC20Var3",
+    "value": {
+      "hyperlinkId": "DemonHunterOWC20Var3",
+      "attributeId": "DOW3",
+      "franchise": "Starcraft",
+      "rarity": "Common",
+      "releaseDate": "2021-04-13"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/DemonHunterOWC20Var4",
+    "value": {
+      "hyperlinkId": "DemonHunterOWC20Var4",
+      "attributeId": "DOW4",
+      "franchise": "Starcraft",
+      "rarity": "Common",
+      "releaseDate": "2025-09-29"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/DemonHunterOWC20Var5",
+    "value": {
+      "hyperlinkId": "DemonHunterOWC20Var5",
+      "attributeId": "DOW5",
+      "franchise": "Starcraft",
+      "rarity": "Common",
+      "releaseDate": "2021-04-13"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/RaynorOWC20Var3",
+    "value": {
+      "hyperlinkId": "RaynorOWC20Var3",
+      "attributeId": "ROW3",
+      "franchise": "Starcraft",
+      "rarity": "Common",
+      "releaseDate": "2021-04-13"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/RaynorOWC20Var4",
+    "value": {
+      "hyperlinkId": "RaynorOWC20Var4",
+      "attributeId": "ROW4",
+      "franchise": "Starcraft",
+      "rarity": "Common",
+      "releaseDate": "2021-04-13"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/RaynorOWC20Var5",
+    "value": {
+      "hyperlinkId": "RaynorOWC20Var5",
+      "attributeId": "ROW5",
+      "franchise": "Starcraft",
+      "rarity": "Common",
+      "releaseDate": "2021-04-13"
+    }
+  }
+]

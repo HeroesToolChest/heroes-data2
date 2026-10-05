@@ -1,0 +1,49 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Haunted Mines"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/StormBossAttack|Attack|Hidden"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/StormBossAttack|Attack|Hidden"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/StormBossAttack|Attack|Hidden"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostSkullsCollected",
+    "value": "~AwardValue~% des crânes collectés de l’équipe"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostSkullsCollected",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Chasseur de crânes,Chasseuse de crânes</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostSkullsCollected",
+    "value": "~TooltipAmount~ crânes collectés"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BossHoleSharedVisionUnit",
+    "value": "Boss - Trou - Visibilité partagée - Unité"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperDefender",
+    "value": "Sapeur"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperLaner",
+    "value": "Sapeur"
+  }
+]

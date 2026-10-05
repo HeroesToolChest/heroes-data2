@@ -1,0 +1,242 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98348"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Channel a powerful Void Orb that grows over time until reaching maximum size after <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds. Recast to launch the Orb early.<n/><n/>Enemies that come into contact with the Orb take <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage and are Blinded for <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s> second.<n/><n/>When the Orb reaches the end of its path, it detonates in a large explosion, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage.<n/><n/>Charging up this Ability increases its contact damage up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">166</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> and its explosion damage up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Contact damage is dealt every 0.25 seconds.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Every basic attack against heroes, and every <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> basic attacks against non-heroes generate charge. Once fully charged Xal'atath can activate Void Volley to unleash a barrage of <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> Void Orbs at a target location, each dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">72</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage on impact.<n/><n/>Charge fully decays if Xal’atath does not hit an enemy with a Basic Attack after <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> seconds.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Hit enemy Heroes with Void Volley to grant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> stack per hit and increases Void Volley's damage by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1%</c>. Lose all stacks upon dying.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward (20 Stacks):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c> Void Volley Range<n/>   Stack loss on death lowered to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward (60 Stacks):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">-1</c> Basic Attack required to charge Void Volley.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Mythic Reward (100 Stacks):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+50%</c> Basic Attack and Void Volley Damage.<n/>   Void Volley projectiles Pierce all targets.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Stack loss will never cause the Hero to fall below a quest reward threshold.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var3",
+    "value": "Being a Crusader doesn't stop when you lose the helmet. It's a lifelong devotion to serving the Light."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var4",
+    "value": "Being a Crusader doesn't stop when you lose the helmet. It's a lifelong devotion to serving the Light."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var5",
+    "value": "Being a Crusader doesn't stop when you lose the helmet. It's a lifelong devotion to serving the Light."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var3",
+    "value": "After a lifetime of slaying Sanctuary’s evils, Valla was shocked to discover that the multiverse held more demons than she’d ever imagined. Some wore the faces of former comrades; some choose their own."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var4",
+    "value": "After a lifetime of slaying Sanctuary’s evils, Valla was shocked to discover that the multiverse held more demons than she’d ever imagined. Some wore the faces of former comrades; some choose their own."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var5",
+    "value": "After a lifetime of slaying Sanctuary’s evils, Valla was shocked to discover that the multiverse held more demons than she’d ever imagined. Some wore the faces of former comrades; some choose their own."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var3",
+    "value": "It's much easier to breathe in the mask than you think, actually. Raynor takes it off so enemies can see his war face."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var4",
+    "value": "It's much easier to breathe in the mask than you think, actually. Raynor takes it off so enemies can see his war face."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var5",
+    "value": "It's much easier to breathe in the mask than you think, actually. Raynor takes it off so enemies can see his war face."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var3",
+    "value": "Maskless Peacekeeper Johanna"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var4",
+    "value": "Maskless Gleaming Peacekeeper Johanna"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var5",
+    "value": "Maskless Zealous Peacekeeper Johanna"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var3",
+    "value": "Maskless Shadow Stalker Valla"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var4",
+    "value": "Maskless Vibrant Shadow Stalker Valla"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var5",
+    "value": "Maskless Alabaster Shadow Stalker Valla"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var3",
+    "value": "Maskless Raynor 76"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var4",
+    "value": "Maskless Enhanced Raynor 76"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var5",
+    "value": "Maskless Elite Raynor 76"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var3",
+    "value": "reinhardt silver ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var4",
+    "value": "reinhardt blue ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var5",
+    "value": "reinhardt white gold ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var3",
+    "value": "reaper black ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var4",
+    "value": "reaper pink ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var5",
+    "value": "reaper white ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var3",
+    "value": "soldier 76 blue ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var4",
+    "value": "soldier 76 gold ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var5",
+    "value": "soldier 76 red ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var3",
+    "value": "CrusaderOW20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var4",
+    "value": "CrusaderOW20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var5",
+    "value": "CrusaderOW20NoMaskVar2"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var3",
+    "value": "DemonHunterOWC20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var4",
+    "value": "DemonHunterOWC20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var5",
+    "value": "DemonHunterOWC20NoMaskVar2"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var3",
+    "value": "RaynorOWC20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var4",
+    "value": "RaynorOWC20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var5",
+    "value": "RaynorOWC20NoMaskVar2"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "Dark Heart Ritual:<n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+25%</c> Radius<n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+25%</c> Duration<n/><n/>Dark Heart's damage bounces <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> times from the primary target to nearby enemies, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "Each time the Dark Heart damages an enemy Hero, Xal'atath gains a Shield equal to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c> of her maximum Health, up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "Detonating the Dark Heart now Silences enemies inside its radius for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> second.<n/><n/>Xal'atath and allied Heroes gain <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c> Spell Armor while inside the Dark Heart's radius."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Channel a powerful Void Orb that grows over time until reaching maximum size after <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds. Recast to launch the Orb early.<n/><n/>Enemies that come into contact with the Orb take <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage and are Blinded for <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s> second.<n/><n/>When the Orb reaches the end of its path, it detonates in a large explosion, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage.<n/><n/>Charging up this Ability increases its contact damage up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">166</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> and its explosion damage up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Contact damage is dealt every 0.25 seconds.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "Void Convergence's Void Portal self decay is no longer lethal, raises the active Void Portal limit to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>, and can spawn and sustain up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> Void Minions."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "Activating Void Step summons a seal of void magic on the ground. When the seal completes, it deals <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to enemies inside and Silences them for <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">2</s> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "Activating Void Step summons a single Void Minion in Xal'atath's original postion. Void Minions are attracted to targets afflicted by Shadow Mark.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Void Minions automatically choose a nearby lane to push.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Void Minion Basic Attacks deal 50</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\"> damage per hit.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Void Minion loses Health over 12 seconds.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "Gain a Shield whenever the Dark Heart damages an enemy Hero"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "Portal self decay is no longer lethal and spawns more Void Minions"
+  }
+]

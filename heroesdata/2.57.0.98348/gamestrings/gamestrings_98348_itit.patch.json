@@ -1,0 +1,217 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98348"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Canalizza una potente Sfera del Vuoto che cresce fino a raggiungere la dimensione massima dopo <c val=#TooltipNumbers>0</c> s. Rilanciando l'abilità, la sfera viene lanciata in anticipo.<n/><n/>I nemici che entrano in contatto con la sfera subiscono <c val=#TooltipNumbers>0</c> danni e sono accecati per <s val=StandardTooltipDetails>0</s> s.<n/><n/>Quando la sfera raggiunge la fine della traiettoria, detona con una grande esplosione, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni.<n/><n/>Caricare quest'abilità aumenta i danni da contatto fino a un massimo di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">166</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> e i danni dell'esplosione fino a un massimo di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Infligge danni da contatto ogni 0,25 s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Dopo aver attaccato i nemici con i suoi attacchi base <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> volte, Xal'atath può attivare una Raffica del Vuoto per scatenare una raffica di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> Sfere del Vuoto sulla zona bersaglio, ognuna delle quali infligge <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">72</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni all'impatto.<n/><n/>La carica si esaurisce se Xal'atath non colpisce un nemico con un attacco base dopo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> s.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missione:</c> Colpisci gli eroi nemici con Raffica del Vuoto per ottenere <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> accumuli per colpo e aumentare i danni di Raffica del Vuoto del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1%</c>. Perdi tutti gli accumuli alla morte.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Ricompensa (20 accumuli):</c><n/> <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c> Portata di Raffica del Vuoto<n/> Perdita di accumuli alla morte ridotta a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\"> 6</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Ricompensa (0 accumuli): </c><n/><c val=#TooltipGreen>-1</c> attacchi base necessari per caricare Raffica del Vuoto.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=#TooltipQuest> Ricompensa mitica(100 Accumuli): </c><n/> Gli attacchi base e Raffica del Vuoto infliggono il <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">50%</c> di danni aggiuntivi.<n/> I proiettili di Raffica del Vuoto trapassano tutti i bersagli.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">La perdita di accumuli non farà mai scendere l'eroe sotto una certa soglia ottenuta come ricompensa di missione.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var3",
+    "value": "Quando si perde l'elmo non si smette di essere Crociati. Bisogna servire la Luce per tutta la vita."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var4",
+    "value": "Quando si perde l'elmo non si smette di essere Crociati. Bisogna servire la Luce per tutta la vita."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var5",
+    "value": "Quando si perde l'elmo non si smette di essere Crociati. Bisogna servire la Luce per tutta la vita."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var3",
+    "value": "Dopo una vita passata a estirpare il male da Sanctuarium, Valla è rimasta scioccata nello scoprire che il multiverso celasse ancora più demoni di quanti potesse immaginare. Alcuni portavano il volto dei suoi vecchi compagni, altri avevano scelto il proprio."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var4",
+    "value": "Dopo una vita passata a estirpare il male da Sanctuarium, Valla è rimasta scioccata nello scoprire che il multiverso celasse ancora più demoni di quanti potesse immaginare. Alcuni portavano il volto dei suoi vecchi compagni, altri avevano scelto il proprio."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var5",
+    "value": "Dopo una vita passata a estirpare il male da Sanctuarium, Valla è rimasta scioccata nello scoprire che il multiverso celasse ancora più demoni di quanti potesse immaginare. Alcuni portavano il volto dei suoi vecchi compagni, altri avevano scelto il proprio."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var3",
+    "value": "Respirare nella maschera è più facile di quanto si pensi. Raynor se la toglie solo per mostrare ai nemici il volto di un uomo in guerra."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var4",
+    "value": "Respirare nella maschera è più facile di quanto si pensi. Raynor se la toglie solo per mostrare ai nemici il volto di un uomo in guerra."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var5",
+    "value": "Respirare nella maschera è più facile di quanto si pensi. Raynor se la toglie solo per mostrare ai nemici il volto di un uomo in guerra."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var3",
+    "value": "Johanna Pacificatrice Senza Maschera"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var4",
+    "value": "Johanna Pacificatrice Lucente Senza Maschera"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var5",
+    "value": "Johanna Pacificatrice Zelante Senza Maschera"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var3",
+    "value": "Valla Cacciatrice dell'Ombra Senza Maschera"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var4",
+    "value": "Valla Cacciatrice dell'Ombra Intensa Senza Maschera"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var5",
+    "value": "Valla Cacciatrice dell'Ombra d'Alabastro Senza Maschera"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var3",
+    "value": "Raynor-76 Senza Maschera"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var4",
+    "value": "Raynor-76 Potenziato Senza Maschera"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var5",
+    "value": "Raynor-76 Élite Senza Maschera"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var3",
+    "value": "Reinhardt Argento OW Overwatch Cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var4",
+    "value": "Reinhardt Blu OW Overwatch Cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var5",
+    "value": "Reinhardt Bianco Oro OW Overwatch Cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var3",
+    "value": "Reaper Nero OW Overwatch Cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var4",
+    "value": "Reaper Rosa OW Overwatch Cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var5",
+    "value": "Reaper Bianco OW Overwatch Cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var3",
+    "value": "Soldato-76 Blu OW Overwatch Cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var4",
+    "value": "Soldato-76 Oro OW Overwatch Cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var5",
+    "value": "Soldato-76 Rosso OW Overwatch Cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var3",
+    "value": "CrusaderOW20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var4",
+    "value": "CrusaderOW20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var5",
+    "value": "CrusaderOW20NoMaskVar2"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var3",
+    "value": "DemonHunterOWC20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var4",
+    "value": "DemonHunterOWC20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var5",
+    "value": "DemonHunterOWC20NoMaskVar2"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var3",
+    "value": "RaynorOWC20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var4",
+    "value": "RaynorOWC20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var5",
+    "value": "RaynorOWC20NoMaskVar2"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "Rituale del Cuore Oscuro:<n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+41.67%</c> raggio<n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+25%</c> durata<n/><n/>I danni del Cuore Oscuro rimbalzano <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> volte dal bersaglio primario ai nemici vicini, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Canalizza una potente Sfera del Vuoto che cresce fino a raggiungere la dimensione massima dopo <c val=#TooltipNumbers>0</c> s. Rilanciando l'abilità, la sfera viene lanciata in anticipo.<n/><n/>I nemici che entrano in contatto con la sfera subiscono <c val=#TooltipNumbers>0</c> danni e sono accecati per <s val=StandardTooltipDetails>0</s> s.<n/><n/>Quando la sfera raggiunge la fine della traiettoria, detona con una grande esplosione, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni.<n/><n/>Caricare quest'abilità aumenta i danni da contatto fino a un massimo di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">166</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> e i danni dell'esplosione fino a un massimo di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Infligge danni da contatto ogni 0,25 s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "Attivare Passo del Vuoto evoca un sigillo di magia del Vuoto sul terreno. Quando il sigillo si completa, infligge <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni ai nemici al suo interno e li silenzia per <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">2</s> s."
+  }
+]

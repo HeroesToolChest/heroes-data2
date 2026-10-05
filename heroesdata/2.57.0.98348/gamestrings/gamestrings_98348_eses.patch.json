@@ -1,0 +1,227 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98348"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Invoca el Corazón Oscuro, que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño por segundo a los enemigos cercanos y dura <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>\u00A0s.<n/><n/>El Corazón Oscuro se desplaza al punto de impacto de Marca de las sombras.<n/><n/>El Corazón Oscuro perseguirá a los objetivos marcados con Marca de las sombras y detonará al impactar para infligir <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">245</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos cercanos y <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> más de daño al objetivo marcado."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Canalizas un poderoso orbe del Vacío que crece con el tiempo hasta alcanzar su tamaño máximo tras <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0s. Vuelve a lanzarlo para disparar antes el orbe.<n/><n/>Los enemigos que entran en contacto con el orbe sufren <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño y quedan cegados durante <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s>\u00A0s.<n/><n/>Cuando el orbe llega al final de su recorrido, detona una gran explosión que inflige hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño.<n/><n/>Cargar esta habilidad aumenta su daño por contacto hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">166</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> y el daño de su explosión hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">El daño por contacto se inflige cada 0,25\u00A0s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Tras atacar a los enemigos con ataques básicos <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> veces, puedes activar Salva del Vacío para desatar una ráfaga de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> orbes del vacío en la ubicación seleccionada, cada uno de los cuales inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">72</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño al impactar.<n/><n/>La carga se reduce completamente si no golpeas a un enemigo con un ataque básico tras <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0s.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Golpea a héroes enemigos con Salva del Vacío para recibir <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> de acumulación por golpe y aumentar el daño de Salva del Vacío un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1%</c>. Se pierden todas las acumulaciones al morir.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa (20 acumulaciones):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c> al alcance de Salva del Vacío<n/>   La pérdida de acumulaciones al morir se reduce a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa (60 acumulaciones):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">-1</c> ataque básico necesario para cargar Salva del Vacío.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa mítica (100 acumulaciones):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+50%</c> de daño de ataque básico y Salva del Vacío.<n/>   Los proyectiles de Salva del Vacío perforan a todos los objetivos.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">La pérdida de acumulaciones nunca hará que el héroe quede por debajo del umbral de recompensa de una misión.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var3",
+    "value": "Una no deja de ser cruzada por perder el yelmo. Es una devoción de por vida al servicio de la Luz."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var4",
+    "value": "Una no deja de ser cruzada por perder el yelmo. Es una devoción de por vida al servicio de la Luz."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var5",
+    "value": "Una no deja de ser cruzada por perder el yelmo. Es una devoción de por vida al servicio de la Luz."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var3",
+    "value": "Tras una vida dedicada a acabar con los males de Santuario, Valla se sorprendió al descubrir que el multiverso aguardaba más demonios de los que jamás había imaginado. Algunos de ellos tenían los rostros de viejos camaradas; otros se decantan por sus propias caras."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var4",
+    "value": "Tras una vida dedicada a acabar con los males de Santuario, Valla se sorprendió al descubrir que el multiverso aguardaba más demonios de los que jamás había imaginado. Algunos de ellos tenían los rostros de viejos camaradas; otros se decantan por sus propias caras."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var5",
+    "value": "Tras una vida dedicada a acabar con los males de Santuario, Valla se sorprendió al descubrir que el multiverso aguardaba más demonios de los que jamás había imaginado. Algunos de ellos tenían los rostros de viejos camaradas; otros se decantan por sus propias caras."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var3",
+    "value": "Lo cierto es que respirar con la máscara es mucho más fácil de lo que parece. Raynor solo se la quita para que los enemigos puedan ver su expresión belicosa."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var4",
+    "value": "Lo cierto es que respirar con la máscara es mucho más fácil de lo que parece. Raynor solo se la quita para que los enemigos puedan ver su expresión belicosa."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var5",
+    "value": "Lo cierto es que respirar con la máscara es mucho más fácil de lo que parece. Raynor solo se la quita para que los enemigos puedan ver su expresión belicosa."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var3",
+    "value": "Johanna pacificadora sin máscara"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var4",
+    "value": "Johanna pacificadora resplandeciente sin máscara"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var5",
+    "value": "Johanna pacificadora ferviente sin máscara"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var3",
+    "value": "Valla acechadora de las sombras sin máscara"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var4",
+    "value": "Valla acechadora de las sombras refulgente sin máscara"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var5",
+    "value": "Valla acechadora de las sombras alabastrina sin máscara"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var3",
+    "value": "Raynor 76 sin máscara"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var4",
+    "value": "Raynor 76 mejorado sin máscara"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var5",
+    "value": "Raynor 76 de élite sin máscara"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var3",
+    "value": "reinhardt plateado plateada ow overwatch cosplay disfraz"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var4",
+    "value": "reinhardt azul ow overwatch cosplay disfraz"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var5",
+    "value": "reinhardt blanco blanca dorado dorada ow overwatch cosplay disfraz"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var3",
+    "value": "reaper negro negra ow overwatch cosplay disfraz"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var4",
+    "value": "reaper rosa ow overwatch cosplay disfraz"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var5",
+    "value": "reaper blanco blanca ow overwatch cosplay disfraz"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var3",
+    "value": "soldado 76 azul ow overwatch cosplay disfraz"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var4",
+    "value": "soldado 76 dorado dorada ow overwatch cosplay disfraz"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var5",
+    "value": "soldado 76 rojo roja ow overwatch cosplay disfraz"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var3",
+    "value": "CrusaderOW20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var4",
+    "value": "CrusaderOW20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var5",
+    "value": "CrusaderOW20NoMaskVar2"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var3",
+    "value": "DemonHunterOWC20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var4",
+    "value": "DemonHunterOWC20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var5",
+    "value": "DemonHunterOWC20NoMaskVar2"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var3",
+    "value": "RaynorOWC20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var4",
+    "value": "RaynorOWC20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var5",
+    "value": "RaynorOWC20NoMaskVar2"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "Ritual del Corazón Oscuro:<n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+41.67%</c> de radio<n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+25%</c> de duración<n/><n/>El daño del Corazón Oscuro rebota <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> veces desde el objetivo principal hacia enemigos cercanos e inflige<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Canalizas un poderoso orbe del Vacío que crece con el tiempo hasta alcanzar su tamaño máximo tras <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0s. Vuelve a lanzarlo para disparar antes el orbe.<n/><n/>Los enemigos que entran en contacto con el orbe sufren <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño y quedan cegados durante <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s>\u00A0s.<n/><n/>Cuando el orbe llega al final de su recorrido, detona una gran explosión que inflige hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño.<n/><n/>Cargar esta habilidad aumenta su daño por contacto hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">166</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> y el daño de su explosión hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">El daño por contacto se inflige cada 0,25\u00A0s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "Al activar Paso por el Vacío, invoca un sello de magia del Vacío en el suelo. Al completarse, el sello inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos que se encuentran en su interior, que quedan silenciados durante <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">2</s> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "Invoca el Corazón Oscuro, que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño por segundo a los enemigos cercanos y dura <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>\u00A0s.<n/><n/>El Corazón Oscuro se desplaza al punto de impacto de Marca de las sombras.<n/><n/>El Corazón Oscuro perseguirá a los objetivos marcados con Marca de las sombras y detonará al impactar para infligir <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">245</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos cercanos y <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> más de daño al objetivo marcado."
+  }
+]
