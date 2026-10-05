@@ -1,0 +1,147 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Garden of Terror"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/PlantHorrorLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Время восстановления: 5 сек."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/GardenCoreLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Время восстановления: 5 сек."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/UnderworldBossStun|GraveGolemMegaStun|Q",
+    "value": "Время восстановления: 10 сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/PlantHorrorLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "После паузы в <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> сек. превращает вражеских героев в указанной области в шаркунов на <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">3</s> сек., в результате чего они не могут атаковать и использовать способности. При этом их скорость передвижения снижается на <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">30%</s>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/PlantHorrorOvergrowthPlant|PlantHorrorOvergrowth|W",
+    "value": "Насаждает буйную поросль, которая блокирует все находящиеся поблизости строения. Ужас наносит на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200%</c> больше урона строениям под воздействием поросли. Поросль постепенно теряет здоровье в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> сек."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/GardenCoreLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "После паузы в <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> сек. превращает вражеских героев в указанной области в шаркунов на <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">3</s> сек., в результате чего они не могут атаковать и использовать способности. При этом их скорость передвижения снижается на <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">30%</s>."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/UnderworldBossStun|GraveGolemMegaStun|Q",
+    "value": "Голем с силой бьет по земле, нанося <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> ед. урона находящимся рядом противникам и оглушая их."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/GardenCoreLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Проклятие королевы"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/UnderworldBossStun|GraveGolemMegaStun|Q",
+    "value": "Сверхудар"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/UnderworldBossStun|GraveGolemMegaStun|Q",
+    "value": "Наносит урон противникам в области и оглушает их."
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostDamageToPlants",
+    "value": "Собрано семян: ~AwardValue~"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostSeedsCollected",
+    "value": "Собрано семян: ~AwardValue~"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostDamageToPlants",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Сборщик семян,Сборщица семян</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostSeedsCollected",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Сборщик семян,Сборщица семян</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostDamageToPlants",
+    "value": "Собрано семян: ~TooltipAmount~"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostSeedsCollected",
+    "value": "Собрано семян: ~TooltipAmount~"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostDamageToPlants",
+    "value": "Наибольший объем урона по растениям"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/Seed",
+    "value": "Подойдите ближе, чтобы подобрать семя."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/GardenTerror",
+    "value": "Ужас Садов"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OvergrowthPlant",
+    "value": "Поросль"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OvergrowthPlantDummyUnit",
+    "value": "Overgrowth Plant Dummy Unit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OvergrowthVinesMissile",
+    "value": "Overgrowth Vines Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Seed",
+    "value": "Семя"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SeedSpawnPreview",
+    "value": "Предпросмотр появления семени"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Shambler",
+    "value": "Шаркун"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerMissile",
+    "value": "Снаряд шаркуна"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerRanged",
+    "value": "Шаркун"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerRangedWeaponMissile",
+    "value": "Shambler Ranged Weapon Missile"
+  }
+]

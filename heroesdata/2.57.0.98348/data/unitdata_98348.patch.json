@@ -1,0 +1,128 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98348"
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathOrbitalEruptionCenterDummyUnit/attributes",
+    "value": [
+      "ImmuneToFriendlyAbilities"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathOrbitalEruptionCenterMissileTier1Unit/attributes",
+    "value": [
+      "ImmuneToFriendlyAbilities"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathOrbitalEruptionCenterMissileTier2Unit/attributes",
+    "value": [
+      "ImmuneToFriendlyAbilities"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathOrbitalEruptionCenterMissileTier3Unit/attributes",
+    "value": [
+      "ImmuneToFriendlyAbilities"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathOrbitalEruptionCenterMissileTier4Unit/attributes",
+    "value": [
+      "ImmuneToFriendlyAbilities"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathOrbitalEruptionOrbUnit/attributes",
+    "value": [
+      "ImmuneToFriendlyAbilities"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidConvergencePortalUnit/attributes/0",
+    "value": "ImmuneToFriendlyAbilities"
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidConvergencePortalUnit/attributes/1",
+    "value": "Structure"
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidConvergencePortalUnit/attributes/2",
+    "value": "Summoned"
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidConvergencePortalUnit/portraits/minimap",
+    "value": "storm_ui_minimapicon_teleporter.png"
+  },
+  {
+    "op": "replace",
+    "path": "/items/XalatathVoidConvergenceRiftInvasionPortalUnit/attributes/0",
+    "value": "ImmuneToFriendlyAbilities"
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidConvergenceRiftInvasionPortalUnit/attributes/1",
+    "value": "Structure"
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidConvergenceRiftInvasionPortalUnit/attributes/2",
+    "value": "Summoned"
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidConvergenceRiftInvasionPortalUnit/portraits/minimap",
+    "value": "storm_ui_minimapicon_teleporter.png"
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidEruptionCarrierMissileTier1Unit/attributes",
+    "value": [
+      "ImmuneToFriendlyAbilities"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidEruptionCarrierMissileTier2Unit/attributes",
+    "value": [
+      "ImmuneToFriendlyAbilities"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidEruptionCarrierMissileTier3Unit/attributes",
+    "value": [
+      "ImmuneToFriendlyAbilities"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidEruptionCarrierMissileTier4Unit/attributes",
+    "value": [
+      "ImmuneToFriendlyAbilities"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/items/XalatathVoidEruptionDummyMissileCenter/attributes",
+    "value": [
+      "ImmuneToFriendlyAbilities"
+    ]
+  },
+  {
+    "op": "remove",
+    "path": "/items/XalatathVoidMinion/portraits/minimap"
+  }
+]

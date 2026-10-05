@@ -1,0 +1,582 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98348"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/GazloweSalvagerSalvageTurretAbility|GazloweReduceReuseRecycleTrait|Trait",
+    "value": "Regeneriert alle <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> Sek. <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> Schrott. Zerstörte <w>G-Schütztürme hinterlassen </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c><w> Schrott, der aufgesammelt werden kann.</w><n/><n/><w>Aktivieren, um einen anvisierten </w><w>G-Schützturm zu Schrott zu zerlegen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/LeoricMarchoftheBlackKing|LeoricMarchoftheBlackKing|Heroic",
+    "value": "Leoric wird unaufhaltbar, marschiert vorwärts und schwingt seinen Streitkolben <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c><w>-mal. Jeder Gegner erleidet </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><w> Schaden. Stellt pro getroffenem gegnerischem Helden </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12%</c><w> von Leorics maximalen Lebenspunkten wieder her.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/TinkerFocusTurrets|TinkerFocusTurrets|Active",
+    "value": "Befiehlt allen <w>G-Schütztürmen in der Nähe, ein bestimmtes Ziel anzugreifen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Rufe das dunkle Herz herbei, das Gegnern in der Nähe <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pulsierenden Schaden pro Sekunde zufügt und <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> Sek. lang anhält.<n/><n/>Das dunkle Herz bewegt sich zum Ort, an dem Schattenmarkierung einschlägt.<n/><n/>Das dunkle Herz verfolgt Ziele, die mit Schattenmarkierung belegt sind, und explodiert beim Aufprall, wobei es Gegnern in der Nähe <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">245</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> und dem markierten Ziel <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> mehr Schaden zufügt."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Kanalisiere eine mächtige Leerenkugel, die mit der Zeit größer wird, bis sie nach <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> Sek. ihre maximale Größe erreicht. Erneut wirken, um die Kugel vorzeitig abzufeuern.<n/><n/>Gegner, die mit der Kugel in Kontakt kommen, erleiden <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden und werden <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s> Sek. lang geblendet.<n/><n/>Wenn die Kugel das Ende ihrer Laufbahn erreicht, explodiert sie und verursacht bis zu <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden.<n/><n/>Das Aufladen dieser Fähigkeit erhöht ihren Kontaktschaden auf bis zu <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">166</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> und ihren Explosionsschaden auf bis zu <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Alle 0,25\u00A0Sek. wird Kontaktschaden verursacht.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Nachdem Xal'atath <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>-mal ihre automatischen Angriffe eingesetzt hat, kann sie Leerensalve aktivieren, um eine Salve an <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> Leerenkugeln an einem Zielort zu entfesseln, die jeweils <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">72</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden beim Aufprall verursachen.<n/><n/>Wenn Xal'ataths automatische Angriffe nach <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> Sek. noch keinen Gegner getroffen haben, verfällt die Aufladung vollständig.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Triff gegnerische Helden mit Leerensalve, um pro Treffer <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> Stapel zu erhalten und den Schaden von Leerensalve um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1\u00A0%</c> zu erhöhen. Du verlierst alle Stapel, wenn du getötet wirst.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Belohnung (20 Stapel):</c><n/> <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c> Reichweite für Leerensalve<n/> Du verlierst bei deinem Tod jetzt nur noch <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> Stapel.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Belohnung (60 Stapel):</c><n/> <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">-1</c> automatischer Angriff zur Aufladung von Leerensalve erforderlich.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Mythische Belohnung (100 Stapel):</c><n/> <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+50\u00A0%</c> Schaden durch automatische Angriffe und Leerensalve.<n/> Projektile von Leerensalve durchbohren alle Ziele.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Der Verlust von Stapeln führt nie dazu, dass der Held unter eine Grenze für Questbelohnungen fällt.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/shortText/:PASSIVE:|LostVikingSelectOlaf|Active",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">Olaf</c> hat erhöhte Lebenspunkte und <w>-regeneration. Kann Gegner verlangsamen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/shortText/GazloweSalvagerSalvageTurretAbility|GazloweReduceReuseRecycleTrait|Trait",
+    "value": "Regeneriert Schrott, <w>G-Schütztürme hinterlassen Schrott"
+  },
+  {
+    "op": "replace",
+    "path": "/items/banner/name/BannerDFEsportsWarChest18RareAteam",
+    "value": "Kriegsbanner von <w>A-Team 2018"
+  },
+  {
+    "op": "replace",
+    "path": "/items/banner/name/BannerDFEsportsWarChest18RareMenagarie",
+    "value": "Kriegsbanner von <w>Monkey Menagerie 2018"
+  },
+  {
+    "op": "replace",
+    "path": "/items/portraitPack/name/LiliLunarFestivalPortrait",
+    "value": "Porträt: Niedliche Mondfest-<w>Li-Li"
+  },
+  {
+    "op": "replace",
+    "path": "/items/portraitPack/name/LiliStylizedLunarPortrait",
+    "value": "Porträt: Comic-Mondfest-<w>Li-Li"
+  },
+  {
+    "op": "replace",
+    "path": "/items/portraitPack/name/LimingLunarFestivalPortrait",
+    "value": "Porträt: Niedliche Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/portraitPack/name/LimingStylizedLunarPortrait",
+    "value": "Porträt: Comic-Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/rewardPortrait/name/LiliLunarFestivalPortrait",
+    "value": "Porträt: Niedliche Mondfest-<w>Li-Li"
+  },
+  {
+    "op": "replace",
+    "path": "/items/rewardPortrait/name/LiliStylizedLunarPortrait",
+    "value": "Porträt: Comic-Mondfest-<w>Li-Li"
+  },
+  {
+    "op": "replace",
+    "path": "/items/rewardPortrait/name/LimingLunarFestivalPortrait",
+    "value": "Porträt: Niedliche Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/rewardPortrait/name/LimingStylizedLunarPortrait",
+    "value": "Porträt: Comic-Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var3",
+    "value": "Man hört nicht auf Kreuzritter zu sein, wenn man seinen Helm abnimmt. Man verschreibt sich einem Leben im Dienste des Lichts."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var4",
+    "value": "Man hört nicht auf Kreuzritter zu sein, wenn man seinen Helm abnimmt. Man verschreibt sich einem Leben im Dienste des Lichts."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var5",
+    "value": "Man hört nicht auf Kreuzritter zu sein, wenn man seinen Helm abnimmt. Man verschreibt sich einem Leben im Dienste des Lichts."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var3",
+    "value": "Nach einem Leben des Kampfes gegen die Übel Sanktuarios war es ein Schock für Valla, dass im Multiversum mehr Dämonen umherstreifen als in ihren kühnsten Vorstellungen. Einige hatten die Gesichter früherer Kameraden, einige haben ihre eigenen gewählt."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var4",
+    "value": "Nach einem Leben des Kampfes gegen die Übel Sanktuarios war es ein Schock für Valla, dass im Multiversum mehr Dämonen umherstreifen als in ihren kühnsten Vorstellungen. Einige hatten die Gesichter früherer Kameraden, einige haben ihre eigenen gewählt."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var5",
+    "value": "Nach einem Leben des Kampfes gegen die Übel Sanktuarios war es ein Schock für Valla, dass im Multiversum mehr Dämonen umherstreifen als in ihren kühnsten Vorstellungen. Einige hatten die Gesichter früherer Kameraden, einige haben ihre eigenen gewählt."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var3",
+    "value": "Das Atmen mit der Maske ist gar nicht so schwer, wie es aussieht. Raynor nimmt sie nur ab, um Gegnern den bösen Blick zuzuwerfen."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var4",
+    "value": "Das Atmen mit der Maske ist gar nicht so schwer, wie es aussieht. Raynor nimmt sie nur ab, um Gegnern den bösen Blick zuzuwerfen."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var5",
+    "value": "Das Atmen mit der Maske ist gar nicht so schwer, wie es aussieht. Raynor nimmt sie nur ab, um Gegnern den bösen Blick zuzuwerfen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/AlarakHunterVar1",
+    "value": "Alarak, Zwielichtherold <w>von N'Zoth"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/AlarakHunterVar2",
+    "value": "Alarak, Knochenherold <w>von N'Zoth"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/ArthasLichPrinceGreen",
+    "value": "Prinz Arthas von <w>Kul Tiras"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/BarbarianLegionFemale",
+    "value": "Sonya in Legionsrüstung <w>des Zorns"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/BarbarianLegionFemaleVar1",
+    "value": "Sonya in blutroter Legionsrüstung <w>des Zorns"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/BarbarianWrathFemale",
+    "value": "Sonya in Schlachtrüstung <w>des Zorns"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/BarbarianWrathFemalePink",
+    "value": "Sonya in pinker Schlachtrüstung <w>des Zorns"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/BarbarianWrathFemaleRed",
+    "value": "Sonya in blutroter Schlachtrüstung <w>des Zorns"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/BarbarianWrathVar3",
+    "value": "Sonya in titanweißer Schlachtrüstung <w>des Zorns"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/GuldanSpiderVar1",
+    "value": "Nerubischer <w>Gul'dan der Spinnenbedrohung"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/GuldanSpiderVar2",
+    "value": "Smaragd-<w>Gul'dan der Spinnenbedrohung"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/GuldanSpiderVar3",
+    "value": "Heroischer <w>Gul'dan der Spinnenbedrohung"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/HeroCrusaderSkinUltimateRed",
+    "value": "Scharlachrote Johanna des <w>heiligen Eids"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/HeroCrusaderSkinUltimateWhite",
+    "value": "Stahlblaue Johanna des <w>heiligen Eids"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/IllidanUltimateCrimson",
+    "value": "Illidan in Zinnoberrüstung <w>der Eredar"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/IllidanUltimateDark",
+    "value": "Illidan in Stahlrüstung <w>der Eredar"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/LiLiExplorerPink",
+    "value": "Rosarote Entdeckerin <w>Li Li"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/LiLiUltimatePurple",
+    "value": "Farbenfrohe Abenteurerin <w>Li Li"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/ProbiusTerranVar1",
+    "value": "Terranischer <w>Probius G1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/ProbiusTerranVar2",
+    "value": "Terranischer <w>Probius 01"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/ProbiusTerranVar3",
+    "value": "Terranischer <w>Probius R1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/ProbiusTerranVar4",
+    "value": "Terranischer <w>Probius X1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/UltimateCrusader",
+    "value": "Johanna des <w>heiligen Eids"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardLunarVar1",
+    "value": "Jadegrüne Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardLunarVar2",
+    "value": "Sonnengelbe Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardLunarVar3",
+    "value": "Blütenfarbene Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardLunarVar4",
+    "value": "Frostweiße Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardLunarVar5",
+    "value": "Imperiale Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardSkinStarPrincess",
+    "value": "Sternenprinzessin <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardSkinStarQueen",
+    "value": "Sternenkönigin <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardSkinVolley",
+    "value": "Schmetterball-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardStarPrincessVar1",
+    "value": "Sternenprinzessin <w>Li-Ming vom Jupiter"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardStarPrincessVar2",
+    "value": "Magische Sternenprinzessin <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardStarPrincessVar3",
+    "value": "Dunkle Sternenprinzessin <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardStarQueenVar1",
+    "value": "Neo-Sternenkönigin <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardStarQueenVar2",
+    "value": "Ewige Sternenkönigin <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardUltimateVar1",
+    "value": "Herzensarchon <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardUltimateVar2",
+    "value": "Schattenarchon <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardUltimateVar3",
+    "value": "Höllenarchon <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardVolleyVar1",
+    "value": "Offensive Schmetterball-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardVolleyVar2",
+    "value": "Sportliche Schmetterball-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardVolleyVar3",
+    "value": "Saphirblaue Schmetterball-<w>Li-Ming"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var3",
+    "value": "Unmaskierte Friedenswächterin Johanna"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var4",
+    "value": "Unmaskierte Friedenshüterin Johanna"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var5",
+    "value": "Unmaskierte Friedensstreiterin Johanna"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var3",
+    "value": "Unmaskiertes Phantom Valla"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var4",
+    "value": "Unmaskiertes leuchtendes Phantom Valla"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var5",
+    "value": "Unmaskiertes Elfenbeinphantom Valla"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var3",
+    "value": "Unmaskierter Raynor 76"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var4",
+    "value": "Unmaskierter verbesserter Raynor 76"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var5",
+    "value": "Unmaskierter Elite-Raynor 76"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var3",
+    "value": "reinhardt silber ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var4",
+    "value": "reinhardt blau ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var5",
+    "value": "reinhardt weiß weiss gold ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var3",
+    "value": "reaper schwarz ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var4",
+    "value": "reaper pink rosa ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var5",
+    "value": "reaper weiß weiss ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var3",
+    "value": "soldier 76 blau ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var4",
+    "value": "soldier 76 gold ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var5",
+    "value": "soldier 76 rot ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var3",
+    "value": "CrusaderOW20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var4",
+    "value": "CrusaderOW20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var5",
+    "value": "CrusaderOW20NoMaskVar2"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var3",
+    "value": "DemonHunterOWC20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var4",
+    "value": "DemonHunterOWC20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var5",
+    "value": "DemonHunterOWC20NoMaskVar2"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var3",
+    "value": "RaynorOWC20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var4",
+    "value": "RaynorOWC20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var5",
+    "value": "RaynorOWC20NoMaskVar2"
+  },
+  {
+    "op": "replace",
+    "path": "/items/spray/name/SprayAnimatedLunarFoodLili",
+    "value": "Festlich speisende <w>Li Li"
+  },
+  {
+    "op": "replace",
+    "path": "/items/spray/name/SprayAnimatedLunarFoodLiming",
+    "value": "Festlich speisende <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/spray/name/SprayAnimatedLunarLanternLili",
+    "value": "Mondfestlaterne: <w>Li Li"
+  },
+  {
+    "op": "replace",
+    "path": "/items/spray/name/SprayAnimatedLunarLanternLiming",
+    "value": "Mondfestlaterne: <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/spray/name/SprayStaticComicStarPrincessLiMing",
+    "value": "Sternenprinzessin <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweDethLazorFirinMahLazorz|GazloweDethLazorFirinMahLazorz|W|Level16",
+    "value": "Wenn T0desLaz3r eingesetzt wird, feuern alle <w>G-Schütztürme einen T0desLaz3r ab, der </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">125</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><w> Schaden verursacht.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweMasterBlaster|GazloweMasterBlaster|Passive|Level7",
+    "value": "T0desLaz3r und Xplodiumsprengsatz verlangsamen getroffene Gegner <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> Sek. lang um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c>. Automatische Angriffe von <w>G-Schütztürmen gegen auf diese Weise verlangsamte Gegner erhöhen die Dauer der Verlangsamung um </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c><w> Sek.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweRockItSockIt|GazloweRockItSockIt|Q|Level4",
+    "value": "Das Erschaffen von <w>G-Schütztürmen gewährt Gazlowe </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c><w> Sek. lang </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><w> Schildpunkte.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweRockItTurretPositiveReinforcement|GazloweRockItTurretPositiveReinforcement|Q|Level13",
+    "value": "Hauptangriffe von <w>G-Schütztürmen gegen Helden erhöhen Gazlowes Angriffsgeschwindigkeit </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c><w> Sek. lang um </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c><w>.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweRockItTurretSuperiorSchematics|GazloweRockItTurretSuperiorSchematics|Q|Level13",
+    "value": "<w>G-Schütztürme greifen bis zu </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c><w> zusätzliche Gegner an und fügen ihnen jeweils </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c><w> Schaden zu. Erhöht die Reichweite automatischer Angriffe von </w><w>G-Schütztürmen um </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c><w>.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweXplodiumChargeArkReaktor|GazloweXplodiumChargeArkReaktor|E|Level16",
+    "value": "Verringert die Abklingzeit von Xplodiumsprengsatz um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> Sek. Der Einsatz von Xplodiumsprengsatz erschafft <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> <w>G-Schütztürmchen, die </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c><w> Sek. lang bestehen bleiben.</w><n/><n/><w>Diese </w><w>G-Schütztürmchen hinterlassen keinen Schrott und profitieren nicht von anderen Talenten."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/LeoricHeroicAbilityMarchoftheBlackKing|LeoricMarchoftheBlackKing|Heroic|Level10",
+    "value": "Leoric wird unaufhaltbar, marschiert vorwärts und schwingt seinen Streitkolben <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c><w>-mal. Jeder Gegner erleidet </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><w> Schaden. Stellt pro getroffenem gegnerischem Helden </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12%</c><w> von Leorics maximalen Lebenspunkten wieder her.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/TinkerItsRainingScrap|TinkerItsRainingScrap|Q|Level20",
+    "value": "Verringert die Schrottkosten von <w>G-Schütztürmen um </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c><w>. Gewährt für jedes aufgesammelte Stück Schrott </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c><w> Schrott.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "Ritual des dunklen Herzens:<n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+41.67\u00A0%</c> Radius<n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+25\u00A0%</c> Dauer<n/><n/>Der vom dunklen Herzen verursachte Schaden prallt <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>-mal vom Hauptziel auf Gegner in der Nähe ab und verursacht <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Kanalisiere eine mächtige Leerenkugel, die mit der Zeit größer wird, bis sie nach <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> Sek. ihre maximale Größe erreicht. Erneut wirken, um die Kugel vorzeitig abzufeuern.<n/><n/>Gegner, die mit der Kugel in Kontakt kommen, erleiden <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden und werden <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s> Sek. lang geblendet.<n/><n/>Wenn die Kugel das Ende ihrer Laufbahn erreicht, explodiert sie und verursacht bis zu <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden.<n/><n/>Das Aufladen dieser Fähigkeit erhöht ihren Kontaktschaden auf bis zu <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">166</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> und ihren Explosionsschaden auf bis zu <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Alle 0,25\u00A0Sek. wird Kontaktschaden verursacht.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "Bei Aktivierung von Leerenschritt wird ein Siegel aus Leerenmagie auf dem Boden beschworen. Sobald das Siegel abgeschlossen ist, fügt es Gegnern darin <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden zu und bringt sie für <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">2</s> Sek. zum Schweigen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/GenericTalentNexusFrenzy|NexusFrenzyTalent|Passive|Level20",
+    "value": "Erhöht die Angriffsgeschwindigkeit und <w>-reichweite."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "Rufe das dunkle Herz herbei, das Gegnern in der Nähe <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> pulsierenden Schaden pro Sekunde zufügt und <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> Sek. lang anhält.<n/><n/>Das dunkle Herz bewegt sich zum Ort, an dem Schattenmarkierung einschlägt.<n/><n/>Das dunkle Herz verfolgt Ziele, die mit Schattenmarkierung belegt sind, und explodiert beim Aufprall, wobei es Gegnern in der Nähe <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">245</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> und dem markierten Ziel <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> mehr Schaden zufügt."
+  }
+]

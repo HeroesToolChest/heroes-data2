@@ -1,0 +1,227 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98348"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "召喚黑暗之心，產生的脈動會每秒對附近敵人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害，持續<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>秒。<n/><n/>黑暗之心會向暗影標記擊中的位置移動。<n/><n/>黑暗之心會追蹤受到暗影標記影響的目標，在接觸時引爆，對附近敵人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">245</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害，並對被標記的目標造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">額外0</c>點傷害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "引導一顆強大的虛無球體，會逐漸變大並在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>秒後達到上限。重新施放可提早發射球體。<n/><n/>觸碰到球體的敵人會受到<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害，並遭到致盲，持續<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s>秒。<n/><n/>球體達到路徑終點後將引發大型爆炸，造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害。<n/><n/>蓄力此技能可使其接觸傷害提高至最多<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">166</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點，並使其爆炸傷害提高至最多<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點。<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">每0.25秒造成一次接觸傷害。</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "在對敵人進行<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>次基本攻擊後，薩拉塔斯可以啟動虛無箭雨並向目標位置連續射出<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>顆虛無球體，每顆虛無球體擊中時造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">72</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害。<n/><n/>若薩拉塔斯在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>秒內未以基本攻擊命中敵人，累積的充能會全部消失。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任務：</c>以虛無箭雨擊中敵方英雄，每次命中獲得<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>層堆疊，使虛無箭雨的傷害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1%</c>。死亡時失去所有層數。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">獎勵（20層堆疊效果）：</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c>虛無箭雨距離<n/>死亡時失去的堆疊數降為<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>層。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">獎勵（60層堆疊效果）：</c><n/>充能虛無箭雨所需基本攻擊次數<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">-1</c>。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">傳奇獎勵（100層堆疊效果）：</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+50%</c>基本攻擊與虛無箭雨傷害。<n/>虛無箭雨投射物可貫穿所有目標。<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">失去堆疊不會使英雄的堆疊數低於已達成的任務獎勵門檻。</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var3",
+    "value": "即使少了頭盔，聖教軍的職責依然不變，畢竟聖教軍的一生早已奉獻給了聖光。"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var4",
+    "value": "即使少了頭盔，聖教軍的職責依然不變，畢竟聖教軍的一生早已奉獻給了聖光。"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var5",
+    "value": "即使少了頭盔，聖教軍的職責依然不變，畢竟聖教軍的一生早已奉獻給了聖光。"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var3",
+    "value": "維拉畢生都在獵殺聖休亞瑞的邪惡魔物，但是她卻驚訝地發現，在多重宇宙中惡魔的數量居然超乎她的想像。有些惡魔的臉竟然跟她過往的戰友一樣，有些惡魔則擁有原本的面貌。"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var4",
+    "value": "維拉畢生都在獵殺聖休亞瑞的邪惡魔物，但是她卻驚訝地發現，在多重宇宙中惡魔的數量居然超乎她的想像。有些惡魔的臉竟然跟她過往的戰友一樣，有些惡魔則擁有原本的面貌。"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var5",
+    "value": "維拉畢生都在獵殺聖休亞瑞的邪惡魔物，但是她卻驚訝地發現，在多重宇宙中惡魔的數量居然超乎她的想像。有些惡魔的臉竟然跟她過往的戰友一樣，有些惡魔則擁有原本的面貌。"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var3",
+    "value": "其實，在面罩裡呼吸比你想的還容易。雷諾把面罩拿下來，是為了在戰鬥時能讓敵人看見他怒吼的臉。"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var4",
+    "value": "其實，在面罩裡呼吸比你想的還容易。雷諾把面罩拿下來，是為了在戰鬥時能讓敵人看見他怒吼的臉。"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var5",
+    "value": "其實，在面罩裡呼吸比你想的還容易。雷諾把面罩拿下來，是為了在戰鬥時能讓敵人看見他怒吼的臉。"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var3",
+    "value": "無面罩的和平保衛者喬安娜"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var4",
+    "value": "無面罩的光耀和平保衛者喬安娜"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var5",
+    "value": "無面罩的狂熱和平保衛者喬安娜 "
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var3",
+    "value": "無面罩的暗影潛獵者維拉"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var4",
+    "value": "無面罩的粉色暗影潛獵者維拉"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var5",
+    "value": "無面罩的暗影潛獵者維拉"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var3",
+    "value": "無面罩的雷諾76"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var4",
+    "value": "無面罩的特戰雷諾76"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var5",
+    "value": "無面罩的精英雷諾76"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var3",
+    "value": "reinhardt silver ow overwatch cosplay 萊因哈特 銀 鬥陣 特攻 角色扮演"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var4",
+    "value": "reinhardt blue ow overwatch cosplay 萊因哈特 藍 鬥陣 特攻 角色扮演"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var5",
+    "value": "reinhardt white gold ow overwatch cosplay 萊因哈特 金 鬥陣 特攻 角色扮演"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var3",
+    "value": "reaper black ow overwatch cosplay 死神 黑 鬥陣 特攻 角色扮演"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var4",
+    "value": "reaper pink ow overwatch cosplay 死神 粉紅 鬥陣 特攻 角色扮演"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var5",
+    "value": "reaper white ow overwatch cosplay 死神 白 鬥陣 特攻 角色扮演"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var3",
+    "value": "soldier 76 blue ow overwatch cosplay 士兵 雷諾 藍 鬥陣 特攻 角色扮演"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var4",
+    "value": "soldier 76 gold ow overwatch cosplay 士兵 雷諾 金 鬥陣 特攻 角色扮演"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var5",
+    "value": "soldier 76 red ow overwatch cosplay 士兵 雷諾 紅 鬥陣 特攻 角色扮演"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var3",
+    "value": "CrusaderOW20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var4",
+    "value": "CrusaderOW20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var5",
+    "value": "CrusaderOW20NoMaskVar2"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var3",
+    "value": "DemonHunterOWC20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var4",
+    "value": "DemonHunterOWC20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var5",
+    "value": "DemonHunterOWC20NoMaskVar2"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var3",
+    "value": "RaynorOWC20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var4",
+    "value": "RaynorOWC20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var5",
+    "value": "RaynorOWC20NoMaskVar2"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "黑暗之心儀式：<n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+41.67%</c>範圍<n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+25%</c>持續時間<n/><n/>黑暗之心的傷害會從主要目標彈跳至附近的敵人<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>次，造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "引導一顆強大的虛無球體，會逐漸變大並在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>秒後達到上限。重新施放可提早發射球體。<n/><n/>觸碰到球體的敵人會受到<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害，並遭到致盲，持續<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s>秒。<n/><n/>球體達到路徑終點後將引發大型爆炸，造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害。<n/><n/>蓄力此技能可使其接觸傷害提高至最多<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">166</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點，並使其爆炸傷害提高至最多<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點。<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">每0.25秒造成一次接觸傷害。</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "啟動虛無步伐會在地面召喚虛無魔法印記。印記完成時，會對當中的敵人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害，並使其沉默，持續<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">2</s>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "召喚黑暗之心，產生的脈動會每秒對附近敵人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害，持續<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>秒。<n/><n/>黑暗之心會向暗影標記擊中的位置移動。<n/><n/>黑暗之心會追蹤受到暗影標記影響的目標，在接觸時引爆，對附近敵人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">245</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害，並對被標記的目標造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">額外0</c>點傷害。"
+  }
+]

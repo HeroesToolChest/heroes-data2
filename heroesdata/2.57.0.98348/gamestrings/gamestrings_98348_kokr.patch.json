@@ -1,0 +1,227 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98348"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "검은 심장을 소환합니다. 심장은 맥동하여 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>초 동안 매초 주위 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다.<n/><n/>검은 심장은 그림자 표식의 적중 위치로 이동합니다.<n/><n/>검은 심장은 그림자 표식에 걸린 대상을 추적하고 적중 시 폭발해, 주위 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">245</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주고 표식이 찍힌 대상에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>의 추가 피해를 줍니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "강력한 공허 보주에 정신을 집중합니다. 보주는 점점 커져 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>초 후 최대 크기에 도달합니다. 다시 사용하면 보주를 일찍 발사합니다.<n/><n/>보주와 접촉한 적들은 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 받고 <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s>초 동안 실명됩니다.<n/><n/>보주가 경로 끝에 도달하면 대규모 폭발을 일으켜 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다.<n/><n/>이 기술을 충전하면 접촉 시 피해가 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">166</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>까지 증가하고, 폭발 피해는 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>까지 증가합니다.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">0.25초마다 접촉 피해를 줍니다.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "일반 공격으로 적을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>회 적중시키면 공허 화살을 사용해 대상 위치에 공허 보주 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>개를 연달아 발사할 수 있습니다. 각 보주는 적중 시 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">72</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다.<n/><n/>잘아타스가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>초 동안 일반 공격으로 적을 적중시키지 않으면 충전이 모두 사라집니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">퀘스트:</c> 공허 화살로 적 영웅을 적중시킬 때마다 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>중첩을 얻고 공허 화살의 피해가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1%</c> 증가합니다. 사망하면 모든 중첩을 잃습니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">보상 (20중첩):</c><n/> 공허 화살 사거리 <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c><n/> 사망 시 잃는 중첩 수가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>개로 감소합니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">보상 (60중첩):</c><n/> 공허 화살 충전에 필요한 일반 공격 횟수 <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">-1</c><n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">신화 보상 (100중첩):</c><n/> 일반 공격과 공허 화살의 피해 <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+50%</c><n/> 공허 화살의 투사체가 모든 대상을 관통합니다.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">사망으로 중첩을 잃더라도 이미 달성한 퀘스트 보상의 중첩 기준 아래로 내려가지 않습니다.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var3",
+    "value": "투구가 없다고 성전사가 될 수 없는 것은 아닙니다. 평생 헌신하며 빛을 섬기는 것이 성전사의 길이니까요."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var4",
+    "value": "투구가 없다고 성전사가 될 수 없는 것은 아닙니다. 평생 헌신하며 빛을 섬기는 것이 성전사의 길이니까요."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var5",
+    "value": "투구가 없다고 성전사가 될 수 없는 것은 아닙니다. 평생 헌신하며 빛을 섬기는 것이 성전사의 길이니까요."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var3",
+    "value": "일생을 바쳐 성역의 악을 처단한 발라는 상상보다 많은 악마가 다중 우주에 존재한다는 사실을 발견하고 충격을 받았습니다. 옛 동지의 얼굴을 쓴 악마도 있고 자신의 얼굴을 선택한 악마도 있었습니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var4",
+    "value": "일생을 바쳐 성역의 악을 처단한 발라는 상상보다 많은 악마가 다중 우주에 존재한다는 사실을 발견하고 충격을 받았습니다. 옛 동지의 얼굴을 쓴 악마도 있고 자신의 얼굴을 선택한 악마도 있었습니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var5",
+    "value": "일생을 바쳐 성역의 악을 처단한 발라는 상상보다 많은 악마가 다중 우주에 존재한다는 사실을 발견하고 충격을 받았습니다. 옛 동지의 얼굴을 쓴 악마도 있고 자신의 얼굴을 선택한 악마도 있었습니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var3",
+    "value": "사실 마스크를 써도 숨쉬는 데에 큰 문제는 없습니다. 레이너는 적에게 자신의 분노한 얼굴을 보여주기 위해 마스크를 벗습니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var4",
+    "value": "사실 마스크를 써도 숨쉬는 데에 큰 문제는 없습니다. 레이너는 적에게 자신의 분노한 얼굴을 보여주기 위해 마스크를 벗습니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var5",
+    "value": "사실 마스크를 써도 숨쉬는 데에 큰 문제는 없습니다. 레이너는 적에게 자신의 분노한 얼굴을 보여주기 위해 마스크를 벗습니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var3",
+    "value": "마스크 벗은 평화의 수호자 요한나"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var4",
+    "value": "마스크 벗은 빛나는 평화의 수호자 요한나"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var5",
+    "value": "마스크 벗은 열성적인 평화의 수호자 요한나"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var3",
+    "value": "마스크 벗은 그림자 추적자 발라"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var4",
+    "value": "마스크 벗은 강렬한 그림자 추적자 발라"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var5",
+    "value": "마스크 벗은 순백의 그림자 추적자 발라"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var3",
+    "value": "마스크 벗은 레이너 76"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var4",
+    "value": "마스크 벗은 강화된 레이너 76"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var5",
+    "value": "마스크 벗은 정예병 레이너 76"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var3",
+    "value": "라인하르트 은색 옵치 오버워치 코스프레"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var4",
+    "value": "라인하르트 파랑 옵치 오버워치 코스프레"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var5",
+    "value": "라인하르트 하양 금색 옵치 오버워치 코스프레"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var3",
+    "value": "리퍼 검정 옵치 오버워치 코스프레"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var4",
+    "value": "리퍼 분홍 옵치 오버워치 코스프레"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var5",
+    "value": "리퍼 하양 옵치 오버워치 코스프레"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var3",
+    "value": "솔저 76 파랑 옵치 오버워치 코스프레"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var4",
+    "value": "솔저 76 금색 옵치 오버워치 코스프레"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var5",
+    "value": "솔저 76 빨강 옵치 오버워치 코스프레"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var3",
+    "value": "CrusaderOW20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var4",
+    "value": "CrusaderOW20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var5",
+    "value": "CrusaderOW20NoMaskVar2"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var3",
+    "value": "DemonHunterOWC20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var4",
+    "value": "DemonHunterOWC20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var5",
+    "value": "DemonHunterOWC20NoMaskVar2"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var3",
+    "value": "RaynorOWC20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var4",
+    "value": "RaynorOWC20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var5",
+    "value": "RaynorOWC20NoMaskVar2"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "검은 심장의 의식:<n/>반경 <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+41.67%</c><n/>지속시간 <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+25%</c><n/><n/>검은 심장 피해가 주 대상에게서 주위 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>회 튕겨 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "강력한 공허 보주에 정신을 집중합니다. 보주는 점점 커져 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>초 후 최대 크기에 도달합니다. 다시 사용하면 보주를 일찍 발사합니다.<n/><n/>보주와 접촉한 적들은 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 받고 <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s>초 동안 실명됩니다.<n/><n/>보주가 경로 끝에 도달하면 대규모 폭발을 일으켜 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다.<n/><n/>이 기술을 충전하면 접촉 시 피해가 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">166</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>까지 증가하고, 폭발 피해는 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>까지 증가합니다.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">0.25초마다 접촉 피해를 줍니다.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "공허 걸음을 사용하면 지면에 공허 마법의 인장을 소환합니다. 인장이 완성되면 내부의 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주고 <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">2</s>초 동안 침묵시킵니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "검은 심장을 소환합니다. 심장은 맥동하여 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>초 동안 매초 주위 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다.<n/><n/>검은 심장은 그림자 표식의 적중 위치로 이동합니다.<n/><n/>검은 심장은 그림자 표식에 걸린 대상을 추적하고 적중 시 폭발해, 주위 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">245</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주고 표식이 찍힌 대상에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>의 추가 피해를 줍니다."
+  }
+]

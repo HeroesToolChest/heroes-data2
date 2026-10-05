@@ -1,0 +1,227 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98348"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Призывает Темное сердце, которое в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>\u00A0сек. посылает импульсы энергии, наносящие <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона в секунду находящимся рядом врагам.<n/><n/>Темное сердце движется к месту, пораженному «Знаком Тьмы».<n/><n/>Темное сердце преследует отмеченные «Знаком Тьмы» цели и взрывается при столкновении, нанося <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">245</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона ближайшим врагам и еще <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>\u00A0ед. урона отмеченной цели."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Поддерживает мощную сферу Бездны, которая растет в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0сек., пока не достигнет максимально возможного размера. При повторном использовании Ксал'атат запускает сферу раньше.<n/><n/>Столкнувшиеся со сферой противники получают <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона и слепнут на <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s>\u00A0сек.<n/><n/>Пролетев весь свой путь, сфера с силой взрывается и наносит <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона.<n/><n/>Если зарядить эту способность, урон при столкновении увеличится вплоть до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">166</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед., а урон при взрыве\u00A0— вплоть до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Урон при столкновении наносится каждые 0,25\u00A0сек.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Поразив врагов автоатаками <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0раз, Ксал'атат заряжает «Залп Бездны» и может запустить в выбранную область <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0сфер Бездны, каждая из которых наносит <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">72</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона при попадании.<n/><n/>Если Ксал'атат не сможет поразить врагов автоатаками в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0сек., заряд полностью иссякнет.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> атакуйте вражеских героев «Залпом Бездны». За каждую успешную автоатаку Ксал'атат получает <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>\u00A0эффект, а урон «Залпа Бездны» увеличивается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1%</c>. При гибели Ксал'атат теряет все эффекты.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Награда (при 20\u00A0эффектах):</c><n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c> к дальности «Залпа Бездны».<n/>Теперь при гибели Ксал'атат теряет только <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0эффектов.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Награда (при 60\u00A0эффектах):</c><n/>Для полного заряда «Залпа Бездны» требуется на <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">1</c>\u00A0автоатаку меньше.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Эпохальная награда (при100\u00A0эффектах):</c><n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+50%</c> к урону от автоатак и «Залпа Бездны».<n/>Снаряды «Залпа Бездны» пронзают любые цели.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">При потере эффектов характеристики героини не могут опуститься ниже достигнутых показателей на текущем этапе задачи.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var3",
+    "value": "Крестоносцы без шлема – все еще крестоносцы. Они клянутся служить Свету до самой смерти."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var4",
+    "value": "Крестоносцы без шлема – все еще крестоносцы. Они клянутся служить Свету до самой смерти."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var5",
+    "value": "Крестоносцы без шлема – все еще крестоносцы. Они клянутся служить Свету до самой смерти."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var3",
+    "value": "Посвятив жизнь истреблению сил зла в Санктуарии, Валла даже не представляла, какое множество демонов обитает в других вселенных. Это открытие стало для нее шоком. Некоторые из демонов принимали облик ее бывших товарищей – тогда-то она и поняла, что надо было действовать намного решительней."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var4",
+    "value": "Посвятив жизнь истреблению сил зла в Санктуарии, Валла даже не представляла, какое множество демонов обитает в других вселенных. Это открытие стало для нее шоком. Некоторые из демонов принимали облик ее бывших товарищей – тогда-то она и поняла, что надо было действовать намного решительней."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var5",
+    "value": "Посвятив жизнь истреблению сил зла в Санктуарии, Валла даже не представляла, какое множество демонов обитает в других вселенных. Это открытие стало для нее шоком. Некоторые из демонов принимали облик ее бывших товарищей – тогда-то она и поняла, что надо было действовать намного решительней."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var3",
+    "value": "На самом деле в маске совсем не так тяжело дышать, как кажется. Рейнор снимает ее, когда хочет напугать врагов злобным оскалом."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var4",
+    "value": "На самом деле в маске совсем не так тяжело дышать, как кажется. Рейнор снимает ее, когда хочет напугать врагов злобным оскалом."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var5",
+    "value": "На самом деле в маске совсем не так тяжело дышать, как кажется. Рейнор снимает ее, когда хочет напугать врагов злобным оскалом."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var3",
+    "value": "Миротворица Джоанна без маски"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var4",
+    "value": "Сияющая миротворица Джоанна без маски"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var5",
+    "value": "Фанатичная миротворица Джоанна без маски"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var3",
+    "value": "Темная охотница Валла без маски"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var4",
+    "value": "Яркая темная охотница Валла без маски"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var5",
+    "value": "Алебастровая темная охотница Валла без маски"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var3",
+    "value": "Рейнор-76 без маски"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var4",
+    "value": "Усиленный Рейнор-76 без маски"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var5",
+    "value": "Элитный Рейнор-76 без маски"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var3",
+    "value": "райнхардт серебряный overwatch овервотч косплей"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var4",
+    "value": "райнхардт синий голубой overwatch овервотч косплей"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var5",
+    "value": "райнхардт белый золотой overwatch овервотч косплей"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var3",
+    "value": "райнхардт черный overwatch овервотч косплей"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var4",
+    "value": "райнхардт розовый overwatch овервотч косплей"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var5",
+    "value": "райнхардт белый overwatch овервотч косплей"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var3",
+    "value": "солдат 76 синий голубой overwatch овервотч косплей"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var4",
+    "value": "солдат 76 золотой overwatch овервотч косплей"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var5",
+    "value": "солдат 76 красный overwatch овервотч косплей"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var3",
+    "value": "CrusaderOW20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var4",
+    "value": "CrusaderOW20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var5",
+    "value": "CrusaderOW20NoMaskVar2"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var3",
+    "value": "DemonHunterOWC20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var4",
+    "value": "DemonHunterOWC20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var5",
+    "value": "DemonHunterOWC20NoMaskVar2"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var3",
+    "value": "RaynorOWC20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var4",
+    "value": "RaynorOWC20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var5",
+    "value": "RaynorOWC20NoMaskVar2"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "Ритуал Темного сердца:<n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+41.67%</c> к радиусу<n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+25%</c> к длительности<n/><n/>Урон от Темного сердца переходит от основной цели к <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0ближайшим врагам, нанося <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Поддерживает мощную сферу Бездны, которая растет в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0сек., пока не достигнет максимально возможного размера. При повторном использовании Ксал'атат запускает сферу раньше.<n/><n/>Столкнувшиеся со сферой противники получают <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона и слепнут на <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s>\u00A0сек.<n/><n/>Пролетев весь свой путь, сфера с силой взрывается и наносит <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона.<n/><n/>Если зарядить эту способность, урон при столкновении увеличится вплоть до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">166</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед., а урон при взрыве\u00A0— вплоть до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Урон при столкновении наносится каждые 0,25\u00A0сек.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "При использовании «Шага через Бездну» на земле появляется печать магии Бездны. Когда печать будет завершена, она нанесет <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона врагам внутри и на <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">2</s>\u00A0сек. поразит их эффектом немоты."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "Призывает Темное сердце, которое в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>\u00A0сек. посылает импульсы энергии, наносящие <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона в секунду находящимся рядом врагам.<n/><n/>Темное сердце движется к месту, пораженному «Знаком Тьмы».<n/><n/>Темное сердце преследует отмеченные «Знаком Тьмы» цели и взрывается при столкновении, нанося <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">245</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона ближайшим врагам и еще <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>\u00A0ед. урона отмеченной цели."
+  }
+]

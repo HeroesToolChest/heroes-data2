@@ -1,0 +1,237 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Hanamura Temple"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/DragonsDinner|DragonsDinner|Q",
+    "value": "冷却时间：12秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/HanamuraCoreBarrage|HanamuraCoreBarrage|Q",
+    "value": "冷却时间：8秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/MercDefenderHealingPulse|MercDefenderHealingPulse|Z",
+    "value": "冷却时间：10秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/RingOfFire|RingOfFire|W",
+    "value": "冷却时间：5秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/HanamuraCoreBarrage|HanamuraCoreBarrage|Q",
+    "value": "发射<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>串飞弹，对目标造成相当于其最大生命值<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c>的伤害并使其减速<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70%</c>，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c>秒。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/DragonsDinner|DragonsDinner|Q",
+    "value": "禁锢"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/HanamuraCoreBarrage|HanamuraCoreBarrage|Q",
+    "value": "火箭弹幕"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercDefenderHealingPulse|MercDefenderHealingPulse|Z",
+    "value": "哨兵 - 治疗脉冲"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/move|Move|Trait",
+    "value": "移动"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/OverwatchMechanicRepair|OverwatchMechanicRepair|Z",
+    "value": "工程师 - 维修"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/PayloadMove|:NONE:|Hidden",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/RingOfFire|RingOfFire|W",
+    "value": "能量圈"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/HanamuraCoreBarrage|HanamuraCoreBarrage|Q",
+    "value": "对敌人造成伤害并使其减速"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/RingOfFire|RingOfFire|W",
+    "value": "生成一道能量圈对圈内的目标造成伤害"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/BioticEmitter",
+    "value": "制造一个生物发射器，使附近的友方英雄在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c>秒内恢复<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c>的最大生命值和法力值。"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">坚韧、高伤害的雇佣兵。可以攻击近战范围内的敌人。尤其擅长吸收敌人防御工事的火力。</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser2",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">坚韧、高伤害的雇佣兵。可以攻击近战范围内的敌人。尤其擅长吸收敌人防御工事的火力。</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser3",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">坚韧、高伤害的雇佣兵。可以攻击近战范围内的敌人。尤其擅长吸收敌人防御工事的火力。</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeIndividual",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">坚韧、高伤害的雇佣兵。可以攻击近战范围内的敌人。尤其擅长吸收敌人防御工事的火力。</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/JungleGraveGolemDefender",
+    "value": "超级执行者"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/RegenGlobe",
+    "value": "急救包"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BioticEmitter",
+    "value": "生物发射器"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DragonSpiritsPickup",
+    "value": "神龙之魂"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HanamuraCoreAttackRadiusDummy",
+    "value": "核心攻击半径假人"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HanamuraCoreBarrageMissile",
+    "value": "火箭弹幕（发射物）"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HealingPulsePickup",
+    "value": "治疗脉冲"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderHenchman1",
+    "value": "同党"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderHenchman2",
+    "value": "同党"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderHenchman3",
+    "value": "同党"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser",
+    "value": "恶党"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser2",
+    "value": "恶党"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser3",
+    "value": "恶党"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeIndividual",
+    "value": "哨兵"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderSentinel",
+    "value": "哨兵"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperLaner",
+    "value": "爆破兵"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerHenchman1",
+    "value": "MercLanerHenchman1"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerHenchman2",
+    "value": "MercLanerHenchman1"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerHenchman3",
+    "value": "MercLanerHenchman1"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerSentinel",
+    "value": "哨兵"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchBossImprisonMissile",
+    "value": "Overwatch Boss Imprison Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchBossImprisonMissileDummy",
+    "value": "Overwatch Boss Imprison Missile (Dummy)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchMechanic",
+    "value": "工程师"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchTurret",
+    "value": "炮台"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchTurretPlayer",
+    "value": "炮台（玩家）"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ReconCampVisionUnit",
+    "value": "侦测营地视野单位"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TurretPickup",
+    "value": "炮台 (拾取物)"
+  }
+]

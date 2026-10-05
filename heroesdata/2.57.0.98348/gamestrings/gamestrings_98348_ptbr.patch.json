@@ -1,0 +1,227 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98348"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Evoque o Coração Sombrio, que pulsa e causa <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de dano por segundo aos inimigos próximos e dura <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> s.<n/><n/>O Coração Sombrio se move até o local de impacto de Marca das Sombras.<n/><n/>O Coração Sombrio persegue alvos afetados por Marca das Sombras e detona ao atingi-los, causando <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">245</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de dano aos inimigos próximos e <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> a mais de dano ao alvo marcado."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Canalize um poderoso Orbe do Caos que cresce ao longo do tempo até atingir o tamanho máximo após <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s. Lance novamente para disparar o Orbe antes.<n/><n/>Inimigos que entram em contato com o Orbe recebem até <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de dano e ficam cegos por <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s> s.<n/><n/>Quando o Orbe chega ao fim do percurso, ele detona em uma grande explosão, causando <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de dano.<n/><n/>Carregar esta habilidade aumenta o dano de contato até <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">166</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> e o dano de explosão aumenta até <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">O dano de contato é causado a cada 0,25 s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Após atacar inimigos com os Ataques Básicos <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> vezes, Xal’atath pode ativar Saraivada do Caos para liberar uma barragem de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> Orbes do Caos em um local, cada um causando <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">72</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de dano no impacto.<n/><n/>A carga decai por completo se Xal’atath não atingir um inimigo com o Ataque Básico após <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> s.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missão:</c> Acerte Heróis inimigos com Saraivada do Caos para conceder <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> aplicação por acerto e aumentar todo o dano de Saraivada do Caos em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1%</c>. Perde todas as aplicações ao morrer.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa (20 Aplicações):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c> de alcance da Saraivada do Caos<n/>   Perda de aplicações ao morrer reduzida para <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa (60 Aplicações):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">-1</c> Ataque Básico necessário para carregar Saraivada do Caos<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa Mítica (100 Aplicações):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+50%</c> de dano de Ataque Básico e Saraivada do Caos<n/>   Os projéteis de Saraivada do Caos perfuram todos os alvos.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">A perda de Aplicações nunca fará com que o Herói fique abaixo do limite de recompensa de uma missão.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var3",
+    "value": "A Cruzada não acaba quando se tira o elmo. Servir à Luz é um dever perpétuo."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var4",
+    "value": "A Cruzada não acaba quando se tira o elmo. Servir à Luz é um dever perpétuo."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var5",
+    "value": "A Cruzada não acaba quando se tira o elmo. Servir à Luz é um dever perpétuo."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var3",
+    "value": "Após uma vida inteira matando monstros em Santuário, Valla tomou um susto quando percebeu que o multiverso abrigava mais demônios que ela podia imaginar. Alguns tinham o rosto de antigos aliados; outros, de completos desconhecidos."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var4",
+    "value": "Após uma vida inteira matando monstros em Santuário, Valla tomou um susto quando percebeu que o multiverso abrigava mais demônios que ela podia imaginar. Alguns tinham o rosto de antigos aliados; outros, de completos desconhecidos."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var5",
+    "value": "Após uma vida inteira matando monstros em Santuário, Valla tomou um susto quando percebeu que o multiverso abrigava mais demônios que ela podia imaginar. Alguns tinham o rosto de antigos aliados; outros, de completos desconhecidos."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var3",
+    "value": "Respirar de máscara é muito mais fácil do que se imagina. Raynor só a tira para que os inimigos possam ver seu rosto."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var4",
+    "value": "Respirar de máscara é muito mais fácil do que se imagina. Raynor só a tira para que os inimigos possam ver seu rosto."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var5",
+    "value": "Respirar de máscara é muito mais fácil do que se imagina. Raynor só a tira para que os inimigos possam ver seu rosto."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var3",
+    "value": "Johanna Pacificadora (Sem Máscara)"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var4",
+    "value": "Johanna Pacificadora - Rebrilhante (Sem Máscara)"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var5",
+    "value": "Johanna Pacificadora - Zelosa (Sem Máscara)"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var3",
+    "value": "Valla Espreitadora Sombria (Sem Máscara)"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var4",
+    "value": "Valla Espreitadora Sombria - Vibrante (Sem Máscara)"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var5",
+    "value": "Valla Espreitadora Sombria - Alabastro (Sem Máscara)"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var3",
+    "value": "Raynor 76 (Sem Máscara)"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var4",
+    "value": "Raynor 76 - Aprimorado (Sem Máscara)"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var5",
+    "value": "Raynor 76 - Elite (Sem Máscara)"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var3",
+    "value": "reinhardt prata prateado ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var4",
+    "value": "reinhardt azul ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var5",
+    "value": "reinhardt branco dourado ouro ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var3",
+    "value": "reaper preto ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var4",
+    "value": "reaper rosa ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var5",
+    "value": "reaper branco ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var3",
+    "value": "soldier soldado 76 azul ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var4",
+    "value": "soldier soldado 76 ouro dourado ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var5",
+    "value": "soldier soldado 76 vermelho ow overwatch cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var3",
+    "value": "CrusaderOW20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var4",
+    "value": "CrusaderOW20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var5",
+    "value": "CrusaderOW20NoMaskVar2"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var3",
+    "value": "DemonHunterOWC20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var4",
+    "value": "DemonHunterOWC20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var5",
+    "value": "DemonHunterOWC20NoMaskVar2"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var3",
+    "value": "RaynorOWC20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var4",
+    "value": "RaynorOWC20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var5",
+    "value": "RaynorOWC20NoMaskVar2"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "Ritual do Coração Sombrio:<n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+41.67%</c> de raio<n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+25%</c> de duração<n/><n/>O dano do Coração Sombrio se propaga <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> vezes do alvo principal para inimigos próximos, causando <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de dano."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Canalize um poderoso Orbe do Caos que cresce ao longo do tempo até atingir o tamanho máximo após <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s. Lance novamente para disparar o Orbe antes.<n/><n/>Inimigos que entram em contato com o Orbe recebem até <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de dano e ficam cegos por <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s> s.<n/><n/>Quando o Orbe chega ao fim do percurso, ele detona em uma grande explosão, causando <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de dano.<n/><n/>Carregar esta habilidade aumenta o dano de contato até <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">166</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> e o dano de explosão aumenta até <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">O dano de contato é causado a cada 0,25 s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "Ativar Passo do Caos evoca um selo de magia do Caos no chão. Quando o selo se completa, causa <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de dano aos inimigos dentro dele e os silencia por <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">2</s> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "Evoque o Coração Sombrio, que pulsa e causa <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de dano por segundo aos inimigos próximos e dura <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> s.<n/><n/>O Coração Sombrio se move até o local de impacto de Marca das Sombras.<n/><n/>O Coração Sombrio persegue alvos afetados por Marca das Sombras e detona ao atingi-los, causando <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">245</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de dano aos inimigos próximos e <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> a mais de dano ao alvo marcado."
+  }
+]

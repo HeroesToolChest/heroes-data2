@@ -1,0 +1,227 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98348"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Invoque le cœur obscur, qui émet des pulsations infligeant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts par seconde aux ennemis proches et persiste pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>\u00A0s.<n/><n/>Le cœur obscur se déplace vers la zone d’impact de Marque de l’ombre.<n/><n/>Le cœur obscur poursuivra les cibles affectées par Marque de l’ombre et explosera à l’impact, infligeant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">245</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts aux ennemis proches et <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> supplémentaires à la cible marquée."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "Canalise un orbe du Vide puissant qui grandit au fil du temps jusqu’à atteindre sa taille maximale au bout de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0s. Réactiver la capacité permet de lancer l’orbe plus tôt.<n/><n/>Les ennemis touchés par l’orbe subissent <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts et sont aveuglés pendant <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s>\u00A0s.<n/><n/>Lorsque l’orbe atteint la fin de sa course, il explose en infligeant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts dans une large zone.<n/><n/>Plus cette technique est chargée, plus ses dégâts de contact augmentent, jusqu’à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">166</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>, et ses dégâts d’explosion jusqu’à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Les dégâts de contact sont infligés toutes les 0,25\u00A0s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Après avoir attaqué des adversaires <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0fois avec ses attaques de base, Xal’atath peut lancer Salve du Vide pour libérer une série de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0orbes du Vide sur l’endroit ciblé, chacun infligeant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">72</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts à l’impact.<n/><n/>La charge se dissipe entièrement si Xal’atath ne touche aucun adversaire avec une attaque de base pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0s.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête\u00A0:</c> toucher des héros adverses avec Salve du Vide confère <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>\u00A0cumul par coup et augmente les dégâts de Salve du Vide de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1\u00A0%</c> . Tous les cumuls sont perdus à la mort.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Récompense (20\u00A0cumuls)\u00A0:</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c> à la portée de Salve du Vide<n/>   Le nombre de cumuls perdus à la mort est réduit à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Récompense (60\u00A0cumuls)\u00A0:</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">-1</c> au nombre d’attaques de base requis pour charger Salve du Vide.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Récompense mythique (100\u00A0cumuls)\u00A0:</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+50\u00A0%</c> aux dégâts des attaques de base et de Salve du Vide.<n/>   Les projectiles de Salve du Vide transpercent toutes les cibles.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">La perte de cumuls ne peut jamais faire repasser l’héroïne sous un palier de récompense de quête.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var3",
+    "value": "Les croisés font vœu de consacrer leur existence à la Lumière, quand bien même ils perdraient leur heaume."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var4",
+    "value": "Les croisés font vœu de consacrer leur existence à la Lumière, quand bien même ils perdraient leur heaume."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var5",
+    "value": "Les croisés font vœu de consacrer leur existence à la Lumière, quand bien même ils perdraient leur heaume."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var3",
+    "value": "Après une vie passée à éradiquer le mal sur Sanctuaire, Valla fut surprise de découvrir que le multivers comptait plus de démons qu’elle ne l’aurait imaginé. Et tandis que certains arborent le visage d’anciens camarades, d’autres choisissent leur propre masque."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var4",
+    "value": "Après une vie passée à éradiquer le mal sur Sanctuaire, Valla fut surprise de découvrir que le multivers comptait plus de démons qu’elle ne l’aurait imaginé. Et tandis que certains arborent le visage d’anciens camarades, d’autres choisissent leur propre masque."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var5",
+    "value": "Après une vie passée à éradiquer le mal sur Sanctuaire, Valla fut surprise de découvrir que le multivers comptait plus de démons qu’elle ne l’aurait imaginé. Et tandis que certains arborent le visage d’anciens camarades, d’autres choisissent leur propre masque."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var3",
+    "value": "Respirer sous un masque est plus facile qu’on ne le croit. Il suffit d’ailleurs à Raynor de l’ôter pour terrifier ses ennemis."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var4",
+    "value": "Respirer sous un masque est plus facile qu’on ne le croit. Il suffit d’ailleurs à Raynor de l’ôter pour terrifier ses ennemis."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var5",
+    "value": "Respirer sous un masque est plus facile qu’on ne le croit. Il suffit d’ailleurs à Raynor de l’ôter pour terrifier ses ennemis."
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var3",
+    "value": "Johanna garde-paix sans masque"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var4",
+    "value": "Johanna garde-paix étincelante sans masque"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var5",
+    "value": "Johanna garde-paix zélée sans masque"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var3",
+    "value": "Valla rôdeuse sombre sans masque"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var4",
+    "value": "Valla rôdeuse sombre clinquante sans masque"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var5",
+    "value": "Valla rôdeuse sombre albâtre sans masque"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var3",
+    "value": "Raynor 76 sans masque"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var4",
+    "value": "Raynor 76 amélioré sans masque"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var5",
+    "value": "Raynor 76 d’élite sans masque"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var3",
+    "value": "Reinhardt Argent Argenté OW Overwatch Cosplay Costume"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var4",
+    "value": "Reinhardt Bleu OW Overwatch Cosplay Costume"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var5",
+    "value": "Reinhardt Blanc Or Doré OW Overwatch Cosplay Costume"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var3",
+    "value": "Reaper Faucheur Noir OW Overwatch Cosplay Costume"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var4",
+    "value": "Reaper Faucheur Rose OW Overwatch Cosplay Costume"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var5",
+    "value": "Reaper Faucheur Blanc OW Overwatch Cosplay Costume"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var3",
+    "value": "Soldier 76 Soldat 76 Bleu OW Overwatch Cosplay Costume"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var4",
+    "value": "Soldier 76 Soldat 76 Or Doré OW Overwatch Cosplay Costume"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var5",
+    "value": "Soldier 76 Soldat 76 Rouge OW Overwatch Cosplay Costume"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var3",
+    "value": "Croisée OW 20 Sans masque Mod\u00A00"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var4",
+    "value": "Croisée OW 20 Sans masque Mod\u00A01"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var5",
+    "value": "Croisée OW 20 Sans masque Mod\u00A02"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var3",
+    "value": "Chasseuse de démons OWC 20 Sans masque Mod\u00A00"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var4",
+    "value": "Chasseuse de démons OWC 20 Sans masque Mod\u00A01"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var5",
+    "value": "Chasseuse de démons OWC 20 Sans masque Mod\u00A02"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var3",
+    "value": "Raynor OWC 20 Sans masque Mod\u00A00"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var4",
+    "value": "Raynor OWC 20 Sans masque Mod\u00A01"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var5",
+    "value": "Raynor OWC 20 Sans masque Mod\u00A02"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "Rituel du cœur obscur\u00A0:<n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+41.67\u00A0%</c> de rayon<n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+25\u00A0%</c> de durée<n/><n/>Les dégâts du cœur obscur rebondissent <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0fois de la cible principale vers les ennemis proches, infligeant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Canalise un orbe du Vide puissant qui grandit au fil du temps jusqu’à atteindre sa taille maximale au bout de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0s. Réactiver la capacité permet de lancer l’orbe plus tôt.<n/><n/>Les ennemis touchés par l’orbe subissent <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts et sont aveuglés pendant <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s>\u00A0s.<n/><n/>Lorsque l’orbe atteint la fin de sa course, il explose en infligeant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts dans une large zone.<n/><n/>Plus cette technique est chargée, plus ses dégâts de contact augmentent, jusqu’à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">166</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>, et ses dégâts d’explosion jusqu’à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Les dégâts de contact sont infligés toutes les 0,25\u00A0s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "L’activation de Pas du Vide invoque un sceau de magie du Vide au sol. Une fois le sceau terminé, il inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts aux ennemis à l’intérieur et les réduit au silence pendant <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">2</s>\u00A0s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "Invoque le cœur obscur, qui émet des pulsations infligeant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts par seconde aux ennemis proches et persiste pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>\u00A0s.<n/><n/>Le cœur obscur se déplace vers la zone d’impact de Marque de l’ombre.<n/><n/>Le cœur obscur poursuivra les cibles affectées par Marque de l’ombre et explosera à l’impact, infligeant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">245</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts aux ennemis proches et <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c> supplémentaires à la cible marquée."
+  }
+]

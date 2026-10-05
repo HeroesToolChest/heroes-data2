@@ -1,0 +1,42 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Lunar Rocket Racing"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/ChenWanderingKeg|ChenWanderingKeg|Heroic",
+    "value": "Время восстановления: 10 сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/ChenHeroicAbilityWanderingKeg|ChenWanderingKeg|Heroic|Level10",
+    "value": "Время восстановления: 10 сек."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/LunarFestivalEnvelope",
+    "value": "Подойдите ближе, чтобы подобрать дублон."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LunarFestivalEnvelope",
+    "value": "Конверт"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LunarFestivalFirecracker",
+    "value": "Фейерверк"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LunarFestivalGreenRocket",
+    "value": "Зеленая ракета"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Observer_InvisibleUnit",
+    "value": "Observer_InvisibleUnit"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.0.98348"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "召唤幽暗之心，每秒对附近敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>秒。<n/><n/>幽暗之心会移动至暗影标记的落点。<n/><n/>幽暗之心会追击带有暗影标记的目标，命中后引爆，对附近敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">245</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害，并对被标记目标额外造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>点伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidEruption|XalatathVoidEruption|Heroic",
+    "value": "引导一枚威力强大的虚空法球，法球在引导期间不断变大，<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>秒后达到最大体积。再次施放可提前发射法球。<n/><n/>触碰法球的敌人受到<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害，并被致盲<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s>秒。<n/><n/>法球在抵达路径终点时产生大范围爆炸，造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害。<n/><n/>为该技能充能可提升接触伤害，最高提升至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">166</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>，爆炸伤害最高提升至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>。<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">接触伤害每0.25秒触发一次。</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "萨拉塔斯用普通攻击命中敌人<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>次后，即可激活虚空齐射，向目标位置发射<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>枚虚空法球，每枚法球命中时造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">72</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害。<n/><n/>若萨拉塔斯在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>秒内未用普通攻击命中敌人，充能将全部清空。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任务：</c>使用虚空齐射命中敌方英雄，每次命中获得<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>层效果，虚空齐射伤害提升<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1%</c>。死亡时失去所有层数。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">奖励（20层）：</c><n/>虚空齐射射程<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c><n/>死亡时，仅失去<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>层效果。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">奖励（60层）：</c><n/>充能虚空齐射所需普通攻击次数<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">-1</c>。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">神话奖励（100层）：</c><n/>普通攻击与虚空齐射伤害<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+50%</c>。<n/>虚空齐射的投射物可穿透所有目标。<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">扣除效果层数时，层数不会低于已解锁奖励对应的阶段要求。</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var3",
+    "value": "即使丢了头盔，圣教军的身份也不会停止。为圣光服务是毕生的奉献。"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var4",
+    "value": "即使丢了头盔，圣教军的身份也不会停止。为圣光服务是毕生的奉献。"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/CrusaderOWC20Var5",
+    "value": "即使丢了头盔，圣教军的身份也不会停止。为圣光服务是毕生的奉献。"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var3",
+    "value": "在经历了铲除庇护之地邪恶势力的一生后，维拉惊讶地发现，多元宇宙中存在着比她想象中还要多的恶魔。有些恶魔的脸长得和从前战友一模一样；而有些恶魔还是老样子。"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var4",
+    "value": "在经历了铲除庇护之地邪恶势力的一生后，维拉惊讶地发现，多元宇宙中存在着比她想象中还要多的恶魔。有些恶魔的脸长得和从前战友一模一样；而有些恶魔还是老样子。"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/DemonHunterOWC20Var5",
+    "value": "在经历了铲除庇护之地邪恶势力的一生后，维拉惊讶地发现，多元宇宙中存在着比她想象中还要多的恶魔。有些恶魔的脸长得和从前战友一模一样；而有些恶魔还是老样子。"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var3",
+    "value": "说真的，戴上面具时呼吸比你想象的要顺畅。雷诺摘下了面具，这样敌人就能看见他愤怒的面容。"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var4",
+    "value": "说真的，戴上面具时呼吸比你想象的要顺畅。雷诺摘下了面具，这样敌人就能看见他愤怒的面容。"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/RaynorOWC20Var5",
+    "value": "说真的，戴上面具时呼吸比你想象的要顺畅。雷诺摘下了面具，这样敌人就能看见他愤怒的面容。"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var3",
+    "value": "摘下面具的和平捍卫者乔汉娜"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var4",
+    "value": "摘下面具的闪烁和平捍卫者乔汉娜"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/CrusaderOWC20Var5",
+    "value": "摘下面具的狂热和平捍卫者乔汉娜"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var3",
+    "value": "摘下面具的暗影行者维拉"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var4",
+    "value": "摘下面具的活力四射暗影行者维拉"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/DemonHunterOWC20Var5",
+    "value": "摘下面具的雪白纯净暗影行者维拉"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var3",
+    "value": "摘下面具的士兵雷诺76"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var4",
+    "value": "摘下面具的强化士兵雷诺76"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/RaynorOWC20Var5",
+    "value": "摘下面具的精英士兵雷诺76"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var3",
+    "value": "莱因哈特，银色，守望先锋，cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var4",
+    "value": "莱因哈特，蓝色，守望先锋，cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/CrusaderOWC20Var5",
+    "value": "莱因哈特，白色，金色，守望先锋，cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var3",
+    "value": "死神，黑色，守望先锋，cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var4",
+    "value": "死神，粉色，守望先锋，cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/DemonHunterOWC20Var5",
+    "value": "死神，白色，守望先锋，cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var3",
+    "value": "士兵76，76，蓝色，守望先锋，cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var4",
+    "value": "士兵76，76，金色，守望先锋，cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/searchText/RaynorOWC20Var5",
+    "value": "士兵76，76，红色，守望先锋，cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var3",
+    "value": "CrusaderOW20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var4",
+    "value": "CrusaderOW20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/CrusaderOWC20Var5",
+    "value": "CrusaderOW20NoMaskVar2"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var3",
+    "value": "DemonHunterOWC20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var4",
+    "value": "DemonHunterOWC20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/DemonHunterOWC20Var5",
+    "value": "DemonHunterOWC20NoMaskVar2"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var3",
+    "value": "RaynorOWC20NoMaskVar0"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var4",
+    "value": "RaynorOWC20NoMaskVar1"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/RaynorOWC20Var5",
+    "value": "RaynorOWC20NoMaskVar2"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "幽暗之心仪式：<n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+41.67%</c>半径<n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+25%</c>持续时间<n/><n/>幽暗之心伤害会从主要目标弹射至附近敌人，弹射<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>次，造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "引导一枚威力强大的虚空法球，法球在引导期间不断变大，<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>秒后达到最大体积。再次施放可提前发射法球。<n/><n/>触碰法球的敌人受到<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">90</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害，并被致盲<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s>秒。<n/><n/>法球在抵达路径终点时产生大范围爆炸，造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">400</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害。<n/><n/>为该技能充能可提升接触伤害，最高提升至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">166</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>，爆炸伤害最高提升至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">700</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>。<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">接触伤害每0.25秒触发一次。</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathSilenceOfTheLamb|XalatathSilenceOfTheLamb|E|Level7",
+    "value": "施放虚空步时，在地面生成一个虚空法印。法印成型时，对范围内敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害并使其沉默<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">2</s>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "召唤幽暗之心，每秒对附近敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>秒。<n/><n/>幽暗之心会移动至暗影标记的落点。<n/><n/>幽暗之心会追击带有暗影标记的目标，命中后引爆，对附近敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">245</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害，并对被标记目标额外造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>点伤害。"
+  }
+]

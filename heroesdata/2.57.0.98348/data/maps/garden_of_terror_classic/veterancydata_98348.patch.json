@@ -1,0 +1,3088 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/totalItems",
+    "value": 48
+  },
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Garden of Terror Classic"
+  },
+  {
+    "op": "add",
+    "path": "/items/HauntedWoodsBossScaling",
+    "value": {
+      "combineModifications": true,
+      "combineXP": true,
+      "veterancyLevels": [
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 500
+            },
+            "damageDealtScaled": {
+              "basic": 6
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 500
+            },
+            "damageDealtScaled": {
+              "basic": 6
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 500
+            },
+            "damageDealtScaled": {
+              "basic": 6
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 500
+            },
+            "damageDealtScaled": {
+              "basic": 6
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 500
+            },
+            "damageDealtScaled": {
+              "basic": 6
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 750
+            },
+            "damageDealtScaled": {
+              "basic": 9
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 750
+            },
+            "damageDealtScaled": {
+              "basic": 9
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 750
+            },
+            "damageDealtScaled": {
+              "basic": 9
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 750
+            },
+            "damageDealtScaled": {
+              "basic": 9
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 750
+            },
+            "damageDealtScaled": {
+              "basic": 9
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 1000
+            },
+            "damageDealtScaled": {
+              "basic": 12
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 1000
+            },
+            "damageDealtScaled": {
+              "basic": 12
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 1000
+            },
+            "damageDealtScaled": {
+              "basic": 12
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 1000
+            },
+            "damageDealtScaled": {
+              "basic": 12
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 1000
+            },
+            "damageDealtScaled": {
+              "basic": 12
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 1250
+            },
+            "damageDealtScaled": {
+              "basic": 18
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 1250
+            },
+            "damageDealtScaled": {
+              "basic": 18
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 1250
+            },
+            "damageDealtScaled": {
+              "basic": 18
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 1250
+            },
+            "damageDealtScaled": {
+              "basic": 18
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 1250
+            },
+            "damageDealtScaled": {
+              "basic": 18
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 1500
+            },
+            "damageDealtScaled": {
+              "basic": 18
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 1500
+            },
+            "damageDealtScaled": {
+              "basic": 18
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 1500
+            },
+            "damageDealtScaled": {
+              "basic": 18
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 1500
+            },
+            "damageDealtScaled": {
+              "basic": 18
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 1500
+            },
+            "damageDealtScaled": {
+              "basic": 18
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 1500
+            },
+            "damageDealtScaled": {
+              "basic": 18
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 1500
+            },
+            "damageDealtScaled": {
+              "basic": 18
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 1500
+            },
+            "damageDealtScaled": {
+              "basic": 18
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 1500
+            },
+            "damageDealtScaled": {
+              "basic": 18
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 12,
+            "vitalMax": {
+              "life": 1500
+            },
+            "damageDealtScaled": {
+              "basic": 18
+            },
+            "damageDealtFraction": {
+              "ability": 0.03
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/HauntedWoodsMinionScaling",
+    "value": {
+      "combineModifications": true,
+      "combineXP": true,
+      "veterancyLevels": [
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 10
+            },
+            "damageDealtScaled": {
+              "basic": 1.3
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 10
+            },
+            "damageDealtScaled": {
+              "basic": 1.3
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 10
+            },
+            "damageDealtScaled": {
+              "basic": 1.3
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 10
+            },
+            "damageDealtScaled": {
+              "basic": 1.3
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 10
+            },
+            "damageDealtScaled": {
+              "basic": 1.3
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 15
+            },
+            "damageDealtScaled": {
+              "basic": 1.95
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 15
+            },
+            "damageDealtScaled": {
+              "basic": 1.95
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 15
+            },
+            "damageDealtScaled": {
+              "basic": 1.95
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 15
+            },
+            "damageDealtScaled": {
+              "basic": 1.95
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 15
+            },
+            "damageDealtScaled": {
+              "basic": 1.95
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 20
+            },
+            "damageDealtScaled": {
+              "basic": 2.6
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 20
+            },
+            "damageDealtScaled": {
+              "basic": 2.6
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 20
+            },
+            "damageDealtScaled": {
+              "basic": 2.6
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 20
+            },
+            "damageDealtScaled": {
+              "basic": 2.6
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 20
+            },
+            "damageDealtScaled": {
+              "basic": 2.6
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 25
+            },
+            "damageDealtScaled": {
+              "basic": 3.25
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 25
+            },
+            "damageDealtScaled": {
+              "basic": 3.25
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 25
+            },
+            "damageDealtScaled": {
+              "basic": 3.25
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 25
+            },
+            "damageDealtScaled": {
+              "basic": 3.25
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 25
+            },
+            "damageDealtScaled": {
+              "basic": 3.25
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 30
+            },
+            "damageDealtScaled": {
+              "basic": 3.9
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 30
+            },
+            "damageDealtScaled": {
+              "basic": 3.9
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 30
+            },
+            "damageDealtScaled": {
+              "basic": 3.9
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 30
+            },
+            "damageDealtScaled": {
+              "basic": 3.9
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 30
+            },
+            "damageDealtScaled": {
+              "basic": 3.9
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 30
+            },
+            "damageDealtScaled": {
+              "basic": 3.9
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 30
+            },
+            "damageDealtScaled": {
+              "basic": 3.9
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 30
+            },
+            "damageDealtScaled": {
+              "basic": 3.9
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 30
+            },
+            "damageDealtScaled": {
+              "basic": 3.9
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 30
+            },
+            "damageDealtScaled": {
+              "basic": 3.9
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2
+          }
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/HauntedWoodsOvergrowthPlantScaling",
+    "value": {
+      "combineModifications": true,
+      "combineXP": true,
+      "veterancyLevels": [
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 80
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 80
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 80
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 80
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 80
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 120
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 120
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 120
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 120
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 120
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 160
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 160
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 160
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 160
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 160
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 200
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 200
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 200
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 200
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 200
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 240
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 240
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 240
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 240
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 240
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 280
+            },
+            "damageDealtScaled": {
+              "ability": 8
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/HauntedWoodsVehicleScaling",
+    "value": {
+      "combineModifications": true,
+      "combineXP": true,
+      "veterancyLevels": [
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 200
+            },
+            "damageDealtScaled": {
+              "basic": 12
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 200
+            },
+            "damageDealtScaled": {
+              "basic": 12
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 200
+            },
+            "damageDealtScaled": {
+              "basic": 12
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 200
+            },
+            "damageDealtScaled": {
+              "basic": 12
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 200
+            },
+            "damageDealtScaled": {
+              "basic": 12
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 300
+            },
+            "damageDealtScaled": {
+              "basic": 18
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 300
+            },
+            "damageDealtScaled": {
+              "basic": 18
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 300
+            },
+            "damageDealtScaled": {
+              "basic": 18
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 300
+            },
+            "damageDealtScaled": {
+              "basic": 18
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 300
+            },
+            "damageDealtScaled": {
+              "basic": 18
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 400
+            },
+            "damageDealtScaled": {
+              "basic": 24
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 400
+            },
+            "damageDealtScaled": {
+              "basic": 24
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 400
+            },
+            "damageDealtScaled": {
+              "basic": 24
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 400
+            },
+            "damageDealtScaled": {
+              "basic": 24
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 400
+            },
+            "damageDealtScaled": {
+              "basic": 24
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 500
+            },
+            "damageDealtScaled": {
+              "basic": 30
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 500
+            },
+            "damageDealtScaled": {
+              "basic": 30
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 500
+            },
+            "damageDealtScaled": {
+              "basic": 30
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 500
+            },
+            "damageDealtScaled": {
+              "basic": 30
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 500
+            },
+            "damageDealtScaled": {
+              "basic": 30
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 800
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 800
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 800
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 800
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 800
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "vitalMax": {
+              "life": 1100
+            },
+            "damageDealtScaled": {
+              "basic": 36
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/LignifyScaling",
+    "value": {
+      "combineModifications": true,
+      "combineXP": true,
+      "veterancyLevels": [
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 2010,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 2154,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 2154,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 2154,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 2154,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 3303,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 3303,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 3303,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 3303,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 3303,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 4452,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 4452,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 4452,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 4452,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 4452,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 5600,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 5600,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 5600,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 5600,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 9000,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 10000,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 11500,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 13000,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 15000,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 17000,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 19500,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 22000,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 25000,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 28000,
+          "veterancyModification": {
+            "damageDealtScaled": {
+              "basic": 5
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/ShamblerScaling",
+    "value": {
+      "combineModifications": true,
+      "combineXP": true,
+      "veterancyLevels": [
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 1,
+          "veterancyModification": {
+            "killXPBonus": 2,
+            "vitalMax": {
+              "life": 60
+            },
+            "damageDealtScaled": {
+              "basic": 3.5
+            }
+          }
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        },
+        {
+          "minimumVeterancyXP": 0
+        }
+      ]
+    }
+  }
+]
