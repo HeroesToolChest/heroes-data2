@@ -1,0 +1,42 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Lunar Rocket Racing"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/ChenWanderingKeg|ChenWanderingKeg|Heroic",
+    "value": "Recarga: 10 segundos"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/ChenHeroicAbilityWanderingKeg|ChenWanderingKeg|Heroic|Level10",
+    "value": "Recarga: 10 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/LunarFestivalEnvelope",
+    "value": "Aproxime-se para pegar o Dobrão."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LunarFestivalEnvelope",
+    "value": "Envelope"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LunarFestivalFirecracker",
+    "value": "Bombinha"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LunarFestivalGreenRocket",
+    "value": "Foguete Verde"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Observer_InvisibleUnit",
+    "value": ""
+  }
+]

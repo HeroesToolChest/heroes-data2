@@ -1,0 +1,37 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Blackheart's Bay"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/BlackheartsCoreBombardment|BlackheartsCoreBombardment|Hidden",
+    "value": "Dispara una bala de cañón gigante contra un héroe enemigo y le inflige un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c> de su salud máxima como daño y lo hace retroceder del punto de impacto."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/BlackheartsCoreBombardment|BlackheartsCoreBombardment|Hidden",
+    "value": "Bombardeo "
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/BlackheartsCoreBombardment|BlackheartsCoreBombardment|Hidden",
+    "value": "Inflige daño y repele a los héroes en una gran área"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostCoinsPaid",
+    "value": "~AwardValue~% de las monedas pagadas"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostCoinsPaid",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Tío Rico,Tía Rica</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostCoinsPaid",
+    "value": "~TooltipAmount~ monedas entregadas"
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Battlefield of Eternity"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/AngelicCleaveJungle|AngelicCleave|W",
+    "value": "Tiempo de reutilización: 14 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/AngelicCleaveLaner|AngelicCleave|W",
+    "value": "Tiempo de reutilización: 16 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/AngelicExplosionsJungle|AngelicExplosions|Q",
+    "value": "Tiempo de reutilización: 14 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/AngelicExplosionsLaner|AngelicExplosions|Q",
+    "value": "Tiempo de reutilización: 16 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/DemonicCleaveJungle|DemonicCleave|W",
+    "value": "Tiempo de reutilización: 14 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/DemonicCleaveLaner|DemonicCleave|W",
+    "value": "Tiempo de reutilización: 16 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/DemonicExplosionsJungle|DemonicExplosions|Q",
+    "value": "Tiempo de reutilización: 14 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/DemonicExplosionsLaner|DemonicExplosions|Q",
+    "value": "Tiempo de reutilización: 16 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/AngelicCleaveJungle|AngelicCleave|W",
+    "value": "Inflige daño de área y repele a los objetivos que estén alrededor del lanzador."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/AngelicCleaveLaner|AngelicCleave|W",
+    "value": "Inflige daño de área y repele a los objetivos que estén alrededor del lanzador."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/AngelicExplosionsJungle|AngelicExplosions|Q",
+    "value": "Dañan y aturden a los enemigos ubicados en diversas áreas cercanas al lanzador. Es necesario que haya héroes cerca para poder activarlas."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/AngelicExplosionsLaner|AngelicExplosions|Q",
+    "value": "Dañan y aturden a los enemigos ubicados en diversas áreas cercanas al lanzador. Es necesario que haya héroes cerca para poder activarlas."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/DemonicCleaveJungle|DemonicCleave|W",
+    "value": "Inflige daño de área y repele a los objetivos que estén alrededor del lanzador."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/DemonicCleaveLaner|DemonicCleave|W",
+    "value": "Inflige daño de área y repele a los objetivos que estén alrededor del lanzador."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/DemonicExplosionsJungle|DemonicExplosions|Q",
+    "value": "Dañan y aturden a los enemigos ubicados en diversas áreas cercanas al lanzador. Es necesario que haya héroes cerca para poder activarlas."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/DemonicExplosionsLaner|DemonicExplosions|Q",
+    "value": "Dañan y aturden a los enemigos ubicados en diversas áreas cercanas al lanzador. Es necesario que haya héroes cerca para poder activarlas."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/AngelicCleaveJungle|AngelicCleave|W",
+    "value": "Hendidura angelical"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/AngelicCleaveLaner|AngelicCleave|W",
+    "value": "Hendidura angelical"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/AngelicExplosionsJungle|AngelicExplosions|Q",
+    "value": "Explosiones angelicales"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/AngelicExplosionsLaner|AngelicExplosions|Q",
+    "value": "Explosiones angelicales"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/DemonicCleaveJungle|DemonicCleave|W",
+    "value": "Hendidura demoníaca"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/DemonicCleaveLaner|DemonicCleave|W",
+    "value": "Hendidura demoníaca"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/DemonicExplosionsJungle|DemonicExplosions|Q",
+    "value": "Explosiones demoníacas"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/DemonicExplosionsLaner|DemonicExplosions|Q",
+    "value": "Explosiones demoníacas"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AngelicCleaveJungle|AngelicCleave|W",
+    "value": "Inflige daño y repele en un área grande"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AngelicCleaveLaner|AngelicCleave|W",
+    "value": "Inflige daño y repele en un área grande"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AngelicExplosionsJungle|AngelicExplosions|Q",
+    "value": "Inflige daño y aturde en un área pequeña"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AngelicExplosionsLaner|AngelicExplosions|Q",
+    "value": "Inflige daño y aturde en un área pequeña"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/DemonicCleaveJungle|DemonicCleave|W",
+    "value": "Inflige daño y repele en un área grande"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/DemonicCleaveLaner|DemonicCleave|W",
+    "value": "Inflige daño y repele en un área grande"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/DemonicExplosionsJungle|DemonicExplosions|Q",
+    "value": "Inflige daño y aturde en un área pequeña"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/DemonicExplosionsLaner|DemonicExplosions|Q",
+    "value": "Inflige daño y aturde en un área pequeña"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostImmortalDamage",
+    "value": "~AwardValue~% de daño al inmortal"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostImmortalDamage",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Asesino de inmortales,Asesina de inmortales</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostImmortalDamage",
+    "value": "~TooltipAmount~ de daño contra el inmortal"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostImmortalDamage",
+    "value": "Mayor cantidad de daño a inmortal"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BossDuelBossDummyHeavenWeaponMissile",
+    "value": "Jefe - Simulación - Arma - Misil"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BossDuelBossDummyHellWeaponMissile",
+    "value": "Jefe - Simulación - Arma - Misil"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BossDuelBossHeaven",
+    "value": "Inmortal"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BossDuelBossHell",
+    "value": "Inmortal"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BossDuelBossPreviewUnitHeaven",
+    "value": "Duelo de jefes - Jefe - Vista previa - Unidad (Cielo)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BossDuelBossPreviewUnitHell",
+    "value": "Duelo de jefes - Jefe - Vista previa - Unidad (Infierno)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BossDuelLanerHeaven",
+    "value": "Inmortal"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BossDuelLanerHell",
+    "value": "Inmortal"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HeavenLanerWeaponMissile",
+    "value": "Cielo - Atacante - Arma - Misil"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HellLanerWeaponMissile",
+    "value": "Infierno - Atacante - Arma - Misil"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/InvisibleBossPathingLine",
+    "value": "Invisible - Senderización - Línea"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/JungleMinionDefault",
+    "value": "Selva - Esbirro"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/JungleMinionHeaven",
+    "value": "Selva - Esbirro"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/JungleMinionHell",
+    "value": "Selva - Esbirro"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LanerMinionDefault",
+    "value": "Atacante - Esbirro"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LanerMinionHeaven",
+    "value": "Atacante - Esbirro"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LanerMinionHell",
+    "value": "Atacante - Esbirro"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperDefender",
+    "value": "Empalador"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperLaner",
+    "value": "Empalador"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerDefender",
+    "value": "Chamán caído"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerDefenderMinion",
+    "value": "Sabueso caído"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerLaner",
+    "value": "Chamán caído"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerLanerMinion",
+    "value": "Sabueso caído"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WeaponRackSpecialHeaven",
+    "value": "Estante de armas - Especial (Cielo)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WeaponRackSpecialHell",
+    "value": "Estante de armas - Especial (Infierno)"
+  }
+]

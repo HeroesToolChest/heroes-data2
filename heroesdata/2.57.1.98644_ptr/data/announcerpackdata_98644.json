@@ -1,0 +1,1020 @@
+{
+  "meta": {
+    "heroesVersion": "2.57.1.98644_ptr",
+    "hdpVersion": "5.2.0",
+    "itemsType": "Data",
+    "dataType": "AnnouncerPackData",
+    "localizedText": "Extracted",
+    "totalItems": 74
+  },
+  "items": {
+    "AbathurA": {
+      "hyperlinkId": "AbathurAnnouncer",
+      "attributeId": "AB01",
+      "rarity": "Legendary",
+      "releaseDate": "2014-03-13",
+      "category": "Starcraft",
+      "gender": "Unknown",
+      "heroId": "Abathur",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_abathur.png",
+      "rewardLicenseIds": [
+        "AbathurA"
+      ]
+    },
+    "Adjutant": {
+      "hyperlinkId": "AdjutantAnnouncer",
+      "attributeId": "AADJ",
+      "rarity": "Legendary",
+      "releaseDate": "2018-03-27",
+      "category": "Starcraft",
+      "gender": "Female",
+      "heroId": "AI",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_adjutant.png",
+      "rewardLicenseIds": [
+        "Adjutant"
+      ]
+    },
+    "AlarakA": {
+      "hyperlinkId": "AlarakAnnouncer",
+      "attributeId": "ALAA",
+      "rarity": "Legendary",
+      "releaseDate": "2017-11-14",
+      "category": "Starcraft",
+      "gender": "Male",
+      "heroId": "Alarak",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_alarak.png",
+      "rewardLicenseIds": [
+        "AlarakA"
+      ]
+    },
+    "AlexstraszaA": {
+      "hyperlinkId": "AlexstraszaAnnouncer",
+      "attributeId": "ALEA",
+      "rarity": "Epic",
+      "releaseDate": "2017-11-14",
+      "category": "Warcraft",
+      "gender": "Female",
+      "heroId": "Alexstrasza",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_alexstrasza.png",
+      "rewardLicenseIds": [
+        "AlexstraszaA"
+      ]
+    },
+    "AnduinA": {
+      "hyperlinkId": "AnduinAnnouncer",
+      "attributeId": "ANDA",
+      "rarity": "Epic",
+      "releaseDate": "2019-04-30",
+      "category": "Warcraft",
+      "gender": "Male",
+      "heroId": "Anduin",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_anduin.png",
+      "rewardLicenseIds": [
+        "AnduinA"
+      ]
+    },
+    "Angel": {
+      "hyperlinkId": "IlarianAnnouncer",
+      "attributeId": "ANGE",
+      "rarity": "Common",
+      "releaseDate": "2019-01-08",
+      "category": "Diablo",
+      "gender": "Unknown",
+      "heroId": "AI",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_ilarian.png",
+      "rewardLicenseIds": [
+        "Angel"
+      ]
+    },
+    "AnubarakA": {
+      "hyperlinkId": "AnubarakAnnouncer",
+      "attributeId": "AN01",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "gender": "Unknown",
+      "heroId": "Anubarak",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_anubarak.png",
+      "rewardLicenseIds": [
+        "AnubarakA"
+      ]
+    },
+    "ArthasA": {
+      "hyperlinkId": "ArthasAnnouncer",
+      "attributeId": "AART",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "gender": "Unknown",
+      "heroId": "Arthas",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_arthas.png",
+      "rewardLicenseIds": [
+        "ArthasA"
+      ]
+    },
+    "AthenaA": {
+      "hyperlinkId": "AthenaAnnouncer",
+      "attributeId": "AATH",
+      "rarity": "Common",
+      "releaseDate": "2018-09-04",
+      "category": "Overwatch",
+      "gender": "Female",
+      "heroId": "AI",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_athena.png",
+      "rewardLicenseIds": [
+        "AthenaA"
+      ]
+    },
+    "BarbarianA": {
+      "hyperlinkId": "SonyaAnnouncer",
+      "attributeId": "BA01",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Diablo",
+      "gender": "Unknown",
+      "heroId": "Barbarian",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_sonya.png",
+      "rewardLicenseIds": [
+        "BarbarianA"
+      ]
+    },
+    "Blackheart": {
+      "hyperlinkId": "BlackheartAnnouncer",
+      "attributeId": "BH01",
+      "rarity": "Common",
+      "releaseDate": "2018-09-25",
+      "category": "Default",
+      "gender": "Unknown",
+      "heroId": "AI",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_blackheart.png",
+      "rewardLicenseIds": [
+        "Blackheart"
+      ]
+    },
+    "BlazeA": {
+      "hyperlinkId": "BlazeAnnouncer",
+      "attributeId": "AFIR",
+      "rarity": "Epic",
+      "releaseDate": "2018-01-09",
+      "category": "Starcraft",
+      "gender": "Male",
+      "heroId": "Firebat",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_firebat.png",
+      "rewardLicenseIds": [
+        "BlazeA"
+      ]
+    },
+    "BrightwingA": {
+      "hyperlinkId": "BrightwingAnnouncer",
+      "attributeId": "BR01",
+      "rarity": "Legendary",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "gender": "Unknown",
+      "heroId": "FaerieDragon",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_brightwing.png",
+      "rewardLicenseIds": [
+        "BrightwingA"
+      ]
+    },
+    "ButcherA": {
+      "hyperlinkId": "ButcherAnnouncer",
+      "attributeId": "BTHR",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Diablo",
+      "gender": "Unknown",
+      "heroId": "Butcher",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_butcher.png",
+      "rewardLicenseIds": [
+        "ButcherA"
+      ]
+    },
+    "CloakenA": {
+      "hyperlinkId": "CloakenAnnouncer",
+      "attributeId": "ACLO",
+      "rarity": "Legendary",
+      "releaseDate": "2018-11-27",
+      "category": "Default",
+      "gender": "Male",
+      "heroId": "AI",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_kevinjohnson.png",
+      "rewardLicenseIds": [
+        "CloakenA"
+      ]
+    },
+    "Cook": {
+      "hyperlinkId": "##heroid##Announcer",
+      "attributeId": "COOK",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Default",
+      "gender": "Unknown",
+      "heroId": "##heroid##",
+      "isFreePlay": false
+    },
+    "CowboyA": {
+      "hyperlinkId": "McTombstoneAnnouncer",
+      "attributeId": "ACwb",
+      "rarity": "Common",
+      "releaseDate": "2020-06-25",
+      "category": "Default",
+      "gender": "Male",
+      "heroId": "AI",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_mctombstone.png",
+      "rewardLicenseIds": [
+        "CowboyA"
+      ]
+    },
+    "DeathwingA": {
+      "hyperlinkId": "DeathwingAnnouncer",
+      "attributeId": "DEA0",
+      "rarity": "Legendary",
+      "releaseDate": "2019-12-03",
+      "category": "Warcraft",
+      "gender": "Male",
+      "heroId": "Deathwing",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_deathwing.png",
+      "rewardLicenseIds": [
+        "DeathwingA"
+      ]
+    },
+    "DeckardA": {
+      "hyperlinkId": "DeckardAnnouncer",
+      "attributeId": "ADEC",
+      "rarity": "Legendary",
+      "releaseDate": "2018-04-24",
+      "category": "Diablo",
+      "gender": "Male",
+      "heroId": "Deckard",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_deckard.png",
+      "rewardLicenseIds": [
+        "DeckardA"
+      ]
+    },
+    "Default": {
+      "hyperlinkId": "##heroid##Announcer",
+      "attributeId": "DFLT",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Default",
+      "gender": "Unknown",
+      "heroId": "##heroid##",
+      "isFreePlay": false
+    },
+    "Demon": {
+      "hyperlinkId": "BelethAnnouncer",
+      "attributeId": "DEMO",
+      "rarity": "Legendary",
+      "releaseDate": "2018-09-04",
+      "category": "Diablo",
+      "gender": "Male",
+      "heroId": "AI",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_beleth.png",
+      "rewardLicenseIds": [
+        "Demon"
+      ]
+    },
+    "DemonHunterA": {
+      "hyperlinkId": "VallaAnnouncer",
+      "attributeId": "DH01",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Diablo",
+      "gender": "Unknown",
+      "heroId": "DemonHunter",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_valla.png",
+      "rewardLicenseIds": [
+        "DemonHunterA"
+      ]
+    },
+    "DiabloA": {
+      "hyperlinkId": "DiabloAnnouncer",
+      "attributeId": "DI01",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Diablo",
+      "gender": "Unknown",
+      "heroId": "Diablo",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_diablo.png",
+      "rewardLicenseIds": [
+        "DiabloA"
+      ]
+    },
+    "DrekTharA": {
+      "hyperlinkId": "DrekTharAnnouncer",
+      "attributeId": "ADRE",
+      "rarity": "Legendary",
+      "releaseDate": "2018-06-12",
+      "category": "Warcraft",
+      "gender": "Male",
+      "heroId": "AI",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_drekthar.png",
+      "rewardLicenseIds": [
+        "DrekTharA"
+      ]
+    },
+    "DVaAnnouncer": {
+      "hyperlinkId": "DVaAnnouncer",
+      "attributeId": "ADVA",
+      "rarity": "Legendary",
+      "releaseDate": "2017-05-16",
+      "category": "Overwatch",
+      "gender": "Female",
+      "heroId": "DVa",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_dva.png",
+      "rewardLicenseIds": [
+        "DVaAnnouncer"
+      ]
+    },
+    "ETCA": {
+      "hyperlinkId": "ETCAnnouncer",
+      "attributeId": "LETC",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "gender": "Unknown",
+      "heroId": "L90ETC",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_etc.png",
+      "rewardLicenseIds": [
+        "ETCA"
+      ]
+    },
+    "FalstadA": {
+      "hyperlinkId": "FalstadAnnouncer",
+      "attributeId": "FALS",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "gender": "Unknown",
+      "heroId": "Falstad",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_falstad.png",
+      "rewardLicenseIds": [
+        "FalstadA"
+      ]
+    },
+    "FenixA": {
+      "hyperlinkId": "FenixAnnouncer",
+      "attributeId": "AFEN",
+      "rarity": "Epic",
+      "releaseDate": "2018-03-27",
+      "category": "Starcraft",
+      "gender": "Male",
+      "heroId": "Fenix",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_fenix.png",
+      "rewardLicenseIds": [
+        "FenixA"
+      ]
+    },
+    "GardensDayAnnouncer": {
+      "hyperlinkId": "QueenNightshadeAnnouncer",
+      "attributeId": "SPOA",
+      "rarity": "Legendary",
+      "releaseDate": "2018-09-25",
+      "category": "Default",
+      "gender": "Unknown",
+      "heroId": "AI",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_queen_nightshade.png",
+      "rewardLicenseIds": [
+        "GardensDayAnnouncer"
+      ]
+    },
+    "GardensNightAnnouncer": {
+      "hyperlinkId": "##heroid##Announcer",
+      "attributeId": "SPOB",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Default",
+      "gender": "Unknown",
+      "heroId": "##heroid##",
+      "isFreePlay": false
+    },
+    "GarroshA": {
+      "hyperlinkId": "GarroshAnnouncer",
+      "attributeId": "AGAR",
+      "rarity": "Epic",
+      "releaseDate": "2017-08-08",
+      "category": "Warcraft",
+      "gender": "Male",
+      "heroId": "Garrosh",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_garrosh.png",
+      "rewardLicenseIds": [
+        "GarroshA"
+      ]
+    },
+    "GazloweA": {
+      "hyperlinkId": "GazloweAnnouncer",
+      "attributeId": "TINK",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "gender": "Unknown",
+      "heroId": "Tinker",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_gazlowe.png",
+      "rewardLicenseIds": [
+        "GazloweA"
+      ]
+    },
+    "GenjiAnnouncer": {
+      "hyperlinkId": "GenjiAnnouncer",
+      "attributeId": "AGEN",
+      "rarity": "Epic",
+      "releaseDate": "2017-05-16",
+      "category": "Overwatch",
+      "gender": "Male",
+      "heroId": "Genji",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_genji.png",
+      "rewardLicenseIds": [
+        "GenjiAnnouncer"
+      ]
+    },
+    "HanzoA": {
+      "hyperlinkId": "HanzoAnnouncer",
+      "attributeId": "AHAN",
+      "rarity": "Epic",
+      "releaseDate": "2017-12-12",
+      "category": "Overwatch",
+      "gender": "Male",
+      "heroId": "Hanzo",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_hanzo.png",
+      "rewardLicenseIds": [
+        "HanzoA"
+      ]
+    },
+    "HoggerAnnouncer": {
+      "hyperlinkId": "HoggerAnnouncer",
+      "attributeId": "HOGA",
+      "rarity": "Epic",
+      "releaseDate": "2020-12-01",
+      "category": "Warcraft",
+      "heroId": "Hogger",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_hogger.png",
+      "rewardLicenseIds": [
+        "HoggerAnnouncer"
+      ]
+    },
+    "IllidanA": {
+      "hyperlinkId": "IllidanAnnouncer",
+      "attributeId": "ILLI",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "gender": "Unknown",
+      "heroId": "Illidan",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_illidan.png",
+      "rewardLicenseIds": [
+        "IllidanA"
+      ]
+    },
+    "ImperiusA": {
+      "hyperlinkId": "ImperiusAnnouncer",
+      "attributeId": "ImpA",
+      "rarity": "Legendary",
+      "releaseDate": "2019-01-08",
+      "category": "Diablo",
+      "gender": "Unknown",
+      "heroId": "Imperius",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_imperius.png",
+      "rewardLicenseIds": [
+        "ImperiusA"
+      ]
+    },
+    "JainaA": {
+      "hyperlinkId": "JainaAnnouncer",
+      "attributeId": "AJAN",
+      "rarity": "Epic",
+      "releaseDate": "2017-09-05",
+      "category": "Warcraft",
+      "gender": "Female",
+      "heroId": "Jaina",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_jaina.png",
+      "rewardLicenseIds": [
+        "JainaA"
+      ]
+    },
+    "JohannaA": {
+      "hyperlinkId": "JohannaAnnouncer",
+      "attributeId": "AJOH",
+      "rarity": "Epic",
+      "releaseDate": "2019-01-08",
+      "category": "Diablo",
+      "gender": "Female",
+      "heroId": "Crusader",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_johanna.png",
+      "rewardLicenseIds": [
+        "JohannaA"
+      ]
+    },
+    "JunkratA": {
+      "hyperlinkId": "JunkratAnnouncer",
+      "attributeId": "AJUN",
+      "rarity": "Legendary",
+      "releaseDate": "2017-10-17",
+      "category": "Overwatch",
+      "gender": "Male",
+      "heroId": "Junkrat",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_junkrat.png",
+      "rewardLicenseIds": [
+        "JunkratA"
+      ]
+    },
+    "KelthuzadA": {
+      "hyperlinkId": "KelThuzadAnnouncer",
+      "attributeId": "AKEL",
+      "rarity": "Epic",
+      "releaseDate": "2017-09-05",
+      "category": "Warcraft",
+      "gender": "Male",
+      "heroId": "KelThuzad",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_kelthuzad.png",
+      "rewardLicenseIds": [
+        "KelthuzadA"
+      ]
+    },
+    "KidA": {
+      "hyperlinkId": "TheKidAnnouncer",
+      "attributeId": "AKID",
+      "rarity": "Common",
+      "releaseDate": "2018-12-11",
+      "category": "Default",
+      "gender": "Unknown",
+      "heroId": "AI",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_thekid.png",
+      "rewardLicenseIds": [
+        "KidA"
+      ]
+    },
+    "LadyofThorns": {
+      "hyperlinkId": "LadyofThornsAnnouncer",
+      "attributeId": "ALOT",
+      "rarity": "Legendary",
+      "releaseDate": "2018-09-25",
+      "category": "Default",
+      "gender": "Unknown",
+      "heroId": "AI",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_lady_of_thorns.png",
+      "rewardLicenseIds": [
+        "LadyofThorns"
+      ]
+    },
+    "LiLiA": {
+      "hyperlinkId": "LiLiAnnouncer",
+      "attributeId": "ALIL",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "gender": "Unknown",
+      "heroId": "LiLi",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_lili.png",
+      "rewardLicenseIds": [
+        "LiLiA"
+      ]
+    },
+    "MaievA": {
+      "hyperlinkId": "MaievAnnouncer",
+      "attributeId": "AMAI",
+      "rarity": "Epic",
+      "releaseDate": "2018-02-06",
+      "category": "Warcraft",
+      "gender": "Female",
+      "heroId": "Maiev",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_maiev.png",
+      "rewardLicenseIds": [
+        "MaievA"
+      ]
+    },
+    "MalfurionA": {
+      "hyperlinkId": "MalfurionAnnouncer",
+      "attributeId": "AMAL",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "gender": "Unknown",
+      "heroId": "Malfurion",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_malfurion.png",
+      "rewardLicenseIds": [
+        "MalfurionA"
+      ]
+    },
+    "MalGanisA": {
+      "hyperlinkId": "MalGanisAnnouncer",
+      "attributeId": "AMAG",
+      "rarity": "Epic",
+      "releaseDate": "2018-10-16",
+      "category": "Warcraft",
+      "gender": "Male",
+      "heroId": "MalGanis",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_malganis.png",
+      "rewardLicenseIds": [
+        "MalGanisA"
+      ]
+    },
+    "MeiOWA": {
+      "hyperlinkId": "MeiOWAnnouncer",
+      "attributeId": "MEIA",
+      "rarity": "Epic",
+      "releaseDate": "2020-06-25",
+      "category": "Overwatch",
+      "gender": "Female",
+      "heroId": "MeiOW",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_meiow.png",
+      "rewardLicenseIds": [
+        "MeiOWA"
+      ]
+    },
+    "MephistoA": {
+      "hyperlinkId": "MephistoAnnouncer",
+      "attributeId": "AMEP",
+      "rarity": "Epic",
+      "releaseDate": "2018-09-04",
+      "category": "Diablo",
+      "gender": "Male",
+      "heroId": "Mephisto",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_mephisto.png",
+      "rewardLicenseIds": [
+        "MephistoA"
+      ]
+    },
+    "MiraA": {
+      "hyperlinkId": "MiraHanAnnouncer",
+      "attributeId": "AMIR",
+      "rarity": "Legendary",
+      "releaseDate": "2018-03-27",
+      "category": "Starcraft",
+      "gender": "Female",
+      "heroId": "AI",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_mirahan.png",
+      "rewardLicenseIds": [
+        "MiraA"
+      ]
+    },
+    "MuradinA": {
+      "hyperlinkId": "MuradinAnnouncer",
+      "attributeId": "MURA",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "gender": "Unknown",
+      "heroId": "Muradin",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_muradin.png",
+      "rewardLicenseIds": [
+        "MuradinA"
+      ]
+    },
+    "MurkyA": {
+      "hyperlinkId": "MurkyAnnouncer",
+      "attributeId": "MUKY",
+      "rarity": "Legendary",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "gender": "Unknown",
+      "heroId": "Murky",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_murky.png",
+      "rewardLicenseIds": [
+        "MurkyA"
+      ]
+    },
+    "Necromancer": {
+      "hyperlinkId": "GraveKeeperAnnouncer",
+      "attributeId": "AGRA",
+      "rarity": "Legendary",
+      "releaseDate": "2018-04-24",
+      "category": "Default",
+      "gender": "Male",
+      "heroId": "AI",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_gravekeeper.png",
+      "rewardLicenseIds": [
+        "NecromancerA"
+      ]
+    },
+    "NexusHunterA": {
+      "hyperlinkId": "NexusHunterAnnouncer",
+      "attributeId": "NXHA",
+      "rarity": "Epic",
+      "releaseDate": "2019-08-06",
+      "category": "Default",
+      "gender": "Female",
+      "heroId": "NexusHunter",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_nexushunter.png",
+      "rewardLicenseIds": [
+        "NexusHunterA"
+      ]
+    },
+    "NoAnnouncerPack": {
+      "hyperlinkId": "NoAnnouncerPack",
+      "attributeId": "NoAP",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Default",
+      "heroId": "AI",
+      "isFreePlay": true,
+      "image": "storm_ui_announcer_default.png"
+    },
+    "OrpheaA": {
+      "hyperlinkId": "OrpheaAnnouncer",
+      "attributeId": "AORP",
+      "rarity": "Epic",
+      "releaseDate": "2018-11-13",
+      "category": "Default",
+      "gender": "Female",
+      "heroId": "Orphea",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_orphea.png",
+      "rewardLicenseIds": [
+        "OrpheaA"
+      ]
+    },
+    "Quality": {
+      "hyperlinkId": "##heroid##Announcer",
+      "attributeId": "LOTQ",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Default",
+      "gender": "Unknown",
+      "heroId": "##heroid##",
+      "isFreePlay": false
+    },
+    "RandomAnnouncerPack": {
+      "hyperlinkId": "RandomAnnouncerPack",
+      "attributeId": "Rand",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "isFreePlay": false
+    },
+    "RavenLord": {
+      "hyperlinkId": "RavenLordAnnouncer",
+      "attributeId": "ARAV",
+      "rarity": "Legendary",
+      "releaseDate": "2018-04-24",
+      "category": "Default",
+      "gender": "Male",
+      "heroId": "AI",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_ravenlord.png",
+      "rewardLicenseIds": [
+        "RavenLord"
+      ]
+    },
+    "RehgarA": {
+      "hyperlinkId": "RehgarAnnouncer",
+      "attributeId": "AREG",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "gender": "Unknown",
+      "heroId": "Rehgar",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_rehgar.png",
+      "rewardLicenseIds": [
+        "RehgarA"
+      ]
+    },
+    "RingAnnouncer": {
+      "hyperlinkId": "ElGuapoAnnouncer",
+      "attributeId": "AELG",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "gender": "Male",
+      "heroId": "AI",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_elguapo.png",
+      "rewardLicenseIds": [
+        "RingAnnouncer"
+      ]
+    },
+    "SiegeTankA": {
+      "hyperlinkId": "SgtHammerAnnouncer",
+      "attributeId": "ASGT",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Starcraft",
+      "gender": "Unknown",
+      "heroId": "SgtHammer",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_sgthammer.png",
+      "rewardLicenseIds": [
+        "SiegeTankA"
+      ]
+    },
+    "SnakeGod": {
+      "hyperlinkId": "KaAnnouncer",
+      "attributeId": "SNAK",
+      "rarity": "Legendary",
+      "releaseDate": "2018-11-13",
+      "category": "Default",
+      "gender": "Male",
+      "heroId": "AI",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_ka.png",
+      "rewardLicenseIds": [
+        "SnakeGod"
+      ]
+    },
+    "SpiderQueen": {
+      "hyperlinkId": "NeithisAnnouncer",
+      "attributeId": "SPID",
+      "rarity": "Legendary",
+      "releaseDate": "2018-11-13",
+      "category": "Default",
+      "gender": "Female",
+      "heroId": "AI",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_neithis.png",
+      "rewardLicenseIds": [
+        "SpiderQueen"
+      ]
+    },
+    "StitchesA": {
+      "hyperlinkId": "StitchesAnnouncer",
+      "attributeId": "STIT",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "gender": "Unknown",
+      "heroId": "Stitches",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_stitches.png",
+      "rewardLicenseIds": [
+        "StitchesA"
+      ]
+    },
+    "TassadarA": {
+      "hyperlinkId": "TassadarAnnouncer",
+      "attributeId": "TA01",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Starcraft",
+      "gender": "Unknown",
+      "heroId": "Tassadar",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_tassadar.png",
+      "rewardLicenseIds": [
+        "TassadarA"
+      ]
+    },
+    "TychusA": {
+      "hyperlinkId": "TychusAnnouncer",
+      "attributeId": "TYCH",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Starcraft",
+      "gender": "Unknown",
+      "heroId": "Tychus",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_tychus.png",
+      "rewardLicenseIds": [
+        "TychusA"
+      ]
+    },
+    "TyraelA": {
+      "hyperlinkId": "TyraelAnnouncer",
+      "attributeId": "ATYR",
+      "rarity": "Epic",
+      "releaseDate": "2018-01-09",
+      "category": "Diablo",
+      "gender": "Male",
+      "heroId": "Tyrael",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_tyrael.png",
+      "rewardLicenseIds": [
+        "TyraelA"
+      ]
+    },
+    "TyraelMechaA": {
+      "hyperlinkId": "MechaTyraelAnnouncer",
+      "attributeId": "AMTY",
+      "rarity": "Legendary",
+      "releaseDate": "2018-01-16",
+      "category": "Default",
+      "gender": "Male",
+      "heroId": "Tyrael",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_tyrael_mecha.png",
+      "rewardLicenseIds": [
+        "TyraelMechaA"
+      ]
+    },
+    "VanndarA": {
+      "hyperlinkId": "VanndarAnnouncer",
+      "attributeId": "AVAN",
+      "rarity": "Legendary",
+      "releaseDate": "2018-06-12",
+      "category": "Warcraft",
+      "gender": "Male",
+      "heroId": "AI",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_vanndar.png",
+      "rewardLicenseIds": [
+        "VanndarA"
+      ]
+    },
+    "WhitemaneA": {
+      "hyperlinkId": "WhitemaneAnnouncer",
+      "attributeId": "AWHI",
+      "rarity": "Epic",
+      "releaseDate": "2018-08-07",
+      "category": "Warcraft",
+      "gender": "Female",
+      "heroId": "Whitemane",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_whitemane.png",
+      "rewardLicenseIds": [
+        "WhitemaneA"
+      ]
+    },
+    "WitchDoctorA": {
+      "hyperlinkId": "NazeeboAnnouncer",
+      "attributeId": "WITH",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Diablo",
+      "gender": "Unknown",
+      "heroId": "WitchDoctor",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_nazeebo.png",
+      "rewardLicenseIds": [
+        "WitchDoctorA"
+      ]
+    },
+    "YrelA": {
+      "hyperlinkId": "YrelAnnouncer",
+      "attributeId": "AYRE",
+      "rarity": "Epic",
+      "releaseDate": "2018-06-12",
+      "category": "Warcraft",
+      "gender": "Female",
+      "heroId": "Yrel",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_yrel.png",
+      "rewardLicenseIds": [
+        "YrelA"
+      ]
+    },
+    "ZeratulA": {
+      "hyperlinkId": "ZeratulAnnouncer",
+      "attributeId": "ZRTU",
+      "rarity": "Epic",
+      "releaseDate": "2014-03-13",
+      "category": "Starcraft",
+      "gender": "Unknown",
+      "heroId": "Zeratul",
+      "isFreePlay": false,
+      "image": "storm_ui_announcer_zeratul.png",
+      "rewardLicenseIds": [
+        "ZeratulA"
+      ]
+    }
+  }
+}
