@@ -1,0 +1,82 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Silver City"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneBrew|B",
+    "value": "Depois de canalizar por <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> s, teleporta você de volta para o Salão das Tempestades."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneNoMana|B",
+    "value": "Depois de canalizar por <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> s, teleporta você de volta para o Salão das Tempestades."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|Hearthstone|B",
+    "value": "Depois de canalizar por <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> s, teleporta você de volta para o Salão das Tempestades."
+  },
+  {
+    "op": "replace",
+    "path": "/items/hero/expandedRole/Varian",
+    "value": "Tanque"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/HeroChenEarth",
+    "value": "HeroChenEarth"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/HeroChenFire",
+    "value": "HeroChenFire"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/HeroChenStorm",
+    "value": "HeroChenStorm"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperDefender",
+    "value": "Empalador"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperLaner",
+    "value": "Empalador"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerDefender",
+    "value": "Xamã Decaído"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerDefenderMinion",
+    "value": "Cão Decaído"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerLaner",
+    "value": "Xamã Decaído"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSummonerLanerMinion",
+    "value": "Cão Decaído"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WeaponRackSpecialHeaven",
+    "value": "Cavalete de Armas - Especial (Céu)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WeaponRackSpecialHell",
+    "value": "Cavalete de Armas - Especial (Inferno)"
+  }
+]

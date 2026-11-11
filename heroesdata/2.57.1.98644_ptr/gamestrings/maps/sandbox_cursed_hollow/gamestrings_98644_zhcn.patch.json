@@ -1,0 +1,27 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Sandbox (Cursed Hollow)"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/CursedHollowCoreCurse|CursedHollowCoreCurse|Q",
+    "value": "冷却时间：3秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/CursedHollowCoreCurse|CursedHollowCoreCurse|Q",
+    "value": "在短暂的延迟后，对一片区域内的英雄造成相当于其最大生命值<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c>的伤害，并使其护甲值降低<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75</c>点，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>秒。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/CursedHollowCoreCurse|CursedHollowCoreCurse|Q",
+    "value": "诅咒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/CursedHollowCoreCurse|CursedHollowCoreCurse|Q",
+    "value": "造成伤害并大幅降低一名英雄的护甲"
+  }
+]

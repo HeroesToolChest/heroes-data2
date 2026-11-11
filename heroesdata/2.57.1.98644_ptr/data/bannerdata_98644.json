@@ -1,0 +1,2251 @@
+{
+  "meta": {
+    "heroesVersion": "2.57.1.98644_ptr",
+    "hdpVersion": "5.2.0",
+    "itemsType": "Data",
+    "dataType": "BannerData",
+    "localizedText": "Extracted",
+    "totalItems": 203
+  },
+  "items": {
+    "BannerD3DemonHunter": {
+      "hyperlinkId": "DemonHunterBanner",
+      "attributeId": "BN05",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Diablo",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "DemonHunterBanner"
+      ]
+    },
+    "BannerD3DemonHunterRare": {
+      "hyperlinkId": "DemonHunterWarbanner",
+      "attributeId": "BN08",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Diablo",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "DemonHunterWarbanner"
+      ]
+    },
+    "BannerD3DemonHunterRareVar1": {
+      "hyperlinkId": "AzureDemonHunterWarbanner",
+      "attributeId": "BN09",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Diablo",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "AzureDemonHunterWarbanner"
+      ]
+    },
+    "BannerD3DemonHunterRareVar2": {
+      "hyperlinkId": "CrimsonDemonHunterWarbanner",
+      "attributeId": "BN10",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Diablo",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "CrimsonDemonHunterWarbanner"
+      ]
+    },
+    "BannerD3DemonHunterVar1": {
+      "hyperlinkId": "AzureDemonHunterBanner",
+      "attributeId": "BN06",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Diablo",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "AzureDemonHunterBanner"
+      ]
+    },
+    "BannerD3DemonHunterVar2": {
+      "hyperlinkId": "CrimsonDemonHunterBanner",
+      "attributeId": "BN07",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Diablo",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "CrimsonDemonHunterBanner"
+      ]
+    },
+    "BannerD3WitchDoctor": {
+      "hyperlinkId": "WitchDoctorBanner",
+      "attributeId": "BN0a",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Diablo",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "WitchDoctorBanner"
+      ]
+    },
+    "BannerD3WitchDoctorRare": {
+      "hyperlinkId": "WitchDoctorWarbanner",
+      "attributeId": "BN0b",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Diablo",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "WitchDoctorWarbanner"
+      ]
+    },
+    "BannerD3WitchDoctorRareVar1": {
+      "hyperlinkId": "ToxicWitchDoctorWarbanner",
+      "attributeId": "BN0c",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Diablo",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "ToxicWitchDoctorWarbanner"
+      ]
+    },
+    "BannerD3WitchDoctorRareVar2": {
+      "hyperlinkId": "CrimsonWitchDoctorWarbanner",
+      "attributeId": "BN0d",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Diablo",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "CrimsonWitchDoctorWarbanner"
+      ]
+    },
+    "BannerD3WitchDoctorVar1": {
+      "hyperlinkId": "ToxicWitchDoctorBanner",
+      "attributeId": "BN0e",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Diablo",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "ToxicWitchDoctorBanner"
+      ]
+    },
+    "BannerD3WitchDoctorVar2": {
+      "hyperlinkId": "CrimsonWitchDoctorBanner",
+      "attributeId": "BN0f",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Diablo",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "CrimsonWitchDoctorBanner"
+      ]
+    },
+    "BannerD3Wizard": {
+      "hyperlinkId": "WizardBanner",
+      "attributeId": "BN11",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Diablo",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "WizardBanner"
+      ]
+    },
+    "BannerD3WizardRare": {
+      "hyperlinkId": "WizardWarbanner",
+      "attributeId": "BN14",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Diablo",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "WizardWarbanner"
+      ]
+    },
+    "BannerD3WizardRareVar1": {
+      "hyperlinkId": "AmberWizardWarbanner",
+      "attributeId": "BN15",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Diablo",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "AmberWizardWarbanner"
+      ]
+    },
+    "BannerD3WizardRareVar2": {
+      "hyperlinkId": "VioletWizardWarbanner",
+      "attributeId": "BN16",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Diablo",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "VioletWizardWarbanner"
+      ]
+    },
+    "BannerD3WizardVar1": {
+      "hyperlinkId": "AmberWizardBanner",
+      "attributeId": "BN12",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Diablo",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "AmberWizardBanner"
+      ]
+    },
+    "BannerD3WizardVar2": {
+      "hyperlinkId": "VioletWizardBanner",
+      "attributeId": "BN13",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Diablo",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "VioletWizardBanner"
+      ]
+    },
+    "BannerDefault": {
+      "hyperlinkId": "NexusBanner",
+      "attributeId": "BN17",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Default",
+      "isFreePlay": true
+    },
+    "BannerDF3YearAnniversary": {
+      "hyperlinkId": "3rdYearAnniversaryBanner",
+      "attributeId": "BNa7",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDF3YearAnniversary"
+      ]
+    },
+    "BannerDF4YearAnniversary": {
+      "hyperlinkId": "BannerDF4YearAnniversary",
+      "attributeId": "BNc6",
+      "rarity": "Common",
+      "releaseDate": "2019-04-30",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDF4YearAnniversary"
+      ]
+    },
+    "BannerDF5YearAnniversary": {
+      "hyperlinkId": "BannerDF5YearAnniversary",
+      "attributeId": "BNc4",
+      "rarity": "Common",
+      "releaseDate": "2020-04-14",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDF5YearAnniversary"
+      ]
+    },
+    "BannerDF65YearAnniversary": {
+      "hyperlinkId": "BannerDF65YearAnniversary",
+      "attributeId": "BNc8",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDF65YearAnniversary"
+      ]
+    },
+    "BannerDF6YearAnniversaryGold": {
+      "hyperlinkId": "BannerDF6YearAnniversaryGold",
+      "attributeId": "BNc9",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDF6YearAnniversaryGold"
+      ]
+    },
+    "BannerDF6YearAnniversaryPurple": {
+      "hyperlinkId": "BannerDF6YearAnniversaryPurple",
+      "attributeId": "BNca",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDF6YearAnniversaryPurple"
+      ]
+    },
+    "BannerDFBlizzcon2017": {
+      "hyperlinkId": "BlizzCon2017Banner",
+      "attributeId": "BN80",
+      "rarity": "Common",
+      "releaseDate": "2017-10-17",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFBlizzcon2017"
+      ]
+    },
+    "BannerDFBlizzcon2018": {
+      "hyperlinkId": "BlizzCon2018Banner",
+      "attributeId": "BNc2",
+      "rarity": "Common",
+      "releaseDate": "2018-09-25",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFBlizzcon2018"
+      ]
+    },
+    "BannerDFCommunity65Base": {
+      "hyperlinkId": "OkayBanner",
+      "attributeId": "BN8b",
+      "rarity": "Common",
+      "releaseDate": "2018-11-27",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFCommunity65Base"
+      ]
+    },
+    "BannerDFCommunity65Rare": {
+      "hyperlinkId": "AscendedBanner",
+      "attributeId": "BN88",
+      "rarity": "Rare",
+      "releaseDate": "2018-11-27",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFCommunity65Rare"
+      ]
+    },
+    "BannerDFEsportsChess": {
+      "hyperlinkId": "KnightCommandersBanner",
+      "attributeId": "BN49",
+      "rarity": "Common",
+      "releaseDate": "2017-04-25",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsChess"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareAteam": {
+      "hyperlinkId": "ATeam2018Warbanner",
+      "attributeId": "BNb1",
+      "rarity": "Common",
+      "releaseDate": "2018-08-07",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareAteam"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareBallistix": {
+      "hyperlinkId": "Ballistix2018PhaseOneWarbanner",
+      "attributeId": "BN9a",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareBallistix"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareBlossom": {
+      "hyperlinkId": "TeamBlossoM2018PhaseOneWarbanner",
+      "attributeId": "BN7d",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareBlossom"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareBTG": {
+      "hyperlinkId": "BTG2018PhaseOneWarbanner",
+      "attributeId": "BN7f",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareBTG"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareCE": {
+      "hyperlinkId": "CE2018PhaseOneWarbanner",
+      "attributeId": "BN7e",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareCE"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareDiamondSkin": {
+      "hyperlinkId": "DiamondSkin2018PhaseOneWarbanner",
+      "attributeId": "BN81",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareDiamondSkin"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareEndemic": {
+      "hyperlinkId": "Endemic2018Warbanner",
+      "attributeId": "BNb3",
+      "rarity": "Common",
+      "releaseDate": "2018-08-07",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareEndemic"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareFeliz": {
+      "hyperlinkId": "Feliz2018PhaseOneWarbanner",
+      "attributeId": "BN9d",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareFeliz"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareFnatic": {
+      "hyperlinkId": "Fnatic2018PhaseOneWarbanner",
+      "attributeId": "BN82",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareFnatic"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareGaleForce": {
+      "hyperlinkId": "GaleForceEsports2018PhaseOneWarbanner",
+      "attributeId": "BN84",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareGaleForce"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareGenG": {
+      "hyperlinkId": "GenG2018Warbanner",
+      "attributeId": "BNac",
+      "rarity": "Common",
+      "releaseDate": "2018-08-07",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareGenG"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareGoodLuck": {
+      "hyperlinkId": "GLuck2018PhaseOneWarbanner",
+      "attributeId": "BN9c",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareGoodLuck"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareGrantGaming": {
+      "hyperlinkId": "GranitGaming2018Warbanner",
+      "attributeId": "BNb4",
+      "rarity": "Common",
+      "releaseDate": "2018-08-07",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareGrantGaming"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareHeroesHearth": {
+      "hyperlinkId": "HeroesHearthEsports2018PhaseOneWarbanner",
+      "attributeId": "BN87",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareHeroesHearth"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareHGCCommon": {
+      "hyperlinkId": "HGC2018PhaseOneWarbanner",
+      "attributeId": "BN96",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareHGCCommon"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareHGCEpic": {
+      "hyperlinkId": "EpicHGC2018PhaseOneWarbanner",
+      "attributeId": "BN97",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareHGCEpic"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareHGCLegendary": {
+      "hyperlinkId": "LegendaryHGC2018PhaseOneWarbanner",
+      "attributeId": "BN98",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareHGCLegendary"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareHGCRare": {
+      "hyperlinkId": "RareHGC2018PhaseOneWarbanner",
+      "attributeId": "BN95",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareHGCRare"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareKSV": {
+      "hyperlinkId": "KSV2018PhaseOneWarbanner",
+      "attributeId": "BN9b",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareKSV"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareKT": {
+      "hyperlinkId": "KT2018PhaseOneWarbanner",
+      "attributeId": "BNa6",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareKT"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareLeftovers": {
+      "hyperlinkId": "Leftovers2018PhaseOneWarbanner",
+      "attributeId": "BN86",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareLeftovers"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareLFM": {
+      "hyperlinkId": "LFMEsports2018PhaseOneWarbanner",
+      "attributeId": "BNa0",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareLFM"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareMenagarie": {
+      "hyperlinkId": "MonkeyMenagerie2018Warbanner",
+      "attributeId": "BNae",
+      "rarity": "Common",
+      "releaseDate": "2018-08-07",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareMenagarie"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareMethod": {
+      "hyperlinkId": "Method2018PhaseOneWarbanner",
+      "attributeId": "BN9f",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareMethod"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareMiracle": {
+      "hyperlinkId": "Miracle2018PhaseOneWarbanner",
+      "attributeId": "BNa3",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareMiracle"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareNoTomorrow": {
+      "hyperlinkId": "NoTomorrow2018PhaseOneWarbanner",
+      "attributeId": "BNa5",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareNoTomorrow"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareOctalysis": {
+      "hyperlinkId": "TeamOctalysis2018Warbanner",
+      "attributeId": "BNaa",
+      "rarity": "Common",
+      "releaseDate": "2018-06-12",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareOctalysis"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareRoll20": {
+      "hyperlinkId": "Roll20esports2018Warbanner",
+      "attributeId": "BN85",
+      "rarity": "Common",
+      "releaseDate": "2018-10-16",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareRoll20"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareRPG": {
+      "hyperlinkId": "RPG2018PhaseOneWarbanner",
+      "attributeId": "BN8a",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareRPG"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareSimplicity": {
+      "hyperlinkId": "Simplicity2018PhaseOneWarbanner",
+      "attributeId": "BN9e",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareSimplicity"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareSOA": {
+      "hyperlinkId": "SoA2018PhaseOneWarbanner",
+      "attributeId": "BN89",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareSOA"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareSPT": {
+      "hyperlinkId": "SPT2018PhaseOneWarbanner",
+      "attributeId": "BN8c",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareSPT"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareSunnyLion": {
+      "hyperlinkId": "SunnyLion2018PhaseOneWarbanner",
+      "attributeId": "BNa1",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareSunnyLion"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareSupernova": {
+      "hyperlinkId": "Supernova2018Warbanner",
+      "attributeId": "BNab",
+      "rarity": "Common",
+      "releaseDate": "2018-07-10",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareSupernova"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareTeamAce": {
+      "hyperlinkId": "TeamAce2018PhaseOneWarbanner",
+      "attributeId": "BNa2",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareTeamAce"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareTeamDignitas": {
+      "hyperlinkId": "TeamDignitas2018PhaseOneWarbanner",
+      "attributeId": "BN83",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareTeamDignitas"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareTeamFreedom": {
+      "hyperlinkId": "TeamFreedom2018PhaseOneWarbanner",
+      "attributeId": "BN8e",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareTeamFreedom"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareTeamLiquid": {
+      "hyperlinkId": "TeamLiquid2018PhaseOneWarbanner",
+      "attributeId": "BN90",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareTeamLiquid"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareTeamNut": {
+      "hyperlinkId": "TeamNut2018Warbanner",
+      "attributeId": "BNb2",
+      "rarity": "Common",
+      "releaseDate": "2018-08-07",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareTeamNut"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareTeamTwelve": {
+      "hyperlinkId": "TeamTwelve2018Warbanner",
+      "attributeId": "BN99",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareTeamTwelve"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareTempest": {
+      "hyperlinkId": "Tempest2018PhaseOneWarbanner",
+      "attributeId": "BN8f",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareTempest"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareTempoStorm": {
+      "hyperlinkId": "TempoStorm2018PhaseOneWarbanner",
+      "attributeId": "BN92",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareTempoStorm"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareTheOne": {
+      "hyperlinkId": "TheOne2018PhaseOneWarbanner",
+      "attributeId": "BN91",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareTheOne"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareTricked": {
+      "hyperlinkId": "TrickedEsports2018PhaseOneWarbanner",
+      "attributeId": "BN94",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareTricked"
+      ]
+    },
+    "BannerDFEsportsWarChest18RareZealots": {
+      "hyperlinkId": "Zealots2018PhaseOneWarbanner",
+      "attributeId": "BN93",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChest18RareZealots"
+      ]
+    },
+    "BannerDFEsportsWarChestRareBlossom": {
+      "hyperlinkId": "TeamBlossoMWarbanner",
+      "attributeId": "BN61",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareBlossom"
+      ]
+    },
+    "BannerDFEsportsWarChestRareBTG": {
+      "hyperlinkId": "BeyondTheGameWarbanner",
+      "attributeId": "BN76",
+      "rarity": "Common",
+      "releaseDate": "2017-09-26",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareBTG"
+      ]
+    },
+    "BannerDFEsportsWarChestRareCE": {
+      "hyperlinkId": "CEWarbanner",
+      "attributeId": "BN64",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareCE"
+      ]
+    },
+    "BannerDFEsportsWarChestRareDignitas": {
+      "hyperlinkId": "TeamDignitasWarbanner",
+      "attributeId": "BN5a",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareDignitas"
+      ]
+    },
+    "BannerDFEsportsWarChestRareEStar": {
+      "hyperlinkId": "eStarGamingWarbanner",
+      "attributeId": "BN5d",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareEStar"
+      ]
+    },
+    "BannerDFEsportsWarChestRareEvenInDeath": {
+      "hyperlinkId": "EveninDeathWarbanner",
+      "attributeId": "BN71",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareEvenInDeath"
+      ]
+    },
+    "BannerDFEsportsWarChestRareFNATIC": {
+      "hyperlinkId": "FnaticWarbanner",
+      "attributeId": "BN56",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareFNATIC"
+      ]
+    },
+    "BannerDFEsportsWarChestRareGaleForce": {
+      "hyperlinkId": "GaleForceeSportsWarbanner",
+      "attributeId": "BN5c",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareGaleForce"
+      ]
+    },
+    "BannerDFEsportsWarChestRareGoodGuys": {
+      "hyperlinkId": "TeamGoodGuysWarbanner",
+      "attributeId": "BN55",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareGoodGuys"
+      ]
+    },
+    "BannerDFEsportsWarChestRareHGC": {
+      "hyperlinkId": "HGCWarbanner",
+      "attributeId": "BN6f",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareHGC"
+      ]
+    },
+    "BannerDFEsportsWarChestRareHotsLady": {
+      "hyperlinkId": "HotsLadyWarbanner",
+      "attributeId": "BN62",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareHotsLady"
+      ]
+    },
+    "BannerDFEsportsWarChestRareKT": {
+      "hyperlinkId": "KTWarbanner",
+      "attributeId": "BN6c",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareKT"
+      ]
+    },
+    "BannerDFEsportsWarChestRareKTV1": {
+      "hyperlinkId": "KTClassicWarbanner",
+      "attributeId": "BN79",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareKTV1"
+      ]
+    },
+    "BannerDFEsportsWarChestRareL5": {
+      "hyperlinkId": "L5Warbanner",
+      "attributeId": "BN5b",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareL5"
+      ]
+    },
+    "BannerDFEsportsWarChestRareLagForce": {
+      "hyperlinkId": "LagForceWarbanner",
+      "attributeId": "BN77",
+      "rarity": "Common",
+      "releaseDate": "2017-09-26",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareLagForce"
+      ]
+    },
+    "BannerDFEsportsWarChestRareMighty": {
+      "hyperlinkId": "MightyWarbanner",
+      "attributeId": "BN57",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareMighty"
+      ]
+    },
+    "BannerDFEsportsWarChestRareMVPBlack": {
+      "hyperlinkId": "MVPBlackWarbanner",
+      "attributeId": "BN4f",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareMVPBlack"
+      ]
+    },
+    "BannerDFEsportsWarChestRareMVPMiracle": {
+      "hyperlinkId": "MVPMiracleWarbanner",
+      "attributeId": "BN68",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareMVPMiracle"
+      ]
+    },
+    "BannerDFEsportsWarChestRareNaventic": {
+      "hyperlinkId": "TeamNaventicWarbanner",
+      "attributeId": "BN67",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareNaventic"
+      ]
+    },
+    "BannerDFEsportsWarChestRareNoTomorrow": {
+      "hyperlinkId": "NoTomorrowWarbanner",
+      "attributeId": "BN78",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareNoTomorrow"
+      ]
+    },
+    "BannerDFEsportsWarChestRarePlayingDucks": {
+      "hyperlinkId": "PlayingDucksWarbanner",
+      "attributeId": "BN72",
+      "rarity": "Common",
+      "releaseDate": "2017-08-08",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRarePlayingDucks"
+      ]
+    },
+    "BannerDFEsportsWarChestRareRaven": {
+      "hyperlinkId": "RavenWarbanner",
+      "attributeId": "BN65",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareRaven"
+      ]
+    },
+    "BannerDFEsportsWarChestRareRoll20Esports": {
+      "hyperlinkId": "Roll20esportsWarbanner",
+      "attributeId": "BN6e",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareRoll20Esports"
+      ]
+    },
+    "BannerDFEsportsWarChestRareRPG": {
+      "hyperlinkId": "RPGWarbanner",
+      "attributeId": "BN63",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareRPG"
+      ]
+    },
+    "BannerDFEsportsWarChestRareRRR": {
+      "hyperlinkId": "RRRClassicWarbanner",
+      "attributeId": "BN6a",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareRRR"
+      ]
+    },
+    "BannerDFEsportsWarChestRareRRRV2": {
+      "hyperlinkId": "RRRWarbanner",
+      "attributeId": "BN74",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareRRRV2"
+      ]
+    },
+    "BannerDFEsportsWarChestRareSOA": {
+      "hyperlinkId": "StartOverAgainWarbanner",
+      "attributeId": "BN54",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareSOA"
+      ]
+    },
+    "BannerDFEsportsWarChestRareSpacestationGaming": {
+      "hyperlinkId": "SpaceStationGamingWarbanner",
+      "attributeId": "BN66",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareSpacestationGaming"
+      ]
+    },
+    "BannerDFEsportsWarChestRareSPT": {
+      "hyperlinkId": "SuperPerfectTeamWarbanner",
+      "attributeId": "BN4e",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareSPT"
+      ]
+    },
+    "BannerDFEsportsWarChestRareSuperstars": {
+      "hyperlinkId": "SuperstarsWarbanner",
+      "attributeId": "BN5f",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareSuperstars"
+      ]
+    },
+    "BannerDFEsportsWarChestRareTeamExpert": {
+      "hyperlinkId": "TeamexpertWarbanner",
+      "attributeId": "BN52",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareTeamExpert"
+      ]
+    },
+    "BannerDFEsportsWarChestRareTeamFreedom": {
+      "hyperlinkId": "TeamFreedomWarbanner",
+      "attributeId": "BN5e",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareTeamFreedom"
+      ]
+    },
+    "BannerDFEsportsWarChestRareTeamLiquid": {
+      "hyperlinkId": "TeamLiquidWarbanner",
+      "attributeId": "BN59",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareTeamLiquid"
+      ]
+    },
+    "BannerDFEsportsWarChestRareTempest": {
+      "hyperlinkId": "TempestWarbanner",
+      "attributeId": "BN58",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareTempest"
+      ]
+    },
+    "BannerDFEsportsWarChestRareTempoStorm": {
+      "hyperlinkId": "TempoStormWarbanner",
+      "attributeId": "BN50",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareTempoStorm"
+      ]
+    },
+    "BannerDFEsportsWarChestRareTheOne": {
+      "hyperlinkId": "TheOneWarbanner",
+      "attributeId": "BN75",
+      "rarity": "Common",
+      "releaseDate": "2017-09-26",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareTheOne"
+      ]
+    },
+    "BannerDFEsportsWarChestRareTricked": {
+      "hyperlinkId": "TrickedeSportWarbanner",
+      "attributeId": "BN6b",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareTricked"
+      ]
+    },
+    "BannerDFEsportsWarChestRareVar1": {
+      "hyperlinkId": "LegendaryHGCWarbanner",
+      "attributeId": "BN51",
+      "rarity": "Legendary",
+      "releaseDate": "2017-08-08",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareVar1"
+      ]
+    },
+    "BannerDFEsportsWarChestRareVar2": {
+      "hyperlinkId": "EpicHGCWarbanner",
+      "attributeId": "BN60",
+      "rarity": "Epic",
+      "releaseDate": "2017-08-08",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareVar2"
+      ]
+    },
+    "BannerDFEsportsWarChestRareVar3": {
+      "hyperlinkId": "RareHGCWarbanner",
+      "attributeId": "BN69",
+      "rarity": "Rare",
+      "releaseDate": "2017-08-08",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareVar3"
+      ]
+    },
+    "BannerDFEsportsWarChestRareWKG": {
+      "hyperlinkId": "WKGWarbanner",
+      "attributeId": "BN53",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareWKG"
+      ]
+    },
+    "BannerDFEsportsWarChestRareZealots": {
+      "hyperlinkId": "TeamZealotWarbanner",
+      "attributeId": "BN70",
+      "rarity": "Common",
+      "releaseDate": "2017-07-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFEsportsWarChestRareZealots"
+      ]
+    },
+    "BannerDFGhostSpooky18": {
+      "hyperlinkId": "SpectresPhantomsWarcrest",
+      "attributeId": "BNb0",
+      "rarity": "Rare",
+      "releaseDate": "2018-09-25",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFGhostSpooky18"
+      ]
+    },
+    "BannerDFGhostSpooky18Var1": {
+      "hyperlinkId": "RadiantSpectresPhantomsWarcrest",
+      "attributeId": "BNbb",
+      "rarity": "Rare",
+      "releaseDate": "2018-09-25",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFGhostSpooky18Var1"
+      ]
+    },
+    "BannerDFGhostSpooky18Var2": {
+      "hyperlinkId": "InfernalSpectresPhantomsWarcrest",
+      "attributeId": "BNbd",
+      "rarity": "Rare",
+      "releaseDate": "2018-09-25",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFGhostSpooky18Var2"
+      ]
+    },
+    "BannerDFGhostSpooky18Var3": {
+      "hyperlinkId": "ForgottenSpectresPhantomsWarcrest",
+      "attributeId": "BNbc",
+      "rarity": "Rare",
+      "releaseDate": "2018-09-25",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFGhostSpooky18Var3"
+      ]
+    },
+    "BannerDFGhostSpooky18Var4": {
+      "hyperlinkId": "ArcaneSpectresPhantomsWarcrest",
+      "attributeId": "BNb9",
+      "rarity": "Rare",
+      "releaseDate": "2018-09-25",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFGhostSpooky18Var4"
+      ]
+    },
+    "BannerDFHallowsEndPumpkin": {
+      "hyperlinkId": "HallowsEndWarcrest",
+      "attributeId": "BN7a",
+      "rarity": "Common",
+      "releaseDate": "2017-10-17",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFHallowsEndPumpkin"
+      ]
+    },
+    "BannerDFHGC2018Finals": {
+      "hyperlinkId": "2018HGCFinalsWarbanner",
+      "attributeId": "BNc5",
+      "rarity": "Common",
+      "releaseDate": "2018-12-11",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFHGC2018Finals"
+      ]
+    },
+    "BannerDFLunar2018": {
+      "hyperlinkId": "LunarWarcrest",
+      "attributeId": "BN7b",
+      "rarity": "Common",
+      "releaseDate": "2018-02-06",
+      "category": "SeasonalEvents",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFLunar2018"
+      ]
+    },
+    "BannerDFSecondBday": {
+      "hyperlinkId": "BannerDFSecondBday",
+      "attributeId": "BN48",
+      "rarity": "Common",
+      "releaseDate": "2017-05-16",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFSecondBday"
+      ]
+    },
+    "BannerDFSpooky18": {
+      "hyperlinkId": "RavenArmyWarcrest",
+      "attributeId": "BNb5",
+      "rarity": "Rare",
+      "releaseDate": "2018-09-25",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFSpooky18"
+      ]
+    },
+    "BannerDFSpooky18Var1": {
+      "hyperlinkId": "AncientRavenArmyWarcrest",
+      "attributeId": "BNb6",
+      "rarity": "Rare",
+      "releaseDate": "2018-09-25",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFSpooky18Var1"
+      ]
+    },
+    "BannerDFSpooky18Var2": {
+      "hyperlinkId": "CorruptedRavenArmyWarcrest",
+      "attributeId": "BNb8",
+      "rarity": "Rare",
+      "releaseDate": "2018-09-25",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFSpooky18Var2"
+      ]
+    },
+    "BannerDFSpooky18Var3": {
+      "hyperlinkId": "InfernalRavenArmyWarcrest",
+      "attributeId": "BNb7",
+      "rarity": "Rare",
+      "releaseDate": "2018-09-25",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFSpooky18Var3"
+      ]
+    },
+    "BannerDFSpooky18Var4": {
+      "hyperlinkId": "GhostlyRavenArmyWarcrest",
+      "attributeId": "BNba",
+      "rarity": "Rare",
+      "releaseDate": "2018-09-25",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFSpooky18Var4"
+      ]
+    },
+    "BannerDFTespa2018": {
+      "hyperlinkId": "HeroesoftheDorm2018Banner",
+      "attributeId": "BNa4",
+      "rarity": "Common",
+      "releaseDate": "2018-05-22",
+      "category": "Default",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFTespa2018"
+      ]
+    },
+    "BannerDFToys18Dehaka": {
+      "hyperlinkId": "DehakasaurWarcrest",
+      "attributeId": "BNaf",
+      "rarity": "Common",
+      "releaseDate": "2018-12-11",
+      "category": "SeasonalEvents",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFToys18Dehaka"
+      ]
+    },
+    "BannerDFToys18Stitches": {
+      "hyperlinkId": "FunlandWarcrest",
+      "attributeId": "BN8d",
+      "rarity": "Common",
+      "releaseDate": "2018-12-11",
+      "category": "SeasonalEvents",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFToys18Stitches"
+      ]
+    },
+    "BannerDFToys18Valeera": {
+      "hyperlinkId": "CosmicForceWarcrest",
+      "attributeId": "BNc3",
+      "rarity": "Common",
+      "releaseDate": "2018-12-11",
+      "category": "SeasonalEvents",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFToys18Valeera"
+      ]
+    },
+    "BannerDFWCAVAlliance": {
+      "hyperlinkId": "LordaeronWarbanner",
+      "attributeId": "BNa8",
+      "rarity": "Rare",
+      "releaseDate": "2018-06-12",
+      "category": "Warcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFWCAVAlliance"
+      ]
+    },
+    "BannerDFWCAVHorde": {
+      "hyperlinkId": "OrgrimmarWarbanner",
+      "attributeId": "BNa9",
+      "rarity": "Rare",
+      "releaseDate": "2018-06-12",
+      "category": "Warcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFWCAVHorde"
+      ]
+    },
+    "BannerDFWinterveil2017": {
+      "hyperlinkId": "WinterVeilWarbanner",
+      "attributeId": "BN7c",
+      "rarity": "Rare",
+      "releaseDate": "2017-12-12",
+      "category": "SeasonalEvents",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFWinterveil2017"
+      ]
+    },
+    "BannerDFWitchSpooky18": {
+      "hyperlinkId": "WitchesWardensWarcrest",
+      "attributeId": "BNad",
+      "rarity": "Rare",
+      "releaseDate": "2018-09-25",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFWitchSpooky18"
+      ]
+    },
+    "BannerDFWitchSpooky18Var1": {
+      "hyperlinkId": "GhostlyWitchesWardensWarcrest",
+      "attributeId": "BNbf",
+      "rarity": "Rare",
+      "releaseDate": "2018-09-25",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFWitchSpooky18Var1"
+      ]
+    },
+    "BannerDFWitchSpooky18Var2": {
+      "hyperlinkId": "ForgottenWitchesWardensWarcrest",
+      "attributeId": "BNc1",
+      "rarity": "Rare",
+      "releaseDate": "2018-09-25",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFWitchSpooky18Var2"
+      ]
+    },
+    "BannerDFWitchSpooky18Var3": {
+      "hyperlinkId": "NightWitchesWardensWarcrest",
+      "attributeId": "BNc0",
+      "rarity": "Rare",
+      "releaseDate": "2018-09-25",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFWitchSpooky18Var3"
+      ]
+    },
+    "BannerDFWitchSpooky18Var4": {
+      "hyperlinkId": "ConsecratedWitchesWardensWarcrest",
+      "attributeId": "BNbe",
+      "rarity": "Rare",
+      "releaseDate": "2018-09-25",
+      "category": "SeasonalEvents",
+      "event": "HallowsEnd",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerDFWitchSpooky18Var4"
+      ]
+    },
+    "BannerOWDVaIconic": {
+      "hyperlinkId": "IconicDVaBanner",
+      "attributeId": "BN4a",
+      "rarity": "Common",
+      "releaseDate": "2017-05-16",
+      "category": "Overwatch",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "IconicDVaBanner"
+      ]
+    },
+    "BannerOWDVaIconicRare": {
+      "hyperlinkId": "IconicDVaWarbanner",
+      "attributeId": "BN4b",
+      "rarity": "Rare",
+      "releaseDate": "2017-05-16",
+      "category": "Overwatch",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "IconicDVaWarbanner"
+      ]
+    },
+    "BannerOWDVaPolice": {
+      "hyperlinkId": "OfficerDVaBanner",
+      "attributeId": "BN47",
+      "rarity": "Common",
+      "releaseDate": "2017-04-25",
+      "category": "Overwatch",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerOWDVaPolice"
+      ]
+    },
+    "BannerOWDVaSimple": {
+      "hyperlinkId": "DVaBanner",
+      "attributeId": "BN4c",
+      "rarity": "Common",
+      "releaseDate": "2017-05-16",
+      "category": "Overwatch",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "DVaBanner"
+      ]
+    },
+    "BannerOWDVaSimpleRare": {
+      "hyperlinkId": "DVaWarbanner",
+      "attributeId": "BN4d",
+      "rarity": "Rare",
+      "releaseDate": "2017-05-16",
+      "category": "Overwatch",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "DVaWarbanner"
+      ]
+    },
+    "BannerOWGenjiIconic": {
+      "hyperlinkId": "IconicGenjiBanner",
+      "attributeId": "BN18",
+      "rarity": "Common",
+      "releaseDate": "2017-04-24",
+      "category": "Overwatch",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerOWGenjiIconic"
+      ]
+    },
+    "BannerOWGenjiIconicRare": {
+      "hyperlinkId": "IconicGenjiWarbanner",
+      "attributeId": "BN43",
+      "rarity": "Rare",
+      "releaseDate": "2017-04-24",
+      "category": "Overwatch",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerOWGenjiIconicRare"
+      ]
+    },
+    "BannerOWGenjiOni": {
+      "hyperlinkId": "OniGenjiWarbanner",
+      "attributeId": "BN44",
+      "rarity": "Common",
+      "releaseDate": "2017-04-25",
+      "category": "Overwatch",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerOWGenjiOni"
+      ]
+    },
+    "BannerOWGenjiSimple": {
+      "hyperlinkId": "GenjiBanner",
+      "attributeId": "BN45",
+      "rarity": "Common",
+      "releaseDate": "2017-04-24",
+      "category": "Overwatch",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerOWGenjiSimple"
+      ]
+    },
+    "BannerOWGenjiSimpleRare": {
+      "hyperlinkId": "GenjiWarbanner",
+      "attributeId": "BN46",
+      "rarity": "Rare",
+      "releaseDate": "2017-04-24",
+      "category": "Overwatch",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerOWGenjiSimpleRare"
+      ]
+    },
+    "BannerOWLogoIconic": {
+      "hyperlinkId": "OverwatchBanner",
+      "attributeId": "BN33",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Overwatch",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "OverwatchBanner"
+      ]
+    },
+    "BannerOWLogoIconicRare": {
+      "hyperlinkId": "OverwatchWarbanner",
+      "attributeId": "BN34",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Overwatch",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "OverwatchWarbanner"
+      ]
+    },
+    "BannerOWLogoSimple": {
+      "hyperlinkId": "AzureOverwatchBanner",
+      "attributeId": "BN35",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Overwatch",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "AzureOverwatchBanner"
+      ]
+    },
+    "BannerOWLogoSimpleRare": {
+      "hyperlinkId": "AzureOverwatchWarbanner",
+      "attributeId": "BN36",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Overwatch",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "AzureOverwatchWarbanner"
+      ]
+    },
+    "BannerOWPachimari": {
+      "hyperlinkId": "PachimariWarbanner",
+      "attributeId": "BN73",
+      "rarity": "Common",
+      "releaseDate": "2017-09-26",
+      "category": "Overwatch",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerOWPachimari"
+      ]
+    },
+    "BannerOWTracerIconic": {
+      "hyperlinkId": "IconicTracerBanner",
+      "attributeId": "BN37",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Overwatch",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "IconicTracerBanner"
+      ]
+    },
+    "BannerOWTracerIconicRare": {
+      "hyperlinkId": "IconicTracerWarbanner",
+      "attributeId": "BN38",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Overwatch",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "IconicTracerWarbanner"
+      ]
+    },
+    "BannerOWTracerSimple": {
+      "hyperlinkId": "TracerBanner",
+      "attributeId": "BN39",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Overwatch",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "TracerBanner"
+      ]
+    },
+    "BannerOWTracerSimpleRare": {
+      "hyperlinkId": "TracerWarbanner",
+      "attributeId": "BN3a",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Overwatch",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "TracerWarbanner"
+      ]
+    },
+    "BannerSCProtoss": {
+      "hyperlinkId": "AiurProtossBanner",
+      "attributeId": "BN19",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Starcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "AiurProtossBanner"
+      ]
+    },
+    "BannerSCProtossRare": {
+      "hyperlinkId": "AiurProtossWarbanner",
+      "attributeId": "BN1a",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Starcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "AiurProtossWarbanner"
+      ]
+    },
+    "BannerSCProtossRareVar1": {
+      "hyperlinkId": "NerazimProtossWarbanner",
+      "attributeId": "BN1b",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Starcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "NerazimProtossWarbanner"
+      ]
+    },
+    "BannerSCProtossRareVar2": {
+      "hyperlinkId": "TaldarimProtossWarbanner",
+      "attributeId": "BN1c",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Starcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "TaldarimProtossWarbanner"
+      ]
+    },
+    "BannerSCProtossVar1": {
+      "hyperlinkId": "NerazimProtossBanner",
+      "attributeId": "BN1d",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Starcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "NerazimProtossBanner"
+      ]
+    },
+    "BannerSCProtossVar2": {
+      "hyperlinkId": "TaldarimProtossBanner",
+      "attributeId": "BN1e",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Starcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "TaldarimProtossBanner"
+      ]
+    },
+    "BannerSCTerran": {
+      "hyperlinkId": "TerranBanner",
+      "attributeId": "BN1f",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Starcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "TerranBanner"
+      ]
+    },
+    "BannerSCTerranRare": {
+      "hyperlinkId": "TerranWarbanner",
+      "attributeId": "BN20",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Starcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "TerranWarbanner"
+      ]
+    },
+    "BannerSCTerranRareVar1": {
+      "hyperlinkId": "DominionTerranWarbanner",
+      "attributeId": "BN21",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Starcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "DominionTerranWarbanner"
+      ]
+    },
+    "BannerSCTerranRareVar2": {
+      "hyperlinkId": "RaidersTerranWarbanner",
+      "attributeId": "BN22",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Starcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "RaidersTerranWarbanner"
+      ]
+    },
+    "BannerSCTerranVar1": {
+      "hyperlinkId": "DominionTerranBanner",
+      "attributeId": "BN23",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Starcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "DominionTerranBanner"
+      ]
+    },
+    "BannerSCTerranVar2": {
+      "hyperlinkId": "RaidersTerranBanner",
+      "attributeId": "BN24",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Starcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "RaidersTerranBanner"
+      ]
+    },
+    "BannerSCZerg": {
+      "hyperlinkId": "ZergBanner",
+      "attributeId": "BN25",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Starcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "ZergBanner"
+      ]
+    },
+    "BannerSCZergRare": {
+      "hyperlinkId": "ZergWarbanner",
+      "attributeId": "BN26",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Starcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "ZergWarbanner"
+      ]
+    },
+    "BannerSCZergRareVar1": {
+      "hyperlinkId": "CharZergWarbanner",
+      "attributeId": "BN27",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Starcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "CharZergWarbanner"
+      ]
+    },
+    "BannerSCZergRareVar2": {
+      "hyperlinkId": "KaldirZergWarbanner",
+      "attributeId": "BN28",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Starcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "KaldirZergWarbanner"
+      ]
+    },
+    "BannerSCZergVar1": {
+      "hyperlinkId": "CharZergBanner",
+      "attributeId": "BN29",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Starcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "CharZergBanner"
+      ]
+    },
+    "BannerSCZergVar2": {
+      "hyperlinkId": "KaldirZergBanner",
+      "attributeId": "BN2a",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Starcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "KaldirZergBanner"
+      ]
+    },
+    "BannerWCAlliance": {
+      "hyperlinkId": "AllianceBanner",
+      "attributeId": "BN3b",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "AllianceBanner"
+      ]
+    },
+    "BannerWCAllianceRare": {
+      "hyperlinkId": "AllianceWarbanner",
+      "attributeId": "BN3c",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "AllianceWarbanner"
+      ]
+    },
+    "BannerWCAllianceRareVar1": {
+      "hyperlinkId": "TealAllianceWarbanner",
+      "attributeId": "BN3d",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "TealAllianceWarbanner"
+      ]
+    },
+    "BannerWCAllianceVar1": {
+      "hyperlinkId": "TealAllianceBanner",
+      "attributeId": "BN3e",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "TealAllianceBanner"
+      ]
+    },
+    "BannerWCDwarf": {
+      "hyperlinkId": "DwarfBanner",
+      "attributeId": "BN2b",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "DwarfBanner"
+      ]
+    },
+    "BannerWCDwarfRare": {
+      "hyperlinkId": "DwarfWarbanner",
+      "attributeId": "BN2c",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "DwarfWarbanner"
+      ]
+    },
+    "BannerWCDwarfRareVar1": {
+      "hyperlinkId": "VioletDwarfWarbanner",
+      "attributeId": "BN2d",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "VioletDwarfWarbanner"
+      ]
+    },
+    "BannerWCDwarfVar1": {
+      "hyperlinkId": "VioletDwarfBanner",
+      "attributeId": "BN2e",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "VioletDwarfBanner"
+      ]
+    },
+    "BannerWCHorde": {
+      "hyperlinkId": "HordeBanner",
+      "attributeId": "BN01",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "HordeBanner"
+      ]
+    },
+    "BannerWCHordeRare": {
+      "hyperlinkId": "HordeWarbanner",
+      "attributeId": "BN03",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "HordeWarbanner"
+      ]
+    },
+    "BannerWCHordeRareVar1": {
+      "hyperlinkId": "AmberHordeWarbanner",
+      "attributeId": "BN04",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "AmberHordeWarbanner"
+      ]
+    },
+    "BannerWCHordeVar1": {
+      "hyperlinkId": "AmberHordeBanner",
+      "attributeId": "BN02",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "AmberHordeBanner"
+      ]
+    },
+    "BannerWCKelThuzad": {
+      "hyperlinkId": "NaxxramasWarcrest",
+      "attributeId": "BN6d",
+      "rarity": "Common",
+      "releaseDate": "2017-09-05",
+      "category": "Warcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "BannerWCKelThuzad"
+      ]
+    },
+    "BannerWCNightElf": {
+      "hyperlinkId": "NightElfBanner",
+      "attributeId": "BN2f",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "NightElfBanner"
+      ]
+    },
+    "BannerWCNightElfRare": {
+      "hyperlinkId": "NightElfWarbanner",
+      "attributeId": "BN30",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "NightElfWarbanner"
+      ]
+    },
+    "BannerWCNightElfRareVar1": {
+      "hyperlinkId": "TealNightElfWarbanner",
+      "attributeId": "BN31",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "TealNightElfWarbanner"
+      ]
+    },
+    "BannerWCNightElfVar1": {
+      "hyperlinkId": "TealNightElfBanner",
+      "attributeId": "BN32",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "TealNightElfBanner"
+      ]
+    },
+    "BannerWCTauren": {
+      "hyperlinkId": "TaurenBanner",
+      "attributeId": "BN3f",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "TaurenBanner"
+      ]
+    },
+    "BannerWCTaurenRare": {
+      "hyperlinkId": "TaurenWarbanner",
+      "attributeId": "BN40",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "TaurenWarbanner"
+      ]
+    },
+    "BannerWCTaurenRareVar1": {
+      "hyperlinkId": "ArgentTaurenWarbanner",
+      "attributeId": "BN41",
+      "rarity": "Rare",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "ArgentTaurenWarbanner"
+      ]
+    },
+    "BannerWCTaurenVar1": {
+      "hyperlinkId": "ArgentTaurenBanner",
+      "attributeId": "BN42",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "isFreePlay": false,
+      "rewardLicenseIds": [
+        "ArgentTaurenBanner"
+      ]
+    },
+    "NeutralMercCamp": {
+      "hyperlinkId": "NeutralMercCamp",
+      "attributeId": "TST2",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "category": "Warcraft",
+      "isFreePlay": false
+    },
+    "RandomBanner": {
+      "hyperlinkId": "RandomBanner",
+      "attributeId": "Rand",
+      "rarity": "Common",
+      "releaseDate": "2014-03-13",
+      "isFreePlay": false
+    }
+  }
+}
