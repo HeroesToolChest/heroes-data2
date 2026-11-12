@@ -1,0 +1,72 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.1.98674_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ThrallSpiritShield|ThrallSpiritShieldEnabled|Active",
+    "value": "Cada <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c> s obtienes <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> de armadura antihabilidades contra la próxima habilidad enemiga y las siguientes habilidades durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s. Temple Lobo Gélido reduce este tiempo de reutilización <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> s.<n/><n/>Puede activarse y desactivarse para permitir o evitar que este talento se active automáticamente."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Lanza un orbe del Vacío que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos alcanzados y <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">130</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño adicional a los enemigos en la parte central.<n/><n/>Los héroes enemigos o estructuras golpeados por la parte central quedan marcados durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>\u00A0s.<n/><n/>Los héroes marcados con Marca de las sombras quedan revelados y atraen el Corazón Oscuro y los esbirros del Vacío."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Lánzalo para teletransportarte <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> veces en un patrón triangular.<n/><n/>Cada vez que te teletransportas mientras la habilidad está activa, tu ataque básico inflige un <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">15%</s> más de daño.<n/><n/>Vuelve a activarla para terminar Paso por el Vacío antes de tiempo y permanecer en tu ubicación actual.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">El daño de ataque básico es de un máximo de +30%.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Tras atacar a los enemigos con ataques básicos <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> veces, puedes activar Salva del Vacío para desatar una ráfaga de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> orbes del vacío en la ubicación seleccionada, cada uno de los cuales inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">72</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño al impactar.<n/><n/>La carga se reduce completamente si no golpeas a un enemigo con un ataque básico tras <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0s.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Golpea a héroes enemigos con Salva del Vacío para recibir <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> de acumulación por golpe y aumentar el daño de Salva del Vacío un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75%</c>. Se pierden todas las acumulaciones al morir.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa (20 acumulaciones):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c> al alcance de Salva del Vacío<n/>   La pérdida de acumulaciones al morir se reduce a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa (60 acumulaciones):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">-1</c> ataque básico necesario para cargar Salva del Vacío.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa mítica (100 acumulaciones):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+50%</c> de daño de ataque básico y Salva del Vacío.<n/>   Los proyectiles de Salva del Vacío perforan a todos los objetivos.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">La pérdida de acumulaciones nunca hará que el héroe quede por debajo del umbral de recompensa de una misión.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurMasteryNeedlespine|AbathurSymbioteNeedlespineTalent|Q|Level4",
+    "value": "Aumenta el daño y el alcance de Apuñalar del simbionte un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArtanisBladeDashSolariteReaper|ArtanisBladeDashSolariteReaperTalent|Q|Level7",
+    "value": "Aumenta el daño de la primera carga de Carga con cuchillas un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieSandBlastOnceAgainTheFirstTime|ChromieSandBlastOnceAgaintheFirstTime|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Golpea a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> héroes con tu Explosión de arena o la de tus ecos sin morir.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Aumenta el número máximo de ecos activos a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> y aumenta el daño de los ecos al <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">55%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhPortalStablePortal|MedivhPortalStablePortal|E|Level16",
+    "value": "Reduce un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> el tiempo de reutilización de Portal y aumenta la duración de los portales un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosBlastWaveEngulfingFlame|RagnarosBlastWaveEngulfingFlame|E|Level1",
+    "value": "Aumenta un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> el daño de Ola explosiva y un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> su radio."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ThrallSpiritShield|ThrallSpiritShield|Active|Level13",
+    "value": "Cada <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c> s obtienes <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> de armadura antihabilidades contra la próxima habilidad enemiga y las siguientes habilidades durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s. Temple Lobo Gélido reduce este tiempo de reutilización <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> s.<n/><n/>Puede activarse y desactivarse para permitir o evitar que este talento se active automáticamente."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelDivineSteed|YrelDivineSteed|Z|Level7",
+    "value": "Invocas tu montura al instante y te otorga un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> de velocidad de movimiento que se va agotando a lo largo de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationLightOfKarabor|YrelVindicationLightOfKarabor|Q|Level1",
+    "value": "Aumenta el radio de Vindicación un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>. Golpear a un héroe enemigo aumenta la curación de Vindicación un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c>. Si se golpea a más de un héroe, la bonificación aumenta a un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ZagaraMasteryTyrantMaw|ZagaraDevouringMawTyrantMawTalent|Heroic|Level20",
+    "value": "Fauces devoradoras inflige un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> más de daño. Cada baja de héroe en la que participes reduce su tiempo de reutilización <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> s."
+  }
+]

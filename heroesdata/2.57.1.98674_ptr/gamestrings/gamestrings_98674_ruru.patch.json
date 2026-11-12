@@ -1,0 +1,72 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.1.98674_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ThrallSpiritShield|ThrallSpiritShieldEnabled|Active",
+    "value": "Раз в <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c> сек. Тралл получает <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> ед. энергетической брони. Эта броня защищает его от следующей способности противника, а также от последующих способностей, использованных против него в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> сек. «Стойкость северного волка» сокращает время восстановления на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> сек.<n/><n/>Вы можете включить или отключить автоматическое срабатывание этого таланта."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Запускает сферу Бездны, которая наносит <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона пораженным врагам. Оказавшиеся в эпицентре враги получают еще <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">130</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона.<n/><n/>Оказавшиеся в эпицентре вражеские герои или строения получают метку на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>\u00A0сек.<n/><n/>Отмеченные «Знаком Тьмы» цели становятся видимыми и привлекают к себе Темное сердце с воинами Бездны."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Используйте, чтобы Ксал'атат телепортировалась по треугольной траектории <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0раза.<n/><n/>Пока способность активна, при каждой телепортации автоатаки Ксал'атат наносят на <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">15%</s> больше урона.<n/><n/>При повторном использовании действие «Шага через Бездну» прекращается раньше и Ксал'атат остается в текущей точке.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Бонус к урону от автоатак не может превышать 30%.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Поразив врагов автоатаками <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0раз, Ксал'атат заряжает «Залп Бездны» и может запустить в выбранную область <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0сфер Бездны, каждая из которых наносит <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">72</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0ед. урона при попадании.<n/><n/>Если Ксал'атат не сможет поразить врагов автоатаками в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0сек., заряд полностью иссякнет.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> атакуйте вражеских героев «Залпом Бездны». За каждую успешную автоатаку Ксал'атат получает <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>\u00A0эффект, а урон «Залпа Бездны» увеличивается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75%</c>. При гибели Ксал'атат теряет все эффекты.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Награда (при 20\u00A0эффектах):</c><n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c> к дальности «Залпа Бездны».<n/>Теперь при гибели Ксал'атат теряет только <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0эффектов.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Награда (при 60\u00A0эффектах):</c><n/>Для полного заряда «Залпа Бездны» требуется на <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">1</c>\u00A0автоатаку меньше.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Эпохальная награда (при100\u00A0эффектах):</c><n/><c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+50%</c> к урону от автоатак и «Залпа Бездны».<n/>Снаряды «Залпа Бездны» пронзают любые цели.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">При потере эффектов характеристики героини не могут опуститься ниже достигнутых показателей на текущем этапе задачи.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurMasteryNeedlespine|AbathurSymbioteNeedlespineTalent|Q|Level4",
+    "value": "Увеличивает урон и дальность действия «Укола» симбионта на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArtanisBladeDashSolariteReaper|ArtanisBladeDashSolariteReaperTalent|Q|Level7",
+    "value": "Увеличивает урон от первого рывка «Молниеносных клинков» на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieSandBlastOnceAgainTheFirstTime|ChromieSandBlastOnceAgaintheFirstTime|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Задача:</c> поразите героев «Песчаным вихрем» Хроми или ее копий <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0<lang rule=\"plural\" val=\"\">раз,раза,раз</lang>, при этом не погибнув.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Награда:</c> максимальное количество активных копий будет увеличено до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>, а наносимый ими урон\u00A0— до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">55%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhPortalStablePortal|MedivhPortalStablePortal|E|Level16",
+    "value": "Уменьшает время восстановления «Портала» на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> и продлевает время существования порталов на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosBlastWaveEngulfingFlame|RagnarosBlastWaveEngulfingFlame|E|Level1",
+    "value": "Увеличивает урон от «Взрывной волны» на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>, а радиус действия – на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ThrallSpiritShield|ThrallSpiritShield|Active|Level13",
+    "value": "Раз в <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c> сек. Тралл получает <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> ед. энергетической брони. Эта броня защищает его от следующей способности противника, а также от последующих способностей, использованных против него в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> сек. «Стойкость северного волка» сокращает время восстановления на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> сек.<n/><n/>Вы можете включить или отключить автоматическое срабатывание этого таланта."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelDivineSteed|YrelDivineSteed|Z|Level7",
+    "value": "Ирель использует транспорт мгновенно, получая при этом бонус к скорости передвижения в <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c>, который постепенно ослабевает в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationLightOfKarabor|YrelVindicationLightOfKarabor|Q|Level1",
+    "value": "Увеличивает радиус действия «Оправдания» на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>. Восполняет на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c> больше здоровья, если «Оправдание» поражает героя. При поражении более чем одного героя этот бонус увеличивается до <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ZagaraMasteryTyrantMaw|ZagaraDevouringMawTyrantMawTalent|Heroic|Level20",
+    "value": "«Пожирающая пасть» наносит на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> больше урона, при этом время ее восстановления сокращается на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> сек. за каждое убийство героя."
+  }
+]

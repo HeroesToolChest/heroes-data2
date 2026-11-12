@@ -1,0 +1,49 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Haunted Mines"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/fullText/StormBossAttack|Attack|Hidden"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/name/StormBossAttack|Attack|Hidden"
+  },
+  {
+    "op": "remove",
+    "path": "/items/ability/shortText/StormBossAttack|Attack|Hidden"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostSkullsCollected",
+    "value": "~AwardValue~% zebranych czaszek"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostSkullsCollected",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Kolekcjoner Czaszek,Kolekcjonerka Czaszek</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostSkullsCollected",
+    "value": "Zebrane czaszki: ~TooltipAmount~"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BossHoleSharedVisionUnit",
+    "value": "Boss – Dziura – Współdzielone pole widzenia – Jednostka"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperDefender",
+    "value": "Saper"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperLaner",
+    "value": "Saper"
+  }
+]

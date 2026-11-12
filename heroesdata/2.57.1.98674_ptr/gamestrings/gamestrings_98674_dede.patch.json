@@ -1,0 +1,72 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.1.98674_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ThrallSpiritShield|ThrallSpiritShieldEnabled|Active",
+    "value": "Gewährt alle <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c> Sek. <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> Zauberpanzerung gegen die nächste gegnerische Fähigkeit sowie weitere Fähigkeiten innerhalb von <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> Sek. Ausdauer der Frostwölfe verringert die Abklingzeit um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> Sek.<n/><n/>Der automatische Einsatz dieser Fähigkeit kann deaktiviert werden."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Feure eine Leerenkugel ab, die getroffenen Gegnern <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden zufügt. Gegner in der Mitte erleiden zusätzlich <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">130</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden.<n/><n/>Gegnerische Helden oder Gegner, die von der Mitte getroffen werden, sind <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> Sek. lang markiert.<n/><n/>Mit Schattenmarkierung belegte Ziele werden aufgedeckt und ziehen das dunkle Herz und Leerendiener an."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Wirken, um Xal'atath <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>-mal in einem Dreieck zu teleportieren.<n/><n/>Jedes Mal, wenn Xal'atath sich teleportiert, verursachen ihre automatischen Angriffe <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">15\u00A0%</s> mehr Schaden, solange die Fähigkeit aktiv ist.<n/><n/>Erneut aktivieren, um Leerenschritt vorzeitig zu beenden und am aktuellen Standort zu bleiben.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Schaden automatischer Angriffe ist auf +30\u00A0% begrenzt.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Nachdem Xal'atath <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>-mal ihre automatischen Angriffe eingesetzt hat, kann sie Leerensalve aktivieren, um eine Salve an <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> Leerenkugeln an einem Zielort zu entfesseln, die jeweils <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">72</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden beim Aufprall verursachen.<n/><n/>Wenn Xal'ataths automatische Angriffe nach <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> Sek. noch keinen Gegner getroffen haben, verfällt die Aufladung vollständig.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Triff gegnerische Helden mit Leerensalve, um pro Treffer <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> Stapel zu erhalten und den Schaden von Leerensalve um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75\u00A0%</c> zu erhöhen. Du verlierst alle Stapel, wenn du getötet wirst.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Belohnung (20 Stapel):</c><n/> <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c> Reichweite für Leerensalve<n/> Du verlierst bei deinem Tod jetzt nur noch <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> Stapel.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Belohnung (60 Stapel):</c><n/> <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">-1</c> automatischer Angriff zur Aufladung von Leerensalve erforderlich.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Mythische Belohnung (100 Stapel):</c><n/> <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+50\u00A0%</c> Schaden durch automatische Angriffe und Leerensalve.<n/> Projektile von Leerensalve durchbohren alle Ziele.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Der Verlust von Stapeln führt nie dazu, dass der Held unter eine Grenze für Questbelohnungen fällt.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurMasteryNeedlespine|AbathurSymbioteNeedlespineTalent|Q|Level4",
+    "value": "Erhöht den Schaden und die Reichweite von Stachelschüssen des Symbionten um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArtanisBladeDashSolariteReaper|ArtanisBladeDashSolariteReaperTalent|Q|Level7",
+    "value": "Erhöht den Schaden der Vorwärtsbewegung der Klingenoffensive um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieSandBlastOnceAgainTheFirstTime|ChromieSandBlastOnceAgaintheFirstTime|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Triff <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> Helden mit Sandböe von Chromie oder ihren Echos, ohne zu sterben.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Belohnung:</c> Erhöht die maximale Anzahl aktiver Echos auf <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> und den Schaden der Echos auf <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">55\u00A0%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhPortalStablePortal|MedivhPortalStablePortal|E|Level16",
+    "value": "Verringert die Abklingzeit von Portalen um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> und erhöht die Dauer von Portalen um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosBlastWaveEngulfingFlame|RagnarosBlastWaveEngulfingFlame|E|Level1",
+    "value": "Erhöht den Schaden der Deflagration um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0</c>% und ihren Radius um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ThrallSpiritShield|ThrallSpiritShield|Active|Level13",
+    "value": "Gewährt alle <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c> Sek. <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> Zauberpanzerung gegen die nächste gegnerische Fähigkeit sowie weitere Fähigkeiten innerhalb von <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> Sek. Ausdauer der Frostwölfe verringert die Abklingzeit um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> Sek.<n/><n/>Der automatische Einsatz dieser Fähigkeit kann deaktiviert werden."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelDivineSteed|YrelDivineSteed|Z|Level7",
+    "value": "Sitzt sofort auf und erhöht die Bewegungsgeschwindigkeit um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c>. Dieser Effekt lässt im Verlauf von <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> Sek. nach."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationLightOfKarabor|YrelVindicationLightOfKarabor|Q|Level1",
+    "value": "Erhöht den Radius von Rechtschaffene Verteidigung um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15\u00A0%</c>. Wird ein gegnerischer Held getroffen, erhöht sich die Heilung der Fähigkeit um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35\u00A0%</c>. Wenn mehr als ein Held getroffen wird, wird dieser Bonus auf <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70\u00A0%</c> erhöht."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ZagaraMasteryTyrantMaw|ZagaraDevouringMawTyrantMawTalent|Heroic|Level20",
+    "value": "Verschlingender Schlund verursacht <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> mehr Schaden. Jeder getötete gegnerische Held verringert die Abklingzeit des Schlunds um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> Sek."
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.1.98674_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ThrallSpiritShield|ThrallSpiritShieldEnabled|Active",
+    "value": "A cada <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c> s, recebe <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> de Armadura Mágica contra a próxima habilidade inimiga e as habilidades subsequentes por <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s. Resiliência do Lobo do Gelo reduz essa recarga em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> s.<n/><n/>Pode ser ativado e desativado para permitir ou impedir que este talento seja acionado automaticamente."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Dispare um Orbe do Caos que causa <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de dano aos inimigos atingidos e mais <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">130</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de dano a inimigos no centro.<n/><n/>Se um Herói inimigo ou Estrutura forem atingidos no centro, ficam marcados por <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s.<n/><n/>Alvos afetados por Marca das Sombras são revelados e atraem o Coração Sombrio e os Lacaios do Caos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Lance para teleportar Xal’atath <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> vezes em um padrão triangular.<n/><n/>Cada vez que Xal’atath teleporta, seus Ataques Básicos causam <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">15%</s> a mais de dano enquanto a habilidade estiver ativa.<n/><n/>Reative para encerrar Passo do Caos antecipadamente e permanecer no local atual.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Dano de Ataque Básico limitado em +30%.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Após atacar inimigos com os Ataques Básicos <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> vezes, Xal’atath pode ativar Saraivada do Caos para liberar uma barragem de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> Orbes do Caos em um local, cada um causando <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">72</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de dano no impacto.<n/><n/>A carga decai por completo se Xal’atath não atingir um inimigo com o Ataque Básico após <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> s.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missão:</c> Acerte Heróis inimigos com Saraivada do Caos para conceder <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> aplicação por acerto e aumentar todo o dano de Saraivada do Caos em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75%</c>. Perde todas as aplicações ao morrer.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa (20 Aplicações):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c> de alcance da Saraivada do Caos<n/>   Perda de aplicações ao morrer reduzida para <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa (60 Aplicações):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">-1</c> Ataque Básico necessário para carregar Saraivada do Caos<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa Mítica (100 Aplicações):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+50%</c> de dano de Ataque Básico e Saraivada do Caos<n/>   Os projéteis de Saraivada do Caos perfuram todos os alvos.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">A perda de Aplicações nunca fará com que o Herói fique abaixo do limite de recompensa de uma missão.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurMasteryNeedlespine|AbathurSymbioteNeedlespineTalent|Q|Level4",
+    "value": "Aumenta o dano e o alcance da habilidade Apunhalar do Simbionte em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArtanisBladeDashSolariteReaper|ArtanisBladeDashSolariteReaperTalent|Q|Level7",
+    "value": "Aumenta o dano da primeira investida de Arremetida com Lâmina em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieSandBlastOnceAgainTheFirstTime|ChromieSandBlastOnceAgaintheFirstTime|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missão:</c> Acerte <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> Heróis com Impacto de Areia de Crona ou os Ecos dela sem morrer.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Aumenta o número máximo de Ecos ativos para <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> e aumenta em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">55%</c> o dano do Eco."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhPortalStablePortal|MedivhPortalStablePortal|E|Level16",
+    "value": "Reduz a recarga do Portal em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> e aumenta a duração dele em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosBlastWaveEngulfingFlame|RagnarosBlastWaveEngulfingFlame|E|Level1",
+    "value": "Aumenta em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> o dano de Onda de Impacto e em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> o raio."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ThrallSpiritShield|ThrallSpiritShield|Active|Level13",
+    "value": "A cada <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c> s, recebe <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> de Armadura Mágica contra a próxima habilidade inimiga e as habilidades subsequentes por <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s. Resiliência do Lobo do Gelo reduz essa recarga em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> s.<n/><n/>Pode ser ativado e desativado para permitir ou impedir que este talento seja acionado automaticamente."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelDivineSteed|YrelDivineSteed|Z|Level7",
+    "value": "Chama a montaria instantaneamente e concede <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> de Velocidade de Movimento, que decai ao longo de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationLightOfKarabor|YrelVindicationLightOfKarabor|Q|Level1",
+    "value": "Aumenta o raio da Vindicação em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>. Atingir Heróis inimigos aumenta a cura de Vindicação em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c>. Se mais de um Herói for atingido, o bônus de cura aumenta para <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ZagaraMasteryTyrantMaw|ZagaraDevouringMawTyrantMawTalent|Heroic|Level20",
+    "value": "Gorja Devoradora causa mais <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> de dano. Abates reduzem a recarga em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> s."
+  }
+]

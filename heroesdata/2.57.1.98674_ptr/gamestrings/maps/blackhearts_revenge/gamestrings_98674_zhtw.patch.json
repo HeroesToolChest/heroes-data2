@@ -1,0 +1,102 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Blackheart's Revenge"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|DeathwingHearthstone|B",
+    "value": "引導<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4.5</c>秒後，傳送回風暴祭壇。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneBrew|B",
+    "value": "將你傳送回祭壇，立刻恢復所有生命值與酒力值。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneNoMana|B",
+    "value": "將你傳送回祭壇，立刻恢復所有生命值。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|Hearthstone|B",
+    "value": "將你傳送回祭壇，立刻恢復所有生命值與法力值。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/AttackCore|AttackCore|E",
+    "value": "攻擊核心"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/CannonAttack|CannonAttack|W",
+    "value": "砲彈攻擊"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/move|Move|W",
+    "value": "移動"
+  },
+  {
+    "op": "add",
+    "path": "/items/announcerPack/name/CommodoreFord",
+    "value": "福特准將"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/Boat",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">威力強大又堅固無比的建築物。它能造成大量的擴散傷害，而且它的護盾會在未受攻擊的時候自動回復。摧毀這個建築物就能獲得勝利。</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AmmoCache",
+    "value": "砲彈"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AttackCoreMissile",
+    "value": "攻擊核心飛彈"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Boat",
+    "value": "船"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Cannon",
+    "value": "大砲"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/CannonAttackMissile",
+    "value": "砲彈攻擊飛彈"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/CannonballMinimapIconUnit",
+    "value": "砲彈 - 小地圖圖示 - 單位"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ClickableChestEasterEggUnit",
+    "value": "可點擊的彩蛋寶箱單位"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TeleporterNeutral",
+    "value": "傳送門"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TeleporterTeam",
+    "value": "傳送門"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WheresWeirdo",
+    "value": "Where's Weirdo"
+  }
+]
