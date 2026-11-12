@@ -1,0 +1,27 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Sandbox (Cursed Hollow)"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/CursedHollowCoreCurse|CursedHollowCoreCurse|Q",
+    "value": "재사용 대기시간: 3초"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/CursedHollowCoreCurse|CursedHollowCoreCurse|Q",
+    "value": "일정 시간 후, 대상 지역 안의 영웅들이 최대 생명력의 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c>만큼 피해를 받고 방어력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>초 동안 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75</c> 감소합니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/CursedHollowCoreCurse|CursedHollowCoreCurse|Q",
+    "value": "저주"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/CursedHollowCoreCurse|CursedHollowCoreCurse|Q",
+    "value": "피해를 주고 영웅의 방어력을 크게 감소시킴"
+  }
+]

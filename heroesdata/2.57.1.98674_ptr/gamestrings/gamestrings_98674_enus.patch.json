@@ -1,0 +1,77 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.1.98674_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ThrallSpiritShield|ThrallSpiritShieldEnabled|Active",
+    "value": "Every <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c> seconds, gain <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> Spell Armor against the next enemy Ability and subsequent Abilities for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> seconds. Frostwolf Resilience reduces this cooldown by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> seconds.<n/><n/>Can be toggled to allow or prevent this talent from triggering automatically."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Shoot a Void Orb that deals <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to enemies hit, and an additional <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">130</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to enemies in the center.<n/><n/>If an enemy Hero or Structure is hit by the center, they are marked for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> seconds.<n/><n/>Targets afflicted by Shadow Mark are Revealed and draw the Dark Heart and Void Minions towards them."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidEruptionV2|XalatathVoidEruption|Heroic",
+    "value": "Channel a powerful Void Orb that grows over time until reaching maximum size after <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds. Recast to launch the Orb early.<n/><n/>Enemies that come into contact with the Orb take <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">81</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage and are Blinded for <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s> second.<n/><n/>When the Orb reaches the end of its path, it detonates in a large explosion, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">320</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage.<n/><n/>Charging up this Ability increases its contact damage up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">81</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> and its explosion damage up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">320</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Contact damage is dealt every 0.25 seconds.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Cast to teleport Xal'atath <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> times in a triangular pattern.<n/><n/>Each time Xal'atath teleports, her Basic Attacks deal <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">15%</s> more damage while the Ability is active.<n/><n/>Reactivate to end Void Step early and remain at your current location."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Every basic attack against heroes, and every <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> basic attacks against non-heroes generate charge. Once fully charged Xal'atath can activate Void Volley to unleash a barrage of <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> Void Orbs at a target location, each dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">72</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage on impact.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Hit enemy Heroes with Void Volley to grant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> stack per hit and increases Void Volley's damage by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75%</c>. Lose all stacks upon dying.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward (20 Stacks):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c> Void Volley Range<n/>   Stack loss on death lowered to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward (60 Stacks):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">-1</c> Basic Attack required to charge Void Volley.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Mythic Reward (100 Stacks):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+35%</c> Basic Attack and Void Volley Damage.<n/>   Void Volley projectiles Pierce all targets.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Stack loss will never cause the Hero to fall below a quest reward threshold.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Charge fully decays if Xal’atath does not hit an enemy with a Basic Attack after </s><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\"> seconds.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieSandBlastOnceAgainTheFirstTime|ChromieSandBlastOnceAgaintheFirstTime|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Hit <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> Heroes with Sand Blast from Chromie or her Echoes without dying.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> Increase the maximum number of active Echoes to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>, and increase Echo damage to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">55%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweXplodiumChargeBombToss|GazloweXplodiumChargeBombToss|E|Level20",
+    "value": "Xplodium Charge cooldown is reduced by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds and launches <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> more bombs when it detonates."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GreymaneCursedBulletGilneanRoulette|GreymaneCursedBulletGilneanRouletteTalent|Heroic|Level20",
+    "value": "Cursed Bullet's cooldown is reduced by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">24</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhPortalStablePortal|MedivhPortalStablePortal|E|Level16",
+    "value": "Decrease Portal cooldown by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> and increase Portal duration by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ThrallEchooftheElements|ThrallEchooftheElements|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Kill Minions or Heroes within <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds of hitting them with Chain Lightning. Upon dying, lose <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> stacks. Gained rewards cannot be lost.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> After killing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> enemies, reduce the Mana cost of Chain Lightning from <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> After killing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> enemies, Chain Lightning gains an extra charge.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Mythic Reward:</c> After killing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">125</c> enemies, Chain Lightning can now strike the same target multiple times, and also strikes <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> additional target per bounce."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ThrallSpiritShield|ThrallSpiritShield|Active|Level13",
+    "value": "Every <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c> seconds, gain <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> Spell Armor against the next enemy Ability and subsequent Abilities for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> seconds. Frostwolf Resilience reduces this cooldown by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> seconds.<n/><n/>Can be toggled to allow or prevent this talent from triggering automatically."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Channel a powerful Void Orb that grows over time until reaching maximum size after <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds. Recast to launch the Orb early.<n/><n/>Enemies that come into contact with the Orb take <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">81</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage and are Blinded for <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s> second.<n/><n/>When the Orb reaches the end of its path, it detonates in a large explosion, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">320</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage.<n/><n/>Charging up this Ability increases its contact damage up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">81</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> and its explosion damage up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">320</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Contact damage is dealt every 0.25 seconds.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelDivineSteed|YrelDivineSteed|Z|Level7",
+    "value": "Mounting is instant and grants <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> Movement Speed that decays over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationLightOfKarabor|YrelVindicationLightOfKarabor|Q|Level1",
+    "value": "Increase Vindication's radius by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>. Hitting an enemy Hero increases Vindication's healing by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c>. If more than one Hero is hit, the bonus is increased to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70%</c>."
+  }
+]

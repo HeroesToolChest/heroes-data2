@@ -1,0 +1,67 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.1.98674_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ThrallSpiritShield|ThrallSpiritShieldEnabled|Active",
+    "value": "每<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c>秒會獲得<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>點法術護甲，使下次和後續<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>秒內受到的敵方技能傷害降低。霜狼韌性可使此效果的冷卻時間降低<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c>秒。<n/><n/>可以開啟或關閉自動觸發此技能。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "發射一顆虛無球體，對擊中的敵人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害，並對位於中心區域的敵人額外造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">130</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害。<n/><n/>若中心區域命中敵方英雄或建築，會使其受到標記，持續<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>秒。<n/><n/>受到暗影標記影響的目標會現形，並且會吸引黑暗之心及虛無小兵朝自己移動。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "施放後以三角形的軌跡傳送薩拉塔斯<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>次。<n/><n/>技能啟動期間，薩拉塔斯每次傳送都能使她的基本攻擊額外造成<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">15%</s>傷害。<n/><n/>再次啟動可以提早結束虛無步伐，並停留在當下的位置。<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">基本攻擊傷害上限為+30%。</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "在對敵人進行<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>次基本攻擊後，薩拉塔斯可以啟動虛無箭雨並向目標位置連續射出<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>顆虛無球體，每顆虛無球體擊中時造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">72</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害。<n/><n/>若薩拉塔斯在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>秒內未以基本攻擊命中敵人，累積的充能會全部消失。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任務：</c>以虛無箭雨擊中敵方英雄，每次命中獲得<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>層堆疊，使虛無箭雨的傷害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75%</c>。死亡時失去所有層數。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">獎勵（20層堆疊效果）：</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c>虛無箭雨距離<n/>死亡時失去的堆疊數降為<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>層。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">獎勵（60層堆疊效果）：</c><n/>充能虛無箭雨所需基本攻擊次數<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">-1</c>。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">傳奇獎勵（100層堆疊效果）：</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+50%</c>基本攻擊與虛無箭雨傷害。<n/>虛無箭雨投射物可貫穿所有目標。<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">失去堆疊不會使英雄的堆疊數低於已達成的任務獎勵門檻。</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurMasteryNeedlespine|AbathurSymbioteNeedlespineTalent|Q|Level4",
+    "value": "共生體脊刺飛擊的傷害與距離提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArtanisBladeDashSolariteReaper|ArtanisBladeDashSolariteReaperTalent|Q|Level7",
+    "value": "幽刃突擊向前衝鋒時造成的傷害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieSandBlastOnceAgainTheFirstTime|ChromieSandBlastOnceAgaintheFirstTime|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任務：</c>在未死亡的情況下，克羅米或她的殘影以沙塵衝擊命中<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>名英雄。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">獎勵：</c>可同時啟用的殘影數提高至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>個，殘影的傷害提高至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">55%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhPortalStablePortal|MedivhPortalStablePortal|E|Level16",
+    "value": "傳送門的冷卻時間降低<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>，存在時間提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosBlastWaveEngulfingFlame|RagnarosBlastWaveEngulfingFlame|E|Level1",
+    "value": "暴炎波的傷害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>，範圍提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ThrallSpiritShield|ThrallSpiritShield|Active|Level13",
+    "value": "每<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c>秒會獲得<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>點法術護甲，使下次和後續<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>秒內受到的敵方技能傷害降低。霜狼韌性可使此效果的冷卻時間降低<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c>秒。<n/><n/>可以開啟或關閉自動觸發此技能。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationLightOfKarabor|YrelVindicationLightOfKarabor|Q|Level1",
+    "value": "神聖辯護的半徑提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>。神聖辯護若命中一名敵方英雄可使其治療量提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c>，若命中超過一名以上的英雄時，此加成會提高至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ZagaraMasteryTyrantMaw|ZagaraDevouringMawTyrantMawTalent|Heroic|Level20",
+    "value": "巨顎噬敵的傷害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c>。每參與擊殺一名英雄，可使其冷卻時間降低<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c>秒。"
+  }
+]

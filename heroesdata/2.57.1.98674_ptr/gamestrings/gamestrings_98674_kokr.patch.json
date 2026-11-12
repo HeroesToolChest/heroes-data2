@@ -1,0 +1,72 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.1.98674_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ThrallSpiritShield|ThrallSpiritShieldEnabled|Active",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c>초마다, 기술 방어력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> 증가하여 다음 기술 피해와 이후 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>초 동안 받는 기술 피해가 감소합니다. 서리늑대의 회복력이 발동할 때마다 이 효과의 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c>초 감소합니다.<n/><n/>활성화 또는 비활성화하여 발동을 허용하거나 억제할 수 있습니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "적중한 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주고 중심부에 있는 적들에게는 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">130</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 추가 피해를 주는 공허 보주를 발사합니다.<n/><n/>적 영웅 또는 구조물이 공허 보주의 중심부에 적중당하면 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>초 동안 표식이 찍힙니다.<n/><n/>그림자 표식에 걸린 대상은 모습이 드러나며, 자신의 위치로 검은 심장과 공허 하수인을 끌어당깁니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "시전 시 잘아타스가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>회에 걸쳐 삼각형 패턴으로 순간이동합니다.<n/><n/>잘아타스가 순간이동할 때마다 기술이 활성화된 동안 일반 공격이 <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">15%</s>의 추가 피해를 줍니다.<n/><n/>재사용 시 공허 걸음을 일찍 끝내 현재 위치에 머무릅니다.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">일반 공격 피해 상한은 +30%입니다.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "일반 공격으로 적을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>회 적중시키면 공허 화살을 사용해 대상 위치에 공허 보주 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>개를 연달아 발사할 수 있습니다. 각 보주는 적중 시 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">72</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다.<n/><n/>잘아타스가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>초 동안 일반 공격으로 적을 적중시키지 않으면 충전이 모두 사라집니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">퀘스트:</c> 공허 화살로 적 영웅을 적중시킬 때마다 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>중첩을 얻고 공허 화살의 피해가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75%</c> 증가합니다. 사망하면 모든 중첩을 잃습니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">보상 (20중첩):</c><n/> 공허 화살 사거리 <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c><n/> 사망 시 잃는 중첩 수가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>개로 감소합니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">보상 (60중첩):</c><n/> 공허 화살 충전에 필요한 일반 공격 횟수 <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">-1</c><n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">신화 보상 (100중첩):</c><n/> 일반 공격과 공허 화살의 피해 <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+50%</c><n/> 공허 화살의 투사체가 모든 대상을 관통합니다.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">사망으로 중첩을 잃더라도 이미 달성한 퀘스트 보상의 중첩 기준 아래로 내려가지 않습니다.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurMasteryNeedlespine|AbathurSymbioteNeedlespineTalent|Q|Level4",
+    "value": "공생체의 찌르기의 공격력과 사거리가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175%</c> 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArtanisBladeDashSolariteReaper|ArtanisBladeDashSolariteReaperTalent|Q|Level7",
+    "value": "칼날 질주로 전방으로 질주하며 주는 피해가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieSandBlastOnceAgainTheFirstTime|ChromieSandBlastOnceAgaintheFirstTime|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">퀘스트:</c> 죽지 않고 자신 또는 환영의 모래 강타가 적 영웅에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>회 적중해야 합니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">보상:</c> 환영을 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> 개까지 활성화할 수 있으며 환영의 공격력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">55%</c>로 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhPortalStablePortal|MedivhPortalStablePortal|E|Level16",
+    "value": "차원문의 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> 감소하고 지속 시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosBlastWaveEngulfingFlame|RagnarosBlastWaveEngulfingFlame|E|Level1",
+    "value": "화염 폭풍의 공격력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> 증가하고 반경이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ThrallSpiritShield|ThrallSpiritShield|Active|Level13",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c>초마다, 기술 방어력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> 증가하여 다음 기술 피해와 이후 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>초 동안 받는 기술 피해가 감소합니다. 서리늑대의 회복력이 발동할 때마다 이 효과의 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c>초 감소합니다.<n/><n/>활성화 또는 비활성화하여 발동을 허용하거나 억제할 수 있습니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelDivineSteed|YrelDivineSteed|Z|Level7",
+    "value": "탈것에 즉시 탑승할 수 있습니다. 탈것에 탑승하면 이동 속도가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> 증가하고 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>초에 걸쳐 서서히 감소합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationLightOfKarabor|YrelVindicationLightOfKarabor|Q|Level1",
+    "value": "비호의 반경이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> 증가합니다. 비호가 적 영웅에게 적중하면 치유량이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c> 증가합니다. 비호가 2명 이상의 적 영웅에게 적중하면 치유량이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70%</c> 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ZagaraMasteryTyrantMaw|ZagaraDevouringMawTyrantMawTalent|Heroic|Level20",
+    "value": "게걸 아귀의 공격력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> 증가하고, 영웅을 처치하면 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c>초 감소합니다."
+  }
+]

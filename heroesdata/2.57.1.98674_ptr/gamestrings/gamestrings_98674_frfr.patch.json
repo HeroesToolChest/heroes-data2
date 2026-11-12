@@ -1,0 +1,72 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.1.98674_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ThrallSpiritShield|ThrallSpiritShieldEnabled|Active",
+    "value": "Toutes les <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c> secondes, confère <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> points d’armure anti-sort contre la prochaine capacité adverse, ainsi que contre celles qui lui succèdent dans un délai de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> secondes. Résilience loup-de-givre réduit le temps de recharge de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> secondes.<n/><n/>Le déclenchement automatique de ce talent peut être désactivé."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Lance un orbe du Vide qui inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts aux ennemis touchés, et <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">130</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> supplémentaires aux ennemis au centre.<n/><n/>Si un héros adverse ou une structure est touché par le centre de l’orbe, il est marqué pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>\u00A0s.<n/><n/>Les cibles affectées par Marque de l’ombre sont révélées et attirent le cœur obscur et les serviteurs du Vide vers elles."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Permet de téléporter Xal’atath <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0fois selon une trajectoire triangulaire.<n/><n/>À chaque téléportation, les attaques de base de Xal’atath infligent <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">15\u00A0%</s> de dégâts supplémentaires tant que la capacité est active.<n/><n/>Réactiver la capacité permet d’interrompre Pas du Vide plus tôt pour rester à votre emplacement actuel.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Les dégâts des attaques de base sont plafonnés à +30\u00A0%.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Après avoir attaqué des adversaires <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0fois avec ses attaques de base, Xal’atath peut lancer Salve du Vide pour libérer une série de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0orbes du Vide sur l’endroit ciblé, chacun infligeant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">72</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>\u00A0points de dégâts à l’impact.<n/><n/>La charge se dissipe entièrement si Xal’atath ne touche aucun adversaire avec une attaque de base pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0s.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête\u00A0:</c> toucher des héros adverses avec Salve du Vide confère <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>\u00A0cumul par coup et augmente les dégâts de Salve du Vide de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75\u00A0%</c> . Tous les cumuls sont perdus à la mort.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Récompense (20\u00A0cumuls)\u00A0:</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c> à la portée de Salve du Vide<n/>   Le nombre de cumuls perdus à la mort est réduit à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Récompense (60\u00A0cumuls)\u00A0:</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">-1</c> au nombre d’attaques de base requis pour charger Salve du Vide.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Récompense mythique (100\u00A0cumuls)\u00A0:</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+50\u00A0%</c> aux dégâts des attaques de base et de Salve du Vide.<n/>   Les projectiles de Salve du Vide transpercent toutes les cibles.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">La perte de cumuls ne peut jamais faire repasser l’héroïne sous un palier de récompense de quête.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurMasteryNeedlespine|AbathurSymbioteNeedlespineTalent|Q|Level4",
+    "value": "Augmente les dégâts et la portée de Piqûre du symbiote de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArtanisBladeDashSolariteReaper|ArtanisBladeDashSolariteReaperTalent|Q|Level7",
+    "value": "Augmente les dégâts de la première accélération de Célérité tranchante de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieSandBlastOnceAgainTheFirstTime|ChromieSandBlastOnceAgaintheFirstTime|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quête\u00A0:</c> toucher <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>\u00A0héros avec Souffle de sable de Chromie ou de ses échos sans mourir.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Récompense\u00A0:</c> augmente le nombre maximal d’échos actifs à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>, et augmente les dégâts des échos à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">55\u00A0%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhPortalStablePortal|MedivhPortalStablePortal|E|Level16",
+    "value": "Diminue le temps de recharge des portails de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> et augmente la durée des portails de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosBlastWaveEngulfingFlame|RagnarosBlastWaveEngulfingFlame|E|Level1",
+    "value": "Augmente les dégâts de Vague explosive de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> et son rayon de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ThrallSpiritShield|ThrallSpiritShield|Active|Level13",
+    "value": "Toutes les <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c> secondes, confère <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> points d’armure anti-sort contre la prochaine capacité adverse, ainsi que contre celles qui lui succèdent dans un délai de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> secondes. Résilience loup-de-givre réduit le temps de recharge de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> secondes.<n/><n/>Le déclenchement automatique de ce talent peut être désactivé."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelDivineSteed|YrelDivineSteed|Z|Level7",
+    "value": "Rend l’invocation de la monture instantanée et augmente la vitesse de déplacement de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c>, qui se dissipent progressivement en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> secondes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationLightOfKarabor|YrelVindicationLightOfKarabor|Q|Level1",
+    "value": "Augmente le rayon de Rémission de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15\u00A0%</c>. Toucher un héros adverse augmente les points de vie rendus par Rémission de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35\u00A0%</c>. Si plus d’un héros est touché, le bonus est porté à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70\u00A0%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ZagaraMasteryTyrantMaw|ZagaraDevouringMawTyrantMawTalent|Heroic|Level20",
+    "value": "Augmente les dégâts de Gueule vorace de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> et réduit son temps de recharge de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> secondes pour chaque victime."
+  }
+]

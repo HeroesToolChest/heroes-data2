@@ -1,0 +1,27 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Sandbox (Cursed Hollow)"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/CursedHollowCoreCurse|CursedHollowCoreCurse|Q",
+    "value": "Время восстановления: 3 сек."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/CursedHollowCoreCurse|CursedHollowCoreCurse|Q",
+    "value": "После короткой паузы герои в указанной области получают урон в объеме <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c> их максимального запаса здоровья и теряют <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75</c> ед. брони на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> сек."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/CursedHollowCoreCurse|CursedHollowCoreCurse|Q",
+    "value": "Проклятие"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/CursedHollowCoreCurse|CursedHollowCoreCurse|Q",
+    "value": "Наносит урон и значительно ослабляет броню героя."
+  }
+]

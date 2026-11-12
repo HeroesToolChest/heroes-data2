@@ -1,0 +1,132 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Tomb of the Spider Queen"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SoulEaterDeathWave|SoulEaterDeathWave|W",
+    "value": "Recarga: 7 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SoulEaterSpawnMinions|SoulEaterSpawnMinions|Q",
+    "value": "Recarga: 20 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TombCoreDeathWave|TombCoreDeathWave|Q",
+    "value": "Recarga: 5 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/LostSoulTeleport|LostSoulTeleport|Q",
+    "value": "Arremete até a área-alvo, tornando-se invulnerável por toda a duração."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SoulEaterSpawnMinions|SoulEaterSpawnMinions|Q",
+    "value": "Gera 3 tropas para o Devorador de Almas."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TombCoreDeathWave|TombCoreDeathWave|Q",
+    "value": "Dispara uma onda de energia contra um Herói, causando dano equivalente a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c> do máximo de Vida e desacelerando em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70%</c> por <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c> s."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/LostSoulTeleport|LostSoulTeleport|Q",
+    "value": "Teleporte de Alma Perdida"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SoulEaterDeathWave|SoulEaterDeathWave|W",
+    "value": "Onda Mortal"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SoulEaterSpawnMinions|SoulEaterSpawnMinions|Q",
+    "value": "Gerar Tropas"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TombCoreDeathWave|TombCoreDeathWave|Q",
+    "value": "Onda Mortal"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/SoulEaterDeathWave|SoulEaterDeathWave|W",
+    "value": "Onda que causa dano a inimigos em linha reta"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TombCoreDeathWave|TombCoreDeathWave|Q",
+    "value": "Causa dano e desacelera os Heróis em uma área ampla"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostGemsTurnedIn",
+    "value": "~AwardValue~% das Gemas entregues"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostGemsTurnedIn",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Joalheiro,Joalheira</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostGemsTurnedIn",
+    "value": "~TooltipAmount~ Gemas entregues"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostGemsTurnedIn",
+    "value": "Maior número de Gemas entregues"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/HeroChenEarth",
+    "value": "HeroChenEarth"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/HeroChenFire",
+    "value": "HeroChenFire"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/HeroChenStorm",
+    "value": "HeroChenStorm"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/JungleGraveGolemLaner",
+    "value": "Golem de Areia"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HarrisonJones",
+    "value": "Harrison Jones"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ItemSoulPickupPrecursor",
+    "value": "Item Soul Pickup Precursor"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SoulCage",
+    "value": "Altar da Aranha"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SoulEater",
+    "value": "Tece-teias"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SoulEaterMinion",
+    "value": "Aranha"
+  }
+]

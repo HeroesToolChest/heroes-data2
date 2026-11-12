@@ -1,0 +1,72 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.1.98674_ptr"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/ThrallSpiritShield|ThrallSpiritShieldEnabled|Active",
+    "value": "Ogni <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c> s, fornisce <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> Resistenza magica contro la prima abilità nemica subita e quelle successive per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s. Resilienza dei Lupi Bianchi riduce il tempo di recupero di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> s.<n/><n/>Il talento può essere disattivato per impedire l'attivazione automatica."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathShadowMark|XalatathShadowMark|Q",
+    "value": "Lancia una Sfera del Vuoto che infligge <c val=#TooltipNumbers>0</c> danni ai nemici colpiti e <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">130</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni aggiuntivi ai nemici al centro.<n/><n/>Se un eroe o una struttura nemica vengono colpiti dal centro, diventano marchiati per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s.<n/><n/>I bersagli colpiti da Marchio dell'Ombra sono rivelati e attirano su di sé il Cuore Oscuro e i Servitori del Vuoto."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Se lanciata, teletrasporta Xalatath <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> volte disegnando uno schema a triangolo.<n/><n/>Ogni volta che Xal'atath si teletrasporta, infligge il <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">15%</s> di danni aggiuntivi con gli attacchi base finché l'abilità è attiva.<n/><n/>Riattivando l'abilità, Passo del Vuoto si interrompe e Xal'atath si ferma sulla posizione attuale.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Danni degli attacchi base massimi +30%.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Dopo aver attaccato i nemici con i suoi attacchi base <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> volte, Xal'atath può attivare una Raffica del Vuoto per scatenare una raffica di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> Sfere del Vuoto sulla zona bersaglio, ognuna delle quali infligge <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">72</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni all'impatto.<n/><n/>La carica si esaurisce se Xal'atath non colpisce un nemico con un attacco base dopo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> s.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missione:</c> Colpisci gli eroi nemici con Raffica del Vuoto per ottenere <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> accumuli per colpo e aumentare i danni di Raffica del Vuoto del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75%</c>. Perdi tutti gli accumuli alla morte.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Ricompensa (20 accumuli):</c><n/> <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c> Portata di Raffica del Vuoto<n/> Perdita di accumuli alla morte ridotta a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\"> 6</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Ricompensa (0 accumuli): </c><n/><c val=#TooltipGreen>-1</c> attacchi base necessari per caricare Raffica del Vuoto.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=#TooltipQuest> Ricompensa mitica(100 Accumuli): </c><n/> Gli attacchi base e Raffica del Vuoto infliggono il <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">50%</c> di danni aggiuntivi.<n/> I proiettili di Raffica del Vuoto trapassano tutti i bersagli.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">La perdita di accumuli non farà mai scendere l'eroe sotto una certa soglia ottenuta come ricompensa di missione.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurMasteryNeedlespine|AbathurSymbioteNeedlespineTalent|Q|Level4",
+    "value": "Aumenta i danni di Puntura del Simbionte e ne estende la portata del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArtanisBladeDashSolariteReaper|ArtanisBladeDashSolariteReaperTalent|Q|Level7",
+    "value": "Aumenta del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> i danni del primo affondo di Slancio Letale."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ChromieSandBlastOnceAgainTheFirstTime|ChromieSandBlastOnceAgaintheFirstTime|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missione:</c> Colpisci <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> eroi con Detonazione di Sabbia di Cromie o dei suoi Echi senza morire.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Ricompensa:</c> Aumenta il numero massimo di Echi attivi a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> e aumenta i danni inflitti dagli Echi al <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">55%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhPortalStablePortal|MedivhPortalStablePortal|E|Level16",
+    "value": "Riduce il tempo di recupero di Portale del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> e ne aumenta la durata del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosBlastWaveEngulfingFlame|RagnarosBlastWaveEngulfingFlame|E|Level1",
+    "value": "Aumenta del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0%</c> i danni di Ondata Esplosiva e ne estende il raggio del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ThrallSpiritShield|ThrallSpiritShield|Active|Level13",
+    "value": "Ogni <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c> s, fornisce <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> Resistenza magica contro la prima abilità nemica subita e quelle successive per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s. Resilienza dei Lupi Bianchi riduce il tempo di recupero di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> s.<n/><n/>Il talento può essere disattivato per impedire l'attivazione automatica."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelDivineSteed|YrelDivineSteed|Z|Level7",
+    "value": "Evoca immediatamente la cavalcatura, e fornisce un bonus del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c> alla velocità di movimento che si esaurisce progressivamente nel corso di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/YrelVindicationLightOfKarabor|YrelVindicationLightOfKarabor|Q|Level1",
+    "value": "Estende del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> il raggio di Rivendicazione. Colpire un eroe nemico aumenta del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c> le cure di Rivendicazione. Se si colpisce più di un eroe, il bonus aumenta al <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ZagaraMasteryTyrantMaw|ZagaraDevouringMawTyrantMawTalent|Heroic|Level20",
+    "value": "Baco Vorace infligge il <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> di danni aggiuntivi. Uccidere eroi ne riduce il tempo di recupero di <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> s."
+  }
+]

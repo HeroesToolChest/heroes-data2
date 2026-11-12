@@ -1,0 +1,127 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Garden of Terror Classic"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/PlantHorrorLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "Após <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s, transforma todos os Heróis inimigos na área em Trôpegos por <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">3</s> s, impedindo-os de atacar e usar Habilidades, além de desacelerá-los em <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">30%</s>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/PlantHorrorOvergrowthPlant|PlantHorrorOvergrowth|W",
+    "value": "Gera uma Exuberância que desativa Estruturas próximas. Você causa <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200%</c> de dano extra a Estruturas afetadas por Exuberância. Perde vida lentamente ao longo de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> s."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/:PASSIVE:|TerroroftheGarden|Heroic",
+    "value": "<s val=\"cbe8ff-ffffff\" hlt-name=\"StandardTooltipHeader\">Terror do Jardim (Especialização)</s><n/><n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">Permanentemente Irrefreável.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostDamageToPlants",
+    "value": "~AwardValue~% do dano causado a Plantas"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostDamageToPlants",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Terror do Jardim,Terror do Jardim</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostDamageToPlants",
+    "value": "~TooltipAmount~ de dano causado a Plantas"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostDamageToPlants",
+    "value": "Maior quantidade de dano causado a Plantas"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/ItemSeedPickup",
+    "value": "Aproxime-se para coletar esta Semente. "
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/PlantHorrorThornSpitter",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Recarga de cada carga: 12 s</s><n/><n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">Planta uma cuspidora de espinhos no local alvejado. A cuspidora de espinhos causa </s><s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">61</s><s val=\"8783e6\" hlt-name=\"StandardTooltip\"> de dano. Dura </s><s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">10</s><s val=\"8783e6\" hlt-name=\"StandardTooltip\"> s.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/energyType/VehiclePlantHorror",
+    "value": "Mana"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/lifeType/JunglePlantHorror",
+    "value": "Vida"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/lifeType/VehiclePlantHorror",
+    "value": "Vida"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FertileSoil",
+    "value": "Solo Fértil"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ItemSeedPickup",
+    "value": "Semente"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ItemSeedPickupPrecursor",
+    "value": "Precursor de semente"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/JunglePlantHorror",
+    "value": "Terror do Jardim"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PlantHorrorOvergrowthPlant",
+    "value": "Planta Exuberante"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PlantHorrorPoisonBulb",
+    "value": "Terror do Jardim - Bulbo Venenoso"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PlantHorrorPoisonBulbMissile",
+    "value": "Terror do Jardim - Bulbo Venenoso - Projétil"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PlantHorrorZombie",
+    "value": "Terror do Jardim - Zumbi"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Shambler",
+    "value": "Trôpego"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerMissile",
+    "value": "Projétil de Trôpego"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerRanged",
+    "value": "Trôpego"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerWalker",
+    "value": "Trôpego Andante"
+  }
+]
