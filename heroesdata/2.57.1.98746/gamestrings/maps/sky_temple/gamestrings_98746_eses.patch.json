@@ -1,0 +1,177 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Sky Temple"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TempleChampionTornado|SkyTempleCoreSandstorm|Q",
+    "value": "Tiempo de reutilización: 10 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TempleCoreTornado|GraveGolemBindingRootsSkyTemple|Q",
+    "value": "Tiempo de reutilización: 23 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TempleGuardianMightySwing|TempleGuardianMightySwing|Q",
+    "value": "Tiempo de reutilización: 8 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/energyText/LuxoriaTempleFinalBlast|LuxoriaTempleFinalBlast|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 1</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/LuxoriaTempleFinalBlast|LuxoriaTempleFinalBlast|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Tiempo de reutilización: 0.1 s</s><n/><n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">Lanzas una enorme descarga castigadora de energía que inflige </s><s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">2500</s><s val=\"8783e6\" hlt-name=\"StandardTooltip\"> de daño al objetivo.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/LuxoriaTempleTurretHold|LuxoriaTempleHoldTurret|W",
+    "value": "Diriges la torreta hacia la unidad o el punto seleccionado y la sujetas en el sitio."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/LuxoriaTempleTurretRelease|LuxoriaTempleReleaseTurret|E",
+    "value": "Diriges la torreta hacia la unidad o el punto seleccionado y la sueltas."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TempleChampionTornado|SkyTempleCoreSandstorm|Q",
+    "value": "Inflige daño y empuja a héroes enemigos."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TempleCoreTornado|GraveGolemBindingRootsSkyTemple|Q",
+    "value": "Dañas y empujas a los enemigos en un área pequeña."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TempleGuardianMightySwing|TempleGuardianMightySwing|Q",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Tiempo de reutilización: 8 s</s><n/><n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">Golpeas el suelo con tu arma, lo que inflige </s><s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">280</s><s val=\"8783e6\" hlt-name=\"StandardTooltip\"> de daño a todos los enemigos cercanos y los repele del área.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/LuxoriaTempleFinalBlast|LuxoriaTempleFinalBlast|Q",
+    "value": "Descarga castigadora"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/LuxoriaTempleTurretHold|LuxoriaTempleHoldTurret|W",
+    "value": "Sujetar torreta"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/LuxoriaTempleTurretRelease|LuxoriaTempleReleaseTurret|E",
+    "value": "Soltar torreta"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/stop|Stop|Heroic",
+    "value": "Detener"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TempleChampionTornado|SkyTempleCoreSandstorm|Q",
+    "value": "Tormenta de arena"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TempleCoreTornado|GraveGolemBindingRootsSkyTemple|Q",
+    "value": "Torbellino de arena"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TempleGuardianMightySwing|TempleGuardianMightySwing|Q",
+    "value": "Golpe poderoso"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TempleChampionTornado|SkyTempleCoreSandstorm|Q",
+    "value": "Inflige daño y empuja a héroes enemigos."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TempleCoreTornado|GraveGolemBindingRootsSkyTemple|Q",
+    "value": "Dañas y empujas a los enemigos en un área pequeña."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TempleGuardianMightySwing|TempleGuardianMightySwing|Q",
+    "value": "Das un golpe con el arma, lo que inflige daño y repele a los enemigos cercanos."
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostTimeInTemple",
+    "value": "~AwardValue~% de la ocupación de templos"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostTimeInTemple",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Amo de los templos,Ama de los templos</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostTimeInTemple",
+    "value": "~TooltipAmount~ s de ocupación de templos"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostTimeInTemple",
+    "value": "Mayor tiempo en templos"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/JungleGraveGolemLaner",
+    "value": "Gólem de arena"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HarrisonJonesWell",
+    "value": "Pozo de Harrison Jones"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LuxoriaCoreTornado",
+    "value": "Tornado"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LuxoriaTemple",
+    "value": "Templo de Luxoria"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LuxoriaTempleCaptureBeacon",
+    "value": "Baliza de captura del templo de Luxoria"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TempleChampionBoss",
+    "value": "Defensor del templo"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TempleDefenderMelee",
+    "value": "Defensor del templo"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TempleDefenderPathingBlocker",
+    "value": "Bloqueo de trazado de ruta de defensor"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TempleDefenderRanged",
+    "value": "Defensor"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TempleGuardianBoss",
+    "value": "Defensor"
+  }
+]

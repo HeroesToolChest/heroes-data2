@@ -1,0 +1,397 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Volskaya Foundry"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/LeaveVehicle|DragonKnightLeaveDragon|Trait",
+    "value": "재사용 대기시간: 10초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/LeaveVehicle|LeavePlantHorror|Trait",
+    "value": "재사용 대기시간: 10초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/LeaveVehicle|VolskayaVehicleLeaveVehicle|Trait",
+    "value": "재사용 대기시간: 10초"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/DragonsDinner|DragonsDinner|Q",
+    "value": "재사용 대기시간: 12초"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/MercDefenderHealingPulse|MercDefenderHealingPulse|Z",
+    "value": "재사용 대기시간: 10초"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/RingOfFire|RingOfFire|W",
+    "value": "재사용 대기시간: 5초"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/VolskayaCoreRocketFist|VolskayaCoreRocketFist|Q",
+    "value": "재사용 대기시간: 6초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/LeaveVehicle|DragonKnightLeaveDragon|Trait",
+    "value": "탑승물에서 내립니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleActivateParticleCannon|VolskayaVehicleActivateParticleCannon|Q",
+    "value": "입자포를 발사해 대상 지역에 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">190</c>의 피해를 줍니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "대상에게 돌진하여 주위에 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c>의 피해를 줍니다.<n/><n/>영웅이 아닌 대상에게는 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500%</c>의 추가 피해를 줍니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleCharge|VolskayaVehicleCharge|Q",
+    "value": "대상에게 돌진하여 주위에 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c>의 피해를 줍니다.<n/><n/>영웅이 아닌 대상에게는 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500%</c>의 추가 피해를 줍니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleCoreChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "대상에게 돌진하여 주위에 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c>의 피해를 줍니다.<n/><n/>영웅이 아닌 대상에게는 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500%</c>의 추가 피해를 줍니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleInitiateParticleCannon|VolskayaVehicleInitiateParticleCannon|Q",
+    "value": "입자포의 사거리를 확대하기 시작합니다. 다시 사용하면 발사하여 대상 지역에 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">190</c>의 피해를 줍니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleRocketFist|VolskayaVehicleRocketFist|W",
+    "value": "로켓 주먹을 날려 경로 상의 처음 적중하는 영웅 또는 구조물에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">150</c>의 피해를 줍니다. 영웅은 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>초 동안 밀쳐지고, 구조물은 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>초 동안 비활성화됩니다.<n/><n/>경로 상의 돌격병을 즉시 처치합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleSkyLaser|VolskayaVehicleSkyLaser|E",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">파열 레이저</c><n/>지면을 불태우며 선을 그어 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60</c>의 피해를 줍니다. <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>초 후 그어진 선이 폭발하여 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">380</c>의 피해를 줍니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleStructureChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "대상에게 돌진하여 주위에 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c>의 피해를 줍니다.<n/><n/>영웅이 아닌 대상에게는 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500%</c>의 추가 피해를 줍니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleTacticalStrikes|VolskayaVehicleTacticalStrikes|W",
+    "value": "사용하면 마우스 커서 위치에 미사일을 날립니다. 각각의 미사일은 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">38</c>의 피해를 주지만 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>의 에너지가 소모됩니다. 다시 사용하면 사격을 중단합니다.<n/><n/>구조물에는 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> 감소한 피해를 줍니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/VolskayaVehicleTShield|VolskayaVehicleTShield|E",
+    "value": "방어력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> 증가하고 주위 아군들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">500</c>의 피해를 흡수하는 보호막을 부여합니다. <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>초 동안 지속됩니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/VolskayaCoreRocketFist|VolskayaCoreRocketFist|Q",
+    "value": "로켓 주먹을 발사해 처음 적중한 적 영웅에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">150</c>의 피해를 주고 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>초 동안 밀어내며 기절시킵니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/name/LeaveVehicle|DragonKnightLeaveDragon|Trait",
+    "value": "탑승물 내리기"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/DragonsDinner|DragonsDinner|Q",
+    "value": "감금"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercDefenderHealingPulse|MercDefenderHealingPulse|Z",
+    "value": "파수꾼 - 치유의 파동"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/OverwatchMechanicRepair|OverwatchMechanicRepair|Z",
+    "value": "기술자 - 수리"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/RingOfFire|RingOfFire|W",
+    "value": "에너지 고리"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/VolskayaCoreRocketFist|VolskayaCoreRocketFist|Q",
+    "value": "로켓 주먹"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/RingOfFire|RingOfFire|W",
+    "value": "내부에 있는 대상에게 피해를 주는 에너지 고리를 생성합니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaCoreRocketFist|VolskayaCoreRocketFist|Q",
+    "value": "영웅에게 피해를 주고 밀어내는 주먹 발사"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleActivateParticleCannon|VolskayaVehicleActivateParticleCannon|Q",
+    "value": "대상 지역에 피해"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "대상에게 돌진하여 범위 피해"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleCharge|VolskayaVehicleCharge|Q",
+    "value": "대상에게 돌진하여 범위 피해"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleCoreChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "대상에게 돌진하여 범위 피해"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleInitiateParticleCannon|VolskayaVehicleInitiateParticleCannon|Q",
+    "value": "입자포 충전"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleRocketFist|VolskayaVehicleRocketFist|W",
+    "value": "적에게 피해를 주고 적 영웅을 이동 불가 상태로 만들며 포탑 비활성화"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleSkyLaser|VolskayaVehicleSkyLaser|E",
+    "value": "지면에 선을 그어 일정 시간 후 피해"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleStructureChargeApproach|VolskayaVehicleCharge|Hidden",
+    "value": "대상에게 돌진하여 범위 피해"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleTacticalStrikesDeactivate|VolskayaVehicleGatlingCannonCancel|W",
+    "value": "사격 중단"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleTacticalStrikes|VolskayaVehicleTacticalStrikes|W",
+    "value": "미사일 연쇄 발사"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/VolskayaVehicleTShield|VolskayaVehicleTShield|E",
+    "value": "수호자 방어력 일시 증가 및 주위 아군에게 보호막 부여"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostTimeOnPoint",
+    "value": "팀 거점 점령 시간의 ~AwardValue~%"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostTimeOnPoint",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">거점 수호자</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostTimeOnPoint",
+    "value": "거점 점령 시간 ~TooltipAmount~초"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/BioticEmitter",
+    "value": "생체 방출기를 생성하여 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c>초에 걸쳐 주위 아군 영웅들을 최대 생명력과 마나의 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c>만큼 치유합니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">생명력이 높은 튼튼한 용병입니다. 근접 공격을 합니다. 적 구조물의 피해를 받아내는 데 특화되어 있습니다.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser2",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">생명력이 높은 튼튼한 용병입니다. 근접 공격을 합니다. 적 구조물의 피해를 받아내는 데 특화되어 있습니다.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeBruiser3",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">생명력이 높은 튼튼한 용병입니다. 근접 공격을 합니다. 적 구조물의 피해를 받아내는 데 특화되어 있습니다.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MercDefenderMeleeIndividual",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">생명력이 높은 튼튼한 용병입니다. 근접 공격을 합니다. 적 구조물의 피해를 받아내는 데 특화되어 있습니다.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/energyType/VolskayaVehicle",
+    "value": "기력"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/energyType/VolskayaVehicleGunner",
+    "value": "기력"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/lifeType/VolskayaVehicle",
+    "value": "생명력"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/lifeType/VolskayaVehicleGunner",
+    "value": "생명력"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/JungleGraveGolemDefender",
+    "value": "거대 집행자"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/RegenGlobe",
+    "value": "생명력 팩"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BioticEmitter",
+    "value": "생체 방출기"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ControlPointMinimapIconA",
+    "value": "거점 미니맵 아이콘 A"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ControlPointMinimapIconB",
+    "value": "거점 미니맵 아이콘 B"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ControlPointMinimapIconC",
+    "value": "거점 미니맵 아이콘 C"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DragonSpiritsPickup",
+    "value": "용의 영혼"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HealingPulsePickup",
+    "value": "치유의 파동"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser",
+    "value": "불량배"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser2",
+    "value": "불량배"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeBruiser3",
+    "value": "불량배"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderMeleeIndividual",
+    "value": "파수꾼"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperLaner",
+    "value": "폭격수"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperDefender",
+    "value": "돌격대원"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperDefenderAttackMissile",
+    "value": "Merc Impaler (Defender Missile)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperLaner",
+    "value": "돌격대원"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercSiegeTrooperLanerAttackMissile",
+    "value": "Merc Impaler (Laner Missile)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchBossImprisonMissile",
+    "value": "Overwatch Boss Imprison Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchBossImprisonMissileDummy",
+    "value": "Overwatch Boss Imprison Missile (Dummy)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchMechanic",
+    "value": "기계공학자"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchTurret",
+    "value": "포탑"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/OverwatchTurretPlayer",
+    "value": "포탑 (플레이어)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TurretPickup",
+    "value": "포탑 (획득 가능)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/VolskayaMercCaptureSlab",
+    "value": "Volskaya Merc Capture Slab"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/VolskayaVehicleParticleCannonMissile",
+    "value": "입자포 투사체"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/VolskayaVehicleRocketFistMissile",
+    "value": "로켓 주먹 투사체"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/VolskayaVehicleSkyLaserMoverUnit",
+    "value": "스카이 레이저 이동 유닛"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/VolskayaVehicleTacticalStrikesMissile",
+    "value": "전술 타격 투사체"
+  }
+]

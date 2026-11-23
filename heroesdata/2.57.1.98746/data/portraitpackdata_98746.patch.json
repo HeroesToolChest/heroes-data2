@@ -1,0 +1,23 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.1.98746"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/totalItems",
+    "value": 1092
+  },
+  {
+    "op": "add",
+    "path": "/items/TheGoldSink",
+    "value": {
+      "hyperlinkId": "TheGoldSink",
+      "rarity": "Common",
+      "rewardPortraitIds": [
+        "TheGoldSink"
+      ]
+    }
+  }
+]

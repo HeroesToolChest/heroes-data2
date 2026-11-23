@@ -1,0 +1,352 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.1.98746"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortal2|MedivhPortal|E",
+    "value": "Recupero: \"0 s\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortalInstant|MedivhPortal|E",
+    "value": "Recupero: \"0 s\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortalMastery|MedivhPortalPortalMastery|Active",
+    "value": "Recupero: \"0 s\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/MedivhPortal2|MedivhPortal|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: \"0\"</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/MedivhPortalInstant|MedivhPortal|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: \"0\"</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/MedivhPortalMastery|MedivhPortalPortalMastery|Active",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: \"0\"</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/MedivhDustOfAppearance|MedivhDustOfAppearance|Active",
+    "value": "\"All'attivazione estende la visuale per <c val=\"\"#TooltipNumbers\"\">0</c> s e rivela gli eroi nemici nell'area per <c val=\"\"#TooltipNumbers\"\">0</c> s. Non interrompe Forma di Corvo.<n/><n/><c val=\"\"#AbilityPassive\"\">Passiva:</c> Estende del <c val=\"\"#TooltipNumbers\"\">0%</c> la visuale di Medivh in Forma di Corvo.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "\"Evoca il Cuore Oscuro, che pulsa e infligge <c val=\"\"#TooltipNumbers\"\">0</c> danni al secondo ai nemici vicini e dura <c val=\"\"#TooltipNumbers\"\">0</c> s.<n/><n/>Il Cuore Oscuro si sposta sul punto d'impatto del Marchio dell'Ombra.<n/><n/>Il Cuore Oscuro segue gli eroi afflitti da Marchio dell'Ombra e detona all'impatto, infliggendo <c val=\"\"#TooltipNumbers\"\">0</c> danni ai nemici vicini e <c val=\"\"#TooltipNumbers\"\">0</c> danni aggiuntivi al bersaglio marchiato.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "\"Dopo una canalizzazione di <c val=\"\"#TooltipNumbers\"\">0</c> s, evoca un Portale del Vuoto che genera fino a <c val=\"\"#TooltipNumbers\"\">3</c> Servitori del Vuoto che attaccano i nemici vicini.<n/><n/>Puoi avere fino a un massimo di <c val=\"\"#TooltipNumbers\"\">0</c> Portali del Vuoto attivi.<n/><n/> I nemici vicini al Portale del Vuoto sono rallentati del <c val=\"\"#TooltipNumbers\"\">0%</c>.<n/><n/>I Servitori del Vuoto sono attratti dagli eroi afflitti da Marchio dell'Ombra.<n/><n/><s val=\"\"TooltipSubscript\"\">Il portale svanisce dopo 0 s.</s><n/><s val=\"\"TooltipSubscript\"\">I Servitori del Vuoto scelgono automaticamente una corsia vicina da attaccare.</s><n/><s val=\"\"TooltipSubscript\"\">Gli attacchi base dei Servitori del Vuoto infliggono 0 danni per colpo.</s><n/><s val=\"\"TooltipSubscript\"\">I Servitori del Vuoto perdono salute nel corso di 0 s.</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidEruptionV2|XalatathVoidEruption|Heroic",
+    "value": "\"Canalizza una potente Sfera del Vuoto che cresce fino a raggiungere la dimensione massima dopo <c val=\"\"#TooltipNumbers\"\">0</c> s. Rilanciando l'abilità, la sfera viene lanciata in anticipo.<n/><n/>I nemici che entrano in contatto con la sfera subiscono <c val=\"\"#TooltipNumbers\"\">0</c> danni e sono accecati per <s val=\"\"StandardTooltipDetails\"\">0</s> s.<n/><n/>Quando la sfera raggiunge la fine della traiettoria, detona con una grande esplosione, infliggendo <c val=\"\"#TooltipNumbers\"\">0</c> danni.<n/><n/>Caricare quest'abilità aumenta i danni da contatto fino a un massimo di <c val=\"\"#TooltipNumbers\"\">0</c> e i danni dell'esplosione fino a un massimo di <c val=\"\"#TooltipNumbers\"\">0</c>.<n/><n/><s val=\"\"TooltipSubscript\"\">Infligge danni da contatto ogni 0,25 s.</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "\"Se lanciata, teletrasporta Xal'atath <c val=\"\"#TooltipNumbers\"\">3</c> volte disegnando uno schema a triangolo.<n/><n/>Ogni volta che Xal'atath si teletrasporta, infligge il <s val=\"\"StandardTooltipDetails\"\">0%</s> di danni aggiuntivi con gli attacchi base finché l'abilità è attiva.<n/><n/>Riattivando l'abilità, Passo del Vuoto si interrompe e Xal'atath si ferma sulla posizione attuale.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "\"Ogni attacco base contro gli eroi e ogni <c val=\"\"#TooltipNumbers\"\">2</c> attacchi base contro le unità non eroiche generano carica. Quando è completamente carica, Xal'atath può attivare una Raffica del Vuoto per scatenare una raffica di <c val=\"\"#TooltipNumbers\"\">6</c> Sfere del Vuoto sulla zona bersaglio, ognuna delle quali infligge <c val=\"\"#TooltipNumbers\"\">0</c> danni all'impatto.<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Missione:</c> Colpisci gli eroi nemici con Raffica del Vuoto per ottenere <c val=\"\"#TooltipNumbers\"\">0</c> accumuli per colpo e aumentare i danni di Raffica del Vuoto del <c val=\"\"#TooltipNumbers\"\">0%</c>. Perdi tutti gli accumuli alla morte.<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Ricompensa (0 accumuli):</c><n/> <c val=\"\"#TooltipGreen\"\">+2</c> Portata di Raffica del Vuoto<n/> Perdita di accumuli alla morte ridotta a <c val=\"\"#TooltipNumbers\"\"> 6</c>.<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Ricompensa (0 accumuli): </c><n/><c val=\"\"#TooltipGreen\"\">-1</c> attacchi base necessari per caricare Raffica del Vuoto.<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\"> Ricompensa mitica (0 Accumuli): </c><n/> Gli attacchi base e Raffica del Vuoto infliggono il <c val=\"\"#TooltipGreen\"\">+35%</c> di danni aggiuntivi.<n/> I proiettili di Raffica del Vuoto trapassano tutti i bersagli.<n/><n/><s val=\"\"TooltipSubscript\"\">La perdita di accumuli non farà mai scendere l'eroe sotto una certa soglia ottenuta come ricompensa di missione.</s><n/><s val=\"\"TooltipSubscript\"\">La carica si esaurisce se Xal'atath non colpisce un nemico con un attacco base dopo </s><c val=\"\"#TooltipNumbers\"\">0</c><s val=\"\"TooltipSubscript\"\"> s.</s>\""
+  },
+  {
+    "op": "add",
+    "path": "/items/bundle/name/MoophistoLaunchBundle",
+    "value": "Pacchetto Mucca Sacra Muufisto"
+  },
+  {
+    "op": "replace",
+    "path": "/items/hero/searchText/Xalatath",
+    "value": "Xal'atath Zal'atath Zalatath Maga del Vuoto di World of Warcraft"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/searchText/MountPhoenix",
+    "value": "Uccello Rosso Viola dei Sindorei"
+  },
+  {
+    "op": "add",
+    "path": "/items/portraitPack/name/TheGoldSink",
+    "value": "Lavabo d'Oro"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/description/TheGoldSink",
+    "value": "Dove conduce questo lavabo misterioso?"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/descriptionUnearned/TheGoldSink",
+    "value": "Dove conduce questo lavabo misterioso?"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/name/TheGoldSink",
+    "value": "Lavabo d'Oro"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/MephistoMoophisto",
+    "value": "Ecco il nostro signore Muufisto, il più sacro di tutti i bovini! Che nessun pagano metta in dubbio la sua esistenza!"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/MephistoMoophistoVar1",
+    "value": "Ecco il nostro signore Muufisto, il più sacro di tutti i bovini! Che nessun pagano metta in dubbio la sua esistenza!"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/MephistoMoophistoVar2",
+    "value": "Ecco il nostro signore Muufisto, il più sacro di tutti i bovini! Che nessun pagano metta in dubbio la sua esistenza!"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/MephistoMoophistoVar3",
+    "value": "Ecco il nostro signore Muufisto, il più sacro di tutti i bovini! Che nessun pagano metta in dubbio la sua esistenza!"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/MephistoMoophistoVar4",
+    "value": "Ecco il nostro signore Muufisto, il più sacro di tutti i bovini! Che nessun pagano metta in dubbio la sua esistenza!"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/MephistoMoophisto",
+    "value": "Muufisto"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/MephistoMoophistoVar1",
+    "value": "Muufisto Holstein Divino"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/MephistoMoophistoVar2",
+    "value": "Muufisto Carne Rossa"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/MephistoMoophistoVar3",
+    "value": "Muufisto Dio di Guernsey"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/MephistoMoophistoVar4",
+    "value": "Muufisto Latte Intero"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/MephistoMoophisto",
+    "value": "MephistoMoophistoVar0"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/MedivhPortalPortalMastery|MedivhPortalPortalMasteryTalent|Active|Level1",
+    "value": "Recupero: 20 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/energyText/MedivhPortalPortalMastery|MedivhPortalPortalMasteryTalent|Active|Level1",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 130</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurMasteryNeedlespine|AbathurSymbioteNeedlespineTalent|Q|Level4",
+    "value": "\"Aumenta i danni di Puntura del Simbionte e ne estende la portata del <c val=\"\"#TooltipNumbers\"\">0%</c>.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AnubarakMasteryUnderkingBurrowCharge|AnubarakBurrowChargeUnderkingTalent|E|Level4",
+    "value": "\"Aumenta del <c val=\"\"#TooltipNumbers\"\">0%</c> i danni di Carica Sotterranea e ne estende la portata del <c val=\"\"#TooltipNumbers\"\">20%</c>.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArtanisBladeDashSolariteReaper|ArtanisBladeDashSolariteReaperTalent|Q|Level7",
+    "value": "\"Aumenta del <c val=\"\"#TooltipNumbers\"\">0%</c> i danni del primo affondo di Slancio Letale.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweXplodiumChargeBombToss|GazloweXplodiumChargeBombToss|E|Level20",
+    "value": "\"Il tempo di recupero di Carica di Explodio si riduce di <c val=\"\"#TooltipNumbers\"\">3</c> s e lancia <c val=\"\"#TooltipNumbers\"\">0</c> bombe in più quando esplode.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GreymaneCursedBulletGilneanRoulette|GreymaneCursedBulletGilneanRouletteTalent|Heroic|Level20",
+    "value": "\"Riduce di <c val=\"\"#TooltipNumbers\"\">0</c> s il tempo di recupero di Pallottola Maledetta.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/LucioPassiveSmoothMoves|LucioPassiveSmoothMoves|Z|Level1",
+    "value": "\"Finché Corsa sui Muri è attiva, gli attacchi base rigenerano Salute pari al <c val=\"\"#TooltipNumbers\"\">0%</c> dei danni inflitti e <c val=\"\"#TooltipNumbers\"\">0</c> Mana.<n/><n/><c val=\"\"#AbilityPassive\"\">Passiva:</c> Aumenta di <c val=\"\"#TooltipNumbers\"\">0</c> s la durata di Corsa sui Muri.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhDustOfAppearance|MedivhDustOfAppearance|Active|Level4",
+    "value": "\"All'attivazione estende la visuale per <c val=\"\"#TooltipNumbers\"\">0</c> s e rivela gli eroi nemici nell'area per <c val=\"\"#TooltipNumbers\"\">0</c> s. Non interrompe Forma di Corvo.<n/><n/><c val=\"\"#AbilityPassive\"\">Passiva:</c> Estende del <c val=\"\"#TooltipNumbers\"\">0%</c> la visuale di Medivh in Forma di Corvo.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhPortalPortalMastery|MedivhPortalPortalMasteryTalent|Active|Level1",
+    "value": "\"<c val=\"\"#TooltipRed\"\">+0%</c> al costo in Mana del portale.<n/>Medivh può posizionare manualmente entrambi i portali.<n/><n/><c val=\"\"#ColorCreamYellow\"\">Attivare il tratto annulla un portale non collegato.</c>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhPortalRavenFamiliar|MedivhPortalRavenFamiliar|E|Level4",
+    "value": "Un Famiglio Corvo si unisce agli alleati che attraversano un portale. Il corvo si lancia sull'eroe colpito dal successivo attacco base dell'alleato entro <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> s, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">98</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni e rallentandolo del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhTransformRavenWindsOfCelerity|MedivhTransformRavenWindsOfCelerity|Z|Level1",
+    "value": "\"Aumenta il bonus alla velocità di movimento della Forma di Corvo del <c val=\"\"#TooltipNumbers\"\">0%</c> e riduce il tempo di lancio di <c val=\"\"#TooltipNumbers\"\">0,25</c> s.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosBlastWaveEngulfingFlame|RagnarosBlastWaveEngulfingFlame|E|Level1",
+    "value": "\"Aumenta del <c val=\"\"#TooltipNumbers\"\">0%</c> i danni di Ondata Esplosiva e ne estende il raggio del <c val=\"\"#TooltipNumbers\"\">15%</c>.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "\"Aumenta la portata di Nucleo Ardente del <c val=\"\"#TooltipNumbers\"\">100%</c> all'inizio della sua durata. Inoltre, riduce il tempo di recupero di Nucleo Ardente di <c val=\"\"#TooltipNumbers\"\">110</c> s quando usato su forti o fortezze distrutti.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ThrallEchooftheElements|ThrallEchooftheElements|Q|Level1",
+    "value": "\"<img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Missione:</c> Uccidi servitori o eroi entro <c val=\"\"#TooltipNumbers\"\">0</c> s dopo averli colpiti con Catena di Fulmini. Quando muoiono, perdono <c val=\"\"#TooltipNumbers\"\">0</c> accumuli. Le ricompense ottenute non vengono perse.<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Ricompensa:</c> Dopo aver ucciso <c val=\"\"#TooltipNumbers\"\">0</c> nemici, riduce il costo in Mana di Catena di Fulmini da <c val=\"\"#TooltipNumbers\"\">0</c> a <c val=\"\"#TooltipNumbers\"\">0</c>.<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Ricompensa:</c> Dopo aver ucciso <c val=\"\"#TooltipNumbers\"\">0</c> nemici, Catena di Fulmini ottiene una carica aggiuntiva.<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Ricompensa mitica:</c> Dopo aver ucciso <c val=\"\"#TooltipNumbers\"\">0</c> nemici, Catena di Fulmini può colpire lo stesso bersaglio più volte e ogni rimbalzo si dirama verso <c val=\"\"#TooltipNumbers\"\">1</c> bersaglio aggiuntivo.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "\"<c val=\"\"#TooltipGreen\"\">+0%</c> raggio di Rituale del Cuore Oscuro<n/><n/>I danni del Cuore Oscuro rimbalzano <c val=\"\"#TooltipNumbers\"\">2</c> volte dal bersaglio primario ai nemici vicini, infliggendo <c val=\"\"#TooltipNumbers\"\">0</c> danni.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "\"Attivare Passo del Vuoto fornisce <c val=\"\"#TooltipNumbers\"\">25</c> Resistenza magica durante il teletrasporto e il <s val=\"\"StandardTooltipDetails\"\">0%</s> di velocità di movimento per i <c val=\"\"#TooltipNumbers\"\">2</c> s successivi.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "\"Ogni volta che il Cuore Oscuro infligge danni a un eroe nemico, Xal'atath ottiene uno scudo pari al <c val=\"\"#TooltipNumbers\"\">0%</c> della sua salute massima, fino a un massimo del <c val=\"\"#TooltipNumbers\"\">0%</c>.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "\"Far esplodere il Cuore Oscuro ora silenzia i nemici all'interno del suo raggio per <c val=\"\"#TooltipNumbers\"\">0</c> s.<n/><n/>Xal'atath e gli eroi alleati ottengono <c val=\"\"#TooltipNumbers\"\">0</c> Resistenza magica quando sono all'interno del raggio del Cuore Oscuro.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "\"<c val=\"\"#TooltipGreen\"\">+2 s</c> alla durata di Marchio dell'Ombra<n/><n/>I nemici afflitti da Marchio dell'Ombra sono rallentati del <s val=\"\"StandardTooltipDetails\"\">0%</s>.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "\"Dopo una canalizzazione di <c val=\"\"#TooltipNumbers\"\">0</c> s, evoca un Portale del Vuoto che genera fino a <c val=\"\"#TooltipNumbers\"\">3</c> Servitori del Vuoto che attaccano i nemici vicini.<n/><n/>Puoi avere fino a un massimo di <c val=\"\"#TooltipNumbers\"\">0</c> Portali del Vuoto attivi.<n/><n/> I nemici vicini al Portale del Vuoto sono rallentati del <c val=\"\"#TooltipNumbers\"\">0%</c>.<n/><n/>I Servitori del Vuoto sono attratti dagli eroi afflitti da Marchio dell'Ombra.<n/><n/><s val=\"\"TooltipSubscript\"\">Il portale svanisce dopo 0 s.</s><n/><s val=\"\"TooltipSubscript\"\">I Servitori del Vuoto scelgono automaticamente una corsia vicina da attaccare.</s><n/><s val=\"\"TooltipSubscript\"\">Gli attacchi base dei Servitori del Vuoto infliggono 0 danni per colpo.</s><n/><s val=\"\"TooltipSubscript\"\">I Servitori del Vuoto perdono salute nel corso di 0 s.</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "\"Canalizza una potente Sfera del Vuoto che cresce fino a raggiungere la dimensione massima dopo <c val=\"\"#TooltipNumbers\"\">0</c> s. Rilanciando l'abilità, la sfera viene lanciata in anticipo.<n/><n/>I nemici che entrano in contatto con la sfera subiscono <c val=\"\"#TooltipNumbers\"\">0</c> danni e sono accecati per <s val=\"\"StandardTooltipDetails\"\">0</s> s.<n/><n/>Quando la sfera raggiunge la fine della traiettoria, detona con una grande esplosione, infliggendo <c val=\"\"#TooltipNumbers\"\">0</c> danni.<n/><n/>Caricare quest'abilità aumenta i danni da contatto fino a un massimo di <c val=\"\"#TooltipNumbers\"\">0</c> e i danni dell'esplosione fino a un massimo di <c val=\"\"#TooltipNumbers\"\">0</c>.<n/><n/><s val=\"\"TooltipSubscript\"\">Infligge danni da contatto ogni 0,25 s.</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "\"Dopo aver completato Passo del Vuoto, Xal'atath lo esegue immediatamente una seconda volta in direzione opposta. Tutti gli effetti aggiuntivi si riattivano.<n/><n/><s val=\"\"TooltipSubscript\"\">Il bonus ai danni degli attacchi base si accumula fino a 3 volte</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "\"Aumenta del <c val=\"\"#TooltipNumbers\"\">75%</c> il bonus ai danni degli attacchi base per teletrasporto.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "\"L'esaurimento autonomo del Portale del Vuoto di Convergenza del Vuoto non è più letale, aumenta il limite di Portali del Vuoto attivi a <c val=\"\"#TooltipNumbers\"\">2</c> e può generare e sostenere fino a <c val=\"\"#TooltipNumbers\"\">4</c> Servitori del Vuoto.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathToxicMark|XalatathToxicMark|Q|Level7",
+    "value": "\"La Resistenza degli eroi afflitti da Marchio dell'Ombra viene ridotta di <s val=\"\"StandardTooltipDetails\"\">0</s> e subiscono danni pari al <c val=\"\"#TooltipNumbers\"\">0%</c> della loro salute massima ogni secondo.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "\"Quando il Cuore Oscuro si esaurisce o esplode, crea una pozza di fiamme del Vuoto per <c val=\"\"#TooltipNumbers\"\">0</c> s, che infligge fino a <c val=\"\"#TooltipNumbers\"\">0</c> ai nemici nell'area.<n/><n/><s val=\"\"TooltipSubscript\"\">Infligge 0 danni ogni 0 s.</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "\"Completare Passo del Vuoto carica completamente Raffica del Vuoto.<n/><n/>La successiva Raffica del Vuoto infligge il <c val=\"\"#TooltipNumbers\"\">0%</c> di danni aggiuntivi e non ha costo in Mana.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidAdept|XalatathVoidAdept|Q|Level1",
+    "value": "\"<img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Missione:</c> Fai esplodere il Cuore Oscuro sui bersagli afflitti da Marchio dell'Ombra.<n/><n/>Ogni esplosione andata a segno aumenta in modo permanente i danni di Marchio dell'Ombra e della detonazione del Rituale del Cuore Oscuro di <c val=\"\"#TooltipNumbers\"\">0</c>, fino a un massimo di <c val=\"\"#TooltipNumbers\"\">0</c> volte.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "\"Attivare Passo del Vuoto evoca un singolo Servitore del Vuoto nella posizione iniziale di Xal'atath. I Servitori del Vuoto sono attratti dai bersagli afflitti da Marchio dell'Ombra.<n/><n/><s val=\"\"TooltipSubscript\"\">I Servitori del Vuoto scelgono automaticamente una corsia vicina da attaccare.</s><n/><s val=\"\"TooltipSubscript\"\">Gli attacchi base dei Servitori del Vuoto infliggono 0 danni per colpo.</s><n/><s val=\"\"TooltipSubscript\"\">I Servitori del Vuoto perdono salute in 0 s.</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ZagaraMasteryTyrantMaw|ZagaraDevouringMawTyrantMawTalent|Heroic|Level20",
+    "value": "\"Baco Vorace infligge il <c val=\"\"#TooltipNumbers\"\">0%</c> di danni aggiuntivi. Uccidere eroi ne riduce il tempo di recupero di <c val=\"\"#TooltipNumbers\"\">0</c> s.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/GreymaneCursedBulletGilneanRoulette|GreymaneCursedBulletGilneanRouletteTalent|Heroic|Level20",
+    "value": "Riduce il tempo di recupero di Pallottola Maledetta."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/MedivhTransformRavenWindsOfCelerity|MedivhTransformRavenWindsOfCelerity|Z|Level1",
+    "value": "Aumenta la velocità di lancio e di movimento in Forma di Corvo"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "Aumenta il raggio di Cuore Oscuro, catena di danni"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "Fornisce uno scudo ogni volta che il Cuore Oscuro infligge danni a un eroe nemico"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "L'esaurimento autonomo del portale non è più letale e genera più Servitori del Vuoto."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/MedivhPortalRavenFamiliar",
+    "value": "Un Famiglio Corvo si unisce agli alleati che attraversano un portale. Il corvo si lancia sull'eroe colpito dal successivo attacco base dell'alleato entro <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> s, infliggendo <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">98</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> danni e rallentandolo del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "\"Evoca il Cuore Oscuro, che pulsa e infligge <c val=\"\"#TooltipNumbers\"\">0</c> danni al secondo ai nemici vicini e dura <c val=\"\"#TooltipNumbers\"\">0</c> s.<n/><n/>Il Cuore Oscuro si sposta sul punto d'impatto del Marchio dell'Ombra.<n/><n/>Il Cuore Oscuro segue gli eroi afflitti da Marchio dell'Ombra e detona all'impatto, infliggendo <c val=\"\"#TooltipNumbers\"\">0</c> danni ai nemici vicini e <c val=\"\"#TooltipNumbers\"\">0</c> danni aggiuntivi al bersaglio marchiato.\""
+  }
+]

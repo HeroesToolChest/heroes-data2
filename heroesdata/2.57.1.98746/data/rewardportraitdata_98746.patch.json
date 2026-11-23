@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.1.98746"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/totalItems",
+    "value": 1574
+  },
+  {
+    "op": "add",
+    "path": "/items/TheGoldSink",
+    "value": {
+      "hyperlinkId": "TheGoldSinkPortrait",
+      "rarity": "Common",
+      "category": "PortraitsNexusEmblems1",
+      "portraitPackId": "TheGoldSink",
+      "iconSlot": 30,
+      "image": "storm_portrait_thegoldsink.png",
+      "textureSheet": {
+        "image": "ui_heroes_portraits_sheet44.png",
+        "rows": 6,
+        "columns": 6
+      },
+      "rewardLicenseIds": [
+        "TheGoldSink"
+      ]
+    }
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.1.98746"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortal2|MedivhPortal|E",
+    "value": "Cooldown: 20 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortalInstant|MedivhPortal|E",
+    "value": "Cooldown: 20 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortalMastery|MedivhPortalPortalMastery|Active",
+    "value": "Cooldown: 20 seconds"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/MedivhPortalMastery|MedivhPortalPortalMastery|Active",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 130</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/MedivhDustOfAppearance|MedivhDustOfAppearance|Active",
+    "value": "Activate to greatly increase sight range for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> seconds and reveal enemy Heroes in the area for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> seconds. Does not cancel Raven Form.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Passive:</c> Increase Medivh's sight range while in Raven Form by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/MeiOWIceWall|MeiOWIceWall|Heroic",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">Vector Targeting</c><n/>After a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.6875</c> second delay, create an impassable wall that traps enemy Heroes hit for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c> seconds. When the wall expires, trapped Heroes are Slowed by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c>, decaying over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidEruptionV2|XalatathVoidEruption|Heroic",
+    "value": "Channel a powerful Void Orb that grows over time until reaching maximum size after <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds. Recast to launch the Orb early.<n/><n/>Enemies that come into contact with the Orb take <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">81</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage and are Blinded for <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s> second.<n/><n/>When the Orb reaches the end of its path, it detonates in a large explosion, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">320</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage.<n/><n/>Charging up this Ability increases its contact damage up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">146</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> and its explosion damage up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">672</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Contact damage is dealt every 0.25 seconds.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/bundle/name/MoophistoLaunchBundle",
+    "value": "Our Sacred Cow Moophisto Bundle"
+  },
+  {
+    "op": "add",
+    "path": "/items/portraitPack/name/TheGoldSink",
+    "value": "The Gold Sink"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/description/TheGoldSink",
+    "value": "Where does this mysterious sink lead to?"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/descriptionUnearned/TheGoldSink",
+    "value": "Where does this mysterious sink lead to?"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/name/TheGoldSink",
+    "value": "The Gold Sink"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/MephistoMoophisto",
+    "value": "Lo and behold our Lord Moophisto, most sacred of cows! Let no heathen doubt his level’s existence!"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/MephistoMoophistoVar1",
+    "value": "Lo and behold our Lord Moophisto, most sacred of cows! Let no heathen doubt his level’s existence!"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/MephistoMoophistoVar2",
+    "value": "Lo and behold our Lord Moophisto, most sacred of cows! Let no heathen doubt his level’s existence!"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/MephistoMoophistoVar3",
+    "value": "Lo and behold our Lord Moophisto, most sacred of cows! Let no heathen doubt his level’s existence!"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/MephistoMoophistoVar4",
+    "value": "Lo and behold our Lord Moophisto, most sacred of cows! Let no heathen doubt his level’s existence!"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/MephistoMoophisto",
+    "value": "Moophisto"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/MephistoMoophistoVar1",
+    "value": "Holy Holstein Moophisto"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/MephistoMoophistoVar2",
+    "value": "Red Meat Moophisto"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/MephistoMoophistoVar3",
+    "value": "Guernsey God Moophisto"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/MephistoMoophistoVar4",
+    "value": "Whole Milk Moophisto"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/MephistoMoophisto",
+    "value": "MephistoMoophistoVar0"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/energyText/MedivhPortalPortalMastery|MedivhPortalPortalMasteryTalent|Active|Level1",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 130</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhDustOfAppearance|MedivhDustOfAppearance|Active|Level4",
+    "value": "Activate to greatly increase sight range for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> seconds and reveal enemy Heroes in the area for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> seconds. Does not cancel Raven Form.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Passive:</c> Increase Medivh's sight range while in Raven Form by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhPortalPortalMastery|MedivhPortalPortalMasteryTalent|Active|Level1",
+    "value": "<c val=\"ff1100\" hlt-name=\"#TooltipRed\">+100%</c> Portal Mana Cost<n/>Medivh can manually place both Portal locations.<n/><n/><c val=\"ffff80\" hlt-name=\"#ColorCreamYellow\">Activate Medivh's Trait to cancel an unlinked Portal</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhPortalRavenFamiliar|MedivhPortalRavenFamiliar|E|Level4",
+    "value": "A Raven Familiar joins allies each time they use a Portal. The Raven will dive at the ally's next Basic Attack against a Hero within <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> seconds, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">98</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage and Slowing them by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MeiOWIceWall|MeiOWIceWall|Heroic|Level10",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">Vector Targeting</c><n/>After a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.6875</c> second delay, create an impassable wall that traps enemy Heroes hit for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c> seconds. When the wall expires, trapped Heroes are Slowed by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c>, decaying over <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ThrallEchooftheElements|ThrallEchooftheElements|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Kill Minions or Heroes within <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds of hitting them with Chain Lightning. Upon dying, lose <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> stacks. Gained rewards cannot be lost.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> After killing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> enemies, reduce the Mana cost of Chain Lightning from <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> After killing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> enemies, Chain Lightning gains an extra charge.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Mythic Reward:</c> After killing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">125</c> enemies, Chain Lightning can now strike the same target multiple times, and also strikes <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> additional target per bounce."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Channel a powerful Void Orb that grows over time until reaching maximum size after <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> seconds. Recast to launch the Orb early.<n/><n/>Enemies that come into contact with the Orb take <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">81</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage and are Blinded for <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s> second.<n/><n/>When the Orb reaches the end of its path, it detonates in a large explosion, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">320</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage.<n/><n/>Charging up this Ability increases its contact damage up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">146</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> and its explosion damage up to <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">672</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Contact damage is dealt every 0.25 seconds.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/GreymaneCursedBulletGilneanRoulette|GreymaneCursedBulletGilneanRouletteTalent|Heroic|Level20",
+    "value": "Reduces Cursed Bullet cooldown"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "While Void Step is active, increase Basic Attack damage"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/MedivhPortalRavenFamiliar",
+    "value": "A Raven Familiar joins allies each time they use a Portal. The Raven will dive at the ally's next Basic Attack against a Hero within <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> seconds, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">98</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage and Slowing them by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c> seconds."
+  }
+]

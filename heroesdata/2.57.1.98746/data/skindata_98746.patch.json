@@ -1,0 +1,108 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.1.98746"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/totalItems",
+    "value": 1777
+  },
+  {
+    "op": "add",
+    "path": "/items/MephistoMoophisto",
+    "value": {
+      "hyperlinkId": "Moophisto",
+      "attributeId": "MMO1",
+      "franchise": "Diablo",
+      "rarity": "Legendary",
+      "releaseDate": "2026-11-23",
+      "features": [
+        "ThemedAbilities",
+        "ThemedAnimations"
+      ],
+      "variationSkinIds": [
+        "MephistoMoophistoVar1",
+        "MephistoMoophistoVar2",
+        "MephistoMoophistoVar3",
+        "MephistoMoophistoVar4"
+      ],
+      "rewardLicenseIds": [
+        "MephistoMoophisto"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MephistoMoophistoVar1",
+    "value": {
+      "hyperlinkId": "MoophistoVar1",
+      "attributeId": "MMO2",
+      "franchise": "Diablo",
+      "rarity": "Legendary",
+      "releaseDate": "2026-11-23",
+      "features": [
+        "ThemedAbilities",
+        "ThemedAnimations"
+      ],
+      "rewardLicenseIds": [
+        "MephistoMoophistoVar1"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MephistoMoophistoVar2",
+    "value": {
+      "hyperlinkId": "MoophistoVar2",
+      "attributeId": "MMO3",
+      "franchise": "Diablo",
+      "rarity": "Legendary",
+      "releaseDate": "2026-11-23",
+      "features": [
+        "ThemedAbilities",
+        "ThemedAnimations"
+      ],
+      "rewardLicenseIds": [
+        "MephistoMoophistoVar2"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MephistoMoophistoVar3",
+    "value": {
+      "hyperlinkId": "MoophistoVar3",
+      "attributeId": "MMO4",
+      "franchise": "Diablo",
+      "rarity": "Legendary",
+      "releaseDate": "2026-11-23",
+      "features": [
+        "ThemedAbilities",
+        "ThemedAnimations"
+      ],
+      "rewardLicenseIds": [
+        "MephistoMoophistoVar3"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MephistoMoophistoVar4",
+    "value": {
+      "hyperlinkId": "MoophistoVar4",
+      "attributeId": "MMO5",
+      "franchise": "Diablo",
+      "rarity": "Legendary",
+      "releaseDate": "2026-11-23",
+      "features": [
+        "ThemedAbilities",
+        "ThemedAnimations"
+      ],
+      "rewardLicenseIds": [
+        "MephistoMoophistoVar4"
+      ]
+    }
+  }
+]

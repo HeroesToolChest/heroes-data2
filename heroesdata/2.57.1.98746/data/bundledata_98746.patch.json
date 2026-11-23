@@ -1,0 +1,23 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.1.98746"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/totalItems",
+    "value": 441
+  },
+  {
+    "op": "add",
+    "path": "/items/MoophistoLaunchBundle",
+    "value": {
+      "hyperlinkId": "MoophistoLaunchBundle",
+      "franchise": "Starcraft",
+      "releaseDate": "2026-11-23",
+      "isDynamicContent": true,
+      "image": "storm_ui_bundle_h57_moophisto.png"
+    }
+  }
+]

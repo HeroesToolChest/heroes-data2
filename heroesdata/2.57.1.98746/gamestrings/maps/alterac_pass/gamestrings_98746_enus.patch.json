@@ -1,0 +1,172 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Alterac Pass"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/AlteracBossCharge|AlteracBossCharge|W",
+    "value": "Cooldown: 6 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/AlteracBossWhirlwind|AlteracBossWhirlwind|Q",
+    "value": "Cooldown: 12 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/CapturedSoldierDummyAttack|Attack|Hidden",
+    "value": "Attacks using the Hero's weapon"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/name/UnderworldBossRoots|GraveGolemBindingRoots|Q",
+    "value": "Ice Shard"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/AlteracBossChargeApproach|AlteracBossCharge|Hidden",
+    "value": "Charge"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/AlteracBossCharge|AlteracBossCharge|W",
+    "value": "Charge"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/AlteracBossWhirlwind|AlteracBossWhirlwind|Q",
+    "value": "Whirlwind"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/CapturedSoldierDummyAttack|Attack|Hidden",
+    "value": "Basic Attack"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/shortText/UnderworldBossRoots|GraveGolemBindingRoots|Q",
+    "value": "Damage enemies and create a slowing area"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AlteracBossChargeApproach|AlteracBossCharge|Hidden",
+    "value": "Charge to an enemy and damage them"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AlteracBossCharge|AlteracBossCharge|W",
+    "value": "Charge to an enemy and damage them"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AlteracBossWhirlwind|AlteracBossWhirlwind|Q",
+    "value": "Damage nearby enemies"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/CapturedSoldierDummyAttack|Attack|Hidden",
+    "value": "Damage enemies with Basic Attacks"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostInterruptedCageUnlocks",
+    "value": "Interrupted ~AwardValue~% of Team's Cage Unlocks"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostInterruptedCageUnlocks",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Loyal Defender</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostInterruptedCageUnlocks",
+    "value": "Interrupted ~TooltipAmount~ Cage Unlocks"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/AlteracCoreBossParent",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Powerful, substantially tough structure. Deals high splash damage and has a shield that regenerates while not being attacked. Destroying this structure will result in victory.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/DrekThar",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Powerful, substantially tough structure. Deals high splash damage and has a shield that regenerates while not being attacked. Destroying this structure will result in victory.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/VanndarStormpike",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Powerful, substantially tough structure. Deals high splash damage and has a shield that regenerates while not being attacked. Destroying this structure will result in victory.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AllianceCavalry",
+    "value": "Alliance Cavalry"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AlteracCoreBossParent",
+    "value": "AlteracCoreBossParent"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AVCaptureFlagPreviewDummyAlliance",
+    "value": "Alliance Prison Camp"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AVCaptureFlagPreviewDummyHorde",
+    "value": "Horde Prison Camp"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AVCapturePointDefender",
+    "value": "Cage Defender"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/CaptureCage",
+    "value": "CaptureCage"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/CapturedSoldier",
+    "value": "Captured Soldier"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DrekThar",
+    "value": "Drek'Thar"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HordeCavalry",
+    "value": "Horde Cavalry"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ReaverMinion",
+    "value": "Reaver Minion"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Storm_Building_WCAV_Alliance_CaptureCage",
+    "value": "Storm_Building_WCAV_Alliance_CaptureCage"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranHellbat",
+    "value": "Gnoll"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranHellbatDefender",
+    "value": "Gnoll"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/VanndarStormpike",
+    "value": "Vanndar Stormpike"
+  }
+]

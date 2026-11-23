@@ -1,0 +1,54 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.1.98746"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/totalItems",
+    "value": 5506
+  },
+  {
+    "op": "add",
+    "path": "/items/MephistoMoophisto",
+    "value": {
+      "licenseId": 1209137
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MephistoMoophistoVar1",
+    "value": {
+      "licenseId": 1217418
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MephistoMoophistoVar2",
+    "value": {
+      "licenseId": 1217419
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MephistoMoophistoVar3",
+    "value": {
+      "licenseId": 1217420
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/MephistoMoophistoVar4",
+    "value": {
+      "licenseId": 1217421
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/TheGoldSink",
+    "value": {
+      "licenseId": 1230374
+    }
+  }
+]

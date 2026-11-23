@@ -1,0 +1,117 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Tomb of the Spider Queen"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SoulEaterDeathWave|SoulEaterDeathWave|W",
+    "value": "Recupero: 7 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SoulEaterSpawnMinions|SoulEaterSpawnMinions|Q",
+    "value": "Recupero: 20 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TombCoreDeathWave|TombCoreDeathWave|Q",
+    "value": "Recupero: 5 s"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/LostSoulTeleport|LostSoulTeleport|Q",
+    "value": "Scatta nel punto selezionato, diventando temporaneamente invulnerabile."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SoulEaterSpawnMinions|SoulEaterSpawnMinions|Q",
+    "value": "Genera 3 servitori per il Divoratore di Anime."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TombCoreDeathWave|TombCoreDeathWave|Q",
+    "value": "Lancia un'ondata di energia d'ombra che infligge danni pari al <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c> della Salute massima dell'eroe bersaglio, rallentandolo del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70%</c> per <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c> s."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/LostSoulTeleport|LostSoulTeleport|Q",
+    "value": "Anima Perduta - Teletrasporto"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SoulEaterDeathWave|SoulEaterDeathWave|W",
+    "value": "Onda Mortale"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SoulEaterSpawnMinions|SoulEaterSpawnMinions|Q",
+    "value": "Genera servitori"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TombCoreDeathWave|TombCoreDeathWave|Q",
+    "value": "Onda Mortale"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/SoulEaterDeathWave|SoulEaterDeathWave|W",
+    "value": "Un'onda danneggia i nemici in una linea retta."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TombCoreDeathWave|TombCoreDeathWave|Q",
+    "value": "Danneggia e rallenta gli eroi in un'ampia area."
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostGemsTurnedIn",
+    "value": "~AwardValue~% dei gioielli consegnati"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostGemsTurnedIn",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Gioielliere,Gioielliera</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostGemsTurnedIn",
+    "value": "~TooltipAmount~ gioielli consegnati"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostGemsTurnedIn",
+    "value": "Più gioielli consegnati"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/JungleGraveGolemLaner",
+    "value": "Golem delle Sabbie"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HarrisonJones",
+    "value": "Harrison Jones"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ItemSoulPickupPrecursor",
+    "value": "Oggetto - Raccolta anime - Precursore"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SoulCage",
+    "value": "Altare del Ragno"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SoulEater",
+    "value": "Tessitrice"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SoulEaterMinion",
+    "value": "Ragno"
+  }
+]
