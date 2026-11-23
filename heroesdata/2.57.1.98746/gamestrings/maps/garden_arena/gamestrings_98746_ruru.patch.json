@@ -1,0 +1,157 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Garden Arena"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/PlantHorrorOvergrowthPlant|PlantHorrorOvergrowth|W",
+    "value": "Время восстановления: 15 сек."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|DeathwingHearthstone|B",
+    "value": "После поддержания в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4.5</c> сек. телепортирует вашего героя в Зал Штормов."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneBrew|B",
+    "value": "Телепортирует вашего героя к алтарю, моментально восполняя весь запас здоровья и отвара."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|HearthstoneNoMana|B",
+    "value": "Телепортирует вашего героя к алтарю, моментально восполняя весь запас здоровья."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/Hearthstone|Hearthstone|B",
+    "value": "Телепортирует героя к алтарю, моментально восполняя весь запас здоровья и маны."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/PlantHorrorLignify|VehiclePlantHorrorPolymorph|Q",
+    "value": "После паузы в <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> сек. превращает вражеских героев в указанной области в шаркунов на <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">3</s> сек., в результате чего они не могут атаковать и использовать способности, при этом их скорость передвижения снижается на <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">30%</s>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/PlantHorrorOvergrowthPlant|PlantHorrorOvergrowth|W",
+    "value": "Насаждает буйную поросль, которая блокирует все находящиеся поблизости строения. Ужас наносит на <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200%</c> больше урона строениям под воздействием поросли. Поросль постепенно теряет здоровье в течение <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> сек."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/:PASSIVE:|TerroroftheGarden|Heroic",
+    "value": "<s val=\"cbe8ff-ffffff\" hlt-name=\"StandardTooltipHeader\">Гроза садов (умение)</s><n/><n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">Дает постоянную неудержимость.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/WallCrush|GraveGolemWallCrush|Hidden",
+    "value": "Кладбищенский голем - проламывание стены"
+  },
+  {
+    "op": "add",
+    "path": "/items/announcerPack/name/CommodoreFord",
+    "value": "Командор Форд"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostDamageToPlants",
+    "value": "Наибольший объем урона по растениям"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/ItemSeedPickup",
+    "value": "Подойдите ближе, чтобы подобрать это семя."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/PlantHorrorThornSpitter",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Время восстановления заряда: 12 сек.</s><n/><n/><s val=\"8783e6\" hlt-name=\"StandardTooltip\">Помещает в указанную область шипомет, который наносит </s><s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">61</s><s val=\"8783e6\" hlt-name=\"StandardTooltip\"> ед. урона. Время действия — </s><s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">10</s><s val=\"8783e6\" hlt-name=\"StandardTooltip\"> сек.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/energyType/VehiclePlantHorror",
+    "value": "Мана"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/lifeType/JunglePlantHorror",
+    "value": "Здоровье"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/lifeType/VehiclePlantHorror",
+    "value": "Здоровье"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/VehiclePlantHorror",
+    "value": "Растительный ужас"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FertileSoil",
+    "value": "Плодородная почва"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ItemSeedPickup",
+    "value": "Семя"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ItemSeedPickupPrecursor",
+    "value": "Зарождение семени"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/JunglePlantHorror",
+    "value": "Ужас Садов"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PlantHorrorOvergrowthPlant",
+    "value": "Поросль"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PlantHorrorPoisonBulb",
+    "value": "Ядовитая почка Ужаса Садов"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PlantHorrorPoisonBulbMissile",
+    "value": "Снаряд ядовитой почки Ужаса Садов"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PlantHorrorZombie",
+    "value": "Зомби Ужаса Садов"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Shambler",
+    "value": "Шаркун"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerMissile",
+    "value": "Снаряд шаркуна"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerRanged",
+    "value": "Шаркун"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ShamblerWalker",
+    "value": "Бредун"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WheresWeirdo",
+    "value": "Where's Weirdo"
+  }
+]

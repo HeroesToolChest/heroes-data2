@@ -1,0 +1,262 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Towers of Doom"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/L3MoonwellMorph|L3MoonwellMorph|Q",
+    "value": "L3: Poza de la Luna: mutar"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/L3StandaloneTowerMorph|L3StandaloneTowerMorph|Q",
+    "value": "L3: torre independiente. mutar Morph"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/L3TownMorph|L3TownMorph|Q",
+    "value": "L3: ciudad: mutar"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/MercGoblinSapperSuicide|MercGoblinSapperSuicide|Q",
+    "value": "Mercenario: suicidio de zapador goblin"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostAltarDamage",
+    "value": "~AwardValue~% del daño infligido al núcleo"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostAltarDamage",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Cañonero,Cañonera</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostAltarDamage",
+    "value": "~TooltipAmount~ de daño infligido al núcleo"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostAltarDamage",
+    "value": "Mayor daño infligido con altares"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseAvatarUnit",
+    "value": "Unidad de avatar de base"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionCannonExtraHigh",
+    "value": "Cañón de protección de base a mucha altura"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionCannonHigh",
+    "value": "Cañón de protección de base en alto"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionCannonLow",
+    "value": "Cañón de protección de base en bajo"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionCannonMid",
+    "value": "Cañón de protección de base en medio"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionTowerGround",
+    "value": "Torre de protección de base en suelo"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionTowerHigh",
+    "value": "Torre de protección de base en alto"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionTowerMid",
+    "value": "Torre de protección de base en medio"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BaseProtectionTowerMissile",
+    "value": "Misil de torre de protección de base"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BombChest",
+    "value": "Cofre bomba"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BombStructureItem",
+    "value": "Objeto de bombardeo de estructura"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BossMercCampCannonMissile",
+    "value": "Misil de cañón de jefe de campamento de mercenarios"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FortressArchwayCurvedDL",
+    "value": "Arcos de fortaleza: Recto: Curvado a inferior izquierda"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FortressArchwayCurvedDR",
+    "value": "Arcos de fortaleza: Recto: Curvado a inferior derecha"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FortressArchwayCurvedUL",
+    "value": "Arcos de fortaleza: Recto: Curvado a superior izquierda"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FortressArchwayCurvedUR",
+    "value": "Arcos de fortaleza: Recto: Curvado a superior derecha"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FortressArchwayVerticalLeft",
+    "value": "Arcos de fortaleza: Recto: Vertical izquierda"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/FortressArchwayVerticalRight",
+    "value": "Arcos de fortaleza: Recto: Vertical derecha"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/LandGrabCannonTower",
+    "value": "Tomar tierra: torre de cañón"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MapEventNecromancerCannonMissile",
+    "value": "Misil de cañón de Nigromante de evento de mapa"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MapEventRavenLordCannonMissile",
+    "value": "Misil de cañón de Señor de los Cuervos de evento de mapa"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercDefenderGoblinSapperAttackMissile",
+    "value": "Mercenario: misil de ataque de zapador goblin defensor"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperDefender",
+    "value": "Zapador"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercGoblinSapperLaner",
+    "value": "Zapador"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercHorsemanDefender",
+    "value": "Jinete"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercHorsemanFlyingHead",
+    "value": "Cabeza del jinete"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercHorsemanFlyingHeadFireballMissile",
+    "value": "Mercenario: misil de bola de fuego de cabeza voladora de jinete"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercHorsemanLaner",
+    "value": "Jinete de camino"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercHorsemanReturningHeadMissile",
+    "value": "Mercenario: misil de regreso de cabeza de jinete"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerGoblinSapperAttackMissile",
+    "value": "Mercenario: misil de ataque de zapador goblin de camino"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerGoblinSapperCoreMortarMissile",
+    "value": "Mercenario: misil de mortero de núcleo de zapador goblin de camino"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercLanerGoblinSapperMeleeAttackInvisibleMissile",
+    "value": "Mercenario: misil invisible de ataque cuerpo a cuerpo de zapador goblin de camino"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MercWinterCrestHorsemanEntrance",
+    "value": "Mercenario: entrada de jinete de cresta del invierno"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/NecromancerAvatarUnit",
+    "value": "Unidad de avatar de Nigromante"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/NeutralTownCaptureBeacon",
+    "value": "Baliza de captura de ciudad neutral"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PathingBlockerToDWall",
+    "value": "Bloqueador de trazado (muro de Torres de Fatalidad)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/RavenLordAvatarUnit",
+    "value": "Unidad de avatar de Señor de los Cuervos"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ScoringAltar",
+    "value": "Altar"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ScoringCaptureBeacon",
+    "value": "Puntuación: baliza"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SpiritHealer",
+    "value": "Ángel de la resurrección"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WaygateEntrance",
+    "value": "Entrada del túnel"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WaygateEntranceMinimapIconActor",
+    "value": "Entrada de la puerta: actor de icono de minimapa"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WaygateUnit",
+    "value": "Salida del túnel"
+  }
+]

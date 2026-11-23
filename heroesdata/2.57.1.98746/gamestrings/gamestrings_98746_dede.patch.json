@@ -1,0 +1,707 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.1.98746"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortal2|MedivhPortal|E",
+    "value": "Abklingzeit: \"0 Sek.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortalInstant|MedivhPortal|E",
+    "value": "Abklingzeit: \"0 Sek.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortalMastery|MedivhPortalPortalMastery|Active",
+    "value": "Abklingzeit: \"0 Sek.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/MedivhPortal2|MedivhPortal|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: \"0\"</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/MedivhPortalInstant|MedivhPortal|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: \"0\"</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/MedivhPortalMastery|MedivhPortalPortalMastery|Active",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: \"0\"</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/GazloweSalvagerSalvageTurretAbility|GazloweReduceReuseRecycleTrait|Trait",
+    "value": "Regeneriert alle <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> Sek. <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> Schrott. Zerstörte <w>G-Schütztürme hinterlassen </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c><w> Schrott, der aufgesammelt werden kann.</w><n/><n/><w>Aktivieren, um einen anvisierten </w><w>G-Schützturm zu Schrott zu zerlegen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/LeoricMarchoftheBlackKing|LeoricMarchoftheBlackKing|Heroic",
+    "value": "Leoric wird unaufhaltbar, marschiert vorwärts und schwingt seinen Streitkolben <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c><w>-mal. Jeder Gegner erleidet </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><w> Schaden. Stellt pro getroffenem gegnerischem Helden </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12%</c><w> von Leorics maximalen Lebenspunkten wieder her.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/MedivhDustOfAppearance|MedivhDustOfAppearance|Active",
+    "value": "\"Aktivieren, um die Sichtweite <c val=\"\"#TooltipNumbers\"\">0</c> Sek. lang stark zu erhöhen und gegnerische Helden im Gebiet <c val=\"\"#TooltipNumbers\"\">0</c> Sek. lang aufzudecken. Hebt die Rabengestalt nicht auf.<n/><n/><c val=\"\"#AbilityPassive\"\">Passiv:</c> Erhöht Medivhs Sichtweite in Rabengestalt um <c val=\"\"#TooltipNumbers\"\">0%</c>.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/TinkerFocusTurrets|TinkerFocusTurrets|Active",
+    "value": "Befiehlt allen <w>G-Schütztürmen in der Nähe, ein bestimmtes Ziel anzugreifen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "\"Rufe das dunkle Herz herbei, das Gegnern in der Nähe <c val=\"\"#TooltipNumbers\"\">0</c> pulsierenden Schaden pro Sekunde zufügt und <c val=\"\"#TooltipNumbers\"\">0</c> Sek. lang anhält.<n/><n/>Das dunkle Herz bewegt sich zum Ort, an dem Schattenmarkierung einschlägt.<n/><n/>Das dunkle Herz verfolgt Ziele, die mit Schattenmarkierung belegt sind, und explodiert beim Aufprall, wobei es Gegnern in der Nähe <c val=\"\"#TooltipNumbers\"\">0</c> und dem markierten Ziel <c val=\"\"#TooltipNumbers\"\">0</c> mehr Schaden zufügt.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "\"Nach <c val=\"\"#TooltipNumbers\"\">0</c> Sek. der Kanalisierung beschwörst du ein Leerenportal herauf, das bis zu <c val=\"\"#TooltipNumbers\"\">3</c> Leerendiener erscheinen lässt, die Gegner in der Nähe angreifen.<n/><n/>Du kannst bis zu <c val=\"\"#TooltipNumbers\"\">0</c> aktive Leerenportale haben.<n/><n/>Gegner, die sich in der Nähe des Leerenportals befinden, werden um <c val=\"\"#TooltipNumbers\"\">0%</c> verlangsamt.<n/><n/>Leerendiener werden von Zielen angezogen, die mit Schattenmarkierung belegt sind.<n/><n/><s val=\"\"TooltipSubscript\"\">Das Portal verfällt nach 0 Sek.</s><n/><s val=\"\"TooltipSubscript\"\">Leerendiener wählen automatisch einen Weg in der Nähe, um vorzurücken.</s><n/><s val=\"\"TooltipSubscript\"\">Automatische Angriffe von Leerendienern verursachen pro Treffer 0 Schaden.</s><n/><s val=\"\"TooltipSubscript\"\">Leerendiener verlieren im Verlauf von 0 Sek. Lebenspunkte.</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidEruptionV2|XalatathVoidEruption|Heroic",
+    "value": "\"Kanalisiere eine mächtige Leerenkugel, die mit der Zeit größer wird, bis sie nach <c val=\"\"#TooltipNumbers\"\">0</c> Sek. ihre maximale Größe erreicht. Erneut wirken, um die Kugel vorzeitig abzufeuern.<n/><n/>Gegner, die mit der Kugel in Kontakt kommen, erleiden <c val=\"\"#TooltipNumbers\"\">0</c> Schaden und werden <s val=\"\"StandardTooltipDetails\"\">0</s> Sek. lang geblendet.<n/><n/>Wenn die Kugel das Ende ihrer Laufbahn erreicht, explodiert sie und verursacht bis zu <c val=\"\"#TooltipNumbers\"\">0</c> Schaden.<n/><n/>Das Aufladen dieser Fähigkeit erhöht ihren Kontaktschaden auf bis zu <c val=\"\"#TooltipNumbers\"\">0</c> und ihren Explosionsschaden auf bis zu <c val=\"\"#TooltipNumbers\"\">0</c>.<n/><n/><s val=\"\"TooltipSubscript\"\">Alle 0,25 Sek. wird Kontaktschaden verursacht.</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "\"Wirken, um Xal'atath <c val=\"\"#TooltipNumbers\"\">3</c>-mal in einem Dreieck zu teleportieren.<n/><n/>Jedes Mal, wenn Xal'atath sich teleportiert, verursachen ihre automatischen Angriffe <s val=\"\"StandardTooltipDetails\"\">0%</s> mehr Schaden, solange die Fähigkeit aktiv ist.<n/><n/>Erneut aktivieren, um Leerenschritt vorzeitig zu beenden und am aktuellen Standort zu bleiben.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "\"Jeder automatische Angriff gegen Helden und alle <c val=\"\"#TooltipNumbers\"\">2</c> automatischen Angriffe gegen andere Ziele erzeugen Aufladung. Sobald Leerensalve vollständig aufgeladen ist, kann Xal'atath sie aktivieren, um eine Salve aus <c val=\"\"#TooltipNumbers\"\">6</c> Leerenkugeln auf einen Zielort zu entfesseln, die jeweils <c val=\"\"#TooltipNumbers\"\">0</c> Schaden beim Aufprall verursachen.<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Quest:</c> Triff gegnerische Helden mit Leerensalve, um pro Treffer <c val=\"\"#TooltipNumbers\"\">0</c> Stapel zu erhalten und den Schaden von Leerensalve um <c val=\"\"#TooltipNumbers\"\">0%</c> zu erhöhen. Bei deinem Tod verlierst du alle Stapel.<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Belohnung (0 Stapel):</c><n/> <c val=\"\"#TooltipGreen\"\">+2</c> Reichweite für Leerensalve<n/> Du verlierst bei deinem Tod jetzt nur noch <c val=\"\"#TooltipNumbers\"\">6</c> Stapel.<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Belohnung (0 Stapel):</c><n/> <c val=\"\"#TooltipGreen\"\">-1</c> automatischer Angriff zur Aufladung von Leerensalve erforderlich.<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Mythische Belohnung (0 Stapel):</c><n/> <c val=\"\"#TooltipGreen\"\">+35%</c> Schaden durch automatische Angriffe und Leerensalve.<n/> Projektile von Leerensalve durchbohren alle Ziele.<n/><n/><s val=\"\"TooltipSubscript\"\">Durch den Verlust von Stapeln fällt der Held nie unter die Schwelle einer bereits erreichten Questbelohnung.</s><n/><s val=\"\"TooltipSubscript\"\">Trifft Xal'atath </s><c val=\"\"#TooltipNumbers\"\">0</c><s val=\"\"TooltipSubscript\"\"> Sek. lang keinen Gegner mit einem automatischen Angriff, verfällt die Aufladung vollständig.</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/shortText/:PASSIVE:|LostVikingSelectOlaf|Active",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">Olaf</c> hat erhöhte Lebenspunkte und <w>-regeneration. Kann Gegner verlangsamen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/shortText/GazloweSalvagerSalvageTurretAbility|GazloweReduceReuseRecycleTrait|Trait",
+    "value": "Regeneriert Schrott, <w>G-Schütztürme hinterlassen Schrott"
+  },
+  {
+    "op": "replace",
+    "path": "/items/banner/name/BannerDFEsportsWarChest18RareAteam",
+    "value": "Kriegsbanner von <w>A-Team 2018"
+  },
+  {
+    "op": "replace",
+    "path": "/items/banner/name/BannerDFEsportsWarChest18RareMenagarie",
+    "value": "Kriegsbanner von <w>Monkey Menagerie 2018"
+  },
+  {
+    "op": "add",
+    "path": "/items/bundle/name/MoophistoLaunchBundle",
+    "value": "Unser „Heilige Kuh“-Muhphisto-Paket"
+  },
+  {
+    "op": "replace",
+    "path": "/items/hero/searchText/Xalatath",
+    "value": "World of Warcraft Magier Leere Xalatath Zal'atath Zalatath"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/searchText/MountPhoenix",
+    "value": "Rot-lila Sindorei-Vogel"
+  },
+  {
+    "op": "replace",
+    "path": "/items/portraitPack/name/LiliLunarFestivalPortrait",
+    "value": "Porträt: Niedliche Mondfest-<w>Li-Li"
+  },
+  {
+    "op": "replace",
+    "path": "/items/portraitPack/name/LiliStylizedLunarPortrait",
+    "value": "Porträt: Comic-Mondfest-<w>Li-Li"
+  },
+  {
+    "op": "replace",
+    "path": "/items/portraitPack/name/LimingLunarFestivalPortrait",
+    "value": "Porträt: Niedliche Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/portraitPack/name/LimingStylizedLunarPortrait",
+    "value": "Porträt: Comic-Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "add",
+    "path": "/items/portraitPack/name/TheGoldSink",
+    "value": "Der Goldabfluss"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/description/TheGoldSink",
+    "value": "Wohin dieser mysteriöse Abfluss wohl führt?"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/descriptionUnearned/TheGoldSink",
+    "value": "Wohin dieser mysteriöse Abfluss wohl führt?"
+  },
+  {
+    "op": "replace",
+    "path": "/items/rewardPortrait/name/LiliLunarFestivalPortrait",
+    "value": "Porträt: Niedliche Mondfest-<w>Li-Li"
+  },
+  {
+    "op": "replace",
+    "path": "/items/rewardPortrait/name/LiliStylizedLunarPortrait",
+    "value": "Porträt: Comic-Mondfest-<w>Li-Li"
+  },
+  {
+    "op": "replace",
+    "path": "/items/rewardPortrait/name/LimingLunarFestivalPortrait",
+    "value": "Porträt: Niedliche Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/rewardPortrait/name/LimingStylizedLunarPortrait",
+    "value": "Porträt: Comic-Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/name/TheGoldSink",
+    "value": "Der Goldabfluss"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/MephistoMoophisto",
+    "value": "Seht, unser Herr Muhphisto, die heiligste aller Kühe! Kein Ungläubiger zweifle an der Existenz seines Kuhlevels!"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/MephistoMoophistoVar1",
+    "value": "Seht, unser Herr Muhphisto, die heiligste aller Kühe! Kein Ungläubiger zweifle an der Existenz seines Kuhlevels!"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/MephistoMoophistoVar2",
+    "value": "Seht, unser Herr Muhphisto, die heiligste aller Kühe! Kein Ungläubiger zweifle an der Existenz seines Kuhlevels!"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/MephistoMoophistoVar3",
+    "value": "Seht, unser Herr Muhphisto, die heiligste aller Kühe! Kein Ungläubiger zweifle an der Existenz seines Kuhlevels!"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/MephistoMoophistoVar4",
+    "value": "Seht, unser Herr Muhphisto, die heiligste aller Kühe! Kein Ungläubiger zweifle an der Existenz seines Kuhlevels!"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/AlarakHunterVar1",
+    "value": "Alarak, Zwielichtherold <w>von N'Zoth"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/AlarakHunterVar2",
+    "value": "Alarak, Knochenherold <w>von N'Zoth"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/ArthasLichPrinceGreen",
+    "value": "Prinz Arthas von <w>Kul Tiras"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/BarbarianLegionFemale",
+    "value": "Sonya in Legionsrüstung <w>des Zorns"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/BarbarianLegionFemaleVar1",
+    "value": "Sonya in blutroter Legionsrüstung <w>des Zorns"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/BarbarianWrathFemale",
+    "value": "Sonya in Schlachtrüstung <w>des Zorns"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/BarbarianWrathFemalePink",
+    "value": "Sonya in pinker Schlachtrüstung <w>des Zorns"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/BarbarianWrathFemaleRed",
+    "value": "Sonya in blutroter Schlachtrüstung <w>des Zorns"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/BarbarianWrathVar3",
+    "value": "Sonya in titanweißer Schlachtrüstung <w>des Zorns"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/GuldanSpiderVar1",
+    "value": "Nerubischer <w>Gul'dan der Spinnenbedrohung"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/GuldanSpiderVar2",
+    "value": "Smaragd-<w>Gul'dan der Spinnenbedrohung"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/GuldanSpiderVar3",
+    "value": "Heroischer <w>Gul'dan der Spinnenbedrohung"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/HeroCrusaderSkinUltimateRed",
+    "value": "Scharlachrote Johanna des <w>heiligen Eids"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/HeroCrusaderSkinUltimateWhite",
+    "value": "Stahlblaue Johanna des <w>heiligen Eids"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/IllidanUltimateCrimson",
+    "value": "Illidan in Zinnoberrüstung <w>der Eredar"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/IllidanUltimateDark",
+    "value": "Illidan in Stahlrüstung <w>der Eredar"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/LiLiExplorerPink",
+    "value": "Rosarote Entdeckerin <w>Li Li"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/LiLiUltimatePurple",
+    "value": "Farbenfrohe Abenteurerin <w>Li Li"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/ProbiusTerranVar1",
+    "value": "Terranischer <w>Probius G1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/ProbiusTerranVar2",
+    "value": "Terranischer <w>Probius 01"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/ProbiusTerranVar3",
+    "value": "Terranischer <w>Probius R1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/ProbiusTerranVar4",
+    "value": "Terranischer <w>Probius X1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/UltimateCrusader",
+    "value": "Johanna des <w>heiligen Eids"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardLunarVar1",
+    "value": "Jadegrüne Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardLunarVar2",
+    "value": "Sonnengelbe Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardLunarVar3",
+    "value": "Blütenfarbene Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardLunarVar4",
+    "value": "Frostweiße Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardLunarVar5",
+    "value": "Imperiale Mondfest-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardSkinStarPrincess",
+    "value": "Sternenprinzessin <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardSkinStarQueen",
+    "value": "Sternenkönigin <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardSkinVolley",
+    "value": "Schmetterball-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardStarPrincessVar1",
+    "value": "Sternenprinzessin <w>Li-Ming vom Jupiter"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardStarPrincessVar2",
+    "value": "Magische Sternenprinzessin <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardStarPrincessVar3",
+    "value": "Dunkle Sternenprinzessin <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardStarQueenVar1",
+    "value": "Neo-Sternenkönigin <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardStarQueenVar2",
+    "value": "Ewige Sternenkönigin <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardUltimateVar1",
+    "value": "Herzensarchon <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardUltimateVar2",
+    "value": "Schattenarchon <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardUltimateVar3",
+    "value": "Höllenarchon <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardVolleyVar1",
+    "value": "Offensive Schmetterball-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardVolleyVar2",
+    "value": "Sportliche Schmetterball-<w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/skin/name/WizardVolleyVar3",
+    "value": "Saphirblaue Schmetterball-<w>Li-Ming"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/MephistoMoophisto",
+    "value": "Muhphisto"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/MephistoMoophistoVar1",
+    "value": "Heiliger Holstein-Muhphisto"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/MephistoMoophistoVar2",
+    "value": "Rindfleisch-Muhphisto"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/MephistoMoophistoVar3",
+    "value": "Göttlicher Guernsey-Muhphisto"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/MephistoMoophistoVar4",
+    "value": "Vollmilch-Muhphisto"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/MephistoMoophisto",
+    "value": "MephistoMoophistoVar0"
+  },
+  {
+    "op": "replace",
+    "path": "/items/spray/name/SprayAnimatedLunarFoodLili",
+    "value": "Festlich speisende <w>Li Li"
+  },
+  {
+    "op": "replace",
+    "path": "/items/spray/name/SprayAnimatedLunarFoodLiming",
+    "value": "Festlich speisende <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/spray/name/SprayAnimatedLunarLanternLili",
+    "value": "Mondfestlaterne: <w>Li Li"
+  },
+  {
+    "op": "replace",
+    "path": "/items/spray/name/SprayAnimatedLunarLanternLiming",
+    "value": "Mondfestlaterne: <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/spray/name/SprayStaticComicStarPrincessLiMing",
+    "value": "Sternenprinzessin <w>Li-Ming"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/MedivhPortalPortalMastery|MedivhPortalPortalMasteryTalent|Active|Level1",
+    "value": "Abklingzeit: 20 Sek."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/energyText/MedivhPortalPortalMastery|MedivhPortalPortalMasteryTalent|Active|Level1",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 130</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurMasteryNeedlespine|AbathurSymbioteNeedlespineTalent|Q|Level4",
+    "value": "\"Erhöht den Schaden und die Reichweite von Stachelschüssen des Symbionten um <c val=\"\"#TooltipNumbers\"\">0%</c>.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AnubarakMasteryUnderkingBurrowCharge|AnubarakBurrowChargeUnderkingTalent|E|Level4",
+    "value": "\"Erhöht die Reichweite von Untertunneln um <c val=\"\"#TooltipNumbers\"\">20%</c> und den Schaden um <c val=\"\"#TooltipNumbers\"\">0%</c>.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArtanisBladeDashSolariteReaper|ArtanisBladeDashSolariteReaperTalent|Q|Level7",
+    "value": "\"Erhöht den Schaden der Vorwärtsbewegung der Klingenoffensive um <c val=\"\"#TooltipNumbers\"\">0%</c>.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweDethLazorFirinMahLazorz|GazloweDethLazorFirinMahLazorz|W|Level16",
+    "value": "Wenn T0desLaz3r eingesetzt wird, feuern alle <w>G-Schütztürme einen T0desLaz3r ab, der </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">125</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><w> Schaden verursacht.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweMasterBlaster|GazloweMasterBlaster|Passive|Level7",
+    "value": "T0desLaz3r und Xplodiumsprengsatz verlangsamen getroffene Gegner <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> Sek. lang um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">35%</c>. Automatische Angriffe von <w>G-Schütztürmen gegen auf diese Weise verlangsamte Gegner erhöhen die Dauer der Verlangsamung um </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c><w> Sek.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweRockItSockIt|GazloweRockItSockIt|Q|Level4",
+    "value": "Das Erschaffen von <w>G-Schütztürmen gewährt Gazlowe </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c><w> Sek. lang </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">200</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><w> Schildpunkte.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweRockItTurretPositiveReinforcement|GazloweRockItTurretPositiveReinforcement|Q|Level13",
+    "value": "Hauptangriffe von <w>G-Schütztürmen gegen Helden erhöhen Gazlowes Angriffsgeschwindigkeit </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c><w> Sek. lang um </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40%</c><w>.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweRockItTurretSuperiorSchematics|GazloweRockItTurretSuperiorSchematics|Q|Level13",
+    "value": "<w>G-Schütztürme greifen bis zu </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c><w> zusätzliche Gegner an und fügen ihnen jeweils </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">60%</c><w> Schaden zu. Erhöht die Reichweite automatischer Angriffe von </w><w>G-Schütztürmen um </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c><w>.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweXplodiumChargeArkReaktor|GazloweXplodiumChargeArkReaktor|E|Level16",
+    "value": "Verringert die Abklingzeit von Xplodiumsprengsatz um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> Sek. Der Einsatz von Xplodiumsprengsatz erschafft <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> <w>G-Schütztürmchen, die </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c><w> Sek. lang bestehen bleiben.</w><n/><n/><w>Diese </w><w>G-Schütztürmchen hinterlassen keinen Schrott und profitieren nicht von anderen Talenten."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweXplodiumChargeBombToss|GazloweXplodiumChargeBombToss|E|Level20",
+    "value": "\"Die Abklingzeit des Xplodiumsprengsatzes wird um <c val=\"\"#TooltipNumbers\"\">3</c> Sek. verringert, und er wirft bei der Explosion <c val=\"\"#TooltipNumbers\"\">0</c> weitere Bomben aus.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GreymaneCursedBulletGilneanRoulette|GreymaneCursedBulletGilneanRouletteTalent|Heroic|Level20",
+    "value": "\"Die Abklingzeit der Verfluchten Kugel wird um <c val=\"\"#TooltipNumbers\"\">0</c> Sek. verringert.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/LeoricHeroicAbilityMarchoftheBlackKing|LeoricMarchoftheBlackKing|Heroic|Level10",
+    "value": "Leoric wird unaufhaltbar, marschiert vorwärts und schwingt seinen Streitkolben <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c><w>-mal. Jeder Gegner erleidet </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">250</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><w> Schaden. Stellt pro getroffenem gegnerischem Helden </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">12%</c><w> von Leorics maximalen Lebenspunkten wieder her.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/LucioPassiveSmoothMoves|LucioPassiveSmoothMoves|Z|Level1",
+    "value": "\"Beim Wallride stellen automatische Angriffe <c val=\"\"#TooltipNumbers\"\">0%</c> ihres Schadens als Lebenspunkte sowie <c val=\"\"#TooltipNumbers\"\">0</c> Mana wieder her.<n/><n/><c val=\"\"#AbilityPassive\"\">Passiv:</c> Erhöht die Dauer des Wallrides um <c val=\"\"#TooltipNumbers\"\">0</c> Sek.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhDustOfAppearance|MedivhDustOfAppearance|Active|Level4",
+    "value": "\"Aktivieren, um die Sichtweite <c val=\"\"#TooltipNumbers\"\">0</c> Sek. lang stark zu erhöhen und gegnerische Helden im Gebiet <c val=\"\"#TooltipNumbers\"\">0</c> Sek. lang aufzudecken. Hebt die Rabengestalt nicht auf.<n/><n/><c val=\"\"#AbilityPassive\"\">Passiv:</c> Erhöht Medivhs Sichtweite in Rabengestalt um <c val=\"\"#TooltipNumbers\"\">0%</c>.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhPortalPortalMastery|MedivhPortalPortalMasteryTalent|Active|Level1",
+    "value": "\"<c val=\"\"#TooltipRed\"\">+0%</c> Manakosten für Portal<n/>Medivh kann beide Portale frei platzieren.<n/><n/><c val=\"\"#ColorCreamYellow\"\">Aktiviere Medivhs Eigenschaft, um ein nicht verbundenes Portal zu zerstören</c>.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhPortalRavenFamiliar|MedivhPortalRavenFamiliar|E|Level4",
+    "value": "Wenn ein Verbündeter ein Portal nutzt, erscheint ein Rabenvertrauter, der ihn begleitet. Beim nächsten automatischen Angriff des Verbündeten innerhalb von <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> Sek. fügt der Rabe einem Helden <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">98</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden zu und verlangsamt ihn <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c> Sek. lang um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhTransformRavenWindsOfCelerity|MedivhTransformRavenWindsOfCelerity|Z|Level1",
+    "value": "\"Erhöht den Bewegungsgeschwindigkeitsbonus in Rabengestalt um <c val=\"\"#TooltipNumbers\"\">0 %</c> und verringert die Wirkzeit um <c val=\"\"#TooltipNumbers\"\">0,25</c> Sek.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosBlastWaveEngulfingFlame|RagnarosBlastWaveEngulfingFlame|E|Level1",
+    "value": "\"Erhöht den Schaden der Deflagration um <c val=\"\"#TooltipNumbers\"\">0%</c> und ihren Radius um <c val=\"\"#TooltipNumbers\"\">15%</c>.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "\"Die Reichweite von Geschmolzener Kern wird zu Beginn der Fähigkeitsdauer um <c val=\"\"#TooltipNumbers\"\">100\u00A0%</c> erhöht. Zudem wird die Abklingzeit der Fähigkeit um <c val=\"\"#TooltipNumbers\"\">110</c> Sek. verringert, wenn sie auf ein zerstörtes Fort oder eine Festung angewendet wird.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ThrallEchooftheElements|ThrallEchooftheElements|Q|Level1",
+    "value": "\"<img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Quest:</c> Töte Diener oder Helden innerhalb von <c val=\"\"#TooltipNumbers\"\">0</c> Sek., nachdem sie vom Kettenblitz getroffen wurden. Bei deinem Tod verlierst du <c val=\"\"#TooltipNumbers\"\">0</c> Stapel. Erhaltene Belohnungen gehen nicht verloren.<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Belohnung:</c> Nachdem <c val=\"\"#TooltipNumbers\"\">0</c> Gegner getötet wurden, verringern sich die Manakosten von Kettenblitz von <c val=\"\"#TooltipNumbers\"\">0</c> auf <c val=\"\"#TooltipNumbers\"\">0</c>.<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Belohnung:</c> Nachdem <c val=\"\"#TooltipNumbers\"\">0</c> Gegner getötet wurden, erhält Kettenblitz eine zusätzliche Aufladung.<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Mythische Belohnung:</c> Nachdem <c val=\"\"#TooltipNumbers\"\">0</c> Gegner getötet wurden, kann Kettenblitz dasselbe Ziel mehrmals treffen und trifft pro Übersprung <c val=\"\"#TooltipNumbers\"\">1</c> zusätzliches Ziel.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/TinkerItsRainingScrap|TinkerItsRainingScrap|Q|Level20",
+    "value": "Verringert die Schrottkosten von <w>G-Schütztürmen um </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c><w>. Gewährt für jedes aufgesammelte Stück Schrott </w><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c><w> Schrott.</w>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "\"<c val=\"\"#TooltipGreen\"\">+0%</c> Radius von Ritual des dunklen Herzens<n/><n/>Der Schaden des dunklen Herzens springt <c val=\"\"#TooltipNumbers\"\">2</c>-mal vom Hauptziel auf Gegner in der Nähe über und verursacht <c val=\"\"#TooltipNumbers\"\">0</c> Schaden.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "\"Die Aktivierung von Leerenschritt gewährt während der Teleportation <c val=\"\"#TooltipNumbers\"\">25</c> Zauberpanzerung und danach <c val=\"\"#TooltipNumbers\"\">2</c> Sek. lang <s val=\"\"StandardTooltipDetails\"\">0%</s> Bewegungsgeschwindigkeit.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "\"Jedes Mal, wenn das dunkle Herz einem gegnerischen Helden Schaden zufügt, erhält Xal'atath einen Schild in Höhe von <c val=\"\"#TooltipNumbers\"\">0%</c> ihrer maximalen Lebenspunkte, maximal <c val=\"\"#TooltipNumbers\"\">0%</c>.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "\"Wenn du das dunkle Herz explodieren lässt, werden Gegner in seinem Radius jetzt <c val=\"\"#TooltipNumbers\"\">0</c> Sek. lang zum Schweigen gebracht.<n/><n/>Xal'atath und verbündete Helden erhalten <c val=\"\"#TooltipNumbers\"\">0</c> Zauberpanzerung, solange sie sich im Radius des dunklen Herzens befinden.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "\"<c val=\"\"#TooltipGreen\"\">+2 Sek.</c> Dauer für Schattenmarkierung<n/><n/>Die Bewegungsgeschwindigkeit von Helden, die mit Schattenmarkierung belegt sind, wird um <s val=\"\"StandardTooltipDetails\"\">0%</s> verringert.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "\"Nach <c val=\"\"#TooltipNumbers\"\">0</c> Sek. der Kanalisierung beschwörst du ein Leerenportal herauf, das bis zu <c val=\"\"#TooltipNumbers\"\">3</c> Leerendiener erscheinen lässt, die Gegner in der Nähe angreifen.<n/><n/>Du kannst bis zu <c val=\"\"#TooltipNumbers\"\">0</c> aktive Leerenportale haben.<n/><n/>Gegner, die sich in der Nähe des Leerenportals befinden, werden um <c val=\"\"#TooltipNumbers\"\">0%</c> verlangsamt.<n/><n/>Leerendiener werden von Zielen angezogen, die mit Schattenmarkierung belegt sind.<n/><n/><s val=\"\"TooltipSubscript\"\">Das Portal verfällt nach 0 Sek.</s><n/><s val=\"\"TooltipSubscript\"\">Leerendiener wählen automatisch einen Weg in der Nähe, um vorzurücken.</s><n/><s val=\"\"TooltipSubscript\"\">Automatische Angriffe von Leerendienern verursachen pro Treffer 0 Schaden.</s><n/><s val=\"\"TooltipSubscript\"\">Leerendiener verlieren im Verlauf von 0 Sek. Lebenspunkte.</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "\"Kanalisiere eine mächtige Leerenkugel, die mit der Zeit größer wird, bis sie nach <c val=\"\"#TooltipNumbers\"\">0</c> Sek. ihre maximale Größe erreicht. Erneut wirken, um die Kugel vorzeitig abzufeuern.<n/><n/>Gegner, die mit der Kugel in Kontakt kommen, erleiden <c val=\"\"#TooltipNumbers\"\">0</c> Schaden und werden <s val=\"\"StandardTooltipDetails\"\">0</s> Sek. lang geblendet.<n/><n/>Wenn die Kugel das Ende ihrer Laufbahn erreicht, explodiert sie und verursacht bis zu <c val=\"\"#TooltipNumbers\"\">0</c> Schaden.<n/><n/>Das Aufladen dieser Fähigkeit erhöht ihren Kontaktschaden auf bis zu <c val=\"\"#TooltipNumbers\"\">0</c> und ihren Explosionsschaden auf bis zu <c val=\"\"#TooltipNumbers\"\">0</c>.<n/><n/><s val=\"\"TooltipSubscript\"\">Alle 0,25 Sek. wird Kontaktschaden verursacht.</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "\"Nach Abschluss von Leerenschritt führt Xal'atath sofort einen zweiten Leerenschritt in die entgegengesetzte Richtung durch. Zusätzliche Effekte werden erneut ausgelöst.<n/><n/><s val=\"\"TooltipSubscript\"\">Der Bonusschaden automatischer Angriffe ist bis zu 3-mal stapelbar</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "\"Erhöht den Bonus auf den Schaden automatischer Angriffe pro Teleportation um <c val=\"\"#TooltipNumbers\"\">75%</c>.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "\"Der Verfall des Leerenportals von Leerenkonvergenz ist nicht mehr tödlich, die maximale Anzahl aktiver Leerenportale steigt auf <c val=\"\"#TooltipNumbers\"\">2</c>, und jedes Portal kann bis zu <c val=\"\"#TooltipNumbers\"\">4</c> Leerendiener erscheinen lassen und am Leben halten.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathToxicMark|XalatathToxicMark|Q|Level7",
+    "value": "\"Die Panzerung von Helden, die mit Schattenmarkierung belegt sind, wird um <s val=\"\"StandardTooltipDetails\"\">0</s> verringert, und diese Helden erleiden pro Sekunde Schaden in Höhe von <c val=\"\"#TooltipNumbers\"\">0%</c> ihrer maximalen Lebenspunkte.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "\"Wenn das dunkle Herz endet oder explodiert, hinterlässt es <c val=\"\"#TooltipNumbers\"\">0</c> Sek. lang eine Pfütze aus Leerenflammen, die Gegnern im Gebiet bis zu <c val=\"\"#TooltipNumbers\"\">0</c> Schaden zufügt.<n/><n/><s val=\"\"TooltipSubscript\"\">Verursacht alle 0 Sek. 0 Schaden.</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "\"Sobald Leerenschritt abgeschlossen ist, wird Leerensalve vollständig aufgeladen.<n/><n/>Die nächste Leerensalve verursacht um <c val=\"\"#TooltipNumbers\"\">0%</c> erhöhten Schaden und kostet kein Mana.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidAdept|XalatathVoidAdept|Q|Level1",
+    "value": "\"<img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Quest:</c> Lasse das dunkle Herz auf Zielen explodieren, die mit Schattenmarkierung belegt sind.<n/><n/>Jede erfolgreiche Explosion erhöht den Schaden durch Schattenmarkierung und die Explosion von Ritual des dunklen Herzens dauerhaft um <c val=\"\"#TooltipNumbers\"\">0</c>, bis zu <c val=\"\"#TooltipNumbers\"\">0</c>-mal.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "\"Bei der Aktivierung von Leerenschritt wird an Xal'ataths Ausgangsposition ein einzelner Leerendiener beschworen. Leerendiener werden von Zielen angezogen, die mit Schattenmarkierung belegt sind.<n/><n/><s val=\"\"TooltipSubscript\"\">Leerendiener wählen automatisch einen Weg in der Nähe, um vorzurücken.</s><n/><s val=\"\"TooltipSubscript\"\">Automatische Angriffe von Leerendienern verursachen pro Treffer 0 Schaden.</s><n/><s val=\"\"TooltipSubscript\"\">Der Leerendiener verliert im Verlauf von 0 Sek. Lebenspunkte.</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ZagaraMasteryTyrantMaw|ZagaraDevouringMawTyrantMawTalent|Heroic|Level20",
+    "value": "\"Verschlingender Schlund verursacht <c val=\"\"#TooltipNumbers\"\">0%</c> mehr Schaden. Jeder getötete gegnerische Held verringert die Abklingzeit des Schlunds um <c val=\"\"#TooltipNumbers\"\">0</c> Sek.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/GenericTalentNexusFrenzy|NexusFrenzyTalent|Passive|Level20",
+    "value": "Erhöht die Angriffsgeschwindigkeit und <w>-reichweite."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/GreymaneCursedBulletGilneanRoulette|GreymaneCursedBulletGilneanRouletteTalent|Heroic|Level20",
+    "value": "Verringert die Abklingzeit der Verfluchten Kugel."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/MedivhTransformRavenWindsOfCelerity|MedivhTransformRavenWindsOfCelerity|Z|Level1",
+    "value": "Erhöht die Bewegungs- und Wirkgeschwindigkeit in Rabengestalt."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "Erhöht den Radius des dunklen Herzens, sein Schaden springt über."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "Erhalte jedes Mal einen Schild, wenn das dunkle Herz einem gegnerischen Helden Schaden zufügt."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "Der Verfall des Portals ist nicht mehr tödlich, und es lässt mehr Leerendiener erscheinen."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/MedivhPortalRavenFamiliar",
+    "value": "Wenn ein Verbündeter ein Portal nutzt, erscheint ein Rabenvertrauter, der ihn begleitet. Beim nächsten automatischen Angriff des Verbündeten innerhalb von <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> Sek. fügt der Rabe einem Helden <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">98</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> Schaden zu und verlangsamt ihn <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c> Sek. lang um <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "\"Rufe das dunkle Herz herbei, das Gegnern in der Nähe <c val=\"\"#TooltipNumbers\"\">0</c> pulsierenden Schaden pro Sekunde zufügt und <c val=\"\"#TooltipNumbers\"\">0</c> Sek. lang anhält.<n/><n/>Das dunkle Herz bewegt sich zum Ort, an dem Schattenmarkierung einschlägt.<n/><n/>Das dunkle Herz verfolgt Ziele, die mit Schattenmarkierung belegt sind, und explodiert beim Aufprall, wobei es Gegnern in der Nähe <c val=\"\"#TooltipNumbers\"\">0</c> und dem markierten Ziel <c val=\"\"#TooltipNumbers\"\">0</c> mehr Schaden zufügt.\""
+  }
+]

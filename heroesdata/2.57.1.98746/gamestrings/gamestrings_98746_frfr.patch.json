@@ -1,0 +1,352 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.1.98746"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortal2|MedivhPortal|E",
+    "value": "Temps de recharge\u00A0:<sp/>\"0\u00A0s\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortalInstant|MedivhPortal|E",
+    "value": "Temps de recharge\u00A0:<sp/>\"0\u00A0s\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortalMastery|MedivhPortalPortalMastery|Active",
+    "value": "Temps de recharge\u00A0:<sp/>\"0\u00A0s\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/MedivhPortal2|MedivhPortal|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana\u00A0: \"0\"</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/MedivhPortalInstant|MedivhPortal|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana\u00A0: \"0\"</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/MedivhPortalMastery|MedivhPortalPortalMastery|Active",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana\u00A0: \"0\"</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/MedivhDustOfAppearance|MedivhDustOfAppearance|Active",
+    "value": "\"Augmente fortement le champ de vision pendant <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0s et révèle les héros adverses dans la zone pendant <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0s. N’annule pas la forme de corbeau.<n/><n/><c val=\"\"#AbilityPassive\"\">Effet passif\u00A0:</c> augmente le champ de vision de Medivh en forme de corbeau de <c val=\"\"#TooltipNumbers\"\">0\u00A0%</c>.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "\"Invoque le cœur obscur, qui émet des pulsations infligeant <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0points de dégâts par seconde aux ennemis proches et persiste pendant <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0s.<n/><n/>Le cœur obscur se déplace vers la zone d’impact de Marque de l’ombre.<n/><n/>Le cœur obscur poursuivra les cibles affectées par Marque de l’ombre et explosera à l’impact, infligeant <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0points de dégâts aux ennemis proches et <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0points de dégâts supplémentaires à la cible marquée.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "\"Après <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0s de canalisation, invoque un portail du Vide qui fait apparaître jusqu’à <c val=\"\"#TooltipNumbers\"\">3</c>\u00A0serviteurs du Vide pour attaquer les ennemis proches.<n/><n/>Vous pouvez avoir jusqu’à <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0portail(s) du Vide actif(s).<n/><n/>Les ennemis proches du portail du Vide sont ralentis de <c val=\"\"#TooltipNumbers\"\">0\u00A0%</c>.<n/><n/>Les serviteurs du Vide sont attirés par les cibles affectées par Marque de l’ombre.<n/><n/><s val=\"\"TooltipSubscript\"\">Le portail disparaît au bout de 0\u00A0s.</s><n/><s val=\"\"TooltipSubscript\"\">Les serviteurs du Vide choisissent automatiquement une voie proche sur laquelle avancer.</s><n/><s val=\"\"TooltipSubscript\"\">Les attaques de base des serviteurs du Vide infligent 0\u00A0points de dégâts par coup.</s><n/><s val=\"\"TooltipSubscript\"\">Les serviteurs du Vide perdent des points de vie pendant 0\u00A0s.</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidEruptionV2|XalatathVoidEruption|Heroic",
+    "value": "\"Canalise un orbe du Vide puissant qui grandit au fil du temps jusqu’à atteindre sa taille maximale au bout de <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0s. Réactiver la capacité permet de lancer l’orbe plus tôt.<n/><n/>Les ennemis touchés par l’orbe subissent <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0points de dégâts et sont aveuglés pendant <s val=\"\"StandardTooltipDetails\"\">0</s>\u00A0s.<n/><n/>Lorsque l’orbe atteint la fin de sa course, il explose en infligeant <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0points de dégâts dans une large zone.<n/><n/>Plus cette technique est chargée, plus ses dégâts de contact augmentent, jusqu’à <c val=\"\"#TooltipNumbers\"\">0</c>, et ses dégâts d’explosion jusqu’à <c val=\"\"#TooltipNumbers\"\">0</c>.<n/><n/><s val=\"\"TooltipSubscript\"\">Les dégâts de contact sont infligés toutes les 0,25\u00A0s.</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "\"Permet de téléporter Xal’atath <c val=\"\"#TooltipNumbers\"\">3</c>\u00A0fois selon une trajectoire triangulaire.<n/><n/>À chaque téléportation, les attaques de base de Xal’atath infligent <s val=\"\"StandardTooltipDetails\"\">0\u00A0%</s> de dégâts supplémentaires tant que la capacité est active.<n/><n/>Réactiver la capacité permet d’interrompre Pas du Vide plus tôt pour rester à votre emplacement actuel.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "\"Toutes les attaques de base contre des héros et toutes les <c val=\"\"#TooltipNumbers\"\">2</c>\u00A0attaques de base contre des cibles non héroïques génèrent de la charge. Une fois complètement chargée, Xal’atath peut lancer Salve du Vide pour libérer une série de <c val=\"\"#TooltipNumbers\"\">6</c>\u00A0orbes du Vide sur l’endroit ciblé, chacun infligeant <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0points de dégâts à l’impact.<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Quête\u00A0:</c> toucher des héros adverses avec Salve du Vide confère <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0cumul par coup et augmente les dégâts de Salve du Vide de <c val=\"\"#TooltipNumbers\"\">0\u00A0%</c>. Tous les cumuls sont perdus à la mort.<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Récompense (0\u00A0cumuls)\u00A0:</c><n/>   <c val=\"\"#TooltipGreen\"\">+2</c> à la portée de Salve du Vide<n/>   Le nombre de cumuls perdus à la mort est réduit à <c val=\"\"#TooltipNumbers\"\">6</c>.<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Récompense (0\u00A0cumuls)\u00A0:</c><n/>   <c val=\"\"#TooltipGreen\"\">-1</c> au nombre d’attaques de base requis pour charger Salve du Vide.<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Récompense mythique (0\u00A0cumuls)\u00A0:</c><n/>   <c val=\"\"#TooltipGreen\"\">+35\u00A0%</c> aux dégâts des attaques de base et de Salve du Vide.<n/>   Les projectiles de Salve du Vide transpercent toutes les cibles.<n/><n/><s val=\"\"TooltipSubscript\"\">La perte de cumuls ne peut jamais faire repasser l’héroïne sous un palier de récompense de quête.</s><n/><s val=\"\"TooltipSubscript\"\">La charge se dissipe entièrement si Xal’atath ne touche aucun adversaire avec une attaque de base pendant </s><c val=\"\"#TooltipNumbers\"\">0</c><s val=\"\"TooltipSubscript\"\">\u00A0s.</s>\""
+  },
+  {
+    "op": "add",
+    "path": "/items/bundle/name/MoophistoLaunchBundle",
+    "value": "Pack Meuphisto notre vache sacrée"
+  },
+  {
+    "op": "replace",
+    "path": "/items/hero/searchText/Xalatath",
+    "value": "Xal’atath Zal’atath Zalatath mage du Vide de World\u00A0of\u00A0Warcraft"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/searchText/MountPhoenix",
+    "value": "Oiseau rouge violet sindorei"
+  },
+  {
+    "op": "add",
+    "path": "/items/portraitPack/name/TheGoldSink",
+    "value": "La vasque d’or"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/description/TheGoldSink",
+    "value": "Où est-ce que cette mystérieuse vasque débouche-t-elle\u00A0?"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/descriptionUnearned/TheGoldSink",
+    "value": "Où est-ce que cette mystérieuse vasque débouche-t-elle\u00A0?"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/name/TheGoldSink",
+    "value": "La vasque d’or"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/MephistoMoophisto",
+    "value": "Admirez notre seigneur Meuphisto, la plus sacrée des vaches\u00A0! Ne laissez pas les sauvages douter de son existence\u00A0!"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/MephistoMoophistoVar1",
+    "value": "Admirez notre seigneur Meuphisto, la plus sacrée des vaches\u00A0! Ne laissez pas les sauvages douter de son existence\u00A0!"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/MephistoMoophistoVar2",
+    "value": "Admirez notre seigneur Meuphisto, la plus sacrée des vaches\u00A0! Ne laissez pas les sauvages douter de son existence\u00A0!"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/MephistoMoophistoVar3",
+    "value": "Admirez notre seigneur Meuphisto, la plus sacrée des vaches\u00A0! Ne laissez pas les sauvages douter de son existence\u00A0!"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/MephistoMoophistoVar4",
+    "value": "Admirez notre seigneur Meuphisto, la plus sacrée des vaches\u00A0! Ne laissez pas les sauvages douter de son existence\u00A0!"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/MephistoMoophisto",
+    "value": "Meuphisto"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/MephistoMoophistoVar1",
+    "value": "Meuphisto saint holstein"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/MephistoMoophistoVar2",
+    "value": "Meuphisto viande rouge"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/MephistoMoophistoVar3",
+    "value": "Meuphisto divinité guernesiaise"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/MephistoMoophistoVar4",
+    "value": "Meuphisto lait entier"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/MephistoMoophisto",
+    "value": "MephistoMoophistoVar0"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/MedivhPortalPortalMastery|MedivhPortalPortalMasteryTalent|Active|Level1",
+    "value": "Temps de recharge\u00A0:<sp/>20\u00A0secondes"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/energyText/MedivhPortalPortalMastery|MedivhPortalPortalMasteryTalent|Active|Level1",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana\u00A0: 130</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurMasteryNeedlespine|AbathurSymbioteNeedlespineTalent|Q|Level4",
+    "value": "\"Augmente les dégâts et la portée de Piqûre du symbiote de <c val=\"\"#TooltipNumbers\"\">0\u00A0%</c>.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AnubarakMasteryUnderkingBurrowCharge|AnubarakBurrowChargeUnderkingTalent|E|Level4",
+    "value": "\"Augmente la portée de Charge enfouie de <c val=\"\"#TooltipNumbers\"\">20\u00A0%</c> et ses dégâts de <c val=\"\"#TooltipNumbers\"\">0\u00A0%</c>.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArtanisBladeDashSolariteReaper|ArtanisBladeDashSolariteReaperTalent|Q|Level7",
+    "value": "\"Augmente les dégâts de la première accélération de Célérité tranchante de <c val=\"\"#TooltipNumbers\"\">0\u00A0%</c>.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweXplodiumChargeBombToss|GazloweXplodiumChargeBombToss|E|Level20",
+    "value": "\"Réduit le temps de recharge de Charge d’X-plosium de <c val=\"\"#TooltipNumbers\"\">3</c>\u00A0s et projette <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0bombes supplémentaires lors de l’explosion.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GreymaneCursedBulletGilneanRoulette|GreymaneCursedBulletGilneanRouletteTalent|Heroic|Level20",
+    "value": "\"Réduit le temps de recharge de Balle maudite de <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0s.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/LucioPassiveSmoothMoves|LucioPassiveSmoothMoves|Z|Level1",
+    "value": "\"Tant que Wall Ride est actif, les attaques de base rendent un montant de points de vie équivalent à <c val=\"\"#TooltipNumbers\"\">0\u00A0%</c> des dégâts infligés, ainsi que <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0points de mana.<n/><n/><c val=\"\"#AbilityPassive\"\">Effet passif\u00A0:</c> augmente la durée de Wall Ride de <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0s.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhDustOfAppearance|MedivhDustOfAppearance|Active|Level4",
+    "value": "\"Augmente fortement le champ de vision pendant <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0s et révèle les héros adverses dans la zone pendant <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0s. N’annule pas la forme de corbeau.<n/><n/><c val=\"\"#AbilityPassive\"\">Effet passif\u00A0:</c> augmente le champ de vision de Medivh en forme de corbeau de <c val=\"\"#TooltipNumbers\"\">0\u00A0%</c>.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhPortalPortalMastery|MedivhPortalPortalMasteryTalent|Active|Level1",
+    "value": "\"<c val=\"\"#TooltipRed\"\">+0\u00A0%</c> au coût en mana de création de portail.<n/>Medivh peut placer manuellement les deux portails.<n/><n/><c val=\"\"#ColorCreamYellow\"\">Activer le trait de Medivh annule un portail non relié</c>.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhPortalRavenFamiliar|MedivhPortalRavenFamiliar|E|Level4",
+    "value": "Un familier corbeau accompagne les alliés chaque fois qu’ils empruntent un portail. Si l’allié porte une attaque de base à un héros dans les <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> secondes, le corbeau plonge sur la cible et lui inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">98</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts en plus de le ralentir de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c> secondes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhTransformRavenWindsOfCelerity|MedivhTransformRavenWindsOfCelerity|Z|Level1",
+    "value": "\"Augmente le bonus à la vitesse de déplacement sous forme de corbeau de <c val=\"\"#TooltipNumbers\"\">0\u00A0%</c> et réduit la vitesse d’incantation de <c val=\"\"#TooltipNumbers\"\">0,25</c>\u00A0s.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosBlastWaveEngulfingFlame|RagnarosBlastWaveEngulfingFlame|E|Level1",
+    "value": "\"Augmente les dégâts de Vague explosive de <c val=\"\"#TooltipNumbers\"\">0\u00A0%</c> et son rayon de <c val=\"\"#TooltipNumbers\"\">15\u00A0%</c>.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "\"La portée de Cœur du Magma augmente de <c val=\"\"#TooltipNumbers\"\">100\u00A0%</c> au début de sa durée. De plus, le temps de recharge de Cœur du Magma est réduit de <c val=\"\"#TooltipNumbers\"\">110</c>\u00A0s lorsqu’il est utilisé sur un fort ou un bastion détruit.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ThrallEchooftheElements|ThrallEchooftheElements|Q|Level1",
+    "value": "\"<img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Quête\u00A0:</c> tuer des serviteurs ou des héros moins de <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0s après les avoir touchés avec Chaîne d’éclairs. En cas de mort, perd <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0cumuls. Les récompenses gagnées ne peuvent pas être perdues.<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Récompense\u00A0:</c> une fois <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0adversaires tués, ramène le coût en mana de Chaîne d’éclairs de <c val=\"\"#TooltipNumbers\"\">0</c> à <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0points.<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Récompense\u00A0:</c> une fois <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0adversaires tués, Chaîne d’éclairs gagne une charge supplémentaire.<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Récompense mythique\u00A0:</c> une fois <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0adversaires tués, chaque rebond de Chaîne d’éclairs frappe <c val=\"\"#TooltipNumbers\"\">1</c>\u00A0cible supplémentaire et peut frapper la même cible à plusieurs reprises.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "\"<c val=\"\"#TooltipGreen\"\">+0\u00A0%</c> de rayon pour Rituel du cœur obscur.<n/><n/>Les dégâts du cœur obscur rebondissent <c val=\"\"#TooltipNumbers\"\">2</c>\u00A0fois de la cible principale vers les ennemis proches, infligeant <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0points de dégâts.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "\"Activer Pas du Vide confère <c val=\"\"#TooltipNumbers\"\">25</c>\u00A0points d’armure anti-sort pendant la téléportation et <s val=\"\"StandardTooltipDetails\"\">0\u00A0%</s> de vitesse de déplacement pendant <c val=\"\"#TooltipNumbers\"\">2</c>\u00A0s ensuite.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "\"Chaque fois que le cœur obscur inflige des dégâts à un héros adverse, Xal’atath obtient un bouclier égal à <c val=\"\"#TooltipNumbers\"\">0\u00A0%</c> de son maximum de points de vie, jusqu’à un maximum de <c val=\"\"#TooltipNumbers\"\">0\u00A0%</c>.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "\"Faire exploser le cœur obscur réduit désormais au silence les ennemis qui se trouvent dans son rayon pendant <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0s.<n/><n/>Xal’atath et les héros alliés obtiennent <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0points d’armure anti-sort tant qu’ils se trouvent dans le rayon du cœur obscur.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "\"<c val=\"\"#TooltipGreen\"\">+2\u00A0s</c> à la durée de Marque de l’ombre.<n/><n/>La vitesse de déplacement des héros affectés par Marque de l’ombre est réduite de <s val=\"\"StandardTooltipDetails\"\">0\u00A0%</s>.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "\"Après <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0s de canalisation, invoque un portail du Vide qui fait apparaître jusqu’à <c val=\"\"#TooltipNumbers\"\">3</c>\u00A0serviteurs du Vide pour attaquer les ennemis proches.<n/><n/>Vous pouvez avoir jusqu’à <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0portail(s) du Vide actif(s).<n/><n/>Les ennemis proches du portail du Vide sont ralentis de <c val=\"\"#TooltipNumbers\"\">0\u00A0%</c>.<n/><n/>Les serviteurs du Vide sont attirés par les cibles affectées par Marque de l’ombre.<n/><n/><s val=\"\"TooltipSubscript\"\">Le portail disparaît au bout de 0\u00A0s.</s><n/><s val=\"\"TooltipSubscript\"\">Les serviteurs du Vide choisissent automatiquement une voie proche sur laquelle avancer.</s><n/><s val=\"\"TooltipSubscript\"\">Les attaques de base des serviteurs du Vide infligent 0\u00A0points de dégâts par coup.</s><n/><s val=\"\"TooltipSubscript\"\">Les serviteurs du Vide perdent des points de vie pendant 0\u00A0s.</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "\"Canalise un orbe du Vide puissant qui grandit au fil du temps jusqu’à atteindre sa taille maximale au bout de <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0s. Réactiver la capacité permet de lancer l’orbe plus tôt.<n/><n/>Les ennemis touchés par l’orbe subissent <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0points de dégâts et sont aveuglés pendant <s val=\"\"StandardTooltipDetails\"\">0</s>\u00A0s.<n/><n/>Lorsque l’orbe atteint la fin de sa course, il explose en infligeant <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0points de dégâts dans une large zone.<n/><n/>Plus cette technique est chargée, plus ses dégâts de contact augmentent, jusqu’à <c val=\"\"#TooltipNumbers\"\">0</c>, et ses dégâts d’explosion jusqu’à <c val=\"\"#TooltipNumbers\"\">0</c>.<n/><n/><s val=\"\"TooltipSubscript\"\">Les dégâts de contact sont infligés toutes les 0,25\u00A0s.</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "\"À la fin de Pas du Vide, Xal’atath déclenche immédiatement un second Pas du Vide dans la direction opposée. Les effets supplémentaires sont réactivés.<n/><n/><s val=\"\"TooltipSubscript\"\">Le bonus aux dégâts des attaques de base se cumule jusqu’à 3\u00A0fois.</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "\"Augmente le bonus aux dégâts des attaques de base par téléportation de <c val=\"\"#TooltipNumbers\"\">75\u00A0%</c>.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "\"La disparition auto du portail du Vide de Convergence du Vide n’est plus mortelle, la limite de portails du Vide actifs passe à <c val=\"\"#TooltipNumbers\"\">2</c>, et chaque portail peut invoquer et maintenir jusqu’à <c val=\"\"#TooltipNumbers\"\">4</c>\u00A0serviteurs du Vide.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathToxicMark|XalatathToxicMark|Q|Level7",
+    "value": "\"Les héros affectés par Marque de l’ombre voient leurs points d’armure réduits de <s val=\"\"StandardTooltipDetails\"\">0</s> et subissent chaque seconde un montant de dégâts égal à <c val=\"\"#TooltipNumbers\"\">0\u00A0%</c> de leur maximum de points de vie.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "\"Lorsque le cœur obscur expire ou explose, il laisse derrière lui une nappe de flammes du Vide pendant <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0s, ce qui inflige jusqu’à <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0points de dégât aux ennemis dans la zone.<n/><n/><s val=\"\"TooltipSubscript\"\">Inflige 0\u00A0points de dégâts toutes les 0\u00A0s.</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "\"Terminer Pas du Vide charge entièrement Salve du Vide.<n/><n/>La prochaine Salve du Vide inflige <c val=\"\"#TooltipNumbers\"\">0\u00A0%</c> de dégâts supplémentaires et ne coûte plus de mana.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidAdept|XalatathVoidAdept|Q|Level1",
+    "value": "\"<img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">Quête\u00A0:</c> faire exploser le cœur obscur sur des cibles affectées par Marque de l’ombre.<n/><n/>Chaque explosion réussie augmente définitivement de <c val=\"\"#TooltipNumbers\"\">0</c> les dégâts de détonation de Marque de l’ombre et de Rituel du cœur obscur, jusqu’à <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0fois.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "\"Activer Pas du Vide invoque un seul serviteur du Vide à la position initiale de Xal’atath. Les serviteurs du Vide sont attirés par les cibles affectées par Marque de l’ombre.<n/><n/><s val=\"\"TooltipSubscript\"\">Les serviteurs du Vide choisissent automatiquement une voie proche sur laquelle avancer.</s><n/><s val=\"\"TooltipSubscript\"\">Les attaques de base des serviteurs du Vide infligent 0\u00A0points de dégâts par coup.</s><n/><s val=\"\"TooltipSubscript\"\">Le serviteur du Vide perd des points de vie pendant 0\u00A0s.</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ZagaraMasteryTyrantMaw|ZagaraDevouringMawTyrantMawTalent|Heroic|Level20",
+    "value": "\"Augmente les dégâts de Gueule vorace de <c val=\"\"#TooltipNumbers\"\">0\u00A0%</c> et réduit son temps de recharge de <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0s pour chaque victime.\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/GreymaneCursedBulletGilneanRoulette|GreymaneCursedBulletGilneanRouletteTalent|Heroic|Level20",
+    "value": "Réduit le temps de recharge de Balle maudite."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/MedivhTransformRavenWindsOfCelerity|MedivhTransformRavenWindsOfCelerity|Z|Level1",
+    "value": "Augmente les vitesses de déplacement et d’incantation sous forme de corbeau."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "Augmente le rayon du cœur obscur. Les dégâts se propagent."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "Confère un bouclier chaque fois que le cœur obscur inflige des dégâts à un héros adverse."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "La disparition auto du portail n’est plus mortelle et fait apparaître davantage de serviteurs du Vide."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/MedivhPortalRavenFamiliar",
+    "value": "Un familier corbeau accompagne les alliés chaque fois qu’ils empruntent un portail. Si l’allié porte une attaque de base à un héros dans les <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> secondes, le corbeau plonge sur la cible et lui inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">98</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> points de dégâts en plus de le ralentir de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c> secondes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "\"Invoque le cœur obscur, qui émet des pulsations infligeant <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0points de dégâts par seconde aux ennemis proches et persiste pendant <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0s.<n/><n/>Le cœur obscur se déplace vers la zone d’impact de Marque de l’ombre.<n/><n/>Le cœur obscur poursuivra les cibles affectées par Marque de l’ombre et explosera à l’impact, infligeant <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0points de dégâts aux ennemis proches et <c val=\"\"#TooltipNumbers\"\">0</c>\u00A0points de dégâts supplémentaires à la cible marquée.\""
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.1.98746"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortal2|MedivhPortal|E",
+    "value": "冷卻時間：\"0秒\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortalInstant|MedivhPortal|E",
+    "value": "冷卻時間：\"0秒\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortalMastery|MedivhPortalPortalMastery|Active",
+    "value": "冷卻時間：\"0秒\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/MedivhPortal2|MedivhPortal|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">法力：\"0\"點</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/MedivhPortalInstant|MedivhPortal|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">法力：\"0\"點</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/MedivhPortalMastery|MedivhPortalPortalMastery|Active",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">法力：\"0\"點</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/MedivhDustOfAppearance|MedivhDustOfAppearance|Active",
+    "value": "\"使用後大幅提高視野，持續<c val=\"\"#TooltipNumbers\"\">0</c>秒，並且使範圍內敵方英雄現形，持續<c val=\"\"#TooltipNumbers\"\">0</c>秒。使用時不會解除烏鴉形態。<n/><n/><c val=\"\"#AbilityPassive\"\">被動：</c>麥迪文在烏鴉形態的視野提高<c val=\"\"#TooltipNumbers\"\">0%</c>。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "\"召喚黑暗之心，產生的脈動會每秒對附近敵人造成<c val=\"\"#TooltipNumbers\"\">0</c>點傷害，持續<c val=\"\"#TooltipNumbers\"\">0</c>秒。<n/><n/>黑暗之心會向暗影標記擊中的位置移動。<n/><n/>黑暗之心會追蹤受到暗影標記影響的目標，在接觸時引爆，對附近敵人造成<c val=\"\"#TooltipNumbers\"\">0</c>點傷害，並對被標記的目標額外造成<c val=\"\"#TooltipNumbers\"\">0</c>點傷害。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "\"引導<c val=\"\"#TooltipNumbers\"\">0</c>秒後，召喚一個虛無傳送門，最多可產生<c val=\"\"#TooltipNumbers\"\">3</c>個虛無小兵攻擊附近的敵人。<n/><n/>你最多可擁有<c val=\"\"#TooltipNumbers\"\">0</c>座啟動的虛無傳送門。<n/><n/>虛無傳送門附近的敵人會緩速<c val=\"\"#TooltipNumbers\"\">0%</c>。<n/><n/>虛無小兵會向受到暗影標記影響的目標移動。<n/><n/><s val=\"\"TooltipSubscript\"\">傳送門會在0秒後關閉。</s><n/><s val=\"\"TooltipSubscript\"\">虛無小兵會自動沿附近的一條戰線推進。</s><n/><s val=\"\"TooltipSubscript\"\">虛無小兵的基本攻擊每次命中會造成0點傷害。</s><n/><s val=\"\"TooltipSubscript\"\">虛無小兵會在0秒內逐漸失去生命值。</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidEruptionV2|XalatathVoidEruption|Heroic",
+    "value": "\"引導一顆強大的虛無球體，會逐漸變大並在<c val=\"\"#TooltipNumbers\"\">0</c>秒後達到上限。重新施放可提早發射球體。<n/><n/>觸碰到球體的敵人會受到<c val=\"\"#TooltipNumbers\"\">0</c>點傷害，並遭到致盲，持續<s val=\"\"StandardTooltipDetails\"\">0</s>秒。<n/><n/>球體達到路徑終點後將引發大型爆炸，造成<c val=\"\"#TooltipNumbers\"\">0</c>點傷害。<n/><n/>蓄力此技能可使其接觸傷害提高至最多<c val=\"\"#TooltipNumbers\"\">0</c>點，並使其爆炸傷害提高至最多<c val=\"\"#TooltipNumbers\"\">0</c>點。<n/><n/><s val=\"\"TooltipSubscript\"\">每0.25秒造成一次接觸傷害。</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "\"施放後以三角形的軌跡傳送薩拉塔斯<c val=\"\"#TooltipNumbers\"\">3</c>次。<n/><n/>技能啟動期間，薩拉塔斯每次傳送都能使她的基本攻擊額外造成<s val=\"\"StandardTooltipDetails\"\">0%</s>傷害。<n/><n/>再次啟動可以提早結束虛無步伐，並停留在當下的位置。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "\"每次對英雄進行基本攻擊，或每對非英雄單位進行<c val=\"\"#TooltipNumbers\"\">2</c>次基本攻擊，都會累積充能。充能全滿後，薩拉塔斯可以啟動虛無箭雨，向目標位置連續射出<c val=\"\"#TooltipNumbers\"\">6</c>顆虛無球體，每顆虛無球體擊中時造成<c val=\"\"#TooltipNumbers\"\">0</c>點傷害。<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">任務：</c>以虛無箭雨擊中敵方英雄，每次命中獲得<c val=\"\"#TooltipNumbers\"\">0</c>層堆疊，使虛無箭雨的傷害提高<c val=\"\"#TooltipNumbers\"\">0%</c>。死亡時失去所有層數。<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">獎勵（0層堆疊效果）：</c><n/>   <c val=\"\"#TooltipGreen\"\">+2</c>虛無箭雨距離<n/>   死亡時失去的堆疊數降為<c val=\"\"#TooltipNumbers\"\">6</c>層。<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">獎勵（0層堆疊效果）：</c><n/>   充能虛無箭雨所需基本攻擊次數<c val=\"\"#TooltipGreen\"\">-1</c>。<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">傳奇獎勵（0層堆疊效果）：</c><n/>   <c val=\"\"#TooltipGreen\"\">+35%</c>基本攻擊與虛無箭雨傷害。<n/>   虛無箭雨投射物可貫穿所有目標。<n/><n/><s val=\"\"TooltipSubscript\"\">失去堆疊不會使英雄的堆疊數低於已達成的任務獎勵門檻。</s><n/><s val=\"\"TooltipSubscript\"\">若薩拉塔斯在</s><c val=\"\"#TooltipNumbers\"\">0</c><s val=\"\"TooltipSubscript\"\">秒內未以基本攻擊命中敵人，累積的充能會全部消失。</s>\""
+  },
+  {
+    "op": "add",
+    "path": "/items/bundle/name/MoophistoLaunchBundle",
+    "value": "吾等聖牛哞菲斯托組合包"
+  },
+  {
+    "op": "replace",
+    "path": "/items/hero/searchText/Xalatath",
+    "value": "《魔獸世界》法師 虛無 薩拉塔斯 Xalatath Zal'atath Zalatath"
+  },
+  {
+    "op": "replace",
+    "path": "/items/mount/searchText/MountPhoenix",
+    "value": "辛多雷紅紫鳥"
+  },
+  {
+    "op": "add",
+    "path": "/items/portraitPack/name/TheGoldSink",
+    "value": "黃金水槽"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/description/TheGoldSink",
+    "value": "這個神祕的水槽通往何處？"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/descriptionUnearned/TheGoldSink",
+    "value": "這個神祕的水槽通往何處？"
+  },
+  {
+    "op": "add",
+    "path": "/items/rewardPortrait/name/TheGoldSink",
+    "value": "黃金水槽"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/MephistoMoophisto",
+    "value": "看哪，吾主哞菲斯托，眾牛之中最神聖者！不容任何異教徒質疑祂的關卡確實存在！"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/MephistoMoophistoVar1",
+    "value": "看哪，吾主哞菲斯托，眾牛之中最神聖者！不容任何異教徒質疑祂的關卡確實存在！"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/MephistoMoophistoVar2",
+    "value": "看哪，吾主哞菲斯托，眾牛之中最神聖者！不容任何異教徒質疑祂的關卡確實存在！"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/MephistoMoophistoVar3",
+    "value": "看哪，吾主哞菲斯托，眾牛之中最神聖者！不容任何異教徒質疑祂的關卡確實存在！"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/infoText/MephistoMoophistoVar4",
+    "value": "看哪，吾主哞菲斯托，眾牛之中最神聖者！不容任何異教徒質疑祂的關卡確實存在！"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/MephistoMoophisto",
+    "value": "哞菲斯托"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/MephistoMoophistoVar1",
+    "value": "神聖荷斯登哞菲斯托"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/MephistoMoophistoVar2",
+    "value": "鮮紅牛肉哞菲斯托"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/MephistoMoophistoVar3",
+    "value": "根西牛神哞菲斯托"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/name/MephistoMoophistoVar4",
+    "value": "全脂鮮奶哞菲斯托"
+  },
+  {
+    "op": "add",
+    "path": "/items/skin/sortName/MephistoMoophisto",
+    "value": "MephistoMoophistoVar0"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/cooldownText/MedivhPortalPortalMastery|MedivhPortalPortalMasteryTalent|Active|Level1",
+    "value": "冷卻時間：20秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/energyText/MedivhPortalPortalMastery|MedivhPortalPortalMasteryTalent|Active|Level1",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">法力：130點</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurMasteryNeedlespine|AbathurSymbioteNeedlespineTalent|Q|Level4",
+    "value": "\"共生體脊刺飛擊的傷害與距離提高<c val=\"\"#TooltipNumbers\"\">0%</c>。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AnubarakMasteryUnderkingBurrowCharge|AnubarakBurrowChargeUnderkingTalent|E|Level4",
+    "value": "\"遁地突襲的距離提高<c val=\"\"#TooltipNumbers\"\">20%</c>，傷害提高<c val=\"\"#TooltipNumbers\"\">0%</c>。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArtanisBladeDashSolariteReaper|ArtanisBladeDashSolariteReaperTalent|Q|Level7",
+    "value": "\"幽刃突擊向前衝鋒時造成的傷害提高<c val=\"\"#TooltipNumbers\"\">0%</c>。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweXplodiumChargeBombToss|GazloweXplodiumChargeBombToss|E|Level20",
+    "value": "\"砰元素炸彈的冷卻時間降低<c val=\"\"#TooltipNumbers\"\">3</c>秒，並在引爆時額外發射<c val=\"\"#TooltipNumbers\"\">0</c>顆炸彈。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GreymaneCursedBulletGilneanRoulette|GreymaneCursedBulletGilneanRouletteTalent|Heroic|Level20",
+    "value": "\"詛咒子彈的冷卻時間降低<c val=\"\"#TooltipNumbers\"\">0</c>秒。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/LucioPassiveSmoothMoves|LucioPassiveSmoothMoves|Z|Level1",
+    "value": "\"在壁面疾走作用期間內，基本攻擊會恢復相當於所造成傷害<c val=\"\"#TooltipNumbers\"\">0%</c>的生命值，並且恢復<c val=\"\"#TooltipNumbers\"\">0</c>點法力。<n/><n/><c val=\"\"#AbilityPassive\"\">被動：</c>壁面疾走的持續時間提高<c val=\"\"#TooltipNumbers\"\">0</c>秒。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhDustOfAppearance|MedivhDustOfAppearance|Active|Level4",
+    "value": "\"使用後大幅提高視野，持續<c val=\"\"#TooltipNumbers\"\">0</c>秒，並且使範圍內敵方英雄現形，持續<c val=\"\"#TooltipNumbers\"\">0</c>秒。使用時不會解除烏鴉形態。<n/><n/><c val=\"\"#AbilityPassive\"\">被動：</c>麥迪文在烏鴉形態的視野提高<c val=\"\"#TooltipNumbers\"\">0%</c>。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhPortalPortalMastery|MedivhPortalPortalMasteryTalent|Active|Level1",
+    "value": "\"<c val=\"\"#TooltipRed\"\">+0%</c>傳送門法力消耗<n/>麥迪文可以決定兩個傳送門的設置位置。<n/><n/><c val=\"\"#ColorCreamYellow\"\">使用麥迪文的特性可取消尚未連結的傳送門</c>。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhPortalRavenFamiliar|MedivhPortalRavenFamiliar|E|Level4",
+    "value": "隊友每次使用傳送門會獲得一隻烏鴉魔寵。魔寵會在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>秒內衝向該隊友下一次基本攻擊的目標英雄，造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">98</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害，並且使其緩速<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>，持續<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhTransformRavenWindsOfCelerity|MedivhTransformRavenWindsOfCelerity|Z|Level1",
+    "value": "\"烏鴉形態下，移動速度加成提高<c val=\"\"#TooltipNumbers\"\">0%</c>，施法時間降低<c val=\"\"#TooltipNumbers\"\">0.25</c>秒。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosBlastWaveEngulfingFlame|RagnarosBlastWaveEngulfingFlame|E|Level1",
+    "value": "\"暴炎波的傷害提高<c val=\"\"#TooltipNumbers\"\">0%</c>，半徑提高<c val=\"\"#TooltipNumbers\"\">15%</c>。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "\"啟動熔火之心時，距離提高<c val=\"\"#TooltipNumbers\"\">100%</c>。此外，對摧毀的堡壘或要塞使用熔火之心時，熔火之心的冷卻時間降低<c val=\"\"#TooltipNumbers\"\">110</c>秒。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ThrallEchooftheElements|ThrallEchooftheElements|Q|Level1",
+    "value": "\"<img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">任務：</c>以閃電鏈擊中小兵或英雄後，於<c val=\"\"#TooltipNumbers\"\">0</c>秒內擊殺他們。死亡時失去<c val=\"\"#TooltipNumbers\"\">0</c>層堆疊。已獲得的獎勵不會失去。<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">獎勵：</c>擊殺<c val=\"\"#TooltipNumbers\"\">0</c>名敵人後，閃電鏈的法力消耗從<c val=\"\"#TooltipNumbers\"\">0</c>點降低至<c val=\"\"#TooltipNumbers\"\">0</c>點。<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">獎勵：</c>擊殺<c val=\"\"#TooltipNumbers\"\">0</c>名敵人後，閃電鏈額外獲得一次使用次數。<n/><n/><img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">傳奇獎勵：</c>擊殺<c val=\"\"#TooltipNumbers\"\">0</c>名敵人後，閃電鏈可多次攻擊同一個目標，且每次彈跳額外攻擊<c val=\"\"#TooltipNumbers\"\">1</c>名目標。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "\"黑暗之心儀式半徑<c val=\"\"#TooltipGreen\"\">+0%</c><n/><n/>黑暗之心的傷害會從主要目標彈跳至附近的敵人<c val=\"\"#TooltipNumbers\"\">2</c>次，造成<c val=\"\"#TooltipNumbers\"\">0</c>點傷害。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "\"啟動虛無步伐可獲得<c val=\"\"#TooltipNumbers\"\">25</c>點法術護甲，並在傳送結束後獲得<s val=\"\"StandardTooltipDetails\"\">0%</s>移動速度，持續<c val=\"\"#TooltipNumbers\"\">2</c>秒。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "\"每當黑暗之心對敵方英雄造成傷害時，薩拉塔斯獲得等同於自身最大生命值<c val=\"\"#TooltipNumbers\"\">0%</c>的護盾，最多<c val=\"\"#TooltipNumbers\"\">0%</c>。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "\"引爆黑暗之心會使範圍內的敵人沉默，持續<c val=\"\"#TooltipNumbers\"\">0</c>秒。<n/><n/>薩拉塔斯與友方英雄在黑暗之心範圍內時獲得<c val=\"\"#TooltipNumbers\"\">0</c>點法術護甲。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "\"<c val=\"\"#TooltipGreen\"\">+2秒</c>暗影標記持續時間<n/><n/>受到暗影標記影響的英雄，其移動速度降低<s val=\"\"StandardTooltipDetails\"\">0%</s>。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "\"引導<c val=\"\"#TooltipNumbers\"\">0</c>秒後，召喚一個虛無傳送門，最多可產生<c val=\"\"#TooltipNumbers\"\">3</c>個虛無小兵攻擊附近的敵人。<n/><n/>你最多可擁有<c val=\"\"#TooltipNumbers\"\">0</c>座啟動的虛無傳送門。<n/><n/>虛無傳送門附近的敵人會緩速<c val=\"\"#TooltipNumbers\"\">0%</c>。<n/><n/>虛無小兵會向受到暗影標記影響的目標移動。<n/><n/><s val=\"\"TooltipSubscript\"\">傳送門會在0秒後關閉。</s><n/><s val=\"\"TooltipSubscript\"\">虛無小兵會自動沿附近的一條戰線推進。</s><n/><s val=\"\"TooltipSubscript\"\">虛無小兵的基本攻擊每次命中會造成0點傷害。</s><n/><s val=\"\"TooltipSubscript\"\">虛無小兵會在0秒內逐漸失去生命值。</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "\"引導一顆強大的虛無球體，會逐漸變大並在<c val=\"\"#TooltipNumbers\"\">0</c>秒後達到上限。重新施放可提早發射球體。<n/><n/>觸碰到球體的敵人會受到<c val=\"\"#TooltipNumbers\"\">0</c>點傷害，並遭到致盲，持續<s val=\"\"StandardTooltipDetails\"\">0</s>秒。<n/><n/>球體達到路徑終點後將引發大型爆炸，造成<c val=\"\"#TooltipNumbers\"\">0</c>點傷害。<n/><n/>蓄力此技能可使其接觸傷害提高至最多<c val=\"\"#TooltipNumbers\"\">0</c>點，並使其爆炸傷害提高至最多<c val=\"\"#TooltipNumbers\"\">0</c>點。<n/><n/><s val=\"\"TooltipSubscript\"\">每0.25秒造成一次接觸傷害。</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "\"完整施放虛無步伐後，薩拉塔斯會立即以反方向施放第二次虛無步伐。再次觸發附加效果。<n/><n/><s val=\"\"TooltipSubscript\"\">基本攻擊傷害加成最多可堆疊3次</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "\"每次傳送提供的基本攻擊傷害加成提高<c val=\"\"#TooltipNumbers\"\">75%</c>。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "\"虛無匯流的虛無傳送門不再因自身生命值衰減而消失，同時存在的虛無傳送門上限提高至<c val=\"\"#TooltipNumbers\"\">2</c>座，並可產生與維持最多<c val=\"\"#TooltipNumbers\"\">4</c>個虛無小兵。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathToxicMark|XalatathToxicMark|Q|Level7",
+    "value": "\"受到暗影標記影響的英雄，其護甲降低<s val=\"\"StandardTooltipDetails\"\">0</s>點，且每秒受到相當於其最大生命值<c val=\"\"#TooltipNumbers\"\">0%</c>的傷害。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "\"黑暗之心效果結束或引爆時，會留下一攤虛無火焰，持續<c val=\"\"#TooltipNumbers\"\">0</c>秒，對範圍內的敵人造成最多<c val=\"\"#TooltipNumbers\"\">0</c>點傷害。<n/><n/><s val=\"\"TooltipSubscript\"\">每0秒造成0點傷害。</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "\"完整施放虛無步伐後會使虛無箭雨完全充能。<n/><n/>下一次虛無箭雨造成<c val=\"\"#TooltipNumbers\"\">0%</c>額外傷害，且不會消耗法力值。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidAdept|XalatathVoidAdept|Q|Level1",
+    "value": "\"<img path=\"\"@UI/StormTalentInTextQuestIcon\"\" alignment=\"\"uppermiddle\"\" color=\"\"B48E4C\"\" width=\"\"20\"\" height=\"\"22\"\"/><c val=\"\"#TooltipQuest\"\">任務：</c>對受到暗影標記影響的目標引爆黑暗之心。<n/><n/>每次成功引爆會使暗影標記與黑暗之心儀式的傷害永久提高<c val=\"\"#TooltipNumbers\"\">0</c>點，最多提高<c val=\"\"#TooltipNumbers\"\">0</c>次。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "\"啟動虛無步伐會在薩拉塔斯的初始位置召喚一個虛無小兵。虛無小兵會向受到暗影標記影響的目標移動。<n/><n/><s val=\"\"TooltipSubscript\"\">虛無小兵會自動沿附近的一條戰線推進。</s><n/><s val=\"\"TooltipSubscript\"\">虛無小兵的基本攻擊每次命中會造成0點傷害。</s><n/><s val=\"\"TooltipSubscript\"\">虛無小兵會在0秒內逐漸失去生命值。</s>\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ZagaraMasteryTyrantMaw|ZagaraDevouringMawTyrantMawTalent|Heroic|Level20",
+    "value": "\"巨顎噬敵的傷害提高<c val=\"\"#TooltipNumbers\"\">0%</c>。每參與擊殺一名英雄，可使其冷卻時間降低<c val=\"\"#TooltipNumbers\"\">0</c>秒。\""
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/GreymaneCursedBulletGilneanRoulette|GreymaneCursedBulletGilneanRouletteTalent|Heroic|Level20",
+    "value": "降低詛咒子彈冷卻時間"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/MedivhTransformRavenWindsOfCelerity|MedivhTransformRavenWindsOfCelerity|Z|Level1",
+    "value": "提高烏鴉形態的移動速度與施法速度"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "提高黑暗之心的半徑，傷害會連鎖彈跳"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "每當黑暗之心對敵方英雄造成傷害時獲得護盾"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/shortText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "傳送門不再因自身生命值衰減而消失，並生成更多虛無小兵"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/MedivhPortalRavenFamiliar",
+    "value": "隊友每次使用傳送門會獲得一隻烏鴉魔寵。魔寵會在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>秒內衝向該隊友下一次基本攻擊的目標英雄，造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">98</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>點傷害，並且使其緩速<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>，持續<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2.5</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "\"召喚黑暗之心，產生的脈動會每秒對附近敵人造成<c val=\"\"#TooltipNumbers\"\">0</c>點傷害，持續<c val=\"\"#TooltipNumbers\"\">0</c>秒。<n/><n/>黑暗之心會向暗影標記擊中的位置移動。<n/><n/>黑暗之心會追蹤受到暗影標記影響的目標，在接觸時引爆，對附近敵人造成<c val=\"\"#TooltipNumbers\"\">0</c>點傷害，並對被標記的目標額外造成<c val=\"\"#TooltipNumbers\"\">0</c>點傷害。\""
+  }
+]
