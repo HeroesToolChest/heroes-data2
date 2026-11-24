@@ -1,5 +1,5 @@
 {
-  "hdp": "5.2.0",
+  "hdp": "5.2.1",
   "json": "patch",
   "depends-on": "2.57.1.98674_ptr",
   "root-version": "2.57.1.98644_ptr",
