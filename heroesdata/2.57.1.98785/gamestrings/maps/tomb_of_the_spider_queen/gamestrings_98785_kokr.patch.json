@@ -1,0 +1,132 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Tomb of the Spider Queen"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SoulEaterDeathWave|SoulEaterDeathWave|W",
+    "value": "재사용 대기시간: 7초"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SoulEaterSpawnMinions|SoulEaterSpawnMinions|Q",
+    "value": "재사용 대기시간: 20초"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TombCoreDeathWave|TombCoreDeathWave|Q",
+    "value": "재사용 대기시간: 5초"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/LostSoulTeleport|LostSoulTeleport|Q",
+    "value": "대상 위치로 질주하며 지속 시간 동안 무적 상태가 됩니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SoulEaterSpawnMinions|SoulEaterSpawnMinions|Q",
+    "value": "거미 시종이 돌격병 3마리를 생성합니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TombCoreDeathWave|TombCoreDeathWave|Q",
+    "value": "영웅에게 어둠의 마력 물결을 발사해 최대 생명력의 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c>만큼 피해를 주고 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c>초 동안 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70%</c> 느려지게 합니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/LostSoulTeleport|LostSoulTeleport|Q",
+    "value": "잃어버린 영혼 순간이동"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SoulEaterDeathWave|SoulEaterDeathWave|W",
+    "value": "죽음의 물결"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SoulEaterSpawnMinions|SoulEaterSpawnMinions|Q",
+    "value": "돌격병 생성"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TombCoreDeathWave|TombCoreDeathWave|Q",
+    "value": "죽음의 물결"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/SoulEaterDeathWave|SoulEaterDeathWave|W",
+    "value": "일직선상의 적에게 피해를 주는 파동 발사"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TombCoreDeathWave|TombCoreDeathWave|Q",
+    "value": "넓은 지역 안의 영웅들에게 피해를 주고 느려지게 함"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostGemsTurnedIn",
+    "value": "반납한 보석의 ~AwardValue~%"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostGemsTurnedIn",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">보석광</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostGemsTurnedIn",
+    "value": "반납한 보석: ~TooltipAmount~개"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostGemsTurnedIn",
+    "value": "최다 보석 반납"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/HeroChenEarth",
+    "value": "영웅첸대지"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/HeroChenFire",
+    "value": "영웅첸불"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/HeroChenStorm",
+    "value": "영웅첸폭풍"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/JungleGraveGolemLaner",
+    "value": "모래 골렘"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HarrisonJones",
+    "value": "해리슨 존스"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ItemSoulPickupPrecursor",
+    "value": "Item Soul Pickup Precursor"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SoulCage",
+    "value": "거미 제단"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SoulEater",
+    "value": "거미 시종"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SoulEaterMinion",
+    "value": "거미"
+  }
+]

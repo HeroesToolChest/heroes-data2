@@ -1,0 +1,222 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.1.98785"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.2.1"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortal2|MedivhPortal|E",
+    "value": "Recarga: 20 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortalInstant|MedivhPortal|E",
+    "value": "Recarga: 20 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortalMastery|MedivhPortalPortalMastery|Active",
+    "value": "Recarga: 20 s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/MedivhPortal2|MedivhPortal|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 65</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/MedivhPortalInstant|MedivhPortal|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 65</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/MedivhPortalMastery|MedivhPortalPortalMastery|Active",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Mana: 130</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/MedivhDustOfAppearance|MedivhDustOfAppearance|Active",
+    "value": "Ative para aumentar o campo de visão consideravelmente por <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> s e revelar Heróis inimigos na área por <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> s. Não cancela a Forma de Corvo.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Passivo:</c> Aumenta o campo de visão de Medivh na Forma de Corvo em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Evoque o Coração Sombrio, que pulsa e causa <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de dano por segundo aos inimigos próximos e dura <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> s.<n/><n/>O Coração Sombrio se move até o local de impacto de Marca das Sombras.<n/><n/>O Coração Sombrio persegue alvos afetados por Marca das Sombras e detona ao atingi-los, causando <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de dano aos inimigos próximos e <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> a mais de dano ao alvo marcado."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "Após canalizar por <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s, evoque um Portal do Caos que cria até <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> Lacaios do Caos para atacar inimigos próximos.<n/><n/>Você pode ativar até <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> Portal do Caos.<n/><n/>Inimigos perto do Portal do Caos são desacelerados em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>.<n/><n/>Lacaios do Caos são atraídos por alvos afetados pela Marca das Sombras.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">O portal expira após 20 s.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Lacaios do Caos escolhem automaticamente uma trilha próxima para avançar.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Os Ataques Básicos dos Lacaios do Caos causam 50</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\"> de dano por acerto.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Lacaios do Caos perdem vida ao longo de 12 s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidEruptionV2|XalatathVoidEruption|Heroic",
+    "value": "Canalize um poderoso Orbe do Caos que cresce ao longo do tempo até atingir o tamanho máximo após <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s. Lance novamente para disparar o Orbe antes.<n/><n/>Inimigos que entram em contato com o Orbe recebem até <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">81</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de dano e ficam cegos por <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s> s.<n/><n/>Quando o Orbe chega ao fim do percurso, ele detona em uma grande explosão, causando <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">320</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de dano.<n/><n/>Carregar esta habilidade aumenta o dano de contato até <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">146</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> e o dano de explosão aumenta até <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">672</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">O dano de contato é causado a cada 0,25 s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Lance para teleportar Xal’atath <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> vezes em um padrão triangular.<n/><n/>Cada vez que Xal’atath teleporta, seus Ataques Básicos causam <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">15%</s> a mais de dano enquanto a habilidade estiver ativa.<n/><n/>Reative para encerrar Passo do Caos antecipadamente e permanecer no local atual."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Cada ataque básico contra Heróis e cada <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> Ataques Básicos contra não Heróis geram carga. Quando estiver totalmente carregada, Xal’atath pode ativar Saraivada do Caos para liberar uma barragem de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> Orbes do Caos em um local, cada um causando <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">72</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de dano no impacto.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missão:</c> Acerte Heróis inimigos com Saraivada do Caos para conceder <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> aplicação por acerto e aumentar todo o dano de Saraivada do Caos em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75%</c>. Perde todas as aplicações ao morrer.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa (20 Aplicações):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c> de alcance de Saraivada do Caos<n/>   Perda de aplicações ao morrer reduzida para <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa (60 Aplicações):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">-1</c> Ataque Básico necessário para carregar Saraivada do Caos.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa Mítica (100 Aplicações):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+35%</c> de dano de Ataque Básico e Saraivada do Caos<n/>   Os projéteis de Saraivada do Caos perfuram todos os alvos.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">A perda de aplicações nunca fará com que o Herói fique abaixo do limite de recompensa de uma missão.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">A carga decai por completo se Xal’atath não atingir um inimigo com um Ataque Básico após </s><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\"> s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurMasteryNeedlespine|AbathurSymbioteNeedlespineTalent|Q|Level4",
+    "value": "Aumenta o dano e o alcance da habilidade Apunhalar do Simbionte em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AnubarakMasteryUnderkingBurrowCharge|AnubarakBurrowChargeUnderkingTalent|E|Level4",
+    "value": "Aumenta o alcance de Investida Subterrânea em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> e o dano em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArtanisBladeDashSolariteReaper|ArtanisBladeDashSolariteReaperTalent|Q|Level7",
+    "value": "Aumenta o dano da primeira investida de Arremetida com Lâmina em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweXplodiumChargeBombToss|GazloweXplodiumChargeBombToss|E|Level20",
+    "value": "A recarga de Carga de Xplôdio reduz em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> s e a habilidade lança mais <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> bombas ao detonar."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GreymaneCursedBulletGilneanRoulette|GreymaneCursedBulletGilneanRouletteTalent|Heroic|Level20",
+    "value": "A recarga de Bala Amaldiçoada reduz em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">24</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/LucioPassiveSmoothMoves|LucioPassiveSmoothMoves|Z|Level1",
+    "value": "Quando Corrida na Parede está ativa, Ataques Básicos concedem uma cura equivalente a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> do dano causado e restauram <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> de mana.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Passivo:</c> Aumenta a duração de Corrida na Parede em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhDustOfAppearance|MedivhDustOfAppearance|Active|Level4",
+    "value": "Ative para aumentar o campo de visão consideravelmente por <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> s e revelar Heróis inimigos na área por <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> s. Não cancela a Forma de Corvo.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Passivo:</c> Aumenta o campo de visão de Medivh na Forma de Corvo em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhPortalPortalMastery|MedivhPortalPortalMasteryTalent|Active|Level1",
+    "value": "<c val=\"ff1100\" hlt-name=\"#TooltipRed\">+100%</c> de Custo de Mana de Portal<n/>Medivh pode posicionar manualmente os dois pontos de localização do Portal.<n/><n/><c val=\"ffff80\" hlt-name=\"#ColorCreamYellow\">Ative a Especialização de Medivh para cancelar um Portal não vinculado</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhTransformRavenWindsOfCelerity|MedivhTransformRavenWindsOfCelerity|Z|Level1",
+    "value": "Aumenta o bônus de Velocidade de Movimento da Forma de Corvo em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> e reduz o tempo de lançamento em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0,25</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosBlastWaveEngulfingFlame|RagnarosBlastWaveEngulfingFlame|E|Level1",
+    "value": "Aumenta o dano de Onda de Impacto em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> e seu raio em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "O alcance de Núcleo Derretido aumenta em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> no início da duração. Além disso, a recarga de Núcleo Derretido reduz em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">110</c> s ao ser usada em um Forte ou Bastilha destruídos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ThrallEchooftheElements|ThrallEchooftheElements|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missão:</c> Matar Tropas ou Heróis até <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s depois de atingi-los com Cadeia de Raios. Ao morrer, perde <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> aplicações. Você não perde recompensas obtidas.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Após matar <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> inimigos, reduz o custo de Mana de Cadeia de Raios de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> para <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Após matar <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> inimigos, Cadeia de Raios ganha uma carga adicional.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa Mítica:</c> Após matar <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">125</c> inimigos, Cadeia de Raios passa a atingir o mesmo alvo várias vezes e atinge <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> alvo adicional por propagação."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+25%</c> de raio de Ritual do Coração Sombrio<n/><n/>O dano do Coração Sombrio se propaga <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> vezes do alvo principal para inimigos próximos, causando <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de dano."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "Ativar Passo do Caos concede <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> de Armadura Mágica enquanto teletransporta e <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">50%</s> de Velocidade de Movimento por <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s depois."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "Sempre que o Coração Sombrio causa dano a um Herói inimigo, Xal’atath recebe um Escudo equivalente a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c> da vida máxima dela, até <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "Agora, detonar o Coração Sombrio silencia os inimigos dentro do raio por <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> s.<n/><n/>Xal’atath e os Heróis aliados recebem <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c> de Armadura Mágica enquanto estiverem dentro do raio do Coração Sombrio."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2 s</c> de duração de Marca das Sombras<n/><n/>A Velocidade de Movimento dos Heróis afetados por Marca das Sombras é reduzida em <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">25%</s>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "Após canalizar por <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s, evoque um Portal do Caos que cria até <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> Lacaios do Caos para atacar inimigos próximos.<n/><n/>Você pode ativar até <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> Portal do Caos.<n/><n/>Inimigos perto do Portal do Caos são desacelerados em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>.<n/><n/>Lacaios do Caos são atraídos por alvos afetados pela Marca das Sombras.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">O portal expira após 20 s.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Lacaios do Caos escolhem automaticamente uma trilha próxima para avançar.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Os Ataques Básicos dos Lacaios do Caos causam 50</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\"> de dano por acerto.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Lacaios do Caos perdem vida ao longo de 12 s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Canalize um poderoso Orbe do Caos que cresce ao longo do tempo até atingir o tamanho máximo após <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> s. Lance novamente para disparar o Orbe antes.<n/><n/>Inimigos que entram em contato com o Orbe recebem até <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">81</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de dano e ficam cegos por <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s> s.<n/><n/>Quando o Orbe chega ao fim do percurso, ele detona em uma grande explosão, causando <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">320</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de dano.<n/><n/>Carregar esta habilidade aumenta o dano de contato até <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">146</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> e o dano de explosão aumenta até <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">672</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">O dano de contato é causado a cada 0,25 s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "Após concluir Passo do Caos, Xal’atath realiza imediatamente um segundo Passo do Caos na direção oposta. Os efeitos adicionais são ativados novamente.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Até 3 aplicações de dano extra de Ataque Básico</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "Aumenta o bônus de dano de Ataque Básico por teletransporte em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "O decaimento do portal de Convergência do Caos não é mais letal, aumenta o limite de Portais do Caos ativos para <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> e pode criar e sustentar até <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> Lacaios do Caos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathToxicMark|XalatathToxicMark|Q|Level7",
+    "value": "Heróis afetados por Marca das Sombras têm sua Armadura reduzida em <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">10</s> e recebem dano igual a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1%</c> do máximo de Vida deles a cada segundo."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "Quando a duração do Coração Sombrio expira ou ele detona, deixa uma poça de chamas do Caos por <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> s, causando até <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">450</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> em inimigos na área. <n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Causa 75</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\"> de dano a cada 1 s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "Concluir Passo do Caos carrega totalmente Saraivada do Caos.<n/><n/>A próxima Saraivada do Caos causa <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> a mais de dano e não custa mana."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidAdept|XalatathVoidAdept|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Missão:</c> Detone o Coração Sombrio em alvos afetados por Marca das Sombras.<n/><n/>Cada detonação bem-sucedida aumenta permanentemente a Marca das Sombras e o dano de detonação do Ritual do Coração Sombrio em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>, até <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> vezes."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "Ativar Passo do Caos evoca um Lacaio do Caos na posição original de Xal’atath. Lacaios do Caos são atraídos por alvos afetados por Marca das Sombras.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Os Lacaios do Caos escolhem automaticamente uma trilha próxima para avançar.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Os Ataques Básicos dos Lacaios do Caos causam 50</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\"> de dano por acerto.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Lacaios do Caos perdem vida ao longo de 12 s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ZagaraMasteryTyrantMaw|ZagaraDevouringMawTyrantMawTalent|Heroic|Level20",
+    "value": "Gorja Devoradora causa mais <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> de dano. Abates reduzem a recarga em <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "Evoque o Coração Sombrio, que pulsa e causa <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de dano por segundo aos inimigos próximos e dura <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c> s.<n/><n/>O Coração Sombrio se move até o local de impacto de Marca das Sombras.<n/><n/>O Coração Sombrio persegue alvos afetados por Marca das Sombras e detona ao atingi-los, causando <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de dano aos inimigos próximos e <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> a mais de dano ao alvo marcado."
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Alterac Pass"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/AlteracBossCharge|AlteracBossCharge|W",
+    "value": "재사용 대기시간: 6초"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/AlteracBossWhirlwind|AlteracBossWhirlwind|Q",
+    "value": "재사용 대기시간: 12초"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/CapturedSoldierDummyAttack|Attack|Hidden",
+    "value": "영웅의 무기를 사용한 공격입니다."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/AlteracBossChargeApproach|AlteracBossCharge|Hidden",
+    "value": "돌진"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/AlteracBossCharge|AlteracBossCharge|W",
+    "value": "돌진"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/AlteracBossWhirlwind|AlteracBossWhirlwind|Q",
+    "value": "소용돌이"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/CapturedSoldierDummyAttack|Attack|Hidden",
+    "value": "일반 공격"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/shortText/UnderworldBossRoots|GraveGolemBindingRoots|Q",
+    "value": "피해를 주고 지속적으로 이동 속도를 감소시키는 지역 생성"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AlteracBossChargeApproach|AlteracBossCharge|Hidden",
+    "value": "적에게 돌진하여 피해를 줌"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AlteracBossCharge|AlteracBossCharge|W",
+    "value": "적에게 돌진하여 피해를 줌"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/AlteracBossWhirlwind|AlteracBossWhirlwind|Q",
+    "value": "주위 적들에게 피해를 줌"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/CapturedSoldierDummyAttack|Attack|Hidden",
+    "value": "일반 공격으로 적에게 피해를 줌"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostInterruptedCageUnlocks",
+    "value": "팀의 수용소 방어의 ~AwardValue~% 기여"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostInterruptedCageUnlocks",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">충직한 수호자</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostInterruptedCageUnlocks",
+    "value": "수용소 방어 ~TooltipAmount~회"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/AlteracCoreBossParent",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">아주 튼튼하고 강력한 구조물입니다. 큰 방사 피해를 주고, 공격받지 않을 때 재생되는 보호막을 지니고 있습니다. 이 구조물을 파괴하면 게임에서 승리합니다.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/DrekThar",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">아주 튼튼하고 강력한 구조물입니다. 큰 방사 피해를 주고, 공격받지 않을 때 재생되는 보호막을 지니고 있습니다. 이 구조물을 파괴하면 게임에서 승리합니다.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/VanndarStormpike",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">아주 튼튼하고 강력한 구조물입니다. 큰 방사 피해를 주고, 공격받지 않을 때 재생되는 보호막을 지니고 있습니다. 이 구조물을 파괴하면 게임에서 승리합니다.</s>"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AllianceCavalry",
+    "value": "얼라이언스 기병대"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AlteracCoreBossParent",
+    "value": "AlteracCoreBossParent"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AVCaptureFlagPreviewDummyAlliance",
+    "value": "얼라이언스 포로수용소"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AVCaptureFlagPreviewDummyHorde",
+    "value": "호드 포로수용소"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/AVCapturePointDefender",
+    "value": "수용소 경비병"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/CaptureCage",
+    "value": "CaptureCage"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/CapturedSoldier",
+    "value": "사로잡힌 병사"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/DrekThar",
+    "value": "드렉타르"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HordeCavalry",
+    "value": "호드 기병대"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ReaverMinion",
+    "value": "약탈자 돌격병"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/Storm_Building_WCAV_Alliance_CaptureCage",
+    "value": "Storm_Building_WCAV_Alliance_CaptureCage"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranHellbat",
+    "value": "놀"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranHellbatDefender",
+    "value": "놀"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/VanndarStormpike",
+    "value": "반다르 스톰파이크"
+  }
+]

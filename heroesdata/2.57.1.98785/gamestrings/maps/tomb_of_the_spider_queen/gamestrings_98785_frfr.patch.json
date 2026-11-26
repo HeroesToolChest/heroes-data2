@@ -1,0 +1,117 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Tomb of the Spider Queen"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SoulEaterDeathWave|SoulEaterDeathWave|W",
+    "value": "Temps de recharge\u00A0: 7 secondes"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SoulEaterSpawnMinions|SoulEaterSpawnMinions|Q",
+    "value": "Temps de recharge\u00A0: 20 secondes"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TombCoreDeathWave|TombCoreDeathWave|Q",
+    "value": "Temps de recharge\u00A0: 5 secondes"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/LostSoulTeleport|LostSoulTeleport|Q",
+    "value": "Fonce sur l’emplacement ciblé et devient invulnérable pour toute la durée."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SoulEaterSpawnMinions|SoulEaterSpawnMinions|Q",
+    "value": "Fait apparaître 3 serviteurs pour le mangeur d’âme."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TombCoreDeathWave|TombCoreDeathWave|Q",
+    "value": "Tire une vague d’énergie ténébreuse en direction d’un héros, lui inflige un montant de dégâts équivalent à <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c> de son maximum de points de vie et le ralentit de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">70%</c> pendant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c>\u00A0secondes."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/LostSoulTeleport|LostSoulTeleport|Q",
+    "value": "Téléportation d’âme perdue"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SoulEaterDeathWave|SoulEaterDeathWave|W",
+    "value": "Vague fatale"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SoulEaterSpawnMinions|SoulEaterSpawnMinions|Q",
+    "value": "Apparition des serviteurs"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TombCoreDeathWave|TombCoreDeathWave|Q",
+    "value": "Vague fatale"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/SoulEaterDeathWave|SoulEaterDeathWave|W",
+    "value": "Vague qui inflige des dégâts sur une ligne."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TombCoreDeathWave|TombCoreDeathWave|Q",
+    "value": "Inflige des dégâts et ralentit les héros dans une large zone."
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostGemsTurnedIn",
+    "value": "~AwardValue~% des gemmes rapportées"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostGemsTurnedIn",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Joaillier,Joaillière</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostGemsTurnedIn",
+    "value": "~TooltipAmount~ gemmes rapportées"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostGemsTurnedIn",
+    "value": "Plus grande quantité de gemmes rapportées"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/name/JungleGraveGolemLaner",
+    "value": "Golem de sable"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HarrisonJones",
+    "value": "Harrison Jones"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ItemSoulPickupPrecursor",
+    "value": "Précurseur de ramassage d’âme d’objet"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SoulCage",
+    "value": "Autel de l'araignée"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SoulEater",
+    "value": "Tissetoile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SoulEaterMinion",
+    "value": "Araignée"
+  }
+]

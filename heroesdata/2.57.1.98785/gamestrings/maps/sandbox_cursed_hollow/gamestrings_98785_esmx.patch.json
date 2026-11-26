@@ -1,0 +1,27 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Sandbox (Cursed Hollow)"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/CursedHollowCoreCurse|CursedHollowCoreCurse|Q",
+    "value": "Tiempo de reutilización: 3 segundos"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/CursedHollowCoreCurse|CursedHollowCoreCurse|Q",
+    "value": "Tras un breve lapso, los héroes en un área reciben el <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c> de su salud máxima como daño y se les reduce la Armadura en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75</c> durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> segundos."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/CursedHollowCoreCurse|CursedHollowCoreCurse|Q",
+    "value": "Maldición"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/CursedHollowCoreCurse|CursedHollowCoreCurse|Q",
+    "value": "Inflige daño y reduce en gran medida la Armadura de un héroe"
+  }
+]
