@@ -1,0 +1,287 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Warhead Junction"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+    "value": "冷却时间：14秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+    "value": "冷却时间：14秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|Q",
+    "value": "冷却时间：20秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|W",
+    "value": "冷却时间：20秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "冷却时间：15秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "冷却时间：15秒"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+    "value": "喷出一团软泥对范围内的敌人造成持续伤害"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+    "value": "在首领周围生成软泥并攻击范围内的敌人。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|Q",
+    "value": "在目标位置部署一台自动机炮。自动机炮是固定攻击炮台，会攻击任何进入范围的敌人。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|W",
+    "value": "在目标位置部署一台自动机炮。自动机炮是固定攻击炮台，会攻击任何进入范围的敌人。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "向目标单位发射一枚缓慢飞行的导弹。弹道将追踪目标7秒。如果导弹进入目标3范围以内，那么导弹将迅速靠近目标，对目标和附近敌人造成0点伤害。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "向目标单位发射一枚缓慢飞行的导弹。弹道将追踪目标7秒。如果导弹进入目标3范围以内，那么导弹将迅速靠近目标，对目标和附近敌人造成0点伤害。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+    "value": "黏液喷吐"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+    "value": "召唤软泥"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/StopRedirect|Stop|W",
+    "value": "停止"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "猎杀者飞弹"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "猎杀者飞弹"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/SlimeBossSlimeSpit|SlimeBossSlimeSpit|Q",
+    "value": "向目标位置喷出软泥"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/SlimeBossSpawnPods|SlimeBossSpawnPods|W",
+    "value": "召唤软泥并攻击范围内的敌人"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "移速较慢的追踪飞弹。接触时爆炸，造成范围伤害。"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "移速较慢的追踪飞弹。接触时爆炸，造成范围伤害。"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostNukeDamageDone",
+    "value": "~AwardValue~%的团队弹头伤害"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostNukeDamageDone",
+    "value": "超级炸弹"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostNukeDamageDone",
+    "value": "用弹头造成~TooltipAmount~点伤害"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/MapMechanicNuke",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>秒后发射一枚弹头，造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1750</c>点伤害（对英雄造成相当于其最大生命值<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c>的伤害）。将建筑点燃，在10秒内对其造成额外伤害。攻击燃烧的建筑可延长该效果。"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/TerranRavenSeekerMissile",
+    "value": "向目标单位发射一枚缓慢飞行的导弹。弹道将追踪目标7秒。如果导弹进入目标3范围以内，那么导弹将迅速靠近目标，对目标和附近敌人造成0点伤害。"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArcadeMachine",
+    "value": "Arcade Machine"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MapMechanicNuke",
+    "value": "聚变打击"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MapMechanicNukeSilo",
+    "value": "聚变打击发射井"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/NukeTargetMinimapIconUnit",
+    "value": "Nuke Target Minimap Icon Unit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/PapaCosplay",
+    "value": "Papa Cosplay"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossDefender",
+    "value": "虫群宿主"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossLaner",
+    "value": "虫群宿主"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossPodlingDefender",
+    "value": "包虫"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossPodlingLaner",
+    "value": "包虫"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossSlimeSpitMissile",
+    "value": "Slime Boss Slime Spit Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SlimeBossSpawnPodsMissile",
+    "value": "Slime Boss Spawn Pods Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SwampMonsterEasterEggUnit",
+    "value": "Swamp Monster Easter Egg Unit"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranBunker",
+    "value": "地堡"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranBunkerUpgraded",
+    "value": "Bunker (Upgraded)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranGoliath",
+    "value": "人类歌利亚"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranGoliathDefender",
+    "value": "歌利亚"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranHellbat",
+    "value": "人类恶蝠"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranHellbatDefender",
+    "value": "恶蝠"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranMarine",
+    "value": "陆战队员"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranRaven",
+    "value": "人类铁鸦"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranRavenDefender",
+    "value": "铁鸦"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranRavenSeekerMissile",
+    "value": "铁鸦"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerrazineGasVein",
+    "value": "Terrazine Gas Vein"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerrazineRageAoEMissile",
+    "value": "Terrazine Rage AoE Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadDouble",
+    "value": "弹头"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadDropped",
+    "value": "Warhead Dropped"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadDroppedMissile",
+    "value": "Warhead Dropped Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadSingle",
+    "value": "弹头"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WarheadTriple",
+    "value": "弹头"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/WaygateEntrance",
+    "value": "污水隧道"
+  }
+]

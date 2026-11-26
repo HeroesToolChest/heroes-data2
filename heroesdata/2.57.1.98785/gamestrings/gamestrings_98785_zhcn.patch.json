@@ -1,0 +1,222 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.1.98785"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.2.1"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortal2|MedivhPortal|E",
+    "value": "冷却时间：20秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortalInstant|MedivhPortal|E",
+    "value": "冷却时间：20秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortalMastery|MedivhPortalPortalMastery|Active",
+    "value": "冷却时间：20秒"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/MedivhPortal2|MedivhPortal|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">法力值：65</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/MedivhPortalInstant|MedivhPortal|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">法力值：65</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/MedivhPortalMastery|MedivhPortalPortalMastery|Active",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">法力值：130</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/MedivhDustOfAppearance|MedivhDustOfAppearance|Active",
+    "value": "激活后大幅扩大视野范围，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>秒，并暴露范围内的敌方英雄，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>秒。不会取消乌鸦形态。<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">被动：</c>麦迪文在乌鸦形态下的视野范围扩大<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "召唤幽暗之心，每秒对附近敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>秒。<n/><n/>幽暗之心会移动至暗影标记的落点。<n/><n/>幽暗之心会追击带有暗影标记的目标，命中后引爆，对附近敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害，并对被标记目标额外造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "引导<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>秒后，生成一道虚空传送门，最多召唤<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>个虚空仆从攻击附近敌人。<n/><n/>最多可同时存在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>道虚空传送门。<n/><n/>虚空传送门附近的敌人减速<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>。<n/><n/>虚空仆从会朝带有暗影标记的英雄移动。<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">传送门会在20秒后消失。</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">虚空仆从会自动选择就近兵线推进。</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">虚空仆从的普通攻击每次造成50</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">点伤害。</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">虚空仆从会在12秒内持续损失生命值。</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidEruptionV2|XalatathVoidEruption|Heroic",
+    "value": "引导一枚威力强大的虚空法球，法球在引导期间不断变大，<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>秒后达到最大体积。再次施放可提前发射法球。<n/><n/>触碰法球的敌人受到<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">81</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害，并被致盲<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s>秒。<n/><n/>法球在抵达路径终点时产生大范围爆炸，造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">320</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害。<n/><n/>为该技能充能可提升接触伤害，最高提升至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">146</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>，爆炸伤害最高提升至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">672</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>。<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">接触伤害每0.25秒触发一次。</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "施放后，萨拉塔斯将沿三角轨迹传送<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>次。<n/><n/>技能持续期间，萨拉塔斯每传送一次，普通攻击伤害提升<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">15%</s>。<n/><n/>再次激活可提前结束虚空步，停留在当前位置。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "每对敌方英雄进行一次普通攻击，或是每对非英雄单位进行<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>次普通攻击，都能积攒充能。充能满后，萨拉塔斯可以激活虚空齐射，向目标位置发射<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>枚虚空法球，每枚法球命中时造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">72</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任务：</c>使用虚空齐射命中敌方英雄，每次命中获得<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>层效果，虚空齐射伤害提升<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75%</c>。死亡时失去所有层数。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">奖励（20层）：</c><n/>虚空齐射射程<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c><n/>死亡时，仅失去<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>层效果。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">奖励（60层）：</c><n/>充能虚空齐射所需普通攻击次数<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">-1</c>。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">神话奖励（100层）：</c><n/>普通攻击与虚空齐射伤害<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+35%</c>。<n/>虚空齐射的投射物可穿透所有目标。<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">扣除效果层数时，层数不会低于已解锁奖励对应的阶段要求。</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">若萨拉塔斯在</s><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">秒内未用普通攻击命中敌人，充能将全部清空。</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurMasteryNeedlespine|AbathurSymbioteNeedlespineTalent|Q|Level4",
+    "value": "共生体刺击的伤害和施放距离提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AnubarakMasteryUnderkingBurrowCharge|AnubarakBurrowChargeUnderkingTalent|E|Level4",
+    "value": "潜地冲锋的射程提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>，伤害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArtanisBladeDashSolariteReaper|ArtanisBladeDashSolariteReaperTalent|Q|Level7",
+    "value": "利刃冲刺的第一击伤害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweXplodiumChargeBombToss|GazloweXplodiumChargeBombToss|E|Level20",
+    "value": "爆素炸药的冷却时间缩短<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>秒，并且在爆炸时额外发射<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>枚炸弹。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GreymaneCursedBulletGilneanRoulette|GreymaneCursedBulletGilneanRouletteTalent|Heroic|Level20",
+    "value": "诅咒枪弹的冷却时间缩短<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">24</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/LucioPassiveSmoothMoves|LucioPassiveSmoothMoves|Z|Level1",
+    "value": "滑墙激活时，普攻攻击可恢复相当于所造成伤害<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c>的生命值，并恢复<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c>点法力值。<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">被动：</c>滑墙的持续时间提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhDustOfAppearance|MedivhDustOfAppearance|Active|Level4",
+    "value": "激活后大幅扩大视野范围，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>秒，并暴露范围内的敌方英雄，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>秒。不会取消乌鸦形态。<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">被动：</c>麦迪文在乌鸦形态下的视野范围扩大<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhPortalPortalMastery|MedivhPortalPortalMasteryTalent|Active|Level1",
+    "value": "传送门的法力消耗<c val=\"ff1100\" hlt-name=\"#TooltipRed\">+100%</c>。<n/>麦迪文可以手动放置传送门两端的位置。<n/><n/><c val=\"ffff80\" hlt-name=\"#ColorCreamYellow\">激活麦迪文的特质可以取消未连接的传送门</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhTransformRavenWindsOfCelerity|MedivhTransformRavenWindsOfCelerity|Z|Level1",
+    "value": "乌鸦形态的移动速度加成提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c>，施法时间缩短<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosBlastWaveEngulfingFlame|RagnarosBlastWaveEngulfingFlame|E|Level1",
+    "value": "冲击波的伤害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>，范围扩大<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "熔火之心在持续时间开始时，范围扩大<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c>。此外，当对一座已被摧毁的堡垒或要塞使用时，熔火之心的冷却时间缩短<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">110</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ThrallEchooftheElements|ThrallEchooftheElements|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任务：</c>使用闪电链击中小兵或英雄后的<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>秒内将其杀死。死亡时，该加成失去<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>层，获得的奖励不会失去。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">奖励：</c>击杀<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>名敌人后，闪电链的法力消耗从<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>点减少至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>点。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">奖励：</c>击杀<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>名敌人后，闪电链将获得一次额外的充能。<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">神话奖励：</c>击杀<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">125</c>名敌人后，闪电链可以多次命中同一个目标，且每次弹跳额外攻击<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>个目标。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+25%</c>幽暗之心仪式半径。<n/><n/>幽暗之心伤害会从主要目标弹射至附近敌人，弹射<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>次，造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "激活虚空步后，传送过程中获得<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c>点法术护甲，传送结束后移动速度提高<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">50%</s>，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "幽暗之心每次对敌方英雄造成伤害时，萨拉塔斯获得一层相当于其最大生命值<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c>的护盾，最多可叠加至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "引爆幽暗之心可使其范围内的敌人沉默<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>秒。<n/><n/>处于幽暗之心作用范围内时，萨拉塔斯与友方英雄获得<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c>点法术护甲。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "暗影标记持续时间<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2秒</c><n/><n/>带有暗影标记的英雄移动速度降低<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">25%</s>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "引导<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>秒后，生成一道虚空传送门，最多召唤<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>个虚空仆从攻击附近敌人。<n/><n/>最多可同时存在<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>道虚空传送门。<n/><n/>虚空传送门附近的敌人减速<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>。<n/><n/>虚空仆从会朝带有暗影标记的英雄移动。<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">传送门会在20秒后消失。</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">虚空仆从会自动选择就近兵线推进。</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">虚空仆从的普通攻击每次造成50</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">点伤害。</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">虚空仆从会在12秒内持续损失生命值。</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "引导一枚威力强大的虚空法球，法球在引导期间不断变大，<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>秒后达到最大体积。再次施放可提前发射法球。<n/><n/>触碰法球的敌人受到<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">81</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害，并被致盲<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s>秒。<n/><n/>法球在抵达路径终点时产生大范围爆炸，造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">320</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害。<n/><n/>为该技能充能可提升接触伤害，最高提升至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">146</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>，爆炸伤害最高提升至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">672</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>。<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">接触伤害每0.25秒触发一次。</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "虚空步结束后，萨拉塔斯会立即朝反方向施放第二次虚空步。附加效果会再次触发。<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">普通攻击伤害加成最多可叠加3层。</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "每次传送提供的普通攻击伤害加成提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c>。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "虚空汇聚的虚空传送门的衰减效果不再使其消失，同时存在的虚空传送门上限提升至<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>。场上最多可有<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>名虚空仆从。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathToxicMark|XalatathToxicMark|Q|Level7",
+    "value": "带有暗影标记的英雄护甲降低<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">10</s>，每秒受到相当于其最大生命值<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1%</c>的伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "幽暗之心结束或引爆时，会留下一片虚空烈焰，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>秒。对处于烈焰中的敌人最多造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">450</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害。<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">每1秒造成75</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">点伤害。</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "虚空步结束后，虚空齐射获得满层充能。<n/><n/>下一次虚空齐射伤害提升<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>，且不消耗法力值。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidAdept|XalatathVoidAdept|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">任务：</c>引爆带有暗影标记目标身上的幽暗之心。<n/><n/>每成功引爆一次，暗影标记与幽暗之心仪式的引爆伤害永久提升<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>，最多叠加<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c>层。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "激活虚空步后，在萨拉塔斯的初始位置召唤1名虚空仆从。会朝带有暗影标记的英雄移动。<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">虚空仆从会自动选择就近兵线推进。</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">虚空仆从的普通攻击每次造成50</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">点伤害。</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">虚空仆从会在12秒内持续损失生命值。</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ZagaraMasteryTyrantMaw|ZagaraDevouringMawTyrantMawTalent|Heroic|Level20",
+    "value": "吞噬巨口的伤害提高<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>。击杀英雄使其冷却时间缩短<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c>秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "召唤幽暗之心，每秒对附近敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害，持续<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>秒。<n/><n/>幽暗之心会移动至暗影标记的落点。<n/><n/>幽暗之心会追击带有暗影标记的目标，命中后引爆，对附近敌人造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害，并对被标记目标额外造成<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>点伤害。"
+  }
+]

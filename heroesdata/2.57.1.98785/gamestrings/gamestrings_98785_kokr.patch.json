@@ -1,0 +1,222 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.1.98785"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.2.1"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortal2|MedivhPortal|E",
+    "value": "재사용 대기시간: 20초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortalInstant|MedivhPortal|E",
+    "value": "재사용 대기시간: 20초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortalMastery|MedivhPortalPortalMastery|Active",
+    "value": "재사용 대기시간: 20초"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/MedivhPortal2|MedivhPortal|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">마나: 65</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/MedivhPortalInstant|MedivhPortal|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">마나: 65</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/MedivhPortalMastery|MedivhPortalPortalMastery|Active",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">마나: 130</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/MedivhDustOfAppearance|MedivhDustOfAppearance|Active",
+    "value": "사용하면 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>초 동안 시야 반경이 크게 증가하고 주위 적 영웅들을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>초 동안 드러냅니다. 까마귀 형상 중에도 사용할 수 있습니다.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">지속 효과:</c> 까마귀 형상일 때 시야 반경이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "검은 심장을 소환합니다. 심장은 맥동하여 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>초 동안 매초 주위 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다.<n/><n/>검은 심장은 그림자 표식의 적중 위치로 이동합니다.<n/><n/>검은 심장은 그림자 표식에 걸린 대상을 추적하고 적중 시 폭발해, 주위 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주고 표식이 찍힌 대상에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 추가 피해를 줍니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>초 동안 정신을 집중한 후 공허 차원문을 소환하여 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>기의 공허 하수인을 생성해 주위 적들을 공격하게 합니다.<n/><n/>공허 차원문은 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>개까지 활성화할 수 있습니다.<n/><n/>공허 차원문 주위의 적들은 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>만큼 감속됩니다.<n/><n/>공허 하수인은 그림자 표식이 찍힌 대상에게 이끌립니다.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">차원문은 20초 후에 만료됩니다.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">공허 하수인은 자동으로 주위의 공격로를 선택하여 진격합니다.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">공허 하수인의 일반 공격은 적중할 때마다 50</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">의 피해를 줍니다.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">공허 하수인은 12초에 걸쳐 생명력을 잃습니다.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidEruptionV2|XalatathVoidEruption|Heroic",
+    "value": "강력한 공허 보주에 정신을 집중합니다. 보주는 점점 커져 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>초 후 최대 크기에 도달합니다. 다시 사용하면 보주를 일찍 발사합니다.<n/><n/>보주와 접촉한 적들은 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">81</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 받고 <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s>초 동안 실명됩니다.<n/><n/>보주가 경로 끝에 도달하면 대규모 폭발을 일으켜 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">320</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다.<n/><n/>이 기술을 충전하면 접촉 시 피해가 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">146</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>까지 증가하고, 폭발 피해는 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">672</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>까지 증가합니다.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">0.25초마다 접촉 피해를 줍니다.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "시전 시 잘아타스가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>회에 걸쳐 삼각형 패턴으로 순간이동합니다.<n/><n/>잘아타스가 순간이동할 때마다 기술이 활성화된 동안 일반 공격이 <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">15%</s>의 추가 피해를 줍니다.<n/><n/>재사용 시 공허 걸음을 일찍 끝내 현재 위치에 머무릅니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "적 영웅에게 일반 공격이 적중할 때와, 영웅이 아닌 대상에게 일반 공격이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>회 적중할 때마다 충전됩니다. 완전히 충전되면 공허 화살을 사용해 대상 위치에 공허 보주 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>개를 연달아 발사할 수 있습니다. 각 보주는 적중 시 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">72</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">퀘스트:</c> 공허 화살로 적 영웅을 적중시킬 때마다 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>중첩을 얻고 공허 화살의 피해가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75%</c> 증가합니다. 사망하면 모든 중첩을 잃습니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">보상 (20중첩):</c><n/> 공허 화살 사거리 <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c><n/> 사망 시 잃는 중첩 수가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>개로 감소합니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">보상 (60중첩):</c><n/> 공허 화살 충전에 필요한 일반 공격 횟수 <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">-1</c><n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">신화 보상 (100중첩):</c><n/> 일반 공격과 공허 화살의 피해 <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+35%</c><n/> 공허 화살의 투사체가 모든 대상을 관통합니다.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">사망으로 중첩을 잃더라도 이미 달성한 퀘스트 보상의 중첩 기준 아래로 내려가지 않습니다.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">잘아타스가 </s><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">초 동안 일반 공격으로 적을 적중시키지 않으면 충전이 모두 사라집니다.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurMasteryNeedlespine|AbathurSymbioteNeedlespineTalent|Q|Level4",
+    "value": "공생체의 찌르기의 공격력과 사거리가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AnubarakMasteryUnderkingBurrowCharge|AnubarakBurrowChargeUnderkingTalent|E|Level4",
+    "value": "잠복 돌진의 이동 거리가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> 증가하고 공격력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArtanisBladeDashSolariteReaper|ArtanisBladeDashSolariteReaperTalent|Q|Level7",
+    "value": "칼날 질주로 전방으로 질주하며 주는 피해가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175%</c> 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweXplodiumChargeBombToss|GazloweXplodiumChargeBombToss|E|Level20",
+    "value": "터진다늄 폭탄의 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>초 감소하고, 폭발할 때 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>개의 폭탄을 추가로 발사합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GreymaneCursedBulletGilneanRoulette|GreymaneCursedBulletGilneanRouletteTalent|Heroic|Level20",
+    "value": "저주받은 탄환의 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">24</c>초 감소합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/LucioPassiveSmoothMoves|LucioPassiveSmoothMoves|Z|Level1",
+    "value": "벽 타기가 활성화된 동안 일반 공격을 하면 준 피해의 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c>만큼 생명력을 회복하고 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c>의 마나를 회복합니다.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">지속 효과:</c> 벽 타기의 지속시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>초 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhDustOfAppearance|MedivhDustOfAppearance|Active|Level4",
+    "value": "사용하면 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>초 동안 시야 반경이 크게 증가하고 주위 적 영웅들을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>초 동안 드러냅니다. 까마귀 형상 중에도 사용할 수 있습니다.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">지속 효과:</c> 까마귀 형상일 때 시야 반경이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhPortalPortalMastery|MedivhPortalPortalMasteryTalent|Active|Level1",
+    "value": "차원문 마나 소모량 <c val=\"ff1100\" hlt-name=\"#TooltipRed\">+100%</c><n/>두 차원문의 위치를 모두 지정할 수 있습니다.<n/><n/><c val=\"ffff80\" hlt-name=\"#ColorCreamYellow\">고유 능력을 사용하면 아직 연결되지 않은 차원문을 취소할 수 있습니다.</c>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhTransformRavenWindsOfCelerity|MedivhTransformRavenWindsOfCelerity|Z|Level1",
+    "value": "까마귀 형상의 이동 속도 증가량이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> 증가하고 시전 시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.25</c>초 감소합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosBlastWaveEngulfingFlame|RagnarosBlastWaveEngulfingFlame|E|Level1",
+    "value": "화염 폭풍의 공격력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> 증가하고 반경이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "화산 심장부의 지속시간이 시작될 때 사거리가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> 증가합니다. 또한 파괴된 요새 또는 성채에 사용 시 화산 심장부의 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">110</c>초 감소합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ThrallEchooftheElements|ThrallEchooftheElements|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">퀘스트:</c> 연쇄 번개가 적중한 적 돌격병 또는 영웅들을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>초 안에 처치해야 합니다. 죽으면 중첩 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>회를 잃습니다. 얻은 보상은 잃지 않습니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">보상:</c> 적을 총 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>명 처치하면 연쇄 번개의 마나 소모량이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c>에서 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c><lang rule=\"jongsung\">으로,로</lang> 감소합니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">보상:</c> 적을 총 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c>명 처치하면, 연쇄 번개의 충전 횟수가 1회 증가합니다.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">신화 보상:</c> 적을 총 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">125</c>명 처치하면, 연쇄 번개가 같은 대상을 여러 번 적중할 수 있으며 튕길 때마다 추가로 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>명을 더 공격합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "검은 심장의 의식 반경 <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+25%</c><n/><n/>검은 심장 피해가 주 대상에게서 주위 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>회 튕겨 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "공허 걸음 사용 시 순간이동 중 기술 방어력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> 증가하고, 이후 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>초 동안 이동 속도가 <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">50%</s> 증가합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "검은 심장이 적 영웅에게 피해를 줄 때마다 잘아타스가 최대 생명력의 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c>에 해당하는 보호막을 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c>까지 얻습니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "검은 심장을 폭발시키면 반경 내의 적을 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>초 동안 침묵시킵니다.<n/><n/>검은 심장 반경 내의 잘아타스와 아군 영웅들이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c>의 기술 방어력을 얻습니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "그림자 표식 지속시간 <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2초</c><n/><n/>그림자 표식에 걸린 영웅은 이동 속도가 <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">25%</s> 감소합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>초 동안 정신을 집중한 후 공허 차원문을 소환하여 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>기의 공허 하수인을 생성해 주위 적들을 공격하게 합니다.<n/><n/>공허 차원문은 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>개까지 활성화할 수 있습니다.<n/><n/>공허 차원문 주위의 적들은 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>만큼 감속됩니다.<n/><n/>공허 하수인은 그림자 표식이 찍힌 대상에게 이끌립니다.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">차원문은 20초 후에 만료됩니다.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">공허 하수인은 자동으로 주위의 공격로를 선택하여 진격합니다.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">공허 하수인의 일반 공격은 적중할 때마다 50</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">의 피해를 줍니다.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">공허 하수인은 12초에 걸쳐 생명력을 잃습니다.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "강력한 공허 보주에 정신을 집중합니다. 보주는 점점 커져 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>초 후 최대 크기에 도달합니다. 다시 사용하면 보주를 일찍 발사합니다.<n/><n/>보주와 접촉한 적들은 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">81</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 받고 <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s>초 동안 실명됩니다.<n/><n/>보주가 경로 끝에 도달하면 대규모 폭발을 일으켜 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">320</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다.<n/><n/>이 기술을 충전하면 접촉 시 피해가 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">146</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>까지 증가하고, 폭발 피해는 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">672</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>까지 증가합니다.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">0.25초마다 접촉 피해를 줍니다.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "공허 걸음을 완료하면 잘아타스가 즉시 반대 방향으로 두 번째 공허 걸음을 사용합니다. 추가 효과가 다시 발동됩니다.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">추가 일반 공격력이 최대 3회 중첩됩니다.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "순간이동당 추가 일반 공격력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c> 높아집니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "공허 집결로 소환한 공허 차원문은 자체 생명력 감소로 파괴되지 않으며, 동시에 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>개까지 유지할 수 있습니다. 또한 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c>기의 공허 하수인을 생성해 유지합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathToxicMark|XalatathToxicMark|Q|Level7",
+    "value": "그림자 표식에 걸린 영웅은 방어력이 <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">10</s>만큼 감소하며 1초마다 최대 생명력의 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1%</c>에 해당하는 피해를 받습니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "검은 심장이 만료되거나 폭발하면 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>초 동안 공허 화염 웅덩이를 남겨, 범위 내 적들에게 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">450</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">1초마다 75</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">의 피해를 줍니다.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "공허 걸음을 완료하면 공허 화살이 완전히 충전됩니다.<n/><n/>다음 공허 화살이 주는 피해가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> 증가하고 마나를 소모하지 않습니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidAdept|XalatathVoidAdept|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">퀘스트:</c> 그림자 표식에 걸린 대상에게 검은 심장을 폭발시켜야 합니다.<n/><n/>성공적으로 폭발시킬 때마다 그림자 표식과 검은 심장의 의식 폭발 피해가 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>만큼 영구적으로 증가하며, 최대 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c>회까지 적용됩니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "공허 걸음을 사용하면 잘아타스의 원래 위치에 공허 하수인 하나가 소환됩니다. 공허 하수인은 그림자 표식이 찍힌 대상에게 이끌립니다.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">공허 하수인은 자동으로 주위의 공격로를 선택하여 진격합니다.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">공허 하수인의 일반 공격은 적중할 때마다 50</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">의 피해를 줍니다.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">공허 하수인은 12초에 걸쳐 생명력을 잃습니다.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ZagaraMasteryTyrantMaw|ZagaraDevouringMawTyrantMawTalent|Heroic|Level20",
+    "value": "게걸 아귀의 공격력이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> 증가하고, 영웅을 처치하면 재사용 대기시간이 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c>초 감소합니다."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "검은 심장을 소환합니다. 심장은 맥동하여 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>초 동안 매초 주위 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 줍니다.<n/><n/>검은 심장은 그림자 표식의 적중 위치로 이동합니다.<n/><n/>검은 심장은 그림자 표식에 걸린 대상을 추적하고 적중 시 폭발해, 주위 적들에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 피해를 주고 표식이 찍힌 대상에게 <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>의 추가 피해를 줍니다."
+  }
+]

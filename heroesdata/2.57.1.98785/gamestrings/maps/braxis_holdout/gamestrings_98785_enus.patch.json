@@ -1,0 +1,302 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Braxis Holdout"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/BraxisCoreMissileStorm|BraxisCoreMissileStorm|Q",
+    "value": "Cooldown: 4 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranArchangelDefenderBulletstorm|TerranArchangelBulletstorm|Q",
+    "value": "Cooldown: 15 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranArchangelLanerBulletstorm|TerranArchangelBulletstorm|Q",
+    "value": "Cooldown: 12 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|Q",
+    "value": "Cooldown: 20 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|W",
+    "value": "Cooldown: 20 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "Cooldown: 15 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/cooldownText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "Cooldown: 15 seconds"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/BraxisCoreMissileStorm|BraxisCoreMissileStorm|Q",
+    "value": "Fires a series of 5 missiles at an enemy Hero, each dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c> of maximum health as damage in a small area."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranArchangelDefenderBulletstorm|TerranArchangelBulletstorm|Q",
+    "value": "Unleash a hail of bullets in a line in front of the caster, dealing 0 damage over 5 seconds."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranArchangelLanerBulletstorm|TerranArchangelBulletstorm|Q",
+    "value": "Unleash a hail of bullets in a line in front of the caster, dealing 0 damage over 5 seconds."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|Q",
+    "value": "Deploy an Auto-Turret at the targeted location. Auto-Turrets are stationary attack turrets that will attack any enemies that come into range."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenDeployAutoTurret|TerranRavenDeployAutoTurret|W",
+    "value": "Deploy an Auto-Turret at the targeted location. Auto-Turrets are stationary attack turrets that will attack any enemies that come into range."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "Releases a slow moving missile at the targeted unit. The missile will chase the target for 7 seconds. If it gets within 3 range of the target, it will rapidly travel forward and impact, dealing 0 damage to the target and nearby enemies."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "Releases a slow moving missile at the targeted unit. The missile will chase the target for 7 seconds. If it gets within 3 range of the target, it will rapidly travel forward and impact, dealing 0 damage to the target and nearby enemies."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/BraxisCoreMissileStorm|BraxisCoreMissileStorm|Q",
+    "value": "Missile Storm"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/BraxisHoldoutSCVChannel|BraxisHoldoutSCVChannel|Trait",
+    "value": "SCV Channel"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/StopRedirect|Stop|W",
+    "value": "Stop"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TerranArchangelDefenderBulletstorm|TerranArchangelBulletstorm|Q",
+    "value": "Bulletstorm"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TerranArchangelLanerBulletstorm|TerranArchangelBulletstorm|Q",
+    "value": "Bulletstorm"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "Seeker Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "Seeker Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/BraxisCoreMissileStorm|BraxisCoreMissileStorm|Q",
+    "value": "Repeatedly bombard a Hero with missiles"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TerranArchangelDefenderBulletstorm|TerranArchangelBulletstorm|Q",
+    "value": "Unleash a hail of bullets in a line"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TerranArchangelLanerBulletstorm|TerranArchangelBulletstorm|Q",
+    "value": "Unleash a hail of bullets in a line"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|Q",
+    "value": "Slow moving homing missile. Explodes on impact, damaging an area."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/TerranRavenSeekerMissile|TerranRavenSeekerMissile|W",
+    "value": "Slow moving homing missile. Explodes on impact, damaging an area."
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostDamageDoneToZerg",
+    "value": "~AwardValue~% Team Damage Done to Zerg"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostDamageDoneToZerg",
+    "value": "<lang rule=\"gender\" word=\"~HeroName~\">Zerg Crusher</lang>"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostDamageDoneToZerg",
+    "value": "~TooltipAmount~ Damage Done to Zerg"
+  },
+  {
+    "op": "replace",
+    "path": "/items/matchAward/scoreScreenName/MostDamageDoneToZerg",
+    "value": "Most Damage Done To Zerg"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/description/TerranRavenSeekerMissile",
+    "value": "Releases a slow moving missile at the targeted unit. The missile will chase the target for 7 seconds. If it gets within 3 range of the target, it will rapidly travel forward and impact, dealing 0 damage to the target and nearby enemies."
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArcadeMachine",
+    "value": "Arcade Machine"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ArchangelElevatorPathingBlocker",
+    "value": "Archangel Elevator Pathing Blocker"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BraxisCoreMissileStormMissile",
+    "value": "Missile Storm (Missile)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/BraxisHoldoutSCV",
+    "value": "Braxis Holdout SCV"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/HoldingPenPathingBlocker",
+    "value": "Holding Pen Pathing Blocker"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/MapArrowInvisibleMissile",
+    "value": "Map Arrow Invisible Missile"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/SamuroShowdownMachine",
+    "value": "Samuro Showdown Machine"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/StormSCBraxisCaptureAntenna",
+    "value": "Storm SC Braxis Capture Antenna"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/StormSCBraxisCaptureCage",
+    "value": "Storm SC Braxis Capture Cage"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranArchangelDefender",
+    "value": "Archangel"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranArchangelLaner",
+    "value": "Terran Archangel"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranBunker",
+    "value": "Bunker"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranBunkerUpgraded",
+    "value": "Bunker (Upgraded)"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranGoliath",
+    "value": "Terran Goliath"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranGoliathDefender",
+    "value": "Goliath"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranHellbat",
+    "value": "Terran Hellbat"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranHellbatDefender",
+    "value": "Hellbat"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranMarine",
+    "value": "Marine"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranRaven",
+    "value": "Terran Raven"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranRavenDefender",
+    "value": "Raven"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/TerranRavenSeekerMissile",
+    "value": "Raven"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergBaneling",
+    "value": "Baneling"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergGuardian",
+    "value": "Guardian"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergHydralisk",
+    "value": "Hydralisk"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergMutalisk",
+    "value": "Mutalisk"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergRoach",
+    "value": "Roach"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergUltralisk",
+    "value": "Ultralisk"
+  },
+  {
+    "op": "add",
+    "path": "/items/unit/name/ZergZergling",
+    "value": "Zergling"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "op": "add",
+    "path": "/meta/mapName",
+    "value": "Blackheart's Bay"
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/fullText/BlackheartsCoreBombardment|BlackheartsCoreBombardment|Hidden",
+    "value": "Feuert eine riesige Kanonenkugel auf einen gegnerischen Helden ab, die Schaden in Höhe von <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5%</c> der maximalen Lebenspunkte verursacht und das Ziel vom Einschlagpunkt wegstößt."
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/name/BlackheartsCoreBombardment|BlackheartsCoreBombardment|Hidden",
+    "value": "Bombardement "
+  },
+  {
+    "op": "add",
+    "path": "/items/ability/shortText/BlackheartsCoreBombardment|BlackheartsCoreBombardment|Hidden",
+    "value": "Fügt Helden in einem großen Bereich Schaden zu und stößt sie zurück."
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchDescription/MostCoinsPaid",
+    "value": "~AwardValue~% der Dublonen abgegeben"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchName/MostCoinsPaid",
+    "value": "Schatzjäger"
+  },
+  {
+    "op": "add",
+    "path": "/items/matchAward/endOfMatchTooltipText/MostCoinsPaid",
+    "value": "~TooltipAmount~ Dublonen abgegeben"
+  }
+]

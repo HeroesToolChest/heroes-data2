@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.1.98785"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.2.1"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/MuradinStormBolt|MuradinStormbolt|Q",
+    "value": "Throw a hammer, dealing <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">110</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> damage to the first enemy hit and Stunning them for <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1.25</c> seconds<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Quest:</c> Basic Attack Heroes affected by Stuns, Slows, or Roots. Slowed or Rooted enemies grant <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> stack. Stunned enemies provide <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> stacks.  If the Hero dies within <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> seconds, gain <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> stacks.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Reward:</c> Upon hitting <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">45</c> targets, Storm Bolt pierces to hit an additional target, and Muradin's Basic Attacks reduce the cooldown of Storm Bolt by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> seconds and restore <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> Mana.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Mythic Reward:</c> Upon hitting <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">160</c> targets, Storm Bolt's range is increased by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c>, width increased by <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c>, and now pierces all targets."
+  }
+]

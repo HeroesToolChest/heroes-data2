@@ -1,0 +1,222 @@
+[
+  {
+    "op": "replace",
+    "path": "/meta/heroesVersion",
+    "value": "2.57.1.98785"
+  },
+  {
+    "op": "replace",
+    "path": "/meta/hdpVersion",
+    "value": "5.2.1"
+  },
+  {
+    "op": "add",
+    "path": "/meta/dataTypes",
+    "value": []
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortal2|MedivhPortal|E",
+    "value": "Tiempo de reutilización: 20\u00A0s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortalInstant|MedivhPortal|E",
+    "value": "Tiempo de reutilización: 20\u00A0s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/cooldownText/MedivhPortalMastery|MedivhPortalPortalMastery|Active",
+    "value": "Tiempo de reutilización: 20\u00A0s"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/MedivhPortal2|MedivhPortal|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 65</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/MedivhPortalInstant|MedivhPortal|E",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 65</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/energyText/MedivhPortalMastery|MedivhPortalPortalMastery|Active",
+    "value": "<s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">Maná: 130</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/MedivhDustOfAppearance|MedivhDustOfAppearance|Active",
+    "value": "Actívalo para aumentar considerablemente el alcance de visión durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0s y revelar a los héroes enemigos que haya en el área durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>\u00A0s. No cancela Forma de cuervo.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Pasiva:</c>Aumenta el alcance de visión en Forma de cuervo un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathDarkHeartRitual|XalatathDarkHeartRitual|W",
+    "value": "Invoca el Corazón Oscuro, que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño por segundo a los enemigos cercanos y dura <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>\u00A0s.<n/><n/>El Corazón Oscuro se desplaza al punto de impacto de Marca de las sombras.<n/><n/>El Corazón Oscuro perseguirá a los objetivos marcados con Marca de las sombras y detonará al impactar para infligir <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos cercanos y <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> más de daño al objetivo marcado."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidConvergence|XalatathVoidConvergence|Heroic",
+    "value": "Tras canalizar durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0s, invocas un portal del Vacío que genera hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> esbirros del Vacío para atacar a los enemigos cercanos.<n/><n/>Puedes tener hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> portales del Vacío activos.<n/><n/>Los enemigos cercanos al portal del Vacío sufren una ralentización del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>.<n/><n/>Los esbirros del Vacío se ven atraídos por los objetivos marcados con Marca de las sombras.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">El portal desaparece tras 20\u00A0s.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Los esbirros del Vacío eligen automáticamente un camino cercano en el que atacar.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Los ataques básicos de los esbirros del Vacío infligen 50</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\"> de daño por golpe.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Los esbirros del Vacío pierden salud durante 12\u00A0s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidEruptionV2|XalatathVoidEruption|Heroic",
+    "value": "Canalizas un poderoso orbe del Vacío que crece con el tiempo hasta alcanzar su tamaño máximo tras <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0s. Vuelve a lanzarlo para disparar antes el orbe.<n/><n/>Los enemigos que entran en contacto con el orbe sufren <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">81</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño y quedan cegados durante <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s>\u00A0s.<n/><n/>Cuando el orbe llega al final de su recorrido, detona una gran explosión que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">320</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño.<n/><n/>Cargar esta habilidad aumenta su daño por contacto hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">146</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> y el daño de su explosión hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">672</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">El daño por contacto se inflige cada 0,25\u00A0s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidStep|XalatathVoidStep|E",
+    "value": "Lánzalo para teletransportarte <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> veces en un patrón triangular.<n/><n/>Cada vez que te teletransportas mientras la habilidad está activa, tu ataque básico inflige un <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">15%</s> más de daño.<n/><n/>Vuelve a activarla para terminar Paso por el Vacío antes de tiempo y permanecer en tu ubicación actual."
+  },
+  {
+    "op": "replace",
+    "path": "/items/ability/fullText/XalatathVoidVolley|XalatathVoidVolley|Trait",
+    "value": "Cada ataque básico contra héroes y cada <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> ataques básicos contra objetivos que no son héroes generan carga. Cuando la carga llegue al máximo, puedes activar Salva del Vacío para desatar una ráfaga de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c> orbes del Vacío en la ubicación seleccionada, cada uno de los cuales inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">72</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño al impactar.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c>Golpea a héroes enemigos con Salva del Vacío para recibir <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> de acumulación por golpe y aumentar el daño de Salva del Vacío un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.75%</c>. Se pierden todas las acumulaciones al morir.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa (20 acumulaciones):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2</c> al alcance de Salva del Vacío<n/>   La pérdida de acumulaciones al morir se reduce a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa (60 acumulaciones):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">-1</c> ataque básico necesario para cargar Salva del Vacío.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa mítica (100 acumulaciones):</c><n/>   <c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+35%</c> de daño de ataque básico y Salva del Vacío.<n/>   Los proyectiles de Salva del Vacío perforan a todos los objetivos.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">La pérdida de acumulaciones nunca hará que el héroe quede por debajo del umbral de recompensa de una misión.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">La carga se reduce completamente si no golpeas a un enemigo con un ataque básico tras </s><c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">\u00A0s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AbathurMasteryNeedlespine|AbathurSymbioteNeedlespineTalent|Q|Level4",
+    "value": "Aumenta el daño y el alcance de Apuñalar del simbionte un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/AnubarakMasteryUnderkingBurrowCharge|AnubarakBurrowChargeUnderkingTalent|E|Level4",
+    "value": "Aumenta el alcance de Carga subterránea un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20%</c> y su daño un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ArtanisBladeDashSolariteReaper|ArtanisBladeDashSolariteReaperTalent|Q|Level7",
+    "value": "Aumenta el daño de la primera carga de Carga con cuchillas un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">175%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GazloweXplodiumChargeBombToss|GazloweXplodiumChargeBombToss|E|Level20",
+    "value": "Se ha reducido el tiempo de reutilización de Carga de explodium <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c>\u00A0s y lanza <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> bombas más al detonar."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/GreymaneCursedBulletGilneanRoulette|GreymaneCursedBulletGilneanRouletteTalent|Heroic|Level20",
+    "value": "El tiempo de reutilización de Bala maldita se reduce <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">24</c>\u00A0s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/LucioPassiveSmoothMoves|LucioPassiveSmoothMoves|Z|Level1",
+    "value": "Mientras Trotamuros está activo, los ataques básicos curan un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30%</c> del daño infligido y restauran <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0.5</c> de maná.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Pasiva:</c> Aumenta la duración de Trotamuros <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>\u00A0s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhDustOfAppearance|MedivhDustOfAppearance|Active|Level4",
+    "value": "Actívalo para aumentar considerablemente el alcance de visión durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c>\u00A0s y revelar a los héroes enemigos que haya en el área durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>\u00A0s. No cancela Forma de cuervo.<n/><n/><c val=\"00ff90\" hlt-name=\"#AbilityPassive\">Pasiva:</c>Aumenta el alcance de visión en Forma de cuervo un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhPortalPortalMastery|MedivhPortalPortalMasteryTalent|Active|Level1",
+    "value": "<c val=\"ff1100\" hlt-name=\"#TooltipRed\">+100%</c> al coste de maná del portal<n/>Puedes colocar manualmente los dos portales.<n/><n/><c val=\"ffff80\" hlt-name=\"#ColorCreamYellow\">Activa tu rasgo para cancelar un portal sin vincular</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/MedivhTransformRavenWindsOfCelerity|MedivhTransformRavenWindsOfCelerity|Z|Level1",
+    "value": "Aumenta la bonificación a la velocidad de movimiento de Forma de cuervo un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> y reduce el tiempo de lanzamiento <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">0,25</c>\u00A0s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosBlastWaveEngulfingFlame|RagnarosBlastWaveEngulfingFlame|E|Level1",
+    "value": "Aumenta un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> el daño de Ola explosiva y un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">15%</c> su radio."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/RagnarosMoltenCoreHeroicDifficulty|RagnarosMoltenCoreHeroicDifficulty|Trait|Level20",
+    "value": "El alcance de Núcleo de magma aumenta un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">100%</c> al principio de su efecto. Además, el tiempo de reutilización de Núcleo de magma se reduce <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">110</c>\u00A0s al utilizarlo en un fuerte o fortaleza destruidos."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ThrallEchooftheElements|ThrallEchooftheElements|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Mata a esbirros o a héroes antes de que transcurran <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0s después de golpearlos con Cadena de relámpagos. Al morir, pierdes <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">5</c> acumulaciones. Las recompensas obtenidas no se pueden perder.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Tras matar a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c> enemigos, el coste de maná de Cadena de relámpagos se reduce de <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">40</c> a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa:</c> Tras matar a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c> enemigos, Cadena de relámpagos obtiene una carga extra.<n/><n/><img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Recompensa mítica:</c> Tras matar a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">125</c> enemigos, Cadena de relámpagos puede alcanzar varias veces al mismo objetivo y también alcanza a <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>\u00A0objetivo adicional por rebote."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathAnchoredCore|XalatathAnchoredCore|W|Level1",
+    "value": "<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+25%</c> de radio de Ritual del Corazón Oscuro<n/><n/>El daño del Corazón Oscuro rebota <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> veces desde el objetivo principal hacia enemigos cercanos e inflige<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathCloakOfShadows|XalatathCloakOfShadows|E|Level1",
+    "value": "Al activar Paso por el Vacío, se obtienen <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c> de armadura antihabilidades durante el teletransporte y un <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">50%</s> de velocidad de movimiento durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0s después."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathDarkBarrier|XalatathDarkBarrier|W|Level4",
+    "value": "Cada vez que el Corazón Oscuro inflige daño a un héroe enemigo, obtienes un escudo equivalente al <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2%</c> de tu salud máxima, hasta un máximo del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathDarkHeartsProtection|XalatathDarkHeartsProtection|W|Level13",
+    "value": "La detonación del Corazón Oscuro silencia a los enemigos a su alcance durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c>\u00A0s.<n/><n/>Los héroes aliados y tú recibís <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">30</c> de armadura antihabilidades mientras estéis dentro del radio del Corazón Oscuro."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathFrozenMark|XalatathFrozenMark|Q|Level4",
+    "value": "<c val=\"00ff90\" hlt-name=\"#TooltipGreen\">+2\u00A0s</c> de duración de Marca de las sombras<n/><n/>La velocidad de movimiento de los héroes marcados con Marca de las sombras se reduce un <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">25%</s>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidConvergence|XalatathVoidConvergence|Heroic|Level10",
+    "value": "Tras canalizar durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0s, invocas un portal del Vacío que genera hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">3</c> esbirros del Vacío para atacar a los enemigos cercanos.<n/><n/>Puedes tener hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1</c> portales del Vacío activos.<n/><n/>Los enemigos cercanos al portal del Vacío sufren una ralentización del <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c>.<n/><n/>Los esbirros del Vacío se ven atraídos por los objetivos marcados con Marca de las sombras.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">El portal desaparece tras 20\u00A0s.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Los esbirros del Vacío eligen automáticamente un camino cercano en el que atacar.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Los ataques básicos de los esbirros del Vacío infligen 50</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\"> de daño por golpe.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Los esbirros del Vacío pierden salud durante 12\u00A0s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathHeroicAbilityVoidEruption|XalatathVoidEruption|Heroic|Level10",
+    "value": "Canalizas un poderoso orbe del Vacío que crece con el tiempo hasta alcanzar su tamaño máximo tras <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c>\u00A0s. Vuelve a lanzarlo para disparar antes el orbe.<n/><n/>Los enemigos que entran en contacto con el orbe sufren <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">81</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño y quedan cegados durante <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">1</s>\u00A0s.<n/><n/>Cuando el orbe llega al final de su recorrido, detona una gran explosión que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">320</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño.<n/><n/>Cargar esta habilidad aumenta su daño por contacto hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">146</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> y el daño de su explosión hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">672</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c>.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">El daño por contacto se inflige cada 0,25\u00A0s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathParadoxLoop|XalatathParadoxLoop|E|Level20",
+    "value": "Tras completar Paso por el Vacío, ejecutas de inmediato un segundo Paso por el Vacío en la dirección opuesta. Los efectos añadidos se vuelven a activar.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">La bonificación al daño de ataque básico se acumula hasta 3 veces.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathPummelingStep|XalatathPummelingStep|E|Level16",
+    "value": "Aumenta la bonificación al daño de ataque básico por cada teletransporte un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">75%</c>."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathRiftInvasion|XalatathRiftInvasion|Heroic|Level20",
+    "value": "El deterioro del portal del Vacío de Convergencia del Vacío ya no es letal, puedes tener hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">2</c> activos, y puede invocar y mantener hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">4</c> esbirros del Vacío."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathToxicMark|XalatathToxicMark|Q|Level7",
+    "value": "La armadura de los héroes marcados con Marca de las sombras se reduce en <s val=\"bfd4fd\" hlt-name=\"StandardTooltipDetails\">10</s>, y reciben daño equivalente al <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">1%</c> de su salud máxima cada segundo."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathUnstableCore|XalatathUnstableCore|W|Level20",
+    "value": "Cuando termina la duración del Corazón Oscuro o este detona, deja tras de sí un charco de llamas del Vacío durante <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">6</c>\u00A0s que inflige hasta <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">450</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos en el área.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Inflige 75</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\"> de daño cada 1\u00A0s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidAcolyte|XalatathVoidAcolyte|E|Level4",
+    "value": "Al completar Paso por el Vacío, se carga por completo Salva del Vacío.<n/><n/>La siguiente Salva del Vacío inflige un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25%</c> más de daño y no cuesta maná."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidAdept|XalatathVoidAdept|Q|Level1",
+    "value": "<img path=\"@UI/StormTalentInTextQuestIcon\" alignment=\"uppermiddle\" color=\"B48E4C\" width=\"20\" height=\"22\"/><c val=\"e4b800\" hlt-name=\"#TooltipQuest\">Misión:</c> Detona el Corazón Oscuro sobre objetivos marcados con Marca de las sombras.<n/><n/>Cada vez que detone con éxito, aumenta permanentemente el daño de Marca de las sombras y Ritual del Corazón Oscuro en <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">20</c>, hasta<c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">10</c> veces."
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/XalatathVoidSummoner|XalatathVoidSummoner|E|Level7",
+    "value": "Al activar Paso por el Vacío, invocas un único esbirro del Vacío en tu posición original. Los esbirros del Vacío se ven atraídos por los héroes marcados con Marca de las sombras.<n/><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Los esbirros del Vacío eligen automáticamente un camino cercano en el que atacar.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Los ataques básicos de los esbirros del Vacío infligen 50</s><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\"> de daño por golpe.</s><n/><s val=\"a7a7a7\" hlt-name=\"TooltipSubscript\">Los esbirros del Vacío pierden salud durante 12\u00A0s.</s>"
+  },
+  {
+    "op": "replace",
+    "path": "/items/talent/fullText/ZagaraMasteryTyrantMaw|ZagaraDevouringMawTyrantMawTalent|Heroic|Level20",
+    "value": "Fauces devoradoras inflige un <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50%</c> más de daño. Cada baja de héroe en la que participes reduce su tiempo de reutilización <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">25</c>\u00A0s."
+  },
+  {
+    "op": "replace",
+    "path": "/items/unit/description/XalatathDarkHeartRitual",
+    "value": "Invoca el Corazón Oscuro, que inflige <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">50</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño por segundo a los enemigos cercanos y dura <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">8</c>\u00A0s.<n/><n/>El Corazón Oscuro se desplaza al punto de impacto de Marca de las sombras.<n/><n/>El Corazón Oscuro perseguirá a los objetivos marcados con Marca de las sombras y detonará al impactar para infligir <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">260</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> de daño a los enemigos cercanos y <c val=\"bfd4fd\" hlt-name=\"#TooltipNumbers\">65</c><c val=\"a7a7a7\" hlt-name=\"#ColorGray\">~~0.04~~</c> más de daño al objetivo marcado."
+  }
+]
